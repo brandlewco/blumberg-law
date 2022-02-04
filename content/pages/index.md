@@ -19,7 +19,9 @@ sections:
     elementId: homepage-hero-1
     colors: colors-d
     backgroundSize: full
-    title: We do fishing differently
+    title: |-
+      More Than 30 Years
+      Of Legal Experience
     subtitle: Fresh. Better. Faster.
     actions:
       - type: Button
