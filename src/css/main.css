@@ -127,7 +127,9 @@
         }
     }
 
-    .markdown-image
+    .markdown-image img {
+        @apply float
+    }
 
     /* Buttons */
     .sb-component-button {
