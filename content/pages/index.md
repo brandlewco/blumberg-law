@@ -21,6 +21,7 @@ sections:
     backgroundSize: full
     title: |-
       More Than 30 Years
+
       Of Legal Experience
     subtitle: Fresh. Better. Faster.
     actions:
