@@ -128,7 +128,7 @@
     }
 
     .markdown-image img {
-        @apply float
+        @apply float-right
     }
 
     /* Buttons */
