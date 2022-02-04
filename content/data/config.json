@@ -4,7 +4,7 @@
     "header": {
         "headerVariant": "variant-b",
         "isSticky": true,
-        "primaryColors": "colors-d",
+        "primaryColors": "colors-b",
         "secondaryColors": "colors-d",
         "title": "Business",
         "isTitleVisible": true,
