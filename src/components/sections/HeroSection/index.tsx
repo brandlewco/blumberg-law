@@ -37,6 +37,7 @@ export default function HeroSection(props) {
                     'flex-col',
                     'justify-center',
                     'relative',
+                    '',
                     bgSize === 'inset' ? 'w-full' : null,
                     bgSize === 'inset' ? mapMaxWidthStyles(sectionWidth) : null,
                     mapMinHeightStyles(sectionHeight),
