@@ -23,7 +23,7 @@ fields:
     default: '/'
     required: true
   - type: list
-    name: Sub-
+    name: subNavigation
     label: Primary navigation links
     items:
       type: model
