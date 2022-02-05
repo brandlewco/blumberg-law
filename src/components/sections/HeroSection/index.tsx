@@ -107,7 +107,7 @@ function heroBody(props) {
                     options={{ forceBlock: true, forceWrapper: true }}
                      className={classNames('h1', styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
                     {props.title}
-                </h2>
+                </Markdown>
             )}
             {props.subtitle && (
                 <p
