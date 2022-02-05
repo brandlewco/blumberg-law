@@ -194,8 +194,8 @@ function listOfLinks(links, inMobileMenu = false) {
 
 function listOfLinks(links, inMobileMenu = false) {
     return links.map((link, index) => {
-        const defaultStyle = link.type === 'Link' ? 'link' : 'secondary';
-        const style = link.style || defaultStyle;
+        // const defaultStyle = link.type === 'Link' ? 'link' : 'secondary';
+        // const style = link.style || defaultStyle;
         const linkChild = link.linkChild || [];
         return (
             <li key={index}>
