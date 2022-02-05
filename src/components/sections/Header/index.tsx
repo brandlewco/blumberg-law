@@ -234,7 +234,7 @@ function listOfLinks(links, inMobileMenu = false) {
                             </ul>
                         }
                     </>
-                : ) }
+                )}
             </li>
             // </Menu>
         );
