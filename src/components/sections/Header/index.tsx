@@ -235,6 +235,18 @@ function listOfLinks(links, inMobileMenu = false) {
                         }
                     </>
                 )}
+                                {linkChild.length > 0 && (
+                    <>
+                        <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
+                        {open &&
+                            <ul>
+                                {linkChild.map((link, index) => (
+                                    <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
+                                ))}
+                            </ul>
+                        }
+                    </>
+                )}
             </li>
             // </Menu>
         );
