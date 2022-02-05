@@ -224,7 +224,7 @@ function listOfLinks(links, inMobileMenu = false) {
             // <Menu>
             <li key={index}>
                 {linkChild.length > 0 && (
-                    <>
+                    <div onMouseEnter={onMouseEnter} onMouseLeave={onMouseLeave}>
                         <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
                         {open &&
                             <ul>
