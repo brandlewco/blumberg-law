@@ -215,7 +215,8 @@ function listOfLinks(links, inMobileMenu = false) {
         // const defaultStyle = link.type === 'Link' ? 'link' : 'secondary';
         // const style = link.style || defaultStyle;
         const linkChild = link.child || [];
-        return (<>
+        return (
+        <>
                 {linkChild.length > 0 && (
                                 <li key={index}>
 
