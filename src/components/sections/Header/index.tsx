@@ -223,7 +223,7 @@ function listOfLinks(links, inMobileMenu = false) {
         return (
             // <Menu>
             <li key={index}>
-                if (linkChild.length > 0){ 
+                {linkChild.length > 0 && (
                     <>
                         <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
                         {open &&
@@ -234,9 +234,7 @@ function listOfLinks(links, inMobileMenu = false) {
                             </ul>
                         }
                     </>
-                }else{
-                    
-                }
+                )}
             </li>
             // </Menu>
         );
