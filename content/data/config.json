@@ -38,6 +38,15 @@
                         "icon": "arrowRight",
                         "iconPosition": "right",
                         "elementId": ""
+                    },
+                    {
+                        "label": "Learn more",
+                        "altText": "",
+                        "url": "/",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
                     }
                 ]
             },
