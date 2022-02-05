@@ -216,6 +216,7 @@ function listOfLinks(links, inMobileMenu = false) {
         // const style = link.style || defaultStyle;
         const linkChild = link.child || [];
         return (
+            <>
                 {linkChild.length > 0 && (
                     <li key={index}>
                         <div onMouseEnter={onMouseEnter} onMouseLeave={onMouseLeave} onClick={handleClick}>
