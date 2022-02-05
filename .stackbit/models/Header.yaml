@@ -115,7 +115,7 @@ fields:
       models:
         - Button
         - Link
-        - S
+        - SubNavigation
     default:
       - type: Link
         label: Home
