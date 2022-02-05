@@ -1,5 +1,5 @@
 type: object
-name: Link
+name: LinkChild
 label: Link
 labelField: label
 fieldGroups:
