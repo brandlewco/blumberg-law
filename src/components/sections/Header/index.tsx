@@ -78,7 +78,6 @@ function headerVariantB(props) {
                 >
                     {listOfLinks(primaryLinks)}
                 </ul>
-                <></>
             )}
             {secondaryLinks.length > 0 && (
                 <ul className="hidden lg:flex lg:items-center ml-auto space-x-8" data-sb-field-path=".secondaryLinks">
