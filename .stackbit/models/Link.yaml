@@ -22,7 +22,7 @@ fields:
     label: URL
     default: '/'
     required: true
-    - type: list
+  - type: list
     name: primaryLinks
     label: Primary navigation links
     items:
