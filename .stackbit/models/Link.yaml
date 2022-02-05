@@ -28,7 +28,7 @@ fields:
     items:
       type: model
       models:
-        - linkChild
+        - LinkChild
     default:
       - type: Link
         label: Home
