@@ -214,7 +214,6 @@ function listOfLinks(links, inMobileMenu = false) {
                         ))}
                     </Menu.Items>
                     </ul>
-                    </>
                 )}
             </li>
             </Menu>
