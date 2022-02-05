@@ -196,27 +196,27 @@ function siteLogoLink(props) {
 
 function listOfLinks(links, inMobileMenu = false) {
     return links.map((link, index) => {
-     const [open, setOpen] = useState(false);
-      
-      const [mobileMenuIsShown, setMobileMenuIsShown] = useState(false);
-    
-      const handleClick = () => {setOpen(!open)};
-    
-      const onMouseEnter = () =>{
-        if (window.innerWidth < 960) {
-          setOpen(false);
-        } else {
-          setOpen(true);
-        }
-      };
-    
-      const onMouseLeave = () =>{
-        if (window.innerWidth < 960){
-          setOpen(false);
-        } else {
-          setOpen(false);
-        }
-      };
+        const [open, setOpen] = useState(false);
+
+        const [mobileMenuIsShown, setMobileMenuIsShown] = useState(false);
+
+        const handleClick = () => { setOpen(!open) };
+
+        const onMouseEnter = () => {
+            if (window.innerWidth < 960) {
+                setOpen(false);
+            } else {
+                setOpen(true);
+            }
+        };
+
+        const onMouseLeave = () => {
+            if (window.innerWidth < 960) {
+                setOpen(false);
+            } else {
+                setOpen(false);
+            }
+        };
         // const defaultStyle = link.type === 'Link' ? 'link' : 'secondary';
         // const style = link.style || defaultStyle;
         const linkChild = link.child || [];
@@ -225,16 +225,16 @@ function listOfLinks(links, inMobileMenu = false) {
             <li key={index}>
                 {linkChild.length > 0 && (
                     <>
-                    <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
-                    {open && 
-                    <ul>
-                        {linkChild.map((link, index) => (
-                            <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
-                        ))}
-                    </ul>
-                    }
+                        <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
+                        {open &&
+                            <ul>
+                                {linkChild.map((link, index) => (
+                                    <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
+                                ))}
+                            </ul>
+                        }
                     </>
-                ) }else{ ()}
+                )}else{()}
             </li>
             // </Menu>
         );
