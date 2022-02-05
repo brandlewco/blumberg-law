@@ -233,7 +233,6 @@ function listOfLinks(links, inMobileMenu = false) {
                         <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
                     </li>
                 )}
-        </>
         );
     });
 }
