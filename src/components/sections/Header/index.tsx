@@ -222,7 +222,7 @@ function listOfLinks(links, inMobileMenu = false) {
                     <>
                         <div onMouseEnter={onMouseEnter} onMouseLeave={onMouseLeave}><Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} /></div>
                         {open &&
-                            <ul className>
+                            <ul className=>
                                 {linkChild.map((link, index) => (
                                     <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
                                 ))}
