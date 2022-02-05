@@ -196,6 +196,27 @@ function siteLogoLink(props) {
 
 function listOfLinks(links, inMobileMenu = false) {
     return links.map((link, index) => {
+              const [open, setOpen] = useState(false);
+      
+      const [mobileMenuIsShown, setMobileMenuIsShown] = useState(false);
+    
+      const handleClick = () => {setOpen(!open)};
+    
+      const onMouseEnter = () =>{
+        if (window.innerWidth < 960) {
+          setOpen(false);
+        } else {
+          setOpen(true);
+        }
+      };
+    
+      const onMouseLeave = () =>{
+        if (window.innerWidth < 960){
+          setOpen(false);
+        } else {
+          setOpen(false);
+        }
+      };
         // const defaultStyle = link.type === 'Link' ? 'link' : 'secondary';
         // const style = link.style || defaultStyle;
         const linkChild = link.child || [];
