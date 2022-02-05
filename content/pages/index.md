@@ -7,7 +7,7 @@ sections:
     colors: colors-e
     backgroundSize: full
     title: |-
-      More Than 30 Years 
+      More Than 30 Years
       Of Legal Experience
     subtitle: >-
       If you have been charged with a criminal offense in the state of
