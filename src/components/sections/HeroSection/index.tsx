@@ -103,6 +103,8 @@ function heroBody(props) {
     return (
         <div>
             {props.title && (
+                <Markdown
+                    options={{ forceBlock: true, forceWrapper: true }}
                 <h2 className={classNames('h1', styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
                     {props.title}
                 </h2>
