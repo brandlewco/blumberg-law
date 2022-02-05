@@ -78,6 +78,34 @@ function headerVariantB(props) {
                 >
                     {listOfLinks(primaryLinks)}
                 </ul>
+                    <Menu>
+      <Menu.Button>More</Menu.Button>
+      <Menu.Items>
+        <Menu.Item>
+          {({ active }) => (
+            <a
+              className={`${active && 'bg-blue-500'}`}
+              href="/account-settings"
+            >
+              Account settings
+            </a>
+          )}
+        </Menu.Item>
+        <Menu.Item>
+          {({ active }) => (
+            <a
+              className={`${active && 'bg-blue-500'}`}
+              href="/account-settings"
+            >
+              Documentation
+            </a>
+          )}
+        </Menu.Item>
+        <Menu.Item disabled>
+          <span className="opacity-75">Invite a friend (coming soon!)</span>
+        </Menu.Item>
+      </Menu.Items>
+    </Menu>
             )}
             {secondaryLinks.length > 0 && (
                 <ul className="hidden lg:flex lg:items-center ml-auto space-x-8" data-sb-field-path=".secondaryLinks">
