@@ -111,7 +111,7 @@ function heroBody(props) {
             )}
             {props.subtitle && (
                 <Markdown
-                    options={{ forceWrapper: true, wrapper: 'h2'}}
+                    options={{ forceWrapper: true, forceBlock: true}}
                     className={classNames('text-xl', 'sm:text-2xl', styles.subtitle ? mapStyles(styles.subtitle) : null, { 'mt-4': props.title })}
                     data-sb-field-path=".subtitle"
                 >
