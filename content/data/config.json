@@ -19,7 +19,18 @@
                 "type": "Link",
                 "label": "About",
                 "url": "/about",
-                "altText": ""
+                "altText": "",
+                "child": [
+                    {
+                        "label": "Learn more",
+                        "altText": "",
+                        "url": "/",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
+                    }
+                ]
             },
             {
                 "type": "Link",
