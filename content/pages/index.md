@@ -41,7 +41,7 @@ sections:
         alignItems: center
         justifyContent: flex-start
         flexDirection: row
-        borderRadius: full
+        borderRadius: none
       title:
         textAlign: left
       subtitle:
