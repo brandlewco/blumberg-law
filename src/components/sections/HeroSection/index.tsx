@@ -110,12 +110,12 @@ function heroBody(props) {
                 </Markdown>
             )}
             {props.subtitle && (
-                <p
+                <Markdown
                     className={classNames('text-xl', 'sm:text-2xl', styles.subtitle ? mapStyles(styles.subtitle) : null, { 'mt-4': props.title })}
                     data-sb-field-path=".subtitle"
                 >
                     {props.subtitle}
-                </p>
+                </Markdown>
             )}
             {props.text && (
                 <Markdown
