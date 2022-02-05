@@ -217,7 +217,6 @@ function listOfLinks(links, inMobileMenu = false) {
         const linkChild = link.child || [];
         return (
             // <Menu>
-            <li key={index}>
                 {linkChild.length > 0 && (
                                 <li key={index}>
 
@@ -230,9 +229,11 @@ function listOfLinks(links, inMobileMenu = false) {
                     <li/>
                 )}
                 {linkChild.length == 0 && (
+                                <li key={index}>
+
                         <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
-                )}
-            </li>
+                
+                        )}
             // </Menu>
         );
     });
