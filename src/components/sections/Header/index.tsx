@@ -196,7 +196,7 @@ function listOfLinks(links, inMobileMenu = false) {
     return links.map((link, index) => {
         // const defaultStyle = link.type === 'Link' ? 'link' : 'secondary';
         // const style = link.style || defaultStyle;
-        const linkChild = link.linkChild || [];
+        const linkChild = link.LinkChild || [];
         return (
             <li key={index}>
                 <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
