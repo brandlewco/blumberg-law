@@ -196,7 +196,7 @@ function siteLogoLink(props) {
 
 function listOfLinks(links, inMobileMenu = false) {
     return links.map((link, index) => {
-        const secondaryColors = props.secondaryColors || 'colors-d';
+        const secondaryColors =  'colors-d';
         const [open, setOpen] = useState(false);
         const handleClick = () => { setOpen(!open) };
         const onMouseEnter = () => {
