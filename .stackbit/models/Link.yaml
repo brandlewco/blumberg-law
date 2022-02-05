@@ -24,7 +24,7 @@ fields:
     required: true
   - type: list
     name: subNavigation
-    label: Primary navigation links
+    label: Sub-Navigation
     items:
       type: model
       models:
