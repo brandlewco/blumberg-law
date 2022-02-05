@@ -184,13 +184,13 @@ function siteLogoLink(props) {
     );
 }
 
-function listOfLinks(links, inMobileMenu = false) {
-    return links.map((link, index) => (
-        <li key={index}>
-            <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
-        </li>
-    ));
-}
+// function listOfLinks(links, inMobileMenu = false) {
+//     return links.map((link, index) => (
+//         <li key={index}>
+//             <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
+//         </li>
+//     ));
+// }
 
 function listOfLinks(links, inMobileMenu = false) {
     return links.map((link, index) => {
