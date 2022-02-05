@@ -202,9 +202,8 @@ function listOfLinks(links, inMobileMenu = false) {
         return (
             <Menu>
             <li key={index}>
-                {linkChild.length > 0 && (
-                    <>
                 <Menu.Button><Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} /></Menu.Button>
+                {/* {linkChild.length > 0 && ( */}
                     <ul>
                     <Menu.Items>
                         {linkChild.map((link, index) => (
@@ -212,9 +211,8 @@ function listOfLinks(links, inMobileMenu = false) {
                         ))}
                     </Menu.Items>
                     </ul>
-                )}
+                {/* )} */}
             </li>
-            </>
             </Menu>
         );
     });
