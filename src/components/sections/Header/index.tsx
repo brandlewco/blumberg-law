@@ -199,11 +199,11 @@ function listOfLinks(links, inMobileMenu = false) {
         const linkChild = link.linkChild || [];
         return (
             <li key={index}>
-                <Action {...link} className={classNames(inMobileMenu && style !== 'link' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
+            <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
                 {linkChild.length > 0 && (
                     <ul>
                         {linkChild.map((link, index) => (
-                            <Action {...link} className={classNames(inMobileMenu && style !== 'link' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
+            <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
                         ))}
                     </ul>
                 )}
