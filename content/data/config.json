@@ -53,7 +53,7 @@
         },
         "logo": {
             "url": "/images/blumberg-law-logo-main.png",
-            "altText": "altText of the image",
+            "altText": "Blumber Law Arizona Logo",
             "caption": "Caption of the image",
             "elementId": "",
             "type": "ImageBlock"
