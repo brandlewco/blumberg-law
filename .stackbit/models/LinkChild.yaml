@@ -1,8 +1,4 @@
 type: object
-name: LinkChild
-label: Link
-labelField: label
-type: object
 name: SubNavigation
 label: Sub-navigation
 labelField: label
