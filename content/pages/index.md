@@ -39,7 +39,7 @@ sections:
           - pr-12
           - pl-12
         alignItems: center
-        justifyContent: center
+        justifyContent: flex-start
         flexDirection: row
       title:
         textAlign: left
