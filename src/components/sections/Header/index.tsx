@@ -236,7 +236,6 @@ function listOfLinks(links, inMobileMenu = false) {
                     </>
                 )}
                 {linkChild.length == 0 && (
-                    <>
                         <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
                     </>
                 )}
