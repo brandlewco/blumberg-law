@@ -1,0 +1,25 @@
+type: object
+name: SubNavigation
+label: Sub-navigation
+labelField: label
+fields:
+  - type: string
+    name: label
+    required: true
+    label: Label
+    default: Resources
+  - type: list
+    name: subNavigationLinks
+    label: Sub navigation links
+    items:
+      type: model
+      models:
+        - Button
+        - Link
+    default:
+      - type: Link
+        label: Blog
+        url: /
+      - type: Link
+        label: Documentation
+        url: /
