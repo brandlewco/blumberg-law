@@ -204,11 +204,9 @@ function listOfLinks(links, inMobileMenu = false) {
                 alert('hover');
             } else {
                 setOpen(true);
-                                alert('hover');
-
+                alert('hover');
             }
         };
-
         const onMouseLeave = () => {
             if (window.innerWidth < 960) {
                 setOpen(false);
