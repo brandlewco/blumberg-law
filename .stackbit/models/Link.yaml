@@ -23,7 +23,7 @@ fields:
     default: '/'
     required: true
   - type: list
-    name: subNavigation
+    name: linkChild
     label: Sub-Navigation
     items:
       type: model
