@@ -198,7 +198,7 @@ function listOfLinks(links, inMobileMenu = false) {
     return links.map((link, index) => {
         const [open, setOpen] = useState(false);
 
-        const [mobileMenuIsShown, setMobileMenuIsShown] = useState(false);
+        // const [mobileMenuIsShown, setMobileMenuIsShown] = useState(false);
 
         const handleClick = () => { setOpen(!open) };
 
