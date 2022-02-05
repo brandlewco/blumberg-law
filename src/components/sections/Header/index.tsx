@@ -224,7 +224,7 @@ function listOfLinks(links, inMobileMenu = false) {
             // <Menu>
             <li key={index}>
                 {linkChild.length > 0 && (
-                    <div onMouseEnter={onMouseEnter} onMouseLeave={onMouseLeave}>
+                    <>
                         <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
                         {open &&
                             <ul>
@@ -233,25 +233,25 @@ function listOfLinks(links, inMobileMenu = false) {
                                 ))}
                             </ul>
                         }
-                        <div />
-                        )}
+                    </>
+                )}
                 {linkChild.length == 0 && (
-                            <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
-                        )}
+                        <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
+                )}
             </li>
-                    // </Menu>
-                );
-            });
-        }
-        
+            // </Menu>
+        );
+    });
+}
+
 function mapMaxWidthStyles(width) {
     switch (width) {
         case 'narrow':
-                    return 'max-w-7xl';
-                case 'wide':
-                    return 'max-w-screen-2xl';
-                case 'full':
-                    return 'max-w-full';
-            }
-            return null;
-        }
+            return 'max-w-7xl';
+        case 'wide':
+            return 'max-w-screen-2xl';
+        case 'full':
+            return 'max-w-full';
+    }
+    return null;
+}
