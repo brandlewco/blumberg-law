@@ -200,9 +200,10 @@ function listOfLinks(links, inMobileMenu = false) {
         // const style = link.style || defaultStyle;
         const linkChild = link.child || [];
         return (
+            <Menu>
             <li key={index}>
                 {linkChild.length > 0 && (
-                <Menu>  
+                    <>
                 <Menu.Button><Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} /></Menu.Button>
                     <ul>
                     <Menu.Items>
@@ -211,9 +212,10 @@ function listOfLinks(links, inMobileMenu = false) {
                         ))}
                     </Menu.Items>
                     </ul>
-                </Menu>
-            )}
             </li>
+            </>
+            )}
+            </Menu>
         );
     });
 }
