@@ -28,8 +28,7 @@ fields:
     items:
       type: model
       models:
-        - Button
-        - Link
+        - linkChild
     default:
       - type: Link
         label: Home
