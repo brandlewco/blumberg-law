@@ -16,6 +16,7 @@
         "analyze:browser": "BUNDLE_ANALYZE=browser next build"
     },
     "dependencies": {
+        "@headlessui/react": "^1.4.3",
         "axios": "^0.24.0",
         "classnames": "^2.3.1",
         "dayjs": "^1.10.7",
