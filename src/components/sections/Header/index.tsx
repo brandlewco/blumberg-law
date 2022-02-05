@@ -200,7 +200,6 @@ function listOfLinks(links, inMobileMenu = false) {
         // const style = link.style || defaultStyle;
         const linkChild = link.child || [];
         return (
-            <Menu>
             <li key={index}>
                 {linkChild.length > 0 && (
                     <>
