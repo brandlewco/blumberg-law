@@ -209,9 +209,6 @@ function listOfLinks(links, inMobileMenu = false) {
                         ))}
                     </ul>
                 )}
-                {/* {linkChild.length == 0 && (
-                    <Action {...link} className={classNames(inMobileMenu && style !== 'link' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
-                )} */}
             </li>
         );
     });
