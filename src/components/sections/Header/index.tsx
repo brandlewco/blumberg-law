@@ -200,7 +200,7 @@ function listOfLinks(links, inMobileMenu = false) {
         const handleClick = () => { setOpen(!open) };
         const onMouseEnter = () => {
             if (window.innerWidth < 960) {
-                setOpen(false);
+                setOpen(true);
                 alert('hover');
             } else {
                 setOpen(true);
