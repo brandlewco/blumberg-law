@@ -208,6 +208,8 @@ function listOfLinks(links, inMobileMenu = false) {
                 alert('hover');
             } else {
                 setOpen(true);
+                                alert('hover');
+
             }
         };
 
