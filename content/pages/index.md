@@ -22,7 +22,7 @@ sections:
         showIcon: true
     backgroundImage:
       type: BackgroundImage
-      url: /images/hero.webp
+      url: /images/pexels-august-de-richelieu-4427614.jpg
       backgroundSize: cover
       backgroundPosition: center
       opacity: 85
