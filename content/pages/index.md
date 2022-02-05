@@ -25,7 +25,7 @@ sections:
       url: /images/pexels-august-de-richelieu-4427614.jpg
       backgroundSize: cover
       backgroundPosition: center
-      opacity: 85
+      opacity: 100
     styles:
       self:
         height: auto
