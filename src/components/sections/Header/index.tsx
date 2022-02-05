@@ -216,7 +216,7 @@ function listOfLinks(links, inMobileMenu = false) {
         // const style = link.style || defaultStyle;
         const linkChild = link.child || [];
         return (
-            <div></div>
+            <div>
                 {linkChild.length > 0 && (
                     <li key={index}>
                         <div onMouseEnter={onMouseEnter} onMouseLeave={onMouseLeave} onClick={handleClick}>
@@ -234,6 +234,7 @@ function listOfLinks(links, inMobileMenu = false) {
                         <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
                     </li>
                 )}
+                </div>
         );
     });
 }
