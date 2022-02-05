@@ -201,7 +201,6 @@ function listOfLinks(links, inMobileMenu = false) {
             <li key={index}>
                 <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
                 {linkChild.length > 0 && (
-                    tet
                     <ul>
                         {linkChild.map((link, index) => (
                             <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
