@@ -2,50 +2,6 @@
 title: Home
 layout: PageLayout
 sections:
-  - elementId: ''
-    colors: colors-d
-    backgroundSize: full
-    title: We do fishing differently
-    subtitle: Fresh. Better. Faster.
-    text: ''
-    actions:
-      - type: Button
-        label: Join adventure
-        showIcon: true
-        icon: arrowRight
-        style: primary
-        url: /
-    media:
-      type: ImageBlock
-      url: /images/hero-2.png
-      altText: Hero image
-    backgroundImage: null
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-e
