@@ -102,7 +102,7 @@ fields:
     name: logo
     label: Logo
     models: [ImageBlock]
-      - type: style
+    - type: style
     name: styles
     styles:
       self:
