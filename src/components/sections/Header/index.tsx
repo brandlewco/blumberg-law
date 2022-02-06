@@ -198,7 +198,6 @@ function siteLogoLink(props) {
 function listOfLinks(links, inMobileMenu = false) {
     return links.map((link, index) => {
         const secondaryColors =  'colors-d';
-        const headerStyles = link.styles?.self || {};
         const [open, setOpen] = useState(false);
         const handleClick = () => { setOpen(!open) };
         const onMouseEnter = () => {
@@ -223,7 +222,7 @@ function listOfLinks(links, inMobileMenu = false) {
                 {linkChild.length > 0 && (
                     <li key={index} onMouseEnter={onMouseEnter} onMouseLeave={onMouseLeave} onClick={handleClick} className="relative block">
                         <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
-                        <ul className={classNames(secondaryColors,'absolute','top-5','flex','flex-col', open ? 'block' : 'hidden', headerStyles.padding || 'py-5 px-4')}>
+                        <ul className={classNames(secondaryColors,'absolute','top-5','flex','flex-col', open ? 'block' : 'hidden')}>
                             {linkChild.map((link, index) => (
                                 <Action {...link} className={""} key={index} data-sb-field-path={`.${index}`} />
                             ))}
