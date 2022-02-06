@@ -48,7 +48,14 @@
                         "iconPosition": "right",
                         "elementId": ""
                     }
-                ]
+                ],
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-5"
+                        ]
+                    }
+                }
             },
             {
                 "type": "Link",
