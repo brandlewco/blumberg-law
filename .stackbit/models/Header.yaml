@@ -102,14 +102,6 @@ fields:
     name: logo
     label: Logo
     models: [ImageBlock]
-    - type: style
-      name: styles
-      styles:
-        self:
-          padding: ['tw0:36']
-      default:
-        self:
-          padding: ['pt-5', 'pb-5', 'pl-4', 'pr-4']
     default:
       type: ImageBlock
       url: 'https://assets.stackbit.com/components/images/default/default-image.png'
