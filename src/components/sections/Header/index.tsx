@@ -97,7 +97,7 @@ function headerVariantC(props) {
             {(props.logo || (props.title && props.isTitleVisible)) && <div className="mr-8">{siteLogoLink(props)}</div>}
             {primaryLinks.length > 0 && (
                 <ul className="hidden lg:flex lg:items-center ml-auto space-x-8" data-sb-field-path=".primaryLinks">
-                    {listOfLinks(props, primaryLinks)}
+                    {listOfLinks(primaryLinks)}
                 </ul>
             )}
             {secondaryLinks.length > 0 && (
