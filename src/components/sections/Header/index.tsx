@@ -74,7 +74,7 @@ function headerVariantB(props) {
             {primaryLinks.length > 0 && (
                 <ul
                     // className="hidden lg:flex lg:items-center space-x-8 absolute left-1/2 top-1/2 transform -translate-y-1/2 -translate-x-1/2 w-auto"
-                    className="hidden lg:flex lg:items-center space-x-8 w-auto"
+                    className="self-center hidden lg:flex lg:items-center space-x-8 w-auto"
                     data-sb-field-path=".primaryLinks"
                 >
                     {listOfLinks(primaryLinks)}
