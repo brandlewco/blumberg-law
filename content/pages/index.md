@@ -37,7 +37,7 @@ sections:
           - pt-20
           - pb-96
           - pr-12
-          - pl-12
+          - pl-0
         alignItems: flex-end
         justifyContent: flex-start
         flexDirection: row
