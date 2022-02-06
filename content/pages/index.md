@@ -38,7 +38,7 @@ sections:
           - pb-96
           - pr-12
           - pl-12
-        alignItems: flex-start
+        alignItems: center
         justifyContent: flex-start
         flexDirection: row
         borderRadius: none
