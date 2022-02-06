@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-e
-    backgroundSize: inset
+    backgroundSize: full
     title: |-
       More Than 30 Years  
       Of Legal Experience
