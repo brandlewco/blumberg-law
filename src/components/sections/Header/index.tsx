@@ -100,7 +100,7 @@ function headerVariantC(props) {
                 <ul className="hidden lg:flex lg:items-center ml-auto space-x-8" data-sb-field-path=".primaryLinks">
                     {listOfLinks(primaryLinks)}
                 </ul>
-            )}
+            )}className={classNames(headerStyles.padding || 'py-5 px-4')}
             {secondaryLinks.length > 0 && (
                 <ul
                     className={classNames('hidden', 'lg:flex', 'lg:items-center', 'space-x-8', primaryLinks.length > 0 ? 'ml-8' : 'ml-auto')}
