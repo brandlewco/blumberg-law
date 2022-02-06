@@ -170,7 +170,7 @@ sections:
           - pb-72
           - pr-4
           - pl-4
-        justifyContent: flex-start
+        justifyContent: center
       title:
         textAlign: left
       subtitle:
