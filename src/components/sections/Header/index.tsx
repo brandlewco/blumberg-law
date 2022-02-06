@@ -197,6 +197,7 @@ function siteLogoLink(props) {
 function listOfLinks(props, links, inMobileMenu = false) {
     return links.map((props, link, index) => {
         const secondaryColors =  'colors-d';
+        const paddings = props.styles?.self || {};
         const [open, setOpen] = useState(false);
         const handleClick = () => { setOpen(!open) };
         const onMouseEnter = () => {
@@ -223,7 +224,7 @@ function listOfLinks(props, links, inMobileMenu = false) {
                         <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
                         <ul className={classNames(secondaryColors,'absolute','top-5','flex','flex-col', open ? 'block' : 'hidden')}>
                             {linkChild.map((link, index) => (
-                                {props.styles?.self}
+                                
                                 <Action {...link} className={""} key={index} data-sb-field-path={`.${index}`} />
                             ))}
                         </ul>
