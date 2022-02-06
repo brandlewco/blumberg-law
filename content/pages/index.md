@@ -23,6 +23,12 @@ sections:
         url: /images/gallery-4.jpg
         altText: Image four
         caption: Image four caption
+      - url: >-
+          https://assets.stackbit.com/components/images/default/default-image.png
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+        type: ImageBlock
     spacing: 16
     columns: 3
     aspectRatio: '16:9'
