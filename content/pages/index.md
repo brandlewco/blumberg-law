@@ -147,6 +147,7 @@ sections:
       actions:
         justifyContent: center
     type: FeaturedPeopleSection
+    variant: variant-b
   - type: TextSection
     colors: colors-e
     variant: variant-a
