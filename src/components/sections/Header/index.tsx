@@ -31,18 +31,18 @@ export default function Header(props) {
     );
 }
 
-function headerVariants(props) {
-    const headerVariant = props.headerVariant || 'variant-a';
-    switch (headerVariant) {
-        case 'variant-a':
-            return headerVariantA(props);
-        case 'variant-b':
-            return headerVariantB(props);
-        case 'variant-c':
-            return headerVariantC(props);
-    }
-    return null;
-}
+// function headerVariants(props) {
+//     const headerVariant = props.headerVariant || 'variant-a';
+//     switch (headerVariant) {
+//         case 'variant-a':
+//             return headerVariantA(props);
+//         case 'variant-b':
+//             return headerVariantB(props);
+//         case 'variant-c':
+//             return headerVariantC(props);
+//     }
+//     return null;
+// }
 
 // function headerVariantA(props) {
 //     const primaryLinks = props.primaryLinks || [];
