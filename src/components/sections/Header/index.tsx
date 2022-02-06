@@ -215,7 +215,7 @@ function listOfLinks(links, inMobileMenu = false) {
             }
         };
         // const defaultStyle = link.type === 'Link' ? 'link' : 'secondary';
-        const style = link.style || defaultStyle;
+        const style = link.style;
         const linkChild = link.child || [];
         return (
             <>
