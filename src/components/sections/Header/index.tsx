@@ -197,7 +197,7 @@ function siteLogoLink(props) {
 function listOfLinks(links, inMobileMenu = false) {
     return links.map((link, index) => {
         const secondaryColors =  'colors-d';
-        const headerStyles = link.styles?.padding || {};
+        const headerStyles = link.styles?.self.padding || {};
         const [open, setOpen] = useState(false);
         const handleClick = () => { setOpen(!open) };
         const onMouseEnter = () => {
