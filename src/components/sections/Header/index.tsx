@@ -194,7 +194,7 @@ function siteLogoLink(props) {
 //     ));
 // }
 
-function listOfLinks(links, inMobileMenu = false) {
+function listOfLinks(props, links, inMobileMenu = false) {
     return links.map((props, link, index) => {
         const secondaryColors =  'colors-d';
         const paddings = link.styles?.self || {};
