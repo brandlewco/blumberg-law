@@ -230,7 +230,7 @@ function listOfLinks(links, inMobileMenu = false) {
                     </li>
                 )}
                 {linkChild.length == 0 && (
-                    <li key={index} className={classNames(headerStyles, 'relative', 'block')}>
+                    <li key={index} className={classNames('relative', 'block')}>
                         <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
                     </li>
                 )}
