@@ -89,29 +89,29 @@ function headerVariantB(props) {
     );
 }
 
-function headerVariantC(props) {
-    const primaryLinks = props.primaryLinks || [];
-    const secondaryLinks = props.secondaryLinks || [];
-    return (
-        <div className="flex items-center relative">
-            {(props.logo || (props.title && props.isTitleVisible)) && <div className="mr-8">{siteLogoLink(props)}</div>}
-            {primaryLinks.length > 0 && (
-                <ul className="hidden lg:flex lg:items-center ml-auto space-x-8" data-sb-field-path=".primaryLinks">
-                    {listOfLinks(props, primaryLinks)}
-                </ul>
-            )}
-            {secondaryLinks.length > 0 && (
-                <ul
-                    className={classNames('hidden', 'lg:flex', 'lg:items-center', 'space-x-8', primaryLinks.length > 0 ? 'ml-8' : 'ml-auto')}
-                    data-sb-field-path=".secondaryLinks"
-                >
-                    {listOfLinks(secondaryLinks)}
-                </ul>
-            )}
-            {(primaryLinks.length > 0 || secondaryLinks.length > 0) && <MobileMenu {...props} />}
-        </div>
-    );
-}
+// function headerVariantC(props) {
+//     const primaryLinks = props.primaryLinks || [];
+//     const secondaryLinks = props.secondaryLinks || [];
+//     return (
+//         <div className="flex items-center relative">
+//             {(props.logo || (props.title && props.isTitleVisible)) && <div className="mr-8">{siteLogoLink(props)}</div>}
+//             {primaryLinks.length > 0 && (
+//                 <ul className="hidden lg:flex lg:items-center ml-auto space-x-8" data-sb-field-path=".primaryLinks">
+//                     {listOfLinks(props, primaryLinks)}
+//                 </ul>
+//             )}
+//             {secondaryLinks.length > 0 && (
+//                 <ul
+//                     className={classNames('hidden', 'lg:flex', 'lg:items-center', 'space-x-8', primaryLinks.length > 0 ? 'ml-8' : 'ml-auto')}
+//                     data-sb-field-path=".secondaryLinks"
+//                 >
+//                     {listOfLinks(secondaryLinks)}
+//                 </ul>
+//             )}
+//             {(primaryLinks.length > 0 || secondaryLinks.length > 0) && <MobileMenu {...props} />}
+//         </div>
+//     );
+// }
 
 function MobileMenu(props) {
     const secondaryColors = props.secondaryColors || 'colors-d';
