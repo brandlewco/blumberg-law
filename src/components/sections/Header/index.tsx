@@ -19,6 +19,7 @@ export default function Header(props) {
             className={classNames('sb-component', 'sb-component-header', primaryColors, props.isSticky ? 'sticky top-0 z-10' : 'relative')}
             data-sb-field-path={`${props.annotationPrefix}:header`}
         >
+            <div>
             {/* <div className={classNames(headerStyles.padding || 'py-5 px-4')}> */}
                 <div className={classNames('mx-auto', mapMaxWidthStyles(headerWidth))}>
                     <Link href="#main" className="sr-only">
