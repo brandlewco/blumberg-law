@@ -69,7 +69,7 @@ function headerVariantB(props) {
     const primaryLinks = props.primaryLinks || [];
     const secondaryLinks = props.secondaryLinks || [];
     return (
-        <div className="flex items-center  relative">
+        <div className="flex flex-row items-center  relative">
             {(props.logo || (props.title && props.isTitleVisible)) && <div className="mr-8">{siteLogoLink(props)}</div>}
             {primaryLinks.length > 0 && (
                 <ul
