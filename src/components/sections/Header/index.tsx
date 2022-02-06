@@ -76,12 +76,12 @@ function headerVariantB(props) {
                     className="hidden lg:flex lg:items-center space-x-8 absolute left-1/2 top-1/2 transform -translate-y-1/2 -translate-x-1/2 w-auto"
                     data-sb-field-path=".primaryLinks"
                 >
-                    {listOfLinks(props, primaryLinks)}
+                    {listOfLinks(primaryLinks)}
                 </ul>
             )}
             {secondaryLinks.length > 0 && (
                 <ul className="hidden lg:flex lg:items-center ml-auto space-x-8" data-sb-field-path=".secondaryLinks">
-                    {listOfLinks(props, secondaryLinks)}
+                    {listOfLinks(secondaryLinks)}
                 </ul>
             )}
             {(primaryLinks.length > 0 || secondaryLinks.length > 0) && <MobileMenu {...props} />}
@@ -97,7 +97,7 @@ function headerVariantC(props) {
             {(props.logo || (props.title && props.isTitleVisible)) && <div className="mr-8">{siteLogoLink(props)}</div>}
             {primaryLinks.length > 0 && (
                 <ul className="hidden lg:flex lg:items-center ml-auto space-x-8" data-sb-field-path=".primaryLinks">
-                    {listOfLinks(primaryLinks)}
+                    {listOfLinks(props, primaryLinks)}
                 </ul>
             )}
             {secondaryLinks.length > 0 && (
@@ -194,7 +194,7 @@ function siteLogoLink(props) {
 //     ));
 // }
 
-function listOfLinks(props, links, inMobileMenu = false) {
+function listOfLinks(links, inMobileMenu = false) {
     return links.map((link, index) => {
         const secondaryColors =  'colors-d';
         const paddings = link.styles?.self || {};
