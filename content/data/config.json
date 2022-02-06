@@ -18,7 +18,8 @@
                 "styles": {
                     "self": {
                         "padding": [
-                            "pt-6"
+                            "pt-6",
+                            "pb-6"
                         ]
                     }
                 }
