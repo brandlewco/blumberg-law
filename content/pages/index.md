@@ -118,7 +118,6 @@ sections:
     readMoreLinkLabel: Join adventure
     showAuthor: false
   - elementId: ''
-    variant: variant-c
     colors: colors-d
     title: About us
     subtitle: Featured people section example
