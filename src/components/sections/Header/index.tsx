@@ -197,7 +197,7 @@ function siteLogoLink(props) {
 
 function listOfLinks(links, inMobileMenu = false) {
     return links.map((link, index) => {
-        const secondaryColors =  'colors-d';
+        const secondaryColors = 'colors-d';
         const headerStyles = link.styles?.self.padding || {};
         const [open, setOpen] = useState(false);
         const handleClick = () => { setOpen(!open) };
@@ -223,7 +223,7 @@ function listOfLinks(links, inMobileMenu = false) {
                 {linkChild.length > 0 && (
                     <li key={index} onMouseEnter={onMouseEnter} onMouseLeave={onMouseLeave} onClick={handleClick} className={classNames('relative', 'block')}>
                         <Action {...link} className={classNames(headerStyles, inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
-                        <ul className={classNames(secondaryColors, 'absolute','top-5','flex','flex-col', open ? 'block' : 'hidden')}>
+                        <ul className={classNames(secondaryColors, 'absolute', 'top-5', 'flex', 'flex-col', open ? 'block' : 'hidden')}>
                             {linkChild.map((link, index) => (
                                 <Action {...link} className={""} key={index} data-sb-field-path={`.${index}`} />
                             ))}
