@@ -28,6 +28,7 @@ fields:
   - type: markdown
     name: title
     label: Title
+    hideContent: true
     default: This Is A Big Hero Headline
   - type: string
     name: subtitle
