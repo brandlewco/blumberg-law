@@ -131,6 +131,10 @@
         @apply float-right w-1/3 ml-2 mt-2 mb-2;
     }
 
+    h1 strong {
+        @apply color-primary;
+    }
+
     /* Buttons */
     .sb-component-button {
         @apply border-2 inline-flex items-center justify-center no-underline text-center transition duration-200 ease-in;
