@@ -132,7 +132,7 @@
     }
 
     h1 strong {
-        @apply color-complementary;
+        @apply c-complementary;
     }
 
     /* Buttons */
