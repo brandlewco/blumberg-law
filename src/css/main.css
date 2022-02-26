@@ -132,7 +132,7 @@
     }
 
     h1 strong {
-        @apply text-primary;
+        color: #F1C02F;
     }
 
     /* Buttons */
