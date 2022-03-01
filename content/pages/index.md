@@ -158,6 +158,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeaturedItemsSection
+    title: Test
   - type: QuoteSection
     colors: colors-d
     quote: >
