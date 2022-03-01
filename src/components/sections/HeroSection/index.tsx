@@ -175,6 +175,7 @@ function mapMaxWidthStyles(width) {
     return null;
 }
 
+
 function mapFlexDirectionStyles(flexDirection) {
     switch (flexDirection) {
         case 'row':
