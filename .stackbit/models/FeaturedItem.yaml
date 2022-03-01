@@ -66,6 +66,8 @@ fields:
             color: '$complementary'
         textAlign: ['left', 'center', 'right']
         alignItems: ['flex-start', 'flex-end', 'center']
+                alignItems: ['flex-start', 'flex-end', 'center']
+        justifyContent: ['flex-start', 'flex-end', 'center']
       title:
         fontWeight: ['400', '500']
         fontStyle: ['normal', 'italic']
