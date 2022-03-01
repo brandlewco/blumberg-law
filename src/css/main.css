@@ -133,6 +133,7 @@
         z-index: 9999;
         display: block;
         position: relative;
+        background: transparent;
     }
 
     .markdown-image img {
