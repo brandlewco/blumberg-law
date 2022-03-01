@@ -5,7 +5,6 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    backgroundSize: full
     title: |
       **More Than 30 Years**
 
