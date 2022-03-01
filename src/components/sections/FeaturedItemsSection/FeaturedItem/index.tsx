@@ -24,7 +24,8 @@ export default function FeaturedItem(props) {
                 'sb-component-block',
                 'sb-component-item',
                 props.enableHover ? 'sb-component-item-hover' : null,
-                mapStyles(styles.self)
+                mapStyles(styles.self),
+                'justify-center': styles.self?.textAlign === 'center',
             )}
             style={{
                 borderWidth: itemBorderWidth ? `${itemBorderWidth}px` : undefined
