@@ -121,6 +121,7 @@ sections:
         styles:
           self:
             textAlign: left
+            alignItems: center
         featuredImage:
           url: /images/icon-clients.png
           altText: altText of the image
