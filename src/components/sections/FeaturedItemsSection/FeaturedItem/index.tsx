@@ -25,6 +25,7 @@ export default function FeaturedItem(props) {
                 'sb-component-item',
                 props.enableHover ? 'sb-component-item-hover' : null,
                 mapStyles(styles.self),
+                styles.self?.textAlign === 'center',
                 // mapStyles({ alignItems: sectionAlignItems }),
             )}
             style={{
