@@ -131,6 +131,7 @@
     #hero-features {
         margin-top: -64px;
         z-index: 9999;
+        display: block;
     }
 
     .markdown-image img {
