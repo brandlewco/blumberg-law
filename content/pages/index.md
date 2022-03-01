@@ -24,7 +24,7 @@ sections:
         showIcon: true
     backgroundImage:
       type: BackgroundImage
-      url: /images/pexels-august-de-richelieu-4427614.jpg
+      url: /images/hero.png
       backgroundSize: cover
       backgroundPosition: right
       opacity: 100
