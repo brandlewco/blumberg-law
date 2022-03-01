@@ -125,7 +125,7 @@ sections:
           self:
             textAlign: left
             alignItems: center
-            justifyContent: flex-end
+            justifyContent: center
         featuredImage:
           url: /images/icon-clients.png
           altText: altText of the image
