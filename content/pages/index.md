@@ -102,6 +102,7 @@ sections:
           self:
             textAlign: left
             alignItems: center
+            justifyContent: center
         featuredImage:
           url: /images/icon-gavel.png
           altText: altText of the image
