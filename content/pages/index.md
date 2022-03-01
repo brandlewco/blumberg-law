@@ -88,10 +88,9 @@ sections:
           Proven Track Record
 
           In The Courtroom.
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          We have won acquittals in more than 25 serious felony cases, more than
+          many attorneys have even tried.
         actions:
           - type: Button
             label: Learn more
