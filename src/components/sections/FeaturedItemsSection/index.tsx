@@ -116,11 +116,12 @@ function mapMinHeightStyles(height) {
 function mapMaxWidthStyles(width) {
     switch (width) {
         case 'narrow':
-            return 'max-w-5xl';
-        case 'wide':
             return 'max-w-7xl';
+        case 'wide':
+            return 'max-w-screen-2xl';
         case 'full':
             return 'max-w-full';
     }
     return null;
 }
+
