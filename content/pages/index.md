@@ -17,7 +17,7 @@ sections:
       you deserve representation better than that of the prosecution.
     actions:
       - type: Button
-        label: Get Started
+        label: Confidential Case Evaluation
         url: 'https://www.stackbit.com/'
         style: primary
         iconPosition: right
