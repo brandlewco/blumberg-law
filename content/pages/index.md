@@ -52,6 +52,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    backgroundSize: inset
   - colors: colors-b
     elementId: hero-features
     subtitle: ''
