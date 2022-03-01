@@ -64,14 +64,15 @@ fields:
           - value: 'border-complementary'
             label: 'Complementary color'
             color: '$complementary'
-        textAlign: ['left', 'center', 'right']
         alignItems: ['flex-start', 'flex-end', 'center']
         justifyContent: ['flex-start', 'flex-end', 'center']
       title:
         fontWeight: ['400', '500']
+        textAlign: ['left', 'center', 'right']
         fontStyle: ['normal', 'italic']
       subtitle:
         fontWeight: ['400', '500']
+        textAlign: ['left', 'center', 'right']
         fontStyle: ['normal', 'italic']
     default:
       self:
