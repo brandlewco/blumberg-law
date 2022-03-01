@@ -137,7 +137,7 @@
 
     /* Buttons */
     .sb-component-button {
-        @apply border-2 inline-flex items-center justify-center no-underline text-center transition duration-200 ease-in;
+        @apply border-2 inline-flex items-center justify-center no-underline text-center transition duration-200 ease-in ;
     }
     .sb-component-social {
         @apply transition duration-200 ease-in;
