@@ -43,7 +43,7 @@ sections:
           - pl-16
         alignItems: flex-end
         justifyContent: center
-        flexDirection: row-reverse
+        flexDirection: row
         borderRadius: none
       title:
         textAlign: left
