@@ -98,7 +98,7 @@ sections:
           self:
             textAlign: left
         featuredImage:
-          url: /images/favicon.svg
+          url: /images/icon-gavel.png
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
