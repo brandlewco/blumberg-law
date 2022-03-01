@@ -105,7 +105,7 @@ sections:
             alignItems: center
             justifyContent: flex-start
         featuredImage:
-          url: /images/icon-gavel.png
+          url: /images/icon-gavel.svg
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
