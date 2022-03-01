@@ -11,6 +11,8 @@ export default function FeaturedItem(props) {
     const styles = props.styles || {};
     const itemBorderWidth = styles.self?.borderWidth ? styles.self?.borderWidth : 0;
     const sectionAlignItems = props.alignItems || 'center';
+        const sectionJustifyContent = sectionStyles.justifyContent || 'center';
+
 
     return (
         <article
