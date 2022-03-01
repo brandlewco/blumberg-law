@@ -22,7 +22,7 @@ export default function FeaturedItem(props) {
                 'sb-component-block',
                 'sb-component-item',
                 props.enableHover ? 'sb-component-item-hover' : null,
-                mapStyles(styles.self), mapStyles({ alignItems: sectionAlignItems }),
+                mapStyles(styles.self),
             )}
             style={{
                 borderWidth: itemBorderWidth ? `${itemBorderWidth}px` : undefined
