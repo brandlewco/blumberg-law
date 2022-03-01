@@ -60,6 +60,7 @@ sections:
       - type: FeaturedItem
         title: |-
           Extensive Trial
+
           Experience.
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
