@@ -47,8 +47,6 @@ fields:
             textAlign: left
           actions:
             justifyContent: flex-start
-          self:
-            alignItems: ['flex-start', 'flex-end', 'center']
   - type: list
     name: actions
     label: Actions
