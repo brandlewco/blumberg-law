@@ -124,7 +124,7 @@ sections:
         styles:
           self:
             textAlign: left
-            alignItems: center
+            alignItems: flex-start
             justifyContent: flex-start
         featuredImage:
           url: /images/icon-clients.png
