@@ -11,7 +11,8 @@ export default function FeaturedItem(props) {
     const styles = props.styles || {};
     const itemBorderWidth = styles.self?.borderWidth ? styles.self?.borderWidth : 0;
     return (
-        <article
+        <article    const sectionAlignItems = sectionStyles.alignItems || 'center';
+
             id={cssId}
             className={classNames(
                 'sb-component',
