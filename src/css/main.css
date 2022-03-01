@@ -130,6 +130,7 @@
     /* custom */
     #hero-features {
         margin-top: -64px;
+        z-index: 99;
     }
 
     .markdown-image img {
