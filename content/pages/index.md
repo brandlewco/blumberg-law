@@ -149,7 +149,7 @@ sections:
           - pt-0
           - pb-0
           - pl-8
-          - pr-16
+          - pr-8
         justifyContent: center
       title:
         textAlign: left
