@@ -62,10 +62,10 @@ sections:
           Extensive Trial
 
           Experience.
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          Bruce Blumberg has handled more than 100 jury trials including 5
+          murder trials, and innumerable bench trials for clients charged with
+          felonies and misdemeanors.
         actions:
           - type: Button
             label: Learn more
