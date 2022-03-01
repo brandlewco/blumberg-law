@@ -39,7 +39,7 @@ sections:
           - pt-48
           - pb-48
           - pr-0
-          - pl-0
+          - pl-8
         alignItems: center
         justifyContent: center
         flexDirection: row
