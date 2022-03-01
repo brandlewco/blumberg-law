@@ -76,3 +76,5 @@ fields:
     default:
       self:
         textAlign: left
+        alignItems: center
+        al
