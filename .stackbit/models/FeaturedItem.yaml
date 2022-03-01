@@ -77,4 +77,4 @@ fields:
       self:
         textAlign: left
         alignItems: center
-        al
+        justifyContent: center
