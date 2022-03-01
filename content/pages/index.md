@@ -75,6 +75,7 @@ sections:
         styles:
           self:
             textAlign: left
+            alignItems: center
         featuredImage:
           url: /images/icon-jury.png
           altText: altText of the image
