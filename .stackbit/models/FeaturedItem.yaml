@@ -47,7 +47,7 @@ fields:
     name: styles
     styles:
       self:
-      textAlign: ['left', 'center', 'right']
+        textAlign: ['left', 'center', 'right']
         padding: ['tw0:36']
         borderRadius: '*'
         borderWidth: ['0:8']
