@@ -132,6 +132,7 @@
         margin-top: -64px;
         z-index: 9999;
         display: block;
+        position: relative;
     }
 
     .markdown-image img {
