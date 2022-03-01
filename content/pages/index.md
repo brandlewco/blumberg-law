@@ -25,7 +25,7 @@ sections:
     backgroundImage:
       type: BackgroundImage
       url: /images/hero.png
-      backgroundSize: cover
+      backgroundSize: contain
       backgroundPosition: right
       opacity: 100
     styles:
