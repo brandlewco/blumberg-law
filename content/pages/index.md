@@ -182,7 +182,6 @@ sections:
       title:
         textAlign: center
     backgroundImage:
-      url: /images/hero.png
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
