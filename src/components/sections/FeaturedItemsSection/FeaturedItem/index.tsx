@@ -10,7 +10,7 @@ export default function FeaturedItem(props) {
     const cssId = props.elementId || null;
     const styles = props.styles || {};
     const itemBorderWidth = styles.self?.borderWidth ? styles.self?.borderWidth : 0;
-const sectionAlignItems = props.alignItems || 'center';
+    const sectionAlignItems = props.alignItems || 'center';
 
     return (
         <article
