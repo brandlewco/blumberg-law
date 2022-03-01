@@ -16,6 +16,7 @@ export default function FeaturedItem(props) {
         <article
             id={cssId}
             className={classNames(
+                'flex',
                 'sb-component',
                 'sb-component-block',
                 'sb-component-item',
