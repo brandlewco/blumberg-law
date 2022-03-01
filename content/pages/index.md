@@ -84,7 +84,10 @@ sections:
           elementId: ''
           type: ImageBlock
       - type: FeaturedItem
-        title: Proven Track RecordIn The Courtroom.
+        title: |-
+          Proven Track Record
+
+          In The Courtroom.
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
