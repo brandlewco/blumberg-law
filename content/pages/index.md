@@ -110,10 +110,9 @@ sections:
           type: ImageBlock
       - type: FeaturedItem
         title: Successfully Represented Thousands of Clients.
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          Contact us today to schedule a consultation with our knowledgeable
+          legal team.
         actions:
           - type: Button
             label: Learn more
