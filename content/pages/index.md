@@ -75,7 +75,7 @@ sections:
             style: secondary
         styles:
           self:
-            textAlign: left
+            textAlign: center
             alignItems: center
             justifyContent: flex-start
         featuredImage:
@@ -101,7 +101,7 @@ sections:
             style: secondary
         styles:
           self:
-            textAlign: left
+            textAlign: center
             alignItems: center
             justifyContent: flex-start
         featuredImage:
@@ -124,7 +124,7 @@ sections:
             style: secondary
         styles:
           self:
-            textAlign: left
+            textAlign: center
             alignItems: center
             justifyContent: flex-start
         featuredImage:
