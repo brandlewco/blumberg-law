@@ -9,8 +9,9 @@ sections:
     title: |
       **More Than 30 Years**
 
+      Of Legal Experience
 
-      Of Experience
+      In Phoenix, Arizona.
     subtitle: |-
       If you have been charged with a criminal offense in the state of Arizona,
       you deserve representation better than that of the prosecution.
