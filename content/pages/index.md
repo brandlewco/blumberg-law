@@ -57,6 +57,24 @@ sections:
     elementId: hero-features
     subtitle: ''
     items:
+      - elementId: ''
+        title: Item Title
+        subtitle: ''
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        featuredImage:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-image.png
+          altText: Item image
+        actions: []
+        styles:
+          self:
+            textAlign: left
+            alignItems: center
+            justifyContent: center
       - type: FeaturedItem
         title: |-
           Extensive Trial
