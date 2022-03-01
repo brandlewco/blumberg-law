@@ -128,7 +128,9 @@
     }
 
     /* custom */
-    #hero-features > div{
+    #hero-features > article{
+        margin-top: -64px;
+        position: relative;
 
     }
 
