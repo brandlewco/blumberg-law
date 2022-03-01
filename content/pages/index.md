@@ -59,32 +59,6 @@ sections:
     items:
       - type: FeaturedItem
         title: |-
-          Proven Track Record
-
-          In The Courtroom.
-        text: >
-          We have won acquittals in more than 25 serious felony cases, more than
-          many attorneys have even tried.
-        actions:
-          - type: Button
-            label: Learn more
-            showIcon: true
-            icon: arrowRight
-            url: /
-            style: secondary
-        styles:
-          self:
-            textAlign: left
-            alignItems: center
-            justifyContent: flex-start
-        featuredImage:
-          url: /images/icon-gavel.png
-          altText: altText of the image
-          caption: Caption of the image
-          elementId: ''
-          type: ImageBlock
-      - type: FeaturedItem
-        title: |-
           Extensive Trial
 
           Experience.
@@ -106,6 +80,32 @@ sections:
             justifyContent: flex-start
         featuredImage:
           url: /images/icon-jury.png
+          altText: altText of the image
+          caption: Caption of the image
+          elementId: ''
+          type: ImageBlock
+      - type: FeaturedItem
+        title: |-
+          Proven Track Record
+
+          In The Courtroom.
+        text: >
+          We have won acquittals in more than 25 serious felony cases, more than
+          many attorneys have even tried.
+        actions:
+          - type: Button
+            label: Learn more
+            showIcon: true
+            icon: arrowRight
+            url: /
+            style: secondary
+        styles:
+          self:
+            textAlign: left
+            alignItems: center
+            justifyContent: flex-start
+        featuredImage:
+          url: /images/icon-gavel.png
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
