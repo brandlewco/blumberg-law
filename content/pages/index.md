@@ -55,7 +55,6 @@ sections:
         justifyContent: flex-start
   - colors: colors-d
     elementId: ''
-    title: Key value propositions
     subtitle: ''
     items:
       - type: FeaturedItem
