@@ -129,7 +129,7 @@
 
     /* custom */
     #hero-features {
-        display: none;
+        margin-top: -50px;
     }
     .markdown-image img {
         @apply float-right w-1/3 ml-2 mt-2 mb-2;
