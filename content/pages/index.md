@@ -142,7 +142,7 @@ sections:
           - pb-0
           - pl-16
           - pr-16
-        justifyContent: flex-start
+        justifyContent: center
       title:
         textAlign: left
       subtitle:
