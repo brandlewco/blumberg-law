@@ -42,7 +42,7 @@ sections:
           - pr-16
           - pl-16
         alignItems: flex-end
-        justifyContent: center
+        justifyContent: flex-end
         flexDirection: row
         borderRadius: none
       title:
