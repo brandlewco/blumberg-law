@@ -17,7 +17,7 @@ sections:
         borderStyle: solid
   - type: TextSection
     colors: colors-d
-    variant: variant-a
+    variant: variant-b
     title: About our business
     text: >-
       For us fishing is a life style. The connection to the waters is what makes
