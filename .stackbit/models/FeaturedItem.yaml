@@ -65,7 +65,6 @@ fields:
             label: 'Complementary color'
             color: '$complementary'
         textAlign: ['left', 'center', 'right']
-                  self:
             alignItems: ['flex-start', 'flex-end', 'center']
       title:
         fontWeight: ['400', '500']
