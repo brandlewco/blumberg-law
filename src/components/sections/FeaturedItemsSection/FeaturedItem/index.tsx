@@ -42,7 +42,7 @@ export default function FeaturedItem(props) {
                     className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
                     {props.title}
                 </Markdown>
-                <>{styles.title}
+                <>{styles.title}</>
             )}
             {props.subtitle && (
                 <p
