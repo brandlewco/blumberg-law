@@ -54,7 +54,7 @@ sections:
       actions:
         justifyContent: flex-start
   - colors: colors-d
-    elementId: margin-negative
+    elementId: hero-features
     subtitle: ''
     items:
       - type: FeaturedItem
