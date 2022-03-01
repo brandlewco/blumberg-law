@@ -39,7 +39,7 @@ sections:
         padding:
           - pt-20
           - pb-96
-          - pr-0
+          - pr-16
           - pl-16
         alignItems: flex-end
         justifyContent: flex-start
