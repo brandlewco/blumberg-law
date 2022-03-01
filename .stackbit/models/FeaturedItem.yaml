@@ -75,6 +75,6 @@ fields:
         fontStyle: ['normal', 'italic']
     default:
       self:
-        textAlign: left
-        alignItems: center
-        justifyContent: center
+        textAlign: 'left'
+        alignItems: 'center'
+        justifyContent: 'center'
