@@ -182,7 +182,7 @@ sections:
       title:
         textAlign: center
     backgroundImage:
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/hero.png
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
