@@ -79,7 +79,7 @@ sections:
             alignItems: center
             justifyContent: flex-start
         featuredImage:
-          url: /images/icon-jury.png
+          url: /images/icon-jury.svg
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
