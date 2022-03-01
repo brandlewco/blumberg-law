@@ -53,7 +53,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - colors: colors-d
+  - colors: colors-b
     elementId: hero-features
     subtitle: ''
     items:
