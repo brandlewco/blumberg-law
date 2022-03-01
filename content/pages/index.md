@@ -41,7 +41,7 @@ sections:
           - pr-0
           - pl-0
         alignItems: flex-start
-        justifyContent: flex-start
+        justifyContent: center
         flexDirection: row
         borderRadius: none
       title:
