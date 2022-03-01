@@ -32,7 +32,7 @@ sections:
     styles:
       self:
         height: auto
-        width: narrow
+        width: full
         margin:
           - mt-0
           - mb-0
