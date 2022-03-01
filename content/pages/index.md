@@ -38,8 +38,8 @@ sections:
         padding:
           - pt-48
           - pb-48
-          - pr-0
-          - pl-0
+          - pr-8
+          - pl-8
         alignItems: center
         justifyContent: center
         flexDirection: row
@@ -79,7 +79,7 @@ sections:
             alignItems: center
             justifyContent: flex-start
         featuredImage:
-          url: /images/icon-jury.png
+          url: /images/icon-jury.svg
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
@@ -105,7 +105,7 @@ sections:
             alignItems: center
             justifyContent: flex-start
         featuredImage:
-          url: /images/icon-gavel.png
+          url: /images/icon-gavel.svg
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
@@ -128,7 +128,7 @@ sections:
             alignItems: center
             justifyContent: flex-start
         featuredImage:
-          url: /images/icon-clients.png
+          url: /images/icon-clients.svg
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
@@ -148,8 +148,8 @@ sections:
         padding:
           - pt-0
           - pb-0
-          - pl-16
-          - pr-16
+          - pl-8
+          - pr-8
         justifyContent: center
       title:
         textAlign: left
