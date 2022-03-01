@@ -130,9 +130,6 @@
     /* custom */
     #hero-features {
         margin-top: -64px;
-        z-index: 999;
-        display: block;
-        position: relative;
     }
 
     .markdown-image img {
