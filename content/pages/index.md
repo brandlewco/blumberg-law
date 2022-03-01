@@ -38,7 +38,7 @@ sections:
           - mb-0
         padding:
           - pt-48
-          - pb-44
+          - pb-48
           - pr-16
           - pl-16
         alignItems: flex-end
