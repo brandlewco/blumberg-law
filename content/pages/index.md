@@ -40,7 +40,7 @@ sections:
           - pb-48
           - pr-0
           - pl-0
-        alignItems: flex-start
+        alignItems: center
         justifyContent: center
         flexDirection: row
         borderRadius: none
