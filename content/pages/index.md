@@ -106,6 +106,7 @@ sections:
             justifyContent: flex-start
             borderWidth: 1
             borderColor: border-complementary
+            borderStyle: solid
         featuredImage:
           url: /images/icon-gavel.svg
           altText: altText of the image
