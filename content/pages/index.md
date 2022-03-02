@@ -104,7 +104,7 @@ sections:
             textAlign: center
             alignItems: center
             justifyContent: flex-start
-            borderWidth: 1
+            borderWidth: 0
             borderColor: border-complementary
             borderStyle: solid
         featuredImage:
