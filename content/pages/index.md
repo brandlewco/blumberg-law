@@ -105,6 +105,7 @@ sections:
             alignItems: center
             justifyContent: flex-start
             borderWidth: 1
+            borderColor: border-complementary
         featuredImage:
           url: /images/icon-gavel.svg
           altText: altText of the image
