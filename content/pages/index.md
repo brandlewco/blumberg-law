@@ -104,6 +104,7 @@ sections:
             textAlign: center
             alignItems: center
             justifyContent: flex-start
+            borderWidth: 1
         featuredImage:
           url: /images/icon-gavel.svg
           altText: altText of the image
