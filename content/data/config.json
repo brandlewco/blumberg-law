@@ -152,9 +152,9 @@
                     },
                     {
                         "type": "Link",
-                        "label": "Blog",
-                        "url": "/phoenix-family-attorney/divorce/",
-                        "altText": "Blog"
+                        "label": "Divorce",
+                        "url": "/",
+                        "altText": "Divorce"
                     },
                     {
                         "label": "Learn more",
