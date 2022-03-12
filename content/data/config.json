@@ -37,7 +37,18 @@
                             "pb-0"
                         ]
                     }
-                }
+                },
+                "child": [
+                    {
+                        "label": "Learn more",
+                        "altText": "",
+                        "url": "/",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
+                    }
+                ]
             },
             {
                 "label": "Family Law",
