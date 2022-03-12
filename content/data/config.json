@@ -147,9 +147,8 @@
                 "child": [
                     {
                         "type": "Link",
-                        "label": "Homehttps://www.azblumberglaw.com/phoenix-family-attorney/child-custody-parenting-time/",
-                        "url": "https://www.azblumberglaw.com/phoenix-family-attorney/child-custody-parenting-time/",
-                        "altText": "Home"
+                        "label": "Child Custody & Parenting Time",
+                        "url": "/phoenix-family-attorney/child-custody-parenting-time/"
                     },
                     {
                         "type": "Link",
