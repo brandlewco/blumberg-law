@@ -14,17 +14,7 @@
                 "label": "Attorney Profile",
                 "url": "/about",
                 "altText": "",
-                "child": [
-                    {
-                        "label": "Child 3",
-                        "altText": "",
-                        "url": "/",
-                        "showIcon": false,
-                        "icon": "arrowRight",
-                        "iconPosition": "right",
-                        "elementId": ""
-                    }
-                ],
+                "child": [],
                 "styles": {
                     "self": {
                         "padding": [
