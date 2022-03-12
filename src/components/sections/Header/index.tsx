@@ -3,6 +3,8 @@ import { useState, useEffect } from 'react';
 import { useRouter } from 'next/router';
 import classNames from 'classnames';
 import { Menu } from '@headlessui/react'
+import Alpine from 'alpinejs'
+
 
 
 import { Link, Action } from '../../atoms';
@@ -30,6 +32,9 @@ export default function Header(props) {
         </header>
     );
 }
+
+Alpine.start()
+
 
 // function headerVariants(props) {
 //     const headerVariant = props.headerVariant || 'variant-a';
@@ -199,33 +204,37 @@ function listOfLinks(links, inMobileMenu = false) {
     return links.map((link, index) => {
         const secondaryColors = 'colors-d';
         const headerStyles = link.styles?.self.padding || {};
-        const [open, setOpen] = useState(false);
-        const handleClick = () => { setOpen(!open) };
-        const onMouseEnter = () => {
-            if (window.innerWidth < 960) {
-                setOpen(false);
-            } else {
-                setOpen(true);
-            }
-        };
-        const onMouseLeave = () => {
-            if (window.innerWidth < 960) {
-                setOpen(false);
-            } else {
-                setOpen(false);
-            }
-        };
+        // const [open, setOpen] = useState(false);
+        // const handleClick = () => { setOpen(!open) };
+        // const onMouseEnter = () => {
+        //     if (window.innerWidth < 960) {
+        //         setOpen(false);
+        //     } else {
+        //         setOpen(true);
+        //     }
+        // };
+        // const onMouseLeave = () => {
+        //     if (window.innerWidth < 960) {
+        //         setOpen(false);
+        //     } else {
+        //         setOpen(false);
+        //     }
+        // };
         // const defaultStyle = link.type === 'Link' ? 'link' : 'secondary';
         // const style = link.style;
+        // const defaultStyle = type === 'Link' ? 'link' : 'secondary';
+        // const style = link.style || defaultStyle;
         const linkChild = link.child || [];
         return (
             <>
                 {linkChild.length > 0 && (
-                    <li key={index} onMouseEnter={onMouseEnter} onMouseLeave={onMouseLeave} onClick={handleClick} className={classNames('relative', 'block')}>
+                    <li key={index} className={classNames('relative', 'block')}>
                         <Action {...link} className={classNames(headerStyles, inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
-                        <ul className={classNames(secondaryColors, 'absolute', 'top-full', 'flex', 'flex-col', open ? 'block' : 'hidden')}>
+                        <ul className={classNames(secondaryColors, 'absolute', 'top-full', 'flex', 'flex-col', 'whitespace-nowrap', 'px-4', 'pt-4')}>
                             {linkChild.map((link, index) => (
-                                <Action {...link} className={""} data-sb-field-path={`.${index}`} />
+                                <li key={index} className="pb-4">
+                                    <Action {...link} style="link" data-sb-field-path={`.${index}`} />
+                                </li>
                             ))}
                         </ul>
                     </li>

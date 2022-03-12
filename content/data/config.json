@@ -146,15 +146,22 @@
                 "url": "/",
                 "child": [
                     {
-                        "type": "Link",
                         "label": "Child Custody & Parenting Time",
-                        "url": "/phoenix-family-attorney/child-custody-parenting-time/"
+                        "altText": "",
+                        "url": "/",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
                     },
                     {
-                        "type": "Link",
                         "label": "Divorce",
+                        "altText": "",
                         "url": "/",
-                        "altText": "Divorce"
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
                     },
                     {
                         "label": "Modifications & Enforcements",
@@ -193,7 +200,7 @@
                         "elementId": ""
                     },
                     {
-                        "label": "Learn more",
+                        "label": "Temporary Orders",
                         "altText": "",
                         "url": "/phoenix-family-attorney/temporary-orders/",
                         "showIcon": false,
@@ -243,20 +250,6 @@
                 "label": "Blog",
                 "altText": "",
                 "url": "/",
-                "child": [
-                    {
-                        "type": "Link",
-                        "label": "Home",
-                        "url": "/",
-                        "altText": "Home"
-                    },
-                    {
-                        "type": "Link",
-                        "label": "Blog",
-                        "url": "/",
-                        "altText": "Blog"
-                    }
-                ],
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -277,20 +270,6 @@
                 "label": "Contact",
                 "altText": "",
                 "url": "/",
-                "child": [
-                    {
-                        "type": "Link",
-                        "label": "Home",
-                        "url": "/",
-                        "altText": "Home"
-                    },
-                    {
-                        "type": "Link",
-                        "label": "Blog",
-                        "url": "/",
-                        "altText": "Blog"
-                    }
-                ],
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
