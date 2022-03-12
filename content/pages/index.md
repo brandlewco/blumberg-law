@@ -77,7 +77,7 @@ sections:
           self:
             textAlign: center
             alignItems: center
-            justifyContent: flex-start
+            justifyContent: center
         featuredImage:
           url: /images/icon-jury.svg
           altText: altText of the image
