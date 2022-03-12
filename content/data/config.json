@@ -114,7 +114,16 @@
                     {
                         "label": "Sex Crimes",
                         "altText": "",
-                        "url": "/phoenix-criminal-attorney/sex-crimes/",
+                        "url": "https://www.azblumberglaw.com/phoenix-criminal-attorney/sex-crimes/",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
+                    },
+                    {
+                        "label": "Learn more",
+                        "altText": "",
+                        "url": "/",
                         "showIcon": false,
                         "icon": "arrowRight",
                         "iconPosition": "right",
