@@ -16,15 +16,6 @@
                 "altText": "",
                 "child": [
                     {
-                        "label": "Child 2",
-                        "altText": "",
-                        "url": "/",
-                        "showIcon": false,
-                        "icon": "arrowRight",
-                        "iconPosition": "right",
-                        "elementId": ""
-                    },
-                    {
                         "label": "Child 3",
                         "altText": "",
                         "url": "/",
