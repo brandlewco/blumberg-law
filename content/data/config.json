@@ -123,16 +123,7 @@
                     {
                         "label": "Violent Crimes",
                         "altText": "",
-                        "url": "/",
-                        "showIcon": false,
-                        "icon": "arrowRight",
-                        "iconPosition": "right",
-                        "elementId": ""
-                    },
-                    {
-                        "label": "White Collar Crimes",
-                        "altText": "",
-                        "url": "/",
+                        "url": "/phoenix-criminal-attorney/violent-crimes/",
                         "showIcon": false,
                         "icon": "arrowRight",
                         "iconPosition": "right",
@@ -141,7 +132,7 @@
                     {
                         "label": "Learn more",
                         "altText": "",
-                        "url": "/",
+                        "url": "/phoenix-criminal-attorney/white-collar-crimes/",
                         "showIcon": false,
                         "icon": "arrowRight",
                         "iconPosition": "right",
