@@ -143,6 +143,14 @@
         color: #f1c02f;
     }
 
+    .dropdown svg {
+        @apply transform transition-all text-secondary pr-0;
+    }
+    /* 
+    .dropdown:hover svg {
+        @apply -rotate-90 text-secondary;
+    } */
+
     /* Buttons */
     .sb-component-button {
         @apply border-2 inline-flex items-center justify-center no-underline text-center transition duration-200 ease-in rounded-full;

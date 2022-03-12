@@ -217,24 +217,24 @@ function listOfLinks(links, inMobileMenu) {
         return (
             <>
                 {linkChild.length > 0 && (
-                    <li key={index} className={classNames('relative', 'block',  'lg:py-12' )}
+                    <li key={index} className={classNames('dropdown', 'relative', 'block',  'lg:py-12' )}
                     onMouseEnter={() => setIsMenuOpen(true)}
                     onMouseLeave={() => setIsMenuOpen(false)}
                     onClick={() =>  setIsMenuOpen(toggle = !toggle)}
                     >
-                        <Action {...link} url="#" style="link" data-sb-field-path={`.${index}`} />
-                        <ul className={classNames(secondaryColors, 'absolute', 'top-full', 'flex', 'flex-col', 'whitespace-nowrap', 'px-4', 'pt-4', isMenuOpen ? 'block' : 'hidden')}>
+                        <Action {...link} url="#" style="link" showIcon="true" icon="menuDown" className="w-full flex flex-row justify-between border-b-2 lg:border-0 border-solid border-secondary " data-sb-field-path={`.${index}`} />
+                        <ul className={classNames(secondaryColors, 'lg:absolute', 'top-full', 'flex', 'flex-col', 'whitespace-nowrap', 'px-4', 'pt-4', isMenuOpen ? 'block' : 'hidden')}>
                             {linkChild.map((link, index) => (
                                 <li key={index} className="pb-4">
-                                    <Action {...link} style="link" data-sb-field-path={`.${index}`} />
+                                    <Action {...link} style="link" className="w-full justify-start border-b-2 lg:border-0 border-solid border-gray" data-sb-field-path={`.${index}`} />
                                 </li>
                             ))}
                         </ul>
                     </li>
                 )}
                 {linkChild.length == 0 && (
-                    <li key={index} className={classNames('relative', 'block',  'lg:py-12' )}>
-                        <Action {...link} className={classNames(headerStyles, inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
+                    <li key={index} className={classNames('relative', 'block' )}>
+                        <Action {...link} className={classNames(headerStyles, "w-full justify-start border-b-2 lg:border-0 border-solid border-secondary ", inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
                     </li>
                 )}
             </>

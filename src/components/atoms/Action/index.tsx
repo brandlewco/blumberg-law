@@ -1,6 +1,7 @@
 import * as React from 'react';
 import classNames from 'classnames';
 import Link from '../Link';
+import MenuDown from '../../svgs/menu-down';
 import Apple from '../../svgs/apple';
 import ArrowLeft from '../../svgs/arrow-left';
 import ArrowLeftCircle from '../../svgs/arrow-left-circle';
@@ -24,6 +25,7 @@ import Vimeo from '../../svgs/vimeo';
 import YouTube from '../../svgs/youtube';
 
 const iconMap = {
+    menuDown: MenuDown,
     apple: Apple,
     arrowLeft: ArrowLeft,
     arrowLeftCircle: ArrowLeftCircle,
