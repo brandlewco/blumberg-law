@@ -152,9 +152,9 @@
                     },
                     {
                         "type": "Link",
-                        "label": "Blog",
+                        "label": "Divorce",
                         "url": "/",
-                        "altText": "Blog"
+                        "altText": "Divorce"
                     }
                 ],
                 "showIcon": false,
