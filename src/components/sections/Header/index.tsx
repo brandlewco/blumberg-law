@@ -3,14 +3,13 @@ import { useState, useEffect } from 'react';
 import { useRouter } from 'next/router';
 import classNames from 'classnames';
 import { Menu } from '@headlessui/react'
-import Alpine from 'alpinejs'
-
-
+import {isMobile} from 'react-device-detect';
 
 import { Link, Action } from '../../atoms';
 import ImageBlock from '../../molecules/ImageBlock';
 import CloseIcon from '../../svgs/close';
 import MenuIcon from '../../svgs/menu';
+
 
 export default function Header(props) {
     const primaryColors = props.primaryColors || 'colors-d';
@@ -21,7 +20,7 @@ export default function Header(props) {
             className={classNames('sb-component', 'sb-component-header', primaryColors, props.isSticky ? 'sticky top-0 z-10' : 'relative')}
             data-sb-field-path={`${props.annotationPrefix}:header`}
         >
-            <div className={classNames(headerStyles.padding || 'py-5 px-4')}>
+            <div className={classNames()}>
                 <div className={classNames('mx-auto', mapMaxWidthStyles(headerWidth))}>
                     <Link href="#main" className="sr-only">
                         Skip to main content
@@ -32,9 +31,6 @@ export default function Header(props) {
         </header>
     );
 }
-
-Alpine.start()
-
 
 // function headerVariants(props) {
 //     const headerVariant = props.headerVariant || 'variant-a';
@@ -82,12 +78,12 @@ function headerVariantB(props) {
                     className="hidden lg:flex lg:items-center space-x-8 w-auto"
                     data-sb-field-path=".primaryLinks"
                 >
-                    {listOfLinks(primaryLinks)}
+                    {listOfLinks(primaryLinks, false)}
                 </ul>
             )}
             {secondaryLinks.length > 0 && (
                 <ul className="hidden lg:flex lg:items-center space-x-8" data-sb-field-path=".secondaryLinks">
-                    {listOfLinks(secondaryLinks)}
+                    {listOfLinks(secondaryLinks, false)}
                 </ul>
             )}
             {(primaryLinks.length > 0 || secondaryLinks.length > 0) && <MobileMenu {...props} />}
@@ -200,37 +196,34 @@ function siteLogoLink(props) {
 //     ));
 // }
 
-function listOfLinks(links, inMobileMenu = false) {
+function listOfLinks(links, inMobileMenu) {
     return links.map((link, index) => {
         const secondaryColors = 'colors-d';
-        const headerStyles = link.styles?.self.padding || {};
-        // const [open, setOpen] = useState(false);
-        // const handleClick = () => { setOpen(!open) };
-        // const onMouseEnter = () => {
-        //     if (window.innerWidth < 960) {
-        //         setOpen(false);
-        //     } else {
-        //         setOpen(true);
-        //     }
-        // };
-        // const onMouseLeave = () => {
-        //     if (window.innerWidth < 960) {
-        //         setOpen(false);
-        //     } else {
-        //         setOpen(false);
-        //     }
-        // };
-        // const defaultStyle = link.type === 'Link' ? 'link' : 'secondary';
-        // const style = link.style;
-        // const defaultStyle = type === 'Link' ? 'link' : 'secondary';
-        // const style = link.style || defaultStyle;
+        const headerStyles = link.styles || {};
         const linkChild = link.child || [];
+        const [isMenuOpen, setIsMenuOpen] = useState(false);
+        const router = useRouter();
+        var toggle = false;
+        useEffect(() => {
+            const handleRouteChange = () => {
+                setIsMenuOpen(false);
+            };
+            router.events.on('routeChangeStart', handleRouteChange);
+    
+            return () => {
+                router.events.off('routeChangeStart', handleRouteChange);
+            };
+        }, [router.events]);    
         return (
             <>
                 {linkChild.length > 0 && (
-                    <li key={index} className={classNames('relative', 'block')}>
-                        <Action {...link} className={classNames(headerStyles, inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
-                        <ul className={classNames(secondaryColors, 'absolute', 'top-full', 'flex', 'flex-col', 'whitespace-nowrap', 'px-4', 'pt-4')}>
+                    <li key={index} className={classNames('relative', 'block',  'lg:py-12' )}
+                    onMouseEnter={() => setIsMenuOpen(true)}
+                    onMouseLeave={() => setIsMenuOpen(false)}
+                    onClick={() =>  setIsMenuOpen(toggle = !toggle)}
+                    >
+                        <Action {...link} url="#" style="link" data-sb-field-path={`.${index}`} />
+                        <ul className={classNames(secondaryColors, 'absolute', 'top-full', 'flex', 'flex-col', 'whitespace-nowrap', 'px-4', 'pt-4', isMenuOpen ? 'block' : 'hidden')}>
                             {linkChild.map((link, index) => (
                                 <li key={index} className="pb-4">
                                     <Action {...link} style="link" data-sb-field-path={`.${index}`} />
@@ -240,7 +233,7 @@ function listOfLinks(links, inMobileMenu = false) {
                     </li>
                 )}
                 {linkChild.length == 0 && (
-                    <li key={index} className={classNames('relative', 'block')}>
+                    <li key={index} className={classNames('relative', 'block',  'lg:py-12' )}>
                         <Action {...link} className={classNames(headerStyles, inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
                     </li>
                 )}

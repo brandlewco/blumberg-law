@@ -128,7 +128,7 @@
     }
 
     /* custom */
-    #hero-features article{
+    #hero-features article {
         margin-top: -64px;
         position: relative;
     }
@@ -137,8 +137,10 @@
         @apply float-right w-1/3 ml-2 mt-2 mb-2;
     }
 
-    h1 strong, h2 strong, h3 strong {
-        color: #F1C02F;
+    h1 strong,
+    h2 strong,
+    h3 strong {
+        color: #f1c02f;
     }
 
     /* Buttons */
@@ -162,7 +164,7 @@
         @apply inline-flex items-center justify-center no-underline relative;
     }
     .sb-component-link:after {
-        @apply bg-current absolute left-0 w-full;
+        @apply bg-secondary absolute left-0 w-full;
         bottom: -2px;
         content: '';
         height: 2px;
