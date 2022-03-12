@@ -152,9 +152,18 @@
                     },
                     {
                         "type": "Link",
-                        "label": "Divorce",
+                        "label": "Blog",
+                        "url": "/phoenix-family-attorney/divorce/",
+                        "altText": "Blog"
+                    },
+                    {
+                        "label": "Learn more",
+                        "altText": "",
                         "url": "/",
-                        "altText": "Divorce"
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
                     }
                 ],
                 "showIcon": false,
