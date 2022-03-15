@@ -146,6 +146,8 @@
     .dropdown svg {
         @apply transform transition-all text-secondary pr-0;
     }
+
+    
     /* 
     .dropdown:hover svg {
         @apply -rotate-90 text-secondary;
