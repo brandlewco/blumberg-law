@@ -130,7 +130,7 @@
     /* custom */
     @media only screen and (max-width: 768px) {
     #hero-features article {
-            @apply mt-
+            @apply mt-64;
         }
     }
 
