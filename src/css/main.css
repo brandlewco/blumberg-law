@@ -128,6 +128,7 @@
     }
 
     /* custom */
+    
     #hero-features article {
         margin-top: -64px;
         position: relative;
@@ -147,7 +148,7 @@
         @apply transform transition-all text-secondary pr-0;
     }
 
-    
+
     /* 
     .dropdown:hover svg {
         @apply -rotate-90 text-secondary;
