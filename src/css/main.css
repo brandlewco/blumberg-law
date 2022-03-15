@@ -130,8 +130,7 @@
     /* custom */
     @media only screen and (max-width: 768px) {
     #hero-features article {
-            margin-top: -64px;
-            position: relative;
+            @apply mt-
         }
     }
 
