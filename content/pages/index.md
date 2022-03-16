@@ -368,7 +368,7 @@ sections:
         url: /images/gallery-4.jpg
         altText: Image four
         caption: Image four caption
-    spacing: 16
+    spacing: 32
     columns: 4
     aspectRatio: '1:1'
     showCaption: false
