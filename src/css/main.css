@@ -144,7 +144,7 @@
         }
          #hero-features article:nth-child(2)::after{
              content: "";
-             @apply absolute h- w-8 border-l-2 border-r-2 border-solid border-white px-8;
+             @apply absolute h-2/3 w-8 border-l-2 border-r-2 border-solid border-white px-8;
          }
     }
 
