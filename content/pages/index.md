@@ -218,7 +218,7 @@ sections:
             altText: White Collar Crime
             url: /
             showIcon: true
-            icon: arrowRight
+            icon: whiteCollarCrime
             iconPosition: left
             style: secondary
             elementId: ''
