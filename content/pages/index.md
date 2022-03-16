@@ -290,7 +290,7 @@ sections:
     type: FeaturedItemsSection
     backgroundImage:
       url: /images/paper-texture.png
-      backgroundSize: cover
+      backgroundSize: auto
       backgroundPosition: center
       opacity: 100
   - elementId: ''
