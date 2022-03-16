@@ -113,7 +113,7 @@ sections:
               - pl-4
               - pr-4
         featuredImage:
-          url: /images/icon-gavel.svg
+          url: /images/icon-gavel-8a7d531e.svg
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
