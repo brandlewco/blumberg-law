@@ -176,6 +176,7 @@ sections:
             icon: sexCrime
             url: /
             style: secondary
+            iconPosition: left
         styles:
           self:
             textAlign: left
