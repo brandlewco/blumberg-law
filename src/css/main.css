@@ -136,7 +136,7 @@
       font-size: 0.5rem;
     }
     #call-us a:hover{
-        @apply background-transparent;
+        @apply background-none
     }
     @media only screen and (max-width: 768px) {
         #hero-features {
