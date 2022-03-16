@@ -185,7 +185,7 @@ sections:
           - type: Button
             label: Violent Crimes
             showIcon: true
-            icon: arrowRight
+            icon: violentCrime
             url: /
             style: secondary
         styles:
