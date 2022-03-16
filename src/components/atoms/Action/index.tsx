@@ -99,7 +99,7 @@ export default function Action(props) {
         >
             {label && <Markdown
                     options={{ forceWrapper: true, wrapper: 'h3' }}
-                    className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
+                    className={} data-sb-field-path=".title">
                     {props.title}
                 </Markdown>}
             {showIcon && IconComponent && (
