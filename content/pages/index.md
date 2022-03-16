@@ -156,7 +156,7 @@ sections:
       Phoenix’s Leading
 
       Criminal Defense Attorney.
-    subtitle: ''
+    subtitle: CHOOSE A PRACTICE AREA TO LEARN MORE
     items:
       - type: FeaturedItem
         actions:
