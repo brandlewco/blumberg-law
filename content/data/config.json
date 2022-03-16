@@ -140,7 +140,7 @@
                     }
                 ],
                 "showIcon": true,
-                "icon": "arrowRight"
+                "icon": "arrowLeftCircle"
             },
             {
                 "label": "Family Law",
