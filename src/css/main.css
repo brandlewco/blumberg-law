@@ -142,7 +142,7 @@
                 flex-direction: column;
             }
         #hero-features article .sb-component-button {
-            margin-top: auto;
+            margin-top: auto !important;
         }
     }
 
