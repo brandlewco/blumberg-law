@@ -134,7 +134,10 @@
         }
 
         #hero-features article{
-            @apply flex-row;
+              display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  white-space: nowrap;
         }
 
         #hero-features article:first-child{
