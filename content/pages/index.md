@@ -230,9 +230,6 @@ sections:
             justifyContent: center
       - elementId: ''
         subtitle: ''
-        featuredImage:
-          type: ImageBlock
-          altText: Item image
         actions: []
         styles:
           self:
