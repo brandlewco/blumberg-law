@@ -111,13 +111,7 @@ sections:
         text: >
           Contact us today to schedule a consultation with our knowledgeable
           legal team.
-        actions:
-          - type: Button
-            label: Learn more
-            showIcon: true
-            icon: arrowRight
-            url: /
-            style: secondary
+        actions: []
         styles:
           self:
             textAlign: center
