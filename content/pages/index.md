@@ -236,7 +236,7 @@ sections:
             url: /
             showIcon: true
             icon: arrowRight
-            iconPosition: right
+            iconPosition: left
             style: secondary
             elementId: ''
             type: Button
