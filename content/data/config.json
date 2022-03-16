@@ -293,7 +293,7 @@
             {
                 "type": "Button",
                 "label": "602-277-6180",
-                "url": "tel:+1602-277-6180",
+                "url": "tel:+16022776180",
                 "altText": "Contact us",
                 "style": "secondary",
                 "showIcon": true,
