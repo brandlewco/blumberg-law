@@ -392,7 +392,7 @@ sections:
       subtitle:
         textAlign: center
     type: MediaGallerySection
-    aspectRatio: '1:1'
+    aspectRatio: auto
   - type: QuoteSection
     colors: colors-d
     quote: >
