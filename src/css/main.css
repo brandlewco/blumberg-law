@@ -143,9 +143,6 @@
         }
     }
 
-    #hero-features article .sb-component-button {
-        margin-top: auto;
-    }
     
     .markdown-image img {
         @apply float-right w-1/3 ml-2 mt-2 mb-2;
