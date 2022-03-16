@@ -349,7 +349,7 @@ sections:
     type: TextSection
   - colors: colors-d
     elementId: ''
-    title: Gallery
+    title: Top Criminal Defense AttorneyWith A Record To Prove It.
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
