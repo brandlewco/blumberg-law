@@ -358,7 +358,7 @@ sections:
         caption: Image one caption
       - type: ImageBlock
         url: /images/award-av-preeminent.png
-        altText: 'AV Preeminent '
+        altText: AV Preeminent Lawyer Ratings
         caption: Image two caption
       - type: ImageBlock
         url: /images/certified-specialist-state-bar-arizona.png
