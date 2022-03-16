@@ -85,7 +85,7 @@ export default function Action(props) {
             {label && <span>{label}</span>}
             {showIcon && IconComponent && (
                 <IconComponent
-                    className={classNames('fill-current', {
+                    className={classNames('fill-current h-full w-full', {
                         'order-first': iconPosition === 'left',
                         'mr-1.5': label && iconPosition === 'left',
                         'ml-1.5': label && iconPosition === 'right'
