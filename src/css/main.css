@@ -134,7 +134,7 @@
         }
 
         #hero-features article{
-            @apply flex-row grow-1;
+            @apply flex-row;
         }
     }
 
