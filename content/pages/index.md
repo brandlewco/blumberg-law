@@ -150,7 +150,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeaturedItemsSection
-  - colors: colors-d
+  - colors: colors-b
     elementId: hero-button-grid
     title: |
       Phoenix’s Leading
