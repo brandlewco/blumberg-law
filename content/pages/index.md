@@ -160,7 +160,7 @@ sections:
           - type: Button
             label: Drug Crimes
             showIcon: true
-            icon: arrowRight
+            icon: childCustody
             url: /
             style: secondary
         styles:
