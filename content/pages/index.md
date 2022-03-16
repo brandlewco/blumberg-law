@@ -164,7 +164,7 @@ sections:
             label: Drug Crimes
             showIcon: true
             url: /
-            style: secondary
+            style: primary
             iconPosition: left
             icon: drugCrime
         styles:
