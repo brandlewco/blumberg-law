@@ -94,13 +94,7 @@ sections:
         text: >
           We have won acquittals in more than 25 serious felony cases, more than
           many attorneys have even tried.
-        actions:
-          - type: Button
-            label: Learn more
-            showIcon: true
-            icon: arrowRight
-            url: /
-            style: secondary
+        actions: []
         styles:
           self:
             textAlign: center
