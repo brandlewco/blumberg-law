@@ -129,7 +129,7 @@
 
     /* custom */
     #call-us {
-        @apply text-3xl font-serif;
+        @apply text-3xl font-serif border-primary;
     }
     #call-us strong{ 
       @apply text-secondary font-serif leading-none;
