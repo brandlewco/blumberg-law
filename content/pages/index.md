@@ -138,7 +138,7 @@ sections:
             padding:
               - pl-4
         featuredImage:
-          url: /images/icon-clients.svg
+          url: /images/icon-clients-88acd407.svg
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
