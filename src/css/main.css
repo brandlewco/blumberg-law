@@ -137,9 +137,6 @@
     @media only screen and (min-width: 768px) {
         #hero-features article {
                 margin-top: -64px;
-                position: relative;
-                display: flex;
-                flex-direction: column;
                 @apply flex flex-col relative px-8;
             }
         #hero-features article div:last-child {
