@@ -149,8 +149,8 @@
          }
     }
 
-    #hero-button-grid {
-        
+    #hero-button-grid a {
+        @apply flex flex-row justify-between items-center w-full;
     }
 
     
