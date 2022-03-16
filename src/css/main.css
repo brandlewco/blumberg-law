@@ -142,7 +142,7 @@
         }
 
         #hero-features article div {
-            flex: shrink;
+            shrink
         }
     }
 
