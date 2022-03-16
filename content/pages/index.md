@@ -350,7 +350,7 @@ sections:
   - colors: colors-d
     elementId: ''
     title: Top Criminal Defense AttorneyWith A Record To Prove It.
-    subtitle: This is the subtitle
+    subtitle: Trusted and Highly Rated.
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
