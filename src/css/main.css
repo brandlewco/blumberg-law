@@ -141,9 +141,6 @@
             flex: 2;
         }
 
-        #hero-features article div {
-            shrink
-        }
     }
 
     @media only screen and (min-width: 768px) {
