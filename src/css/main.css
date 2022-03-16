@@ -134,7 +134,7 @@
         }
 
         #hero-features article{
-            flex-wrap: row;
+            flex-direction: row;
         }
 
         #hero-features article figure{
