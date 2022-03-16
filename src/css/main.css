@@ -168,7 +168,7 @@
         @apply w-full;
     }
     #hero-button-grid img {
-        @apply mr-
+        @apply mr-6;
     }
     #hero-button-grid a {
         @apply flex flex-row justify-start items-center w-full h-auto text-left;
