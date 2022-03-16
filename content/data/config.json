@@ -293,7 +293,7 @@
             {
                 "type": "Button",
                 "label": "602-277-6180",
-                "url": "mailto:info@lorem.mail",
+                "url": "tel:info@lorem.mail",
                 "altText": "Contact us",
                 "style": "secondary",
                 "showIcon": true,
