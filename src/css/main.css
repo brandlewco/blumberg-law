@@ -140,6 +140,8 @@
         #hero-features article .image{
             flex: 1;
         }
+
+        #hero-features article > 
     }
 
     @media only screen and (min-width: 768px) {
