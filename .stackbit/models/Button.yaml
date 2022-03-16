@@ -33,7 +33,7 @@ fields:
     label: Icon
     options:
       - label: Child Custody
-        value: apple
+        value: childCustody
       - label: Apple
         value: apple
       - label: Arrow left
