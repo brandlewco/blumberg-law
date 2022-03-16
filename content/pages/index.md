@@ -370,7 +370,7 @@ sections:
         caption: Super Lawyers Rated
     spacing: 32
     columns: 4
-    showCaption: false
+    showCaption: true
     enableHover: true
     styles:
       self:
