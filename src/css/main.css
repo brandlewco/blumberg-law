@@ -129,7 +129,7 @@
 
     /* custom */
     #call-us {
-        @apply text-3xl font-serif border-0;
+        @apply text-3xl font-serif border-0 shadow-none;
     }
     #call-us p {
         @apply m-0 p-0;
