@@ -22,7 +22,7 @@ import Send from '../../svgs/send';
 import Twitter from '../../svgs/twitter';
 import Vimeo from '../../svgs/vimeo';
 import YouTube from '../../svgs/youtube';
-import ChildCustody from '../../svgs/child-custody';
+import ChildCustody from '../../svgs/a-child-custody';
 import WhiteCollarCrime from '../../svgs/a-white-collar-crime';
 import DrugCrime from '../../svgs/a-drug-crime';
 import Clients from '../../svgs/a-clients';
