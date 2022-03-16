@@ -348,7 +348,7 @@ sections:
         textAlign: center
     type: TextSection
   - colors: colors-d
-    elementId: ''
+    elementId: hero-awards
     title: Top Criminal Defense AttorneyWith A Record To Prove It.
     subtitle: Trusted and Highly Rated.
     images:
