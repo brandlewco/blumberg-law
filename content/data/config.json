@@ -299,7 +299,7 @@
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
-                "elementId": "contact"
+                "elementId": "contact-call"
             }
         ],
         "styles": {
