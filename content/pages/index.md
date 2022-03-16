@@ -78,6 +78,8 @@ sections:
             textAlign: center
             alignItems: center
             justifyContent: flex-start
+            padding:
+              - pr-2
         featuredImage:
           url: /images/icon-jury.svg
           altText: altText of the image
