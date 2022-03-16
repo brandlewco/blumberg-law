@@ -353,7 +353,7 @@ sections:
     subtitle: Trusted and Highly Rated.
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/award-avvo-10.png
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
