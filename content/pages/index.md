@@ -199,7 +199,7 @@ sections:
             altText: Federal Crime
             url: /
             showIcon: false
-            icon: arrowRight
+            icon: gavel
             iconPosition: left
             style: secondary
             elementId: ''
