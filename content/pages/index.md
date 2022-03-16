@@ -171,7 +171,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Button
-            label: Learn more
+            label: Sex Crimes
             showIcon: true
             icon: arrowRight
             url: /
