@@ -158,7 +158,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Button
-            label: Learn more
+            label: Drug Crimes
             showIcon: true
             icon: arrowRight
             url: /
