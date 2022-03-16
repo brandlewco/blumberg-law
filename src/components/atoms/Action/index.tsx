@@ -97,7 +97,7 @@ export default function Action(props) {
             })}
             data-sb-field-path={annotations.join(' ').trim()}
         >
-            {label && <span><Markdown
+            {label && <Markdown
                     options={{ forceWrapper: true, wrapper: 'h3' }}
                     className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
                     {props.title}
