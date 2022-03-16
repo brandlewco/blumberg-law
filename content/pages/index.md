@@ -100,7 +100,7 @@ sections:
             showIcon: true
             icon: arrowRight
             url: /
-            style: secondary
+            style: primary
         styles:
           self:
             textAlign: center
