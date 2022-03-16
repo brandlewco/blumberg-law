@@ -289,7 +289,7 @@ sections:
         justifyContent: flex-start
     type: FeaturedItemsSection
     backgroundImage:
-      url: /images/dianne-ameter.png
+      url: /images/paper-texture.png
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
