@@ -100,7 +100,7 @@ export default function Action(props) {
             data-sb-field-path={annotations.join(' ').trim()}
         >
             <Markdown
-                options={{ forceWrapper: true }}
+                options={{ }}
                 className={""} data-sb-field-path=".label">
                 {label}
             </Markdown>
