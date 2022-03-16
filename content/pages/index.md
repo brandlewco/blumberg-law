@@ -296,7 +296,7 @@ sections:
       your life.
     text: >+
       <div class="flex flex-row justify-between items-start gap-12 text-base
-      text-left">
+      text-left font-sans">
 
       <div>At Blumberg & Associates, you’ll find the representation you need to
       get the best outcome available in your Arizona criminal law matter. We
