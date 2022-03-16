@@ -137,7 +137,7 @@
             flex-wrap: wrap;
         }
 
-        #hero-features article:first-child{
+        #hero-features article img{
             flex: 1;
         }
     }
