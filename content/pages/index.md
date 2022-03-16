@@ -362,7 +362,7 @@ sections:
         caption: Image two caption
       - type: ImageBlock
         url: /images/certified-specialist-state-bar-arizona.png
-        altText: Image three
+        altText: 'State Bar Of Arizona Certified Specialist '
         caption: Image three caption
       - type: ImageBlock
         url: /images/award-super-lawyers.png
