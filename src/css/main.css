@@ -149,6 +149,10 @@
          }
     }
 
+    #hero-button-grid {
+        
+    }
+
     
     .markdown-image img {
         @apply float-right w-1/3 ml-2 mt-2 mb-2;
