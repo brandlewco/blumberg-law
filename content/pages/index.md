@@ -199,6 +199,7 @@ sections:
           self:
             textAlign: left
             justifyContent: center
+            alignItems: center
       - elementId: ''
         subtitle: ''
         actions:
