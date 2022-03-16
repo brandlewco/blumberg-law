@@ -366,7 +366,7 @@ sections:
         caption: Image three caption
       - type: ImageBlock
         url: /images/award-super-lawyers.png
-        altText: Image four
+        altText: Super Lawyers Rated
         caption: Image four caption
     spacing: 32
     columns: 4
