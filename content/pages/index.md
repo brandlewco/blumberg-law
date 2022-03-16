@@ -214,7 +214,7 @@ sections:
           type: ImageBlock
           altText: Item image
         actions:
-          - label: Learn more
+          - label: White Collar Crime
             altText: ''
             url: /
             showIcon: false
