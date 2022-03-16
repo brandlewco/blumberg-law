@@ -213,9 +213,6 @@ sections:
             alignItems: center
             justifyContent: center
       - elementId: ''
-        featuredImage:
-          type: ImageBlock
-          altText: Item image
         actions:
           - label: White Collar Crime
             altText: White Collar Crime
