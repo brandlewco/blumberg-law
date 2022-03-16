@@ -225,7 +225,9 @@ sections:
             justifyContent: center
       - elementId: ''
         actions:
-          - label: White Collar Crime
+          - label: |+
+              #### White Collar Crime
+
             altText: White Collar Crime
             url: /
             showIcon: true
