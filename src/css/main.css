@@ -138,6 +138,8 @@
     #hero-features article {
             margin-top: -64px;
             position: relative;
+            display: flex;
+            flex-flow: column nowrap;
         }
     }
 
