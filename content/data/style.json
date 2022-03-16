@@ -72,7 +72,7 @@
         "letterSpacing": "wider",
         "borderRadius": "none",
         "borderStyle": "solid",
-        "horizontalPadding": 13,
+        "horizontalPadding": 11,
         "verticalPadding": 10,
         "shadow": "none"
     },
