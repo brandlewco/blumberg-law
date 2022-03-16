@@ -129,7 +129,7 @@
 
     /* custom */
     @media only screen and (max-width: 768px) {
-    #hero-features article {
+    #hero-features {
             @apply my-16;
         }
     }
