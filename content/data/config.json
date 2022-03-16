@@ -296,7 +296,7 @@
                 "url": "tel:+16022776180",
                 "altText": "Contact us",
                 "style": "secondary",
-                "showIcon": true,
+                "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right"
             }
