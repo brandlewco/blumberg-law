@@ -181,7 +181,6 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Focused
         text: |
           \=
         actions:
