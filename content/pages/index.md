@@ -196,7 +196,7 @@ sections:
         subtitle: ''
         actions:
           - label: Federal Crime
-            altText: ''
+            altText: Federal Crime
             url: /
             showIcon: false
             icon: arrowRight
