@@ -141,8 +141,8 @@
             flex: 1;
         }
 
-        #hero-features article > * {
-            
+        #hero-features article div {
+            flex: shrink;
         }
     }
 
