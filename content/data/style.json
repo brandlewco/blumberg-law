@@ -67,7 +67,7 @@
         "shadow": "none"
     },
     "buttonSecondary": {
-        "weight": "normal",
+        "weight": "medium",
         "case": "none",
         "letterSpacing": "normal",
         "borderRadius": "none",
