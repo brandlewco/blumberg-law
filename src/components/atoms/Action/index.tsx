@@ -1,4 +1,6 @@
 import * as React from 'react';
+import Markdown from 'markdown-to-jsx';
+
 import classNames from 'classnames';
 import Link from '../Link';
 import Apple from '../../svgs/apple';
