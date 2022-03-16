@@ -295,49 +295,6 @@ sections:
       opacity: 100
     backgroundSize: full
   - elementId: ''
-    colors: colors-c
-    backgroundSize: full
-    title: Time to leave your desk. Let’s go flying
-    subtitle: ''
-    text: 'We’re local, seasonal fisherman, supporting fishing restrictions.'
-    actions:
-      - type: Button
-        label: Join adventure
-        showIcon: true
-        icon: arrowRight
-        style: secondary
-        url: /
-    backgroundImage:
-      type: ImageBlock
-      url: /images/hero-3.png
-      backgroundSize: cover
-      backgroundPosition: center
-      opacity: 100
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-72
-          - pl-4
-          - pr-4
-        justifyContent: flex-start
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: FeatureHighlightSection
-  - elementId: ''
     colors: colors-a
     variant: variant-a
     title: >-
