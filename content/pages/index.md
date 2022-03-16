@@ -152,11 +152,10 @@ sections:
     type: FeaturedItemsSection
   - colors: colors-d
     elementId: hero-button-grid
-    title: |+
-      ### Phoenix’s Leading
+    title: |
+      Phoenix’s Leading
 
-      ### Criminal Defense Attorney.
-
+      Criminal Defense Attorney.
     subtitle: ''
     items:
       - type: FeaturedItem
