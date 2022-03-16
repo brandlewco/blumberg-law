@@ -170,7 +170,7 @@ sections:
         styles:
           self:
             textAlign: left
-            alignItems: flex-start
+            alignItems: center
             justifyContent: center
       - type: FeaturedItem
         actions:
