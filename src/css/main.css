@@ -137,7 +137,7 @@
             flex-direction: row;
         }
 
-        #hero-features article figure{
+        #hero-features article .image{
             flex: 1;
         }
     }
