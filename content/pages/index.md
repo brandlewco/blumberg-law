@@ -161,7 +161,9 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Button
-            label: Drug Crimes
+            label: |+
+              #### Drug Crimes
+
             showIcon: true
             url: /
             style: secondary
