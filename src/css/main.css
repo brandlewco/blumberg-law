@@ -141,7 +141,7 @@
             display: flex;
             flex-direction: column;
         }
-            #hero-features article .sb-component-button {
+    #hero-features article .sb-component-button {
         margin-top: auto;
     }
     }
