@@ -232,9 +232,9 @@ sections:
         subtitle: ''
         actions:
           - label: Child Custody & Parenting Time
-            altText: ''
+            altText: Child Custody & Parenting Time
             url: /
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: secondary
