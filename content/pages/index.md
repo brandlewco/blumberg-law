@@ -246,9 +246,10 @@ sections:
       - elementId: ''
         subtitle: ''
         actions:
-          - label: |+
-              #### Child Custody&#xA;&#xA;& Parenting Time
+          - label: |
+              #### Child Custody
 
+              #### & Parenting Time
             altText: Child Custody & Parenting Time
             url: /
             showIcon: true
