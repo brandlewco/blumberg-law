@@ -167,6 +167,7 @@ sections:
         styles:
           self:
             textAlign: left
+            alignItems: center
       - type: FeaturedItem
         title: Smarter
         text: >-
