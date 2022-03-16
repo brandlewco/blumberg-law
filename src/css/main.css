@@ -132,7 +132,7 @@
         @apply text-2xl;
     }
     #call-us strong{ 
-      @apply text-secondary font-serif text-xs;
+      @apply text-secondary font-serif text-xs leading-none;
     }
     @media only screen and (max-width: 768px) {
         #hero-features {
