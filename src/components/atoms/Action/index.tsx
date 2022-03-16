@@ -23,7 +23,14 @@ import Send from '../../svgs/send';
 import Twitter from '../../svgs/twitter';
 import Vimeo from '../../svgs/vimeo';
 import YouTube from '../../svgs/youtube';
-import ChildCustody from '../../svgs/a-child-custody';
+import ChildCustody from '../../svgs/child-custody';
+import WhiteCollarCrime from '../../svgs/a-white-collar-crime';
+import DrugCrime from '../../svgs/a-drug-crime';
+import Clients from '../../svgs/a-clients';
+import Gavel from '../../svgs/a-gavel';
+import Jury from '../../svgs/a-jury';
+import SexCrime from '../../svgs/a-sex-crime';
+import ViolentCrime from '../../svgs/a-violent-crime';
 
 
 const iconMap = {
@@ -49,7 +56,14 @@ const iconMap = {
     twitter: Twitter,
     vimeo: Vimeo,
     youtube: YouTube,
-    childCustody: ChildCustody
+    childCustody: ChildCustody,
+    clients: Clients,
+    drugCrime: DrugCrime,
+    gavel: Gavel,
+    jury: Jury,
+    sexCrime: SexCrime,
+    violentCrime: ViolentCrime,
+    whiteCollarCrime: WhiteCollarCrime,
 };
 
 export default function Action(props) {
@@ -85,7 +99,7 @@ export default function Action(props) {
             {label && <span>{label}</span>}
             {showIcon && IconComponent && (
                 <IconComponent
-                    className={classNames('fill-current', {
+                    className={classNames('fill-current h-5 w-5', {
                         'order-first': iconPosition === 'left',
                         'mr-1.5': label && iconPosition === 'left',
                         'ml-1.5': label && iconPosition === 'right'

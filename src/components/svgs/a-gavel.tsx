@@ -1,0 +1,7 @@
+import * as React from 'react';
+
+export default function Gavel({ className }) {
+    return (
+        <svg xmlns="http://www.w3.org/2000/svg" className={className + " h-24 w-24"} viewBox="0 0 126 126"><g transform="translate(-897 -878)"><circle cx="63" cy="63" r="63" transform="translate(897 878)" fill="#22366b"/><g transform="translate(1012.114 995.756)"><g transform="translate(-74.655 -78.082)"><rect width="22.59" height="6.187" transform="translate(22.492 40.965)" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="2"/><path d="M3.094,0H27.419a0,0,0,0,1,0,0V6.187a0,0,0,0,1,0,0H3.094A3.094,3.094,0,0,1,0,3.094v0A3.094,3.094,0,0,1,3.094,0Z" transform="translate(0 38.03) rotate(-45)" fill="none" stroke="#f0c02e" strokeMiterlimit="10" strokeWidth="2"/><rect width="17.037" height="11.277" transform="translate(23.526 6.832) rotate(45)" fill="none" stroke="#f0c02e" strokeMiterlimit="10" strokeWidth="2"/><rect width="6.676" height="17.247" transform="translate(13.441 16.917) rotate(-135)" fill="none" stroke="#f0c02e" strokeMiterlimit="10" strokeWidth="2"/><rect width="6.676" height="17.247" transform="translate(30.05 33.759) rotate(-135)" fill="none" stroke="#f0c02e" strokeMiterlimit="10" strokeWidth="2"/></g></g><g transform="translate(907 888)" fill="none" stroke="#fff" strokeWidth="1"><circle cx="53" cy="53" r="53" stroke="none"/><circle cx="53" cy="53" r="52.5" fill="none"/></g></g></svg>
+    );
+}
