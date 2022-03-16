@@ -66,13 +66,7 @@ sections:
           Bruce Blumberg has handled more than 100 jury trials including 5
           murder trials, and innumerable bench trials for clients charged with
           felonies and misdemeanors.
-        actions:
-          - type: Button
-            label: Learn more
-            showIcon: true
-            icon: arrowRight
-            url: /
-            style: secondary
+        actions: []
         styles:
           self:
             textAlign: center
