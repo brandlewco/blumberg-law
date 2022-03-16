@@ -209,7 +209,7 @@ sections:
             showIcon: true
             icon: gavel
             iconPosition: left
-            style: primary
+            style: secondary
             elementId: ''
             type: Button
         styles:
