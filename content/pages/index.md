@@ -152,7 +152,7 @@ sections:
     type: FeaturedItemsSection
   - colors: colors-d
     elementId: ''
-    title: Phoenix’s LeadingCriminal Defense Attorney.
+    title: Phoenix’s Leading Criminal Defense Attorney.
     subtitle: ''
     items:
       - type: FeaturedItem
