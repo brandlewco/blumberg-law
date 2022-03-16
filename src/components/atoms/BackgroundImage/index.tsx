@@ -13,7 +13,7 @@ export default function BackgroundImage(props) {
     const backgroundImagePosition = props.backgroundPosition || 'center';
     return (
         <div
-            className={classNames('absolute', 'inset-0', 'bg-no-repeat', mapStyles({ backgroundSize: backgroundImageSize }), mapStyles({ backgroundPosition: backgroundImagePosition }), cssClasses)}
+            className={classNames('absolute', 'inset-0', mapStyles({ backgroundSize: backgroundImageSize }), mapStyles({ backgroundPosition: backgroundImagePosition }), cssClasses)}
             style={{
                 backgroundImage: `url('${url}')`,
                 opacity: imageOpacity * 0.01
