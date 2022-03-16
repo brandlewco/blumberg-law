@@ -132,6 +132,10 @@
     #hero-features {
             @apply py-16;
         }
+
+        #hero-features {
+            @apply py-16;
+        }
     }
 
     @media only screen and (min-width: 768px) {
