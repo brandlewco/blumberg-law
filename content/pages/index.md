@@ -195,7 +195,7 @@ sections:
       - elementId: ''
         subtitle: ''
         actions:
-          - label: Learn more
+          - label: Federal Crime
             altText: ''
             url: /
             showIcon: false
