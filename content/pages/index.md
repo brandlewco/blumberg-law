@@ -135,7 +135,7 @@ sections:
             alignItems: center
             justifyContent: flex-start
             padding:
-              - pl-2
+              - pl-4
         featuredImage:
           url: /images/icon-clients.svg
           altText: altText of the image
