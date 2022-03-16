@@ -68,7 +68,7 @@
     },
     "buttonSecondary": {
         "weight": "medium",
-        "case": "lowercase",
+        "case": "uppercase",
         "letterSpacing": "wider",
         "borderRadius": "none",
         "borderStyle": "solid",
