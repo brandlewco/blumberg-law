@@ -235,7 +235,7 @@ sections:
             altText: Child Custody & Parenting Time
             url: /
             showIcon: true
-            icon: childCustody
+            icon: clients
             iconPosition: left
             style: secondary
             elementId: ''
