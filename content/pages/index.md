@@ -188,6 +188,7 @@ sections:
             icon: violentCrime
             url: /
             style: secondary
+            iconPosition: left
         styles:
           self:
             textAlign: left
