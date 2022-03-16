@@ -178,7 +178,7 @@
     }
 
     #hero-awards img {
-        @apply h-
+        @apply h-32;
     }
 
     .markdown-image img {
