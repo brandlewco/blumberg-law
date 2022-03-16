@@ -173,7 +173,7 @@ sections:
           - type: Button
             label: Sex Crimes
             showIcon: true
-            icon: arrowRight
+            icon: sexCrime
             url: /
             style: secondary
         styles:
