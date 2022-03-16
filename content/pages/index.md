@@ -289,7 +289,7 @@ sections:
         justifyContent: flex-start
     type: FeaturedItemsSection
     backgroundImage:
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/dianne-ameter.png
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
