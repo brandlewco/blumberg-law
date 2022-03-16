@@ -53,6 +53,9 @@ sections:
       actions:
         justifyContent: flex-start
     backgroundSize: full
+    text: |+
+      TEST
+
   - colors: colors-b
     elementId: hero-features
     subtitle: ''
