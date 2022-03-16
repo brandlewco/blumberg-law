@@ -97,11 +97,11 @@ export default function Action(props) {
             })}
             data-sb-field-path={annotations.join(' ').trim()}
         >
-            {label && <Markdown
+            <Markdown
                 options={{ forceWrapper: true, wrapper: 'h3' }}
                 className={} data-sb-field-path=".label">
                 {.label}
-            </Markdown>}
+            </Markdown>
             {showIcon && IconComponent && (
                 <IconComponent
                     className={classNames('fill-current', {
