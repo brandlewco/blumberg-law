@@ -182,10 +182,8 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Focused
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |
+          \=
         actions:
           - type: Button
             label: Learn more
