@@ -367,7 +367,9 @@ sections:
       - type: ImageBlock
         url: /images/award-super-lawyers.png
         altText: Super Lawyers Rated
-        caption: Image four caption
+        caption: |-
+          Top Crimal Defense Attorney
+          With A Record To Prove It. 
     spacing: 32
     columns: 4
     showCaption: false
