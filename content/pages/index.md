@@ -231,7 +231,7 @@ sections:
       - elementId: ''
         subtitle: ''
         actions:
-          - label: Learn more
+          - label: Child Custody & Parenting Time
             altText: ''
             url: /
             showIcon: false
