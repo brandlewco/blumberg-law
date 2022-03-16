@@ -24,7 +24,7 @@ export default function FeaturedItemsSection(props) {
                 'sb-component',
                 'sb-component-section',
                 'sb-component-feature-highlight-section',
-                                    bgSize === 'inset' ? 'w-full' : null,
+                    bgSize === 'inset' ? 'w-full' : null,
                     bgSize === 'inset' ? mapMaxWidthStyles(sectionWidth) : null,
                 colors,
                 'flex',
