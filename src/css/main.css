@@ -149,7 +149,7 @@
          }
     }
 
-    #hero-button-grid a:link {
+    #hero-button-grid a {
         @apply flex flex-row justify-start items-center w-full h-auto;
     }
 
