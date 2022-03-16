@@ -140,6 +140,7 @@
                 position: relative;
                 display: flex;
                 flex-direction: column;
+                @apply px-16;
             }
         #hero-features article div:last-child {
             margin-top: auto !important;
