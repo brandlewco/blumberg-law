@@ -43,7 +43,7 @@ export default function FeaturedItemsSection(props) {
             }}
         >   
         {props.backgroundImage && <BackgroundImage {...props.backgroundImage} />}
-            <div className={classNames('flex', 'w-full', mapStyles({ justifyContent: sectionJustifyContent }))}>
+            <div className={classNames('flex', 'w-full', 'z-10', mapStyles({ justifyContent: sectionJustifyContent }))}>
                 <div className={classNames('w-full', mapMaxWidthStyles(sectionWidth))}>
                     {props.title && (
                         <Markdown
