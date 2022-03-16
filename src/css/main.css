@@ -130,7 +130,7 @@
     /* custom */
     @media only screen and (max-width: 768px) {
     #hero-features {
-            @apply my-16;
+            @apply py-16;
         }
     }
 
