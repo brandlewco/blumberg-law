@@ -176,8 +176,8 @@
     #hero-button-grid a {
         @apply flex flex-row justify-start items-center w-full h-auto text-left;
     }
-    #hero-awards {
-        @apply flex flex-row justify-center;
+    #hero-awards figure {
+        @apply flex flex-row justify-center overflow-visible;
     }
     #hero-awards img {
         @apply h-32 w-auto;
