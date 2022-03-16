@@ -131,7 +131,9 @@
     #call-us {
         @apply text-2xl;
     }
-    
+    #call-us strong{ 
+      @apply text-secondary 
+    }
     @media only screen and (max-width: 768px) {
         #hero-features {
             @apply py-16;
