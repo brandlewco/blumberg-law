@@ -193,7 +193,9 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Button
-            label: Violent Crimes
+            label: |+
+              #### Violent Crimes
+
             showIcon: true
             icon: violentCrime
             url: /
