@@ -163,7 +163,7 @@ sections:
             url: /
             style: secondary
             iconPosition: left
-            icon: apple
+            icon: drugCrime
         styles:
           self:
             textAlign: left
