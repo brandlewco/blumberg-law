@@ -210,7 +210,6 @@ sections:
             alignItems: center
             justifyContent: center
       - elementId: ''
-        subtitle: White Collar Crime
         featuredImage:
           type: ImageBlock
           altText: Item image
