@@ -136,11 +136,6 @@
         #hero-features article{
             flex-direction: row;
         }
-
-        #hero-features article .image{
-            flex: 0;
-        }
-
     }
 
     @media only screen and (min-width: 768px) {
