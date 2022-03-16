@@ -149,7 +149,7 @@
          }
     }
 
-    #hero-button-grid a {
+    #hero-button-grid div > a {
         @apply flex flex-row justify-start items-center w-full h-auto;
     }
 
