@@ -163,6 +163,7 @@ sections:
             url: /
             style: secondary
             iconPosition: left
+            icon: childCustody
         styles:
           self:
             textAlign: left
