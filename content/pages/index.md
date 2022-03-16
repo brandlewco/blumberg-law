@@ -361,7 +361,7 @@ sections:
         altText: Image two
         caption: Image two caption
       - type: ImageBlock
-        url: /images/gallery-3.jpg
+        url: /images/certified-specialist-state-bar-arizona.png
         altText: Image three
         caption: Image three caption
       - type: ImageBlock
