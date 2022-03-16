@@ -140,7 +140,7 @@
                 @apply flex flex-col relative;
             }
         #hero-features article div:last-child {
-            margin-top: auto !important;
+            /* margin-top: auto !important; */
         }
          #hero-features article:nth-child(2)::after{
              content: "";
