@@ -241,7 +241,7 @@ sections:
             url: /
             showIcon: true
             icon: childCustody
-            iconPosition: right
+            iconPosition: left
             style: secondary
             elementId: ''
             type: Button
