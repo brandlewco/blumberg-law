@@ -181,8 +181,6 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        text: |
-          \=
         actions:
           - type: Button
             label: Learn more
