@@ -137,8 +137,8 @@
             @apply flex-row;
         }
 
-        #hero-features article{
-            @apply flex-row;
+        #hero-features article:first-child{
+            @apply flex-1;
         }
     }
 
