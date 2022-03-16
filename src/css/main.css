@@ -129,7 +129,7 @@
 
     /* custom */
     #call-us {
-        @apply text-2xl;
+        @apply text-1xl;
     }
     @media only screen and (max-width: 768px) {
         #hero-features {
