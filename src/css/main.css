@@ -136,7 +136,7 @@
     }
 
     #call-us strong{ 
-      @apply text-secondary font-serif leading-none;
+      @apply text-secondary font-serif;
       font-size: 0.5rem;
     }
     #call-us:hover{
