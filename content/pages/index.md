@@ -289,7 +289,7 @@ sections:
         justifyContent: flex-start
     type: FeaturedItemsSection
   - elementId: ''
-    colors: colors-e
+    colors: colors-a
     variant: variant-a
     title: >-
       A lawyer with the skills and experience you need when facing the fight of
