@@ -359,7 +359,7 @@ sections:
       - type: ImageBlock
         url: /images/award-av-preeminent.png
         altText: AV Preeminent Lawyer Ratings
-        caption: Image two caption
+        caption: AV Preeminent Lawyer Ratings
       - type: ImageBlock
         url: /images/certified-specialist-state-bar-arizona.png
         altText: State Bar Of Arizona Certified Specialist - Criminal Law
