@@ -369,7 +369,7 @@ sections:
         altText: Super Lawyers Rated
         caption: Super Lawyers Rated
     spacing: 32
-    columns: 4
+    columns: 5
     showCaption: false
     enableHover: true
     styles:
