@@ -177,7 +177,7 @@
         @apply flex flex-row justify-start items-center w-full h-auto text-left;
     }
     #hero-awards figure {
-        @apply flex flex-row justify-center;
+        @apply flex flex-row justify-center overflow-auto;
     }
     #hero-awards img {
         @apply h-32 w-auto;
