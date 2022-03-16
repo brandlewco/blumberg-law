@@ -184,6 +184,7 @@ sections:
         styles:
           self:
             textAlign: left
+            alignItems: center
       - type: FeaturedItem
         actions:
           - type: Button
