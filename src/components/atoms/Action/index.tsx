@@ -101,7 +101,7 @@ export default function Action(props) {
         >
             <Markdown
                 options={{ forceWrapper: true, wrapper: 'h3' }}
-                className={} data-sb-field-path=".label">
+                className={""} data-sb-field-path=".label">
                 {label}
             </Markdown>
             {showIcon && IconComponent && (
