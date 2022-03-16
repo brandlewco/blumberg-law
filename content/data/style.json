@@ -67,9 +67,9 @@
         "shadow": "none"
     },
     "buttonSecondary": {
-        "weight": "normal",
+        "weight": "medium",
         "case": "none",
-        "letterSpacing": "normal",
+        "letterSpacing": "wider",
         "borderRadius": "none",
         "borderStyle": "solid",
         "horizontalPadding": 20,

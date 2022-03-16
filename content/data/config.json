@@ -292,13 +292,14 @@
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "Contact us",
-                "url": "mailto:info@lorem.mail",
+                "label": "602-277-6180",
+                "url": "tel:+16022776180",
                 "altText": "Contact us",
                 "style": "secondary",
-                "showIcon": true,
+                "showIcon": false,
                 "icon": "arrowRight",
-                "iconPosition": "right"
+                "iconPosition": "right",
+                "elementId": "call-us"
             }
         ],
         "styles": {
