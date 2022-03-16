@@ -1,5 +1,6 @@
 import * as React from 'react';
 import classNames from 'classnames';
+import Markdown from 'markdown-to-jsx';
 
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 import { getDataAttrs } from '../../../utils/get-data-attrs';
@@ -40,9 +41,11 @@ export default function FeaturedItemsSection(props) {
             <div className={classNames('flex', 'w-full', mapStyles({ justifyContent: sectionJustifyContent }))}>
                 <div className={classNames('w-full', mapMaxWidthStyles(sectionWidth))}>
                     {props.title && (
-                        <h2 className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
-                            {props.title}
-                        </h2>
+                        <Markdown
+                        options={{ forceWrapper: true, wrapper: 'h2' }}
+                        className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
+                        {props.title}
+                        </Markdown>
                     )}
                     {props.subtitle && (
                         <p
