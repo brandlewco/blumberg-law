@@ -1,7 +1,6 @@
 import * as React from 'react';
 import classNames from 'classnames';
 import Link from '../Link';
-import MenuDown from '../../svgs/menu-down';
 import Apple from '../../svgs/apple';
 import ArrowLeft from '../../svgs/arrow-left';
 import ArrowLeftCircle from '../../svgs/arrow-left-circle';
@@ -31,6 +30,8 @@ import Gavel from '../../svgs/a-gavel';
 import Jury from '../../svgs/a-jury';
 import SexCrime from '../../svgs/a-sex-crime';
 import ViolentCrime from '../../svgs/a-violent-crime';
+import MenuDown from '../../svgs/menu-down';
+
 
 
 const iconMap = {
