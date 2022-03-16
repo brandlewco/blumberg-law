@@ -293,7 +293,6 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
-    backgroundSize: inset
   - elementId: ''
     colors: colors-a
     variant: variant-a
