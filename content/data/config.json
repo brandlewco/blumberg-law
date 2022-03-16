@@ -298,7 +298,8 @@
                 "style": "secondary",
                 "showIcon": false,
                 "icon": "arrowRight",
-                "iconPosition": "right"
+                "iconPosition": "right",
+                "elementId": "contact"
             }
         ],
         "styles": {
