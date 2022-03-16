@@ -144,7 +144,7 @@
         #hero-features article div:last-child {
             margin-top: auto !important;
         }
-         #hero-features article:{
+         #hero-features article:nth-child(2){
     }
 
     
