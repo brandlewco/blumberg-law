@@ -110,7 +110,7 @@ sections:
             borderColor: border-complementary
             borderStyle: solid
             padding:
-              - pr-4
+              - pl-4
         featuredImage:
           url: /images/icon-gavel.svg
           altText: altText of the image
