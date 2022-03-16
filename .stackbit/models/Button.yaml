@@ -34,6 +34,8 @@ fields:
     options:
       - label: Apple
         value: apple
+      - label: Apple
+        value: apple
       - label: Arrow left
         value: arrowLeft
       - label: Arrow left circle
