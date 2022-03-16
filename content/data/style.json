@@ -70,7 +70,7 @@
         "weight": "medium",
         "case": "uppercase",
         "letterSpacing": "wider",
-        "borderRadius": "md",
+        "borderRadius": "full",
         "borderStyle": "solid",
         "horizontalPadding": 16,
         "verticalPadding": 16,
