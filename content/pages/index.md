@@ -81,7 +81,7 @@ sections:
             padding:
               - pr-4
         featuredImage:
-          url: /images/icon-jury.svg
+          url: /images/icon-jury-d2332d6b.svg
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
