@@ -135,15 +135,15 @@
     }
 
     @media only screen and (min-width: 768px) {
-    #hero-features article {
-            margin-top: -64px;
-            position: relative;
-            display: flex;
-            flex-direction: column;
+        #hero-features article {
+                margin-top: -64px;
+                position: relative;
+                display: flex;
+                flex-direction: column;
+            }
+        #hero-features article .sb-component-button {
+            margin-top: auto;
         }
-    #hero-features article .sb-component-button {
-        margin-top: auto;
-    }
     }
 
     
