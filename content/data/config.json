@@ -138,7 +138,9 @@
                         "iconPosition": "right",
                         "elementId": ""
                     }
-                ]
+                ],
+                "showIcon": true,
+                "icon": "arrowLeftCircle"
             },
             {
                 "label": "Family Law",
