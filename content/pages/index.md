@@ -185,6 +185,7 @@ sections:
           self:
             textAlign: left
             alignItems: center
+            justifyContent: center
       - type: FeaturedItem
         actions:
           - type: Button
