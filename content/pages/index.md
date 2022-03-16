@@ -198,7 +198,7 @@ sections:
           - label: Federal Crime
             altText: Federal Crime
             url: /
-            showIcon: false
+            showIcon: true
             icon: gavel
             iconPosition: left
             style: secondary
