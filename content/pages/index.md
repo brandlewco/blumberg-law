@@ -363,7 +363,7 @@ sections:
       - type: ImageBlock
         url: /images/certified-specialist-state-bar-arizona.png
         altText: State Bar Of Arizona Certified Specialist - Criminal Law
-        caption: Image three caption
+        caption: State Bar Of Arizona Certified Specialist - Criminal Law
       - type: ImageBlock
         url: /images/award-super-lawyers.png
         altText: Super Lawyers Rated
