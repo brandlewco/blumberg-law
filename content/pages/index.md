@@ -111,6 +111,7 @@ sections:
             borderStyle: solid
             padding:
               - pl-4
+              - pr-4
         featuredImage:
           url: /images/icon-gavel.svg
           altText: altText of the image
