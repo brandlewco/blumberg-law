@@ -217,9 +217,9 @@ sections:
           - label: White Collar Crime
             altText: White Collar Crime
             url: /
-            showIcon: false
+            showIcon: true
             icon: arrowRight
-            iconPosition: right
+            iconPosition: left
             style: secondary
             elementId: ''
             type: Button
