@@ -152,7 +152,7 @@ sections:
     type: FeaturedItemsSection
   - colors: colors-d
     elementId: ''
-    title: Key value propositions
+    title: Phoenix’s LeadingCriminal Defense Attorney.
     subtitle: ''
     items:
       - type: FeaturedItem
