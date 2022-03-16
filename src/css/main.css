@@ -145,6 +145,8 @@
             margin-top: auto !important;
         }
          #hero-features article:nth-child(2){
+             @apply
+         }
     }
 
     
