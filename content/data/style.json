@@ -74,7 +74,8 @@
         "borderStyle": "solid",
         "horizontalPadding": 16,
         "verticalPadding": 16,
-        "shadow": "md"
+        "shadow": "md",
+        "size": "base"
     },
     "link": {
         "weight": "normal",
