@@ -229,6 +229,7 @@ sections:
             textAlign: left
             alignItems: center
             justifyContent: center
+        title: White Collar Crime
       - elementId: ''
         subtitle: ''
         featuredImage:
