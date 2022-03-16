@@ -145,7 +145,7 @@
             margin-top: auto !important;
         }
          #hero-features article:nth-child(2){
-             @apply border-l-2 border-r-2 border-solid border-primary;
+             @apply border-l-2 border-r-2 border-solid border-white;
          }
     }
 
