@@ -145,7 +145,7 @@
          #hero-features article:nth-child(2)::after{
              content: "";
              width: calc(100% + 2rem);
-             @apply absolute h-full pt- top-0 bottom-0 pb-2 border-l-2 border-r-2 border-solid border-white;
+             @apply absolute h-full pt-64 top-0 bottom-0 pb-2 border-l-2 border-r-2 border-solid border-white;
          }
     }
 
