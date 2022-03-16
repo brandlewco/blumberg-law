@@ -32,6 +32,8 @@ fields:
     group: styles
     label: Icon
     options:
+      - label: Child Custody
+        value: childCustody
       - label: Apple
         value: apple
       - label: Arrow left
