@@ -370,7 +370,7 @@ sections:
         caption: Image four caption
     spacing: 16
     columns: 4
-    aspectRatio: '4:3'
+    aspectRatio: '1:1'
     showCaption: false
     enableHover: true
     styles:
