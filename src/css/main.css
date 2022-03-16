@@ -133,8 +133,8 @@
             @apply py-16;
         }
 
-        #hero-features {
-            @apply py-16;
+        #hero-features article{
+            @apply flex-col;
         }
     }
 
