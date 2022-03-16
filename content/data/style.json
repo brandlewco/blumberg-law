@@ -71,7 +71,7 @@
         "case": "uppercase",
         "letterSpacing": "wider",
         "borderRadius": "none",
-        "borderStyle": "double",
+        "borderStyle": "solid",
         "horizontalPadding": 16,
         "verticalPadding": 16,
         "shadow": "md"
