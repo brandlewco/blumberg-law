@@ -215,7 +215,7 @@ sections:
           altText: Item image
         actions:
           - label: White Collar Crime
-            altText: ''
+            altText: White Collar Crime
             url: /
             showIcon: false
             icon: arrowRight
