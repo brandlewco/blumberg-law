@@ -152,7 +152,7 @@ sections:
     type: FeaturedItemsSection
   - colors: colors-d
     elementId: ''
-    title: Phoenix’s LeadingCriminal Defense Attorney.
+    title: Phoenix’s Leading Criminal Defense Attorney.
     subtitle: ''
     items:
       - type: FeaturedItem
@@ -169,37 +169,82 @@ sections:
             textAlign: left
             alignItems: center
       - type: FeaturedItem
-        title: Smarter
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
         actions:
           - type: Button
-            label: Learn more
+            label: Sex Crimes
             showIcon: true
-            icon: arrowRight
+            icon: sexCrime
             url: /
             style: secondary
+            iconPosition: left
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Focused
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
         actions:
           - type: Button
-            label: Learn more
+            label: Violent Crimes
             showIcon: true
-            icon: arrowRight
+            icon: violentCrime
             url: /
             style: secondary
+            iconPosition: left
         styles:
           self:
             textAlign: left
+      - elementId: ''
+        subtitle: ''
+        actions:
+          - label: Federal Crime
+            altText: Federal Crime
+            url: /
+            showIcon: true
+            icon: gavel
+            iconPosition: left
+            style: secondary
+            elementId: ''
+            type: Button
+        styles:
+          self:
+            textAlign: left
+            alignItems: center
+            justifyContent: center
+      - elementId: ''
+        featuredImage:
+          type: ImageBlock
+          altText: Item image
+        actions:
+          - label: White Collar Crime
+            altText: White Collar Crime
+            url: /
+            showIcon: true
+            icon: whiteCollarCrime
+            iconPosition: left
+            style: secondary
+            elementId: ''
+            type: Button
+        styles:
+          self:
+            textAlign: left
+            alignItems: center
+            justifyContent: center
+      - elementId: ''
+        subtitle: ''
+        actions:
+          - label: Child Custody & Parenting Time
+            altText: Child Custody & Parenting Time
+            url: /
+            showIcon: true
+            icon: childCustody
+            iconPosition: left
+            style: secondary
+            elementId: ''
+            type: Button
+        styles:
+          self:
+            textAlign: left
+            alignItems: center
+            justifyContent: center
     actions: []
     columns: 3
     enableHover: false
