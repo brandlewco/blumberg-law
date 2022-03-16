@@ -193,7 +193,6 @@ sections:
           self:
             textAlign: left
       - elementId: ''
-        title: Item Title
         subtitle: ''
         actions: []
         styles:
