@@ -30,6 +30,7 @@ export default function FeaturedItemsSection(props) {
                 'flex',
                 'flex-col',
                 'justify-center',
+                'relative',
                 mapMinHeightStyles(sectionHeight),
                 styles.self?.margin,
                 styles.self?.padding || 'py-12 px-4',
