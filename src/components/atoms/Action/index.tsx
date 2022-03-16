@@ -101,7 +101,7 @@ export default function Action(props) {
                     options={{ forceWrapper: true, wrapper: 'h3' }}
                     className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
                     {props.title}
-                </Markdown></span>}
+                </Markdown>}
             {showIcon && IconComponent && (
                 <IconComponent
                     className={classNames('fill-current', {
