@@ -140,7 +140,6 @@
                 position: relative;
                 display: flex;
                 flex-direction: column;
-                height: 100%;
             }
         #hero-features article .sb-component-button {
             margin-top: auto;
