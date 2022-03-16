@@ -293,6 +293,7 @@ sections:
       backgroundSize: auto
       backgroundPosition: center
       opacity: 100
+    backgroundSize: full
   - elementId: ''
     colors: colors-a
     variant: variant-a
