@@ -136,16 +136,7 @@ sections:
           caption: Caption of the image
           elementId: ''
           type: ImageBlock
-    actions:
-      - label: Learn more
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     columns: 3
     enableHover: true
     styles:
