@@ -39,8 +39,7 @@ export default function FeaturedItemsSection(props) {
             style={{
                 borderWidth: styles.self?.borderWidth ? `${styles.self?.borderWidth}px` : null
             }}
-        >                {props.backgroundImage && <BackgroundImage {...props.backgroundImage} />}
-
+        >      {props.backgroundImage && <BackgroundImage {...props.backgroundImage} />}
             <div className={classNames('flex', 'w-full', mapStyles({ justifyContent: sectionJustifyContent }))}>
                 <div className={classNames('w-full', mapMaxWidthStyles(sectionWidth))}>
                     {props.title && (
