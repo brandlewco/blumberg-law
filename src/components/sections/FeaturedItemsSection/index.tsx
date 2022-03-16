@@ -4,13 +4,14 @@ import Markdown from 'markdown-to-jsx';
 
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 import { getDataAttrs } from '../../../utils/get-data-attrs';
-import Action from '../../atoms/Action';
+import { Action, BackgroundImage } from '../../atoms';
 import FeaturedItem from './FeaturedItem';
 
 export default function FeaturedItemsSection(props) {
     const cssId = props.elementId || null;
     const colors = props.colors || 'colors-d';
     const styles = props.styles || {};
+    const bgSize = props.backgroundSize || 'full';
     const sectionWidth = styles.self?.width || 'wide';
     const sectionHeight = styles.self?.height || 'auto';
     const sectionJustifyContent = styles.self?.justifyContent || 'center';
@@ -22,7 +23,8 @@ export default function FeaturedItemsSection(props) {
             className={classNames(
                 'sb-component',
                 'sb-component-section',
-                'sb-component-featured-items-section',
+                'sb-component-feature-highlight-section',
+                bgSize === 'inset' ? 'flex justify-center' : null,
                 colors,
                 'flex',
                 'flex-col',
@@ -32,12 +34,13 @@ export default function FeaturedItemsSection(props) {
                 styles.self?.padding || 'py-12 px-4',
                 styles.self?.borderColor,
                 styles.self?.borderStyle ? mapStyles({ borderStyle: styles.self?.borderStyle }) : 'border-none',
-                styles.self?.borderRadius ? mapStyles({ borderRadius: styles.self?.borderRadius }) : null
+                styles.self?.borderRadius ? mapStyles({ borderRadius: styles.self?.borderRadius }) : null,
             )}
             style={{
                 borderWidth: styles.self?.borderWidth ? `${styles.self?.borderWidth}px` : null
             }}
-        >
+        >                {props.backgroundImage && <BackgroundImage {...props.backgroundImage} />}
+
             <div className={classNames('flex', 'w-full', mapStyles({ justifyContent: sectionJustifyContent }))}>
                 <div className={classNames('w-full', mapMaxWidthStyles(sectionWidth))}>
                     {props.title && (
