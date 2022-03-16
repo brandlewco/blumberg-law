@@ -293,6 +293,7 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
+    backgroundSize: full
   - elementId: ''
     colors: colors-c
     backgroundSize: full
