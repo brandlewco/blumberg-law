@@ -23,7 +23,7 @@ import Send from '../../svgs/send';
 import Twitter from '../../svgs/twitter';
 import Vimeo from '../../svgs/vimeo';
 import YouTube from '../../svgs/youtube';
-import ChildCustody from '../../svgs/child-custody';
+import ChildCustody from '../../svgs/a-child-custody';
 
 
 const iconMap = {
@@ -85,7 +85,7 @@ export default function Action(props) {
             {label && <span>{label}</span>}
             {showIcon && IconComponent && (
                 <IconComponent
-                    className={classNames('fill-current h-5 w-5', {
+                    className={classNames('fill-current', {
                         'order-first': iconPosition === 'left',
                         'mr-1.5': label && iconPosition === 'left',
                         'ml-1.5': label && iconPosition === 'right'
