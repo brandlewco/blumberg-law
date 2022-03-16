@@ -8,7 +8,7 @@ fieldGroups:
   - name: settings
     label: Settings
 fields:
-  - type: string
+  - type: markdown
     name: label
     label: Label
     default: Learn more
