@@ -230,7 +230,16 @@ sections:
             justifyContent: center
       - elementId: ''
         subtitle: ''
-        actions: []
+        actions:
+          - label: Learn more
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+            type: Button
         styles:
           self:
             textAlign: left
