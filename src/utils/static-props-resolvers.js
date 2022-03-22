@@ -44,6 +44,9 @@ const StaticPropsResolvers = {
     PostLayout: (props, data, debugContext) => {
         return resolveReferences(props, ['author', 'category'], data.objects, debugContext);
     },
+    CasesLayout: (props, data, debugContext) => {
+        return resolveReferences(props, ['author', 'category'], data.objects, debugContext);
+    },
     PostFeedLayout: (props, data) => {
         const numOfPostsPerPage = props.numOfPostsPerPage ?? 10;
         const allPosts = getAllPostsSorted(data.objects);
@@ -68,23 +71,6 @@ const StaticPropsResolvers = {
         };
     },
     Person: (props, data) => {
-        const authorId = props.__metadata?.id;
-        const allAuthorPosts = getAllAuthorPostsSorted(data.objects, authorId);
-        const paginationData = getPagedItemsForPage(props, allAuthorPosts, 10);
-        const items = resolveReferences(paginationData.items, ['author', 'category'], data.objects);
-        return {
-            ...props,
-            ...paginationData,
-            items,
-            layout: 'PostFeedLayout',
-            postFeed: {
-                showAuthor: true,
-                showDate: true,
-                variant: 'variant-d'
-            }
-        };
-    },
-    Cases: (props, data) => {
         const authorId = props.__metadata?.id;
         const allAuthorPosts = getAllAuthorPostsSorted(data.objects, authorId);
         const paginationData = getPagedItemsForPage(props, allAuthorPosts, 10);

@@ -21,10 +21,12 @@ contentModels:
     isPage: true
     urlPath: '/blog/{slug}'
     newFilePath: 'blog/{slug}.md'
+  CasesLayout:
+    isPage: true
+    urlPath: '/blog/{slug}'
+    newFilePath: 'blog/{slug}.md'
   Person:
     newFilePath: 'team/{slug}.json'
-  Cases:
-    newFilePath: 'cases/{slug}.json'
   PostFeedLayout:
     isPage: true
     singleInstance: true

@@ -28,7 +28,7 @@
             {
                 "type": "Link",
                 "label": "Criminal Defense",
-                "url": "/blog",
+                "url": "/phoenix-criminal-attorney/criminal-defense",
                 "altText": "",
                 "styles": {
                     "self": {
@@ -69,7 +69,7 @@
                     {
                         "label": "Drug Crimes",
                         "altText": "",
-                        "url": "/",
+                        "url": "/phoenix-criminal-attorney/drug-crimes/",
                         "showIcon": false,
                         "icon": "arrowRight",
                         "iconPosition": "right",
@@ -114,7 +114,7 @@
                     {
                         "label": "Sex Crimes",
                         "altText": "",
-                        "url": "https://www.azblumberglaw.com/phoenix-criminal-attorney/sex-crimes/",
+                        "url": "/phoenix-criminal-attorney/sex-crimes/",
                         "showIcon": false,
                         "icon": "arrowRight",
                         "iconPosition": "right",
@@ -145,12 +145,12 @@
             {
                 "label": "Family Law",
                 "altText": "",
-                "url": "/",
+                "url": "/phoenix-criminal-attorney/family-law/",
                 "child": [
                     {
                         "label": "Child Custody & Parenting Time",
                         "altText": "",
-                        "url": "/",
+                        "url": "/phoenix-criminal-attorney/child-custody/",
                         "showIcon": false,
                         "icon": "arrowRight",
                         "iconPosition": "right",
@@ -159,7 +159,7 @@
                     {
                         "label": "Divorce",
                         "altText": "",
-                        "url": "/",
+                        "url": "/phoenix-criminal-attorney/divorce/",
                         "showIcon": false,
                         "icon": "arrowRight",
                         "iconPosition": "right",
@@ -230,7 +230,7 @@
             {
                 "label": "Testimonials",
                 "altText": "",
-                "url": "/",
+                "url": "/testimonials",
                 "child": [],
                 "showIcon": false,
                 "icon": "arrowRight",
@@ -271,7 +271,7 @@
             {
                 "label": "Contact",
                 "altText": "",
-                "url": "/",
+                "url": "/contact",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
