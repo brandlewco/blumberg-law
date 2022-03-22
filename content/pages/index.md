@@ -31,14 +31,14 @@ sections:
     styles:
       self:
         height: auto
-        width: narrow
+        width: wide
         margin:
           - mt-0
           - mb-0
         padding:
           - pt-48
           - pb-48
-          - pr-8
+          - pr-96
           - pl-8
         alignItems: center
         justifyContent: center
