@@ -352,6 +352,52 @@ sections:
       text:
         textAlign: left
     type: TextSection
+  - colors: colors-d
+    elementId: hero-awards
+    title: Top Criminal Defense Attorney With A Record To Prove It.
+    subtitle: Trusted and Highly Rated.
+    images:
+      - type: ImageBlock
+        url: /images/award-avvo-10.png
+        altText: AVVO 10.0 Superb Top Attorney Criminal Defense
+        caption: AVVO 10.0 Superb Top Attorney Criminal Defense
+      - type: ImageBlock
+        url: /images/award-av-preeminent.png
+        altText: AV Preeminent Lawyer Ratings
+        caption: AV Preeminent Lawyer Ratings
+      - type: ImageBlock
+        url: /images/certified-specialist-state-bar-arizona.png
+        altText: State Bar Of Arizona Certified Specialist - Criminal Law
+        caption: State Bar Of Arizona Certified Specialist - Criminal Law
+      - type: ImageBlock
+        url: /images/award-super-lawyers.png
+        altText: Super Lawyers Rated
+        caption: Super Lawyers Rated
+    spacing: 32
+    columns: 4
+    showCaption: false
+    enableHover: true
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-8
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+    type: MediaGallerySection
+    aspectRatio: auto
   - elementId: ''
     colors: colors-d
     variant: variant-b
@@ -457,52 +503,6 @@ sections:
       text:
         textAlign: left
     type: TextSection
-  - colors: colors-d
-    elementId: hero-awards
-    title: Top Criminal Defense Attorney With A Record To Prove It.
-    subtitle: Trusted and Highly Rated.
-    images:
-      - type: ImageBlock
-        url: /images/award-avvo-10.png
-        altText: AVVO 10.0 Superb Top Attorney Criminal Defense
-        caption: AVVO 10.0 Superb Top Attorney Criminal Defense
-      - type: ImageBlock
-        url: /images/award-av-preeminent.png
-        altText: AV Preeminent Lawyer Ratings
-        caption: AV Preeminent Lawyer Ratings
-      - type: ImageBlock
-        url: /images/certified-specialist-state-bar-arizona.png
-        altText: State Bar Of Arizona Certified Specialist - Criminal Law
-        caption: State Bar Of Arizona Certified Specialist - Criminal Law
-      - type: ImageBlock
-        url: /images/award-super-lawyers.png
-        altText: Super Lawyers Rated
-        caption: Super Lawyers Rated
-    spacing: 32
-    columns: 4
-    showCaption: false
-    enableHover: true
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-8
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-    type: MediaGallerySection
-    aspectRatio: auto
   - colors: colors-a
     elementId: ''
     title: Key value propositions
