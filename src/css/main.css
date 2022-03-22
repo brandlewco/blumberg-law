@@ -174,7 +174,7 @@
         @apply mr-6;
     }
     #hero-button-grid a {
-        @apply flex flex-row justify-start items-center w-full h-auto text-left;
+        @apply flex flex-row justify-start items-center w-full h-auto text-left background-white;
     }
     #hero-awards figure {
         @apply flex flex-row justify-center overflow-visible;
