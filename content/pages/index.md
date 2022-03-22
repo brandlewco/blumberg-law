@@ -434,7 +434,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title: Seasonal adventure
+    title: S
     subtitle: ''
     colors: colors-d
     posts:
