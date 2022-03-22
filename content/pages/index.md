@@ -399,7 +399,7 @@ sections:
     type: MediaGallerySection
     aspectRatio: auto
   - elementId: ''
-    colors: colors-c
+    colors: colors-e
     variant: variant-b
     subtitle: >-
       As a Board-Certified criminal law specialist, Bruce Blumberg has the
