@@ -48,7 +48,7 @@ sections:
         justifyContent: flex-start
     backgroundSize: full
     backgroundImage:
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/blumber-hero-mockup-65b26475.jpg
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
