@@ -408,7 +408,7 @@ sections:
     text: |+
       <ul style="columns: 2;
         -webkit-columns: 2;
-        -moz-columns: 2; line-height: 1;">
+        -moz-columns: 2; line-height: 0.5;">
       *   Accounting & Tax Fraud
 
       *   Bank Fraud
