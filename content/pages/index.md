@@ -400,7 +400,7 @@ sections:
     aspectRatio: auto
   - elementId: ''
     colors: colors-d
-    variant: variant-a
+    variant: variant-b
     subtitle: >-
       As a Board-Certified criminal law specialist, Bruce Blumberg has the
       knowledge, skills and experience to competently handle any criminal law
