@@ -359,26 +359,81 @@ sections:
       As a Board-Certified criminal law specialist, Bruce Blumberg has the
       knowledge, skills and experience to competently handle any criminal law
       matter in Arizona, including:
-    text: >-
+    text: |
       <ul style="columns: 2;
-
       -webkit-columns: 2;
-
       -moz-columns: 2;;">
-
       *   Accounting & Tax Fraud
 
-      *   Bank Fraud*   Child Molestation*   Child Pornography*   Children
-      Crimes*   Computer & Internet Fraud*   Corporate Fraud*   Criminal
-      Appeals*   Dangerous Offenses*   Date & Spousal Rape*   Domestic
-      Violence*   Drug Crimes*   Drug Possession*   DUI*   Embezzlement*  
-      Federal Crimes*   Federal Drug Crimes*   Health Care Fraud*   Homicide*  
-      Juvenile Crimes*   Mail & Wire Fraud*   Mandatory Sentencing*   Marijuana
-      Charges*   Meth Charges*   Money Laundering*   Mortgage Fraud*   Parole &
-      Probation Violations*   Prostitution*   Search & Seizure*   Sex Offender
-      Registration*   Sexual Assault*   Sex Crimes*   State Drug Crimes*  
-      Traffic Offenses*   Violent Crimes*   White Collar Crime
+      *   Bank Fraud
 
+      *   Child Molestation
+
+      *   Child Pornography
+
+      *   Children Crimes
+
+      *   Computer & Internet Fraud
+
+      *   Corporate Fraud
+
+      *   Criminal Appeals
+
+      *   Dangerous Offenses
+
+      *   Date & Spousal Rape
+
+      *   Domestic Violence
+
+      *   Drug Crimes
+
+      *   Drug Possession
+
+      *   DUI
+
+      *   Embezzlement
+
+      *   Federal Crimes
+
+      *   Federal Drug Crimes
+
+      *   Health Care Fraud
+
+      *   Homicide
+
+      *   Juvenile Crimes
+
+      *   Mail & Wire Fraud
+
+      *   Mandatory Sentencing
+
+      *   Marijuana Charges
+
+      *   Meth Charges
+
+      *   Money Laundering
+
+      *   Mortgage Fraud
+
+      *   Parole & Probation Violations
+
+      *   Prostitution
+
+      *   Search & Seizure
+
+      *   Sex Offender Registration
+
+      *   Sexual Assault
+
+      *   Sex Crimes
+
+      *   State Drug Crimes
+
+      *   Traffic Offenses
+
+      *   Violent Crimes
+
+      *   White Collar Crime
       </ul>
     styles:
       self:
