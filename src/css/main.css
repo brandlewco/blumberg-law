@@ -168,7 +168,7 @@
     }
 
     #hero-button-grid article div {
-        @apply w-full text-center;
+        @apply w-full;
     }
     #hero-button-grid svg {
         @apply mr-6;
