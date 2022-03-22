@@ -360,10 +360,10 @@ sections:
       knowledge, skills and experience to competently handle any criminal law
       matter in Arizona, including:
     text: |+
-      <ul style="columns: 2;
-        -webkit-columns: 2;
-        -moz-columns: 2; line-height: 0.5;">
-      *   Accounting & Tax Fraud
+      \<ul style="columns: 2;
+      \-webkit-columns: 2;
+      \-moz-columns: 2;;">
+      \*   Accounting & Tax Fraud
 
       *   Bank Fraud
 
@@ -434,8 +434,7 @@ sections:
       *   Violent Crimes
 
       *   White Collar Crime
-
-      </ul>
+          \</ul>
 
     styles:
       self:
