@@ -405,7 +405,10 @@ sections:
       As a Board-Certified criminal law specialist, Bruce Blumberg has the
       knowledge, skills and experience to competently handle any criminal law
       matter in Arizona, including:
-    subtitle: The section subtitle
+    subtitle: >-
+      As a Board-Certified criminal law specialist, Bruce Blumberg has the
+      knowledge, skills and experience to competently handle any criminal law
+      matter in Arizona, including:
     text: |-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
