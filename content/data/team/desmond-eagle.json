@@ -2,9 +2,5 @@
     "type": "Person",
     "firstName": "Desmond",
     "lastName": "Eagle",
-    "role": "Co-founder 2",
-    "image": {
-        "type": "ImageBlock",
-        "altText": "Desmond Eagle photo"
-    }
+    "role": "Co-founder 2"
 }
