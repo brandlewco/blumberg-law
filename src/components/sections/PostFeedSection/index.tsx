@@ -96,7 +96,7 @@ function postFeedVariants(props) {
         case 'variant-d':
             return postsVariantD(props);
         case 'variant-e':
-                return postsVariantE(props);
+            return postsVariantE(props);
     }
     return null;
 }
