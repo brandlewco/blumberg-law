@@ -1,7 +1,7 @@
 {
     "type": "Cases",
     "firstName": "First",
-    "lastName": "Eagle",
+    "lastName": "Case",
     "role": "Co-founder",
     "image": {
         "type": "ImageBlock",
