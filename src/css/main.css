@@ -191,7 +191,7 @@
     }
 
     li::marker {
-        color: yellow;
+        color: var(--primary-color)
     }
 
     h1 strong,
