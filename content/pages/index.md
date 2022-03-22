@@ -452,7 +452,7 @@ sections:
           self:
             textAlign: left
     actions: []
-    columns: 1
+    columns: 2
     enableHover: false
     styles:
       self:
