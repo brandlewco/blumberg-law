@@ -170,7 +170,7 @@
     #hero-button-grid article div {
         @apply w-full;
     }
-    #hero-button-grid h3{
+    #hero-button-grid h2{
         @apply text-center;
     }
     #hero-button-grid svg {
