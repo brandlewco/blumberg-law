@@ -35,7 +35,7 @@ module.exports = {
                 '9/16': '56.25%'
             },
             fontFamily: {
-                fontPrimary: ['Merriweather', 'serif'],
+                fontPrimary: ['Cinzel, 'serif'],
                 fontSecondary: ['Roboto Mono', 'monospace']
             }
         }
