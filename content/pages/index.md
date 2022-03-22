@@ -398,7 +398,7 @@ sections:
         textAlign: center
     type: MediaGallerySection
     aspectRatio: auto
-  - colors: colors-c
+  - colors: colors-a
     elementId: ''
     title: Key value propositions
     subtitle: ''
