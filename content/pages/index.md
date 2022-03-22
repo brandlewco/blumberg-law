@@ -22,12 +22,6 @@ sections:
         iconPosition: right
         icon: arrowRight
         showIcon: true
-    backgroundImage:
-      type: BackgroundImage
-      url: /images/blumber-hero-mockup.jpg
-      backgroundSize: cover
-      backgroundPosition: right
-      opacity: 100
     styles:
       self:
         height: auto
