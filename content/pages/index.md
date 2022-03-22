@@ -405,13 +405,79 @@ sections:
       As a Board-Certified criminal law specialist, Bruce Blumberg has the
       knowledge, skills and experience to competently handle any criminal law
       matter in Arizona, including:
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: |+
+      *   Accounting & Tax Fraud
+
+      *   Bank Fraud
+
+      *   Child Molestation
+
+      *   Child Pornography
+
+      *   Children Crimes
+
+      *   Computer & Internet Fraud
+
+      *   Corporate Fraud
+
+      *   Criminal Appeals
+
+      *   Dangerous Offenses
+
+      *   Date & Spousal Rape
+
+      *   Domestic Violence
+
+      *   Drug Crimes
+
+      *   Drug Possession
+
+      *   DUI
+
+      *   Embezzlement
+
+      *   Federal Crimes
+
+      *   Federal Drug Crimes
+
+      *   Health Care Fraud
+
+      *   Homicide
+
+      *   Juvenile Crimes
+
+      *   Mail & Wire Fraud
+
+      *   Mandatory Sentencing
+
+      *   Marijuana Charges
+
+      *   Meth Charges
+
+      *   Money Laundering
+
+      *   Mortgage Fraud
+
+      *   Parole & Probation Violations
+
+      *   Prostitution
+
+      *   Search & Seizure
+
+      *   Sex Offender Registration
+
+      *   Sexual Assault
+
+      *   Sex Crimes
+
+      *   State Drug Crimes
+
+      *   Traffic Offenses
+
+      *   Violent Crimes
+
+      *   White Collar Crime
+
     styles:
       self:
         height: auto
