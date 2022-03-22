@@ -405,11 +405,9 @@ sections:
       As a Board-Certified criminal law specialist, Bruce Blumberg has the
       knowledge, skills and experience to competently handle any criminal law
       matter in Arizona, including:
-    text: |+
+    text: |
       *   Accounting & Tax Fraud
-
       *   Bank Fraud
-
       *   Child Molestation
 
       *   Child Pornography
@@ -477,7 +475,6 @@ sections:
       *   Violent Crimes
 
       *   White Collar Crime
-
     styles:
       self:
         height: auto
