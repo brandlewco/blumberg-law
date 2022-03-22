@@ -296,7 +296,9 @@ sections:
   - elementId: ''
     colors: colors-d
     variant: variant-a
-    title: The Section Title
+    title: >-
+      A lawyer with the skills and experience you need when facing the fight of
+      your life.
     subtitle: ''
     text: |-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
