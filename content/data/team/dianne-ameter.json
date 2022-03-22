@@ -2,9 +2,5 @@
     "type": "Person",
     "firstName": "Dianne",
     "lastName": "Ameter",
-    "role": "Senior fisherwoman",
-    "image": {
-        "type": "ImageBlock",
-        "altText": "Dianne Ameter photo"
-    }
+    "role": "Senior fisherwoman"
 }
