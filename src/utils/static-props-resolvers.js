@@ -85,8 +85,10 @@ const StaticPropsResolvers = {
         };
     },
     Cases: (props, data) => {
+        const authorId = props.__metadata?.id;
+        const allAuthorPosts = getAllAuthorPostsSorted(data.objects, authorId);
         const paginationData = getPagedItemsForPage(props, allAuthorPosts, 10);
-        const items = resolveReferences(paginationData.items, ['category'], data.objects);
+        const items = resolveReferences(paginationData.items, ['author', 'category'], data.objects);
         return {
             ...props,
             ...paginationData,

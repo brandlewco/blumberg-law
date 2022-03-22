@@ -31,6 +31,7 @@ const StaticPathsResolvers = {
     },
     Cases: (page, objects) => {
         const categoryId = page.__metadata?.id;
-        return generatePagedPathsForPage(page, 10);
+        const categoryPosts = getAllAuthorPostsSorted(objects, categoryId);
+        return generatePagedPathsForPage(page, categoryPosts, 10);
     }
 };
