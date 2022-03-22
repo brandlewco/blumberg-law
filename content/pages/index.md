@@ -407,7 +407,9 @@ sections:
       matter in Arizona, including:
     text: |
       *   Accounting & Tax Fraud
+
       *   Bank Fraud
+
       *   Child Molestation
 
       *   Child Pornography
