@@ -2,7 +2,7 @@
     "type": "Person",
     "firstName": "Desmond",
     "lastName": "Eagle",
-    "role": "Co-founder",
+    "role": "Co-founder 2",
     "image": {
         "type": "ImageBlock",
         "url": "/images/desmond-eagle.png",
