@@ -28,10 +28,5 @@ const StaticPathsResolvers = {
         const categoryId = page.__metadata?.id;
         const categoryPosts = getAllAuthorPostsSorted(objects, categoryId);
         return generatePagedPathsForPage(page, categoryPosts, 10);
-    },
-    Cases: (page, objects) => {
-        const categoryId = page.__metadata?.id;
-        const categoryPosts = getAllAuthorPostsSorted(objects, categoryId);
-        return generatePagedPathsForPage(page, categoryPosts, 10);
     }
 };
