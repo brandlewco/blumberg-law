@@ -24,7 +24,7 @@ sections:
         showIcon: true
     backgroundImage:
       type: BackgroundImage
-      url: /images/hero.png
+      url: /images/blumber-hero-mockup.jpg
       backgroundSize: cover
       backgroundPosition: right
       opacity: 100
