@@ -401,7 +401,6 @@ sections:
   - colors: colors-c
     elementId: ''
     title: Key value propositions
-    backgroundSize: full
     backgroundImage:
       url: 'https://assets.stackbit.com/components/images/default/default-image.png'
       backgroundSize: cover
