@@ -2,9 +2,5 @@
     "type": "Person",
     "firstName": "Hilary",
     "lastName": "Ouse",
-    "role": "Head fisherman",
-    "image": {
-        "type": "ImageBlock",
-        "altText": "Hilary Ouse photo"
-    }
+    "role": "Head fisherman"
 }
