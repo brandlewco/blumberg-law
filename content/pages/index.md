@@ -399,6 +399,49 @@ sections:
         textAlign: center
     type: MediaGallerySection
     aspectRatio: auto
+  - elementId: ''
+    showDate: true
+    showAuthor: false
+    showExcerpt: false
+    showReadMoreLink: true
+    readMoreLinkLabel: Join adventure
+    variant: variant-e
+    actions:
+      - type: Link
+        label: See all adventures
+        altText: See all adventures
+        url: /blog
+        showIcon: true
+        icon: arrowRight
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    title: Seasonal adventure
+    subtitle: ''
+    colors: colors-e
+    posts:
+      - content/pages/blog/post-three.md
+      - content/pages/blog/post-two.md
+      - content/pages/blog/post-one.md
+    type: FeaturedPostsSection
   - type: QuoteSection
     colors: colors-d
     quote: >
