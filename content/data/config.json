@@ -229,7 +229,7 @@
             },
             {
                 "label": "Testimonials",
-                "altText": "",
+                "altText": "Testimonials",
                 "url": "/testimonials",
                 "child": [],
                 "showIcon": false,
