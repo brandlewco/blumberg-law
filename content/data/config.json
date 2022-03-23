@@ -13,7 +13,7 @@
                 "type": "Link",
                 "label": "Attorney Profile",
                 "url": "/about",
-                "altText": "",
+                "altText": "Attorney Profile",
                 "child": [],
                 "styles": {
                     "self": {
