@@ -1,6 +1,6 @@
 ---
 title: Deep Sea Fishing
-layout: PostLayout
+layout: CasesLayout
 date: '2021-06-28'
 author: content/data/team/dianne-ameter.json
 excerpt: >-

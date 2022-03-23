@@ -6,4 +6,4 @@ import CasesLayout from './CasesLayout';
 import BlankBaseLayout from './BlankBaseLayout';
 import DefaultBaseLayout from './DefaultBaseLayout';
 
-export { PageLayout, PostFeedLayout, PostFeedCategoryLayout, PostLayout, BlankBaseLayout, DefaultBaseLayout };
+export { PageLayout, PostFeedLayout, PostFeedCategoryLayout, PostLayout, CasesLayout, BlankBaseLayout, DefaultBaseLayout };
