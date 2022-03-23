@@ -250,7 +250,7 @@
             },
             {
                 "label": "Blog",
-                "altText": "",
+                "altText": "Blog",
                 "url": "/blog",
                 "showIcon": false,
                 "icon": "arrowRight",
