@@ -1,5 +1,5 @@
 name: CasesLayout
-label: Post
+label: Cases
 layout: CasesLayout
 thumbnail: https://assets.stackbit.com/components/models/thumbnails/default.png
 extends:
