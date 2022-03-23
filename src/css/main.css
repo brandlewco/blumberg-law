@@ -155,7 +155,7 @@
     @media only screen and (min-width: 768px) {
         #hero-features article {
             margin-top: -64px;
-            @apply flex flex-col relative overflow-hidden;
+            @apply flex flex-col relative;
         }
         #hero-features article div:last-child {
             /* margin-top: auto !important; */
