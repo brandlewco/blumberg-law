@@ -135,7 +135,7 @@ function listOfLinks(links, inMobileMenu = false) {
         const [isMenuOpen, setIsMenuOpen] = useState(false);
         const router = useRouter();
         var toggle = false;
-        
+
         useEffect(() => {
             const handleRouteChange = () => {
                 setIsMenuOpen(false);
@@ -156,9 +156,9 @@ function listOfLinks(links, inMobileMenu = false) {
                         onClick={() => setIsMenuOpen(toggle = !toggle)}
                     >
                         <Action {...link} url="#" style="link" showIcon="true" icon="menuDown" className="w-full flex flex-row justify-between border-b-2 lg:border-0 border-solid border-secondary " data-sb-field-path={`.${index}`} />
-                        <ul className={classNames(secondaryColors, 'transition-all', 'lg:absolute', 'top-full', 'flex', 'flex-col', 'whitespace-nowrap', 'px-4', 'pt-4', 'shadow-lg', isMenuOpen ? 'block' : 'hidden')} data-sb-field-path=".primaryLinks"> 
+                        <ul className={classNames(secondaryColors, 'transition-all', 'lg:absolute', 'top-full', 'flex', 'flex-col', 'whitespace-nowrap', 'px-4', 'pt-4', 'shadow-lg', isMenuOpen ? 'block' : 'hidden')} data-sb-field-path=".primaryLinks">
                             {linkChild.map((link, index) => (
-                                <li key={index}  className="pb-4">
+                                <li key={index} className="pb-4">
                                     <Action {...link} style="link" className="w-full justify-start border-b-2 lg:border-0 border-solid border-gray" data-sb-field-path={`.${index}`} />
                                 </li>
                             ))}
