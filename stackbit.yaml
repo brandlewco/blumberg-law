@@ -23,8 +23,8 @@ contentModels:
     newFilePath: 'blog/{slug}.md'
   CasesLayout:
     isPage: true
-    urlPath: '/blog/{slug}'
-    newFilePath: 'blog/{slug}.md'
+    urlPath: '/cases/{slug}'
+    newFilePath: 'cases/{slug}.md'
   Person:
     newFilePath: 'team/{slug}.json'
   PostFeedLayout:
