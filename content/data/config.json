@@ -339,13 +339,13 @@
                 "type": "Link",
                 "label": "Home",
                 "url": "/",
-                "altText": ""
+                "altText": "home"
             },
             {
                 "type": "Link",
                 "label": "About",
                 "url": "/about",
-                "altText": ""
+                "altText": "about"
             },
             {
                 "type": "Link",
