@@ -516,7 +516,7 @@ sections:
     actions: []
     showDate: true
     showAuthor: false
-    showExcerpt: false
+    showExcerpt: true
     showReadMoreLink: true
     readMoreLinkLabel: View Case
     styles:
