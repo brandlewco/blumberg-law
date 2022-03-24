@@ -564,6 +564,13 @@ sections:
           placeholder: Your email
           isRequired: 'true'
           width: 1/2
+        - name: home-address
+          label: Home address
+          hideLabel: false
+          placeholder: Your home address
+          isRequired: false
+          width: full
+          type: TextFormControl
         - name: description
           label: Description
           hideLabel: false
@@ -576,13 +583,6 @@ sections:
           label: Sign me up to receive updates
           isRequired: 'false'
           width: full
-        - name: home-address
-          label: Home address
-          hideLabel: false
-          placeholder: Your home address
-          isRequired: false
-          width: full
-          type: TextFormControl
       submitLabel: Send Message
     media:
       type: ImageBlock
