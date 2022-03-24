@@ -576,6 +576,13 @@ sections:
           label: Sign me up to receive updates
           isRequired: 'false'
           width: full
+        - name: home-address
+          label: Home address
+          hideLabel: false
+          placeholder: Your home address
+          isRequired: false
+          width: full
+          type: TextFormControl
       submitLabel: Send Message
     media:
       type: ImageBlock
