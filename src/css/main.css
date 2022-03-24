@@ -140,7 +140,7 @@
     }
 
     #call-us strong {
-        @apply text-secondary font-serif;
+        @apply lg:text-secondary font-serif;
         font-size: 0.5rem;
     }
     #call-us:hover {
