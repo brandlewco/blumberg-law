@@ -556,7 +556,7 @@ sections:
           name: First
           label: First Name
           placeholder: First Name
-          isRequired: 'true'
+          isRequired: true
           width: 1/2
         - name: home-address
           label: Home address
