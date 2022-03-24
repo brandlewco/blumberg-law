@@ -505,7 +505,7 @@ sections:
       text:
         textAlign: left
     type: TextSection
-  - title: Seasonal adventure
+  - title: Cases of Interest
     subtitle: ''
     colors: colors-e
     posts:
