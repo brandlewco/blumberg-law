@@ -398,7 +398,7 @@ sections:
         textAlign: center
     type: MediaGallerySection
     aspectRatio: auto
-  - colors: colors-b
+  - colors: colors-c
     title: Divider
     elementId: ''
     styles:
