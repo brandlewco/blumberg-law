@@ -45,10 +45,6 @@ fields:
         backgroundColor: '$complementaryAlt'
         borderColor: '#ececec'
     default: colors-d
-  - type: date
-    name: date
-    label: Date
-    required: true
   - type: reference
     name: author
     label: Author
