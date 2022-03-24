@@ -518,7 +518,7 @@ sections:
     showAuthor: false
     showExcerpt: false
     showReadMoreLink: true
-    readMoreLinkLabel: See Case
+    readMoreLinkLabel: View Case
     styles:
       self:
         height: auto
