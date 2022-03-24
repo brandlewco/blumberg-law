@@ -7,15 +7,6 @@ title: >-
   fracture.
 colors: colors-d
 excerpt: 'Result: Not Guilty'
-featuredImage:
-  type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post thumbnail image
-  caption: ''
-media:
-  type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
