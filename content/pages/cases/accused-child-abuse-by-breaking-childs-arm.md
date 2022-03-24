@@ -5,7 +5,7 @@ metaTags: []
 title: >-
   Client accused of child abuse by breaking child’s arm and causing spiral
   fracture.
-colors: colors-a
+colors: colors-d
 excerpt: 'Result: Not Guilty'
 bottomSections: []
 metaDescription: null
