@@ -558,7 +558,7 @@ sections:
           placeholder: First Name
           isRequired: true
           width: 1/2
-        - name: home-address
+        - name: last-name
           label: Last Name
           hideLabel: false
           placeholder: Your home address
