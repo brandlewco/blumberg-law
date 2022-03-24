@@ -569,7 +569,7 @@ sections:
       backgroundPosition: center
       opacity: 100
   - elementId: ''
-    colors: colors-c
+    colors: colors-e
     variant: variant-c
     title: Seasonal adventures
     actions:
