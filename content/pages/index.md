@@ -355,7 +355,7 @@ sections:
     type: TextSection
   - colors: colors-d
     elementId: hero-awards
-    title: Top Criminal Defense Attorney With A Record To Prove It.
+    title: Top Criminal Defense AttorneyWith A Record To Prove It.
     images:
       - type: ImageBlock
         url: /images/award-avvo-10.png
