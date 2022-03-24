@@ -620,7 +620,7 @@ sections:
           - pt-28
           - pb-36
           - pl-8
-          - pr-4
+          - pr-8
         alignItems: center
         justifyContent: center
         flexDirection: row
