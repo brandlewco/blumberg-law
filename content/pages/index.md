@@ -355,8 +355,7 @@ sections:
   - title: Seasonal adventure
     subtitle: ''
     colors: colors-e
-    posts:
-      - null
+    posts: []
     variant: variant-b
     actions: []
     showDate: true
