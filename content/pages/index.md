@@ -388,7 +388,7 @@ sections:
           - mr-0
         padding:
           - pt-16
-          - pb-14
+          - pb-16
           - pl-8
           - pr-8
         justifyContent: center
