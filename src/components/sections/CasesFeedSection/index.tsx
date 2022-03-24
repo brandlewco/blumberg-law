@@ -18,7 +18,7 @@ export default function CasesFeedSection(props) {
     const sectionWidth = styles.self?.width || 'wide';
     const sectionHeight = styles.self?.height || 'auto';
     const sectionJustifyContent = styles.self?.justifyContent || 'center';
-    const [emblaRef, emblaApi] = useEmblaCarousel({ loop: true, align: 'start' })
+    const [emblaRef, emblaApi] = useEmblaCarousel({ loop: true, align: "start" })
 
     return (
         <div
@@ -189,7 +189,7 @@ function postsVariantB(props, emblaRef, emblaApi) {
         >
         <div className="embla__container">
             {posts.map((post, index) => (
-                <article key={index} className="embla__slide sb-card overflow-hidden" data-sb-object-id={post.__metadata?.id}>
+                <article key={index} className="embla__slide sb-card overflow-hidden lg:w-1/3 w-1/2" data-sb-object-id={post.__metadata?.id}>
                     <div className="flex flex-col min-h-full">
                         {post.featuredImage && (
                             <Link href={getPageUrlPath(post)} className="block h-0 w-full pt-2/3 relative overflow-hidden">

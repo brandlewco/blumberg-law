@@ -131,14 +131,18 @@
     /* embla slider */
     .embla {
         overflow: hidden;
+        position: relative;
     }
     .embla__container {
         display: flex;
-        grid-gap: 1rem;
+        @apply gap-4 px-3 mx-3;
     }
     .embla__slide {
         position: relative;
         flex: 0 0 33%;
+    }
+    .embla__prev {
+        @apply absolute -left-2 top-1/2;
     }
     /* custom */
     #call-us {
