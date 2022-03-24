@@ -130,7 +130,7 @@
 
     /* custom */
     #call-us {
-        @apply text-center w-full text-primary lg:text-white text-3xl font-serif leading-tight border-0 shadow-none p-0 m-0 text-center w-full;
+        @apply text-primary lg:text-white text-3xl font-serif leading-tight border-0 shadow-none p-0 m-0 text-center w-full;
     }
     #call-us div {
         @apply flex flex-col justify-between;
