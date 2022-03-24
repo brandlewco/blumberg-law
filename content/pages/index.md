@@ -567,7 +567,7 @@ sections:
         - name: phone-number
           label: Home address
           hideLabel: false
-          placeholder: Your home address
+          placeholder: XXX-XXX-XXXX
           isRequired: false
           width: full
           type: TextFormControl
