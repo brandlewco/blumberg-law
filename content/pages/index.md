@@ -390,7 +390,7 @@ sections:
           - pt-14
           - pb-14
           - pl-4
-          - pr-4
+          - pr-8
         justifyContent: center
       title:
         textAlign: center
