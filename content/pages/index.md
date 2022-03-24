@@ -561,7 +561,7 @@ sections:
         - name: last-name
           label: Last Name
           hideLabel: false
-          placeholder: Your home address
+          placeholder: Last Name
           isRequired: false
           width: full
           type: TextFormControl
