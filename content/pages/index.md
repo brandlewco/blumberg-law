@@ -619,7 +619,7 @@ sections:
         padding:
           - pt-28
           - pb-36
-          - pl-4
+          - pl-8
           - pr-4
         alignItems: center
         justifyContent: center
