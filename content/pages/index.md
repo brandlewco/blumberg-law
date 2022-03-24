@@ -30,8 +30,8 @@ sections:
           - mt-0
           - mb-0
         padding:
-          - pt-40
-          - pb-32
+          - pt-20
+          - pb-48
           - pr-8
           - pl-8
         alignItems: center
