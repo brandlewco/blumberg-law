@@ -289,7 +289,7 @@ sections:
     type: FeaturedItemsSection
     backgroundImage:
       url: /images/hero-3.png
-      backgroundSize: auto
+      backgroundSize: cover
       backgroundPosition: center
       opacity: 100
     backgroundSize: full
