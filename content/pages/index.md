@@ -570,7 +570,7 @@ sections:
       opacity: 100
   - elementId: ''
     colors: colors-c
-    variant: variant-b
+    variant: variant-c
     title: Seasonal adventures
     actions:
       - type: Link
