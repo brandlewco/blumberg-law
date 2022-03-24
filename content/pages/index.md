@@ -398,6 +398,21 @@ sections:
         textAlign: center
     type: MediaGallerySection
     aspectRatio: auto
+  - colors: colors-d
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+        borderStyle: solid
+    type: DividerSection
   - elementId: ''
     colors: colors-a
     variant: variant-a
