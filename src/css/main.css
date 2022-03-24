@@ -136,7 +136,7 @@
         @apply flex flex-col justify-between;
     }
     #call-us p {
-        @apply m-0 p-0 text-center
+        @apply m-0 p-0;
     }
 
     #call-us strong {
