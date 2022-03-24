@@ -578,7 +578,7 @@ sections:
       submitLabel: Send Message
     media:
       type: ImageBlock
-      url: /images/hero-2.png
+      url: /images/blumber-hero-mockup-65b26475.jpg
       altText: Contact form image
     styles:
       self:
