@@ -169,7 +169,7 @@
     }
 
     #homepage-hero-1 div.max-w-screen-2xl{
-        @apply w-1/2;
+        @apply w-2/3;
     }
 
     #hero-button-grid article div {
