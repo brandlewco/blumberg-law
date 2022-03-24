@@ -553,7 +553,7 @@ sections:
       destination: ''
       fields:
         - type: TextFormControl
-          name: name
+          name: First
           label: Name
           placeholder: Your name
           isRequired: 'true'
