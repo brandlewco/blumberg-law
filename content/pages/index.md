@@ -569,7 +569,7 @@ sections:
           hideLabel: false
           placeholder: XXX-XXX-XXXX
           isRequired: false
-          width: full
+          width: 1/2
           type: TextFormControl
         - name: description
           label: Description
