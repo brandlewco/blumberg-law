@@ -344,7 +344,7 @@
         }
         .sb-component-button-secondary,
         .sb-component-social-secondary {
-            @apply border-on-dark bg-dark text-on-dark hover:text-secondary hover:bg-light hover:border-primary hover:text-primary;
+            @apply border-on-dark bg-primary text-on-dark hover:text-secondary hover:bg-light hover:border-primary hover:text-primary;
         }
         .sb-card {
             @apply bg-light text-on-light;
