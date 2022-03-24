@@ -164,7 +164,7 @@
         #hero-features article:nth-child(2)::after {
             content: '';
             width: calc(100% + 2rem);
-            @apply absolute h-2/3 bottom-0  border-l-2 border-r-1 border-solid border-white;
+            @apply absolute h-2/3 bottom-0  border-l border-r border-solid border-white;
         }
     }
 
