@@ -518,7 +518,7 @@ sections:
     showAuthor: false
     showExcerpt: false
     showReadMoreLink: true
-    readMoreLinkLabel: Join adventure
+    readMoreLinkLabel: See Case
     styles:
       self:
         height: auto
