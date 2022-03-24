@@ -517,7 +517,7 @@ sections:
     showDate: true
     showAuthor: false
     showExcerpt: true
-    showReadMoreLink: true
+    showReadMoreLink: false
     readMoreLinkLabel: View Case
     styles:
       self:
