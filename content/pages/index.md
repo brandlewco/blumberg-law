@@ -300,9 +300,9 @@ sections:
       A lawyer with the skills and experience you need when facing the fight of
       your life.
     subtitle: ''
-    text: >-
-      <div class="flex flex-row justify-between items-start gap-12 text-base
-      text-left font-sans">
+    text: >+
+      <div class="flex flex-col lg:flex-row justify-between items-start gap-12
+      text-base text-left font-sans">
 
       <div>At Blumberg & Associates, you’ll find the representation you need to
       get the best outcome available in your Arizona criminal law matter. We
@@ -330,6 +330,7 @@ sections:
       level. </div>
 
       </div>
+
     styles:
       self:
         height: auto
