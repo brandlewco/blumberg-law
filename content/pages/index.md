@@ -541,33 +541,6 @@ sections:
       actions:
         justifyContent: center
     type: FeaturedCasesSection
-  - type: QuoteSection
-    colors: colors-d
-    quote: >
-      “YEAH It’s great to see someone taking action while still maintaining a
-      sustainable fish supply to home cooks.”
-    name: Isabelle Parks
-    title: Head chef at Parks
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-36
-          - pr-4
-          - pl-4
-        justifyContent: center
-      quote:
-        textAlign: center
-      name:
-        textAlign: center
-      title:
-        textAlign: center
-    backgroundImage:
-      backgroundSize: cover
-      backgroundPosition: center
-      opacity: 100
   - elementId: ''
     colors: colors-d
     backgroundSize: full
