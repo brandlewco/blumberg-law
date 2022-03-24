@@ -558,7 +558,11 @@ sections:
       and the most serious consequences of a criminal conviction in Arizona.
 
 
-      <a class="button">Confidential Case Evaluation</a>
+      <a href="/contact" class="sb-component sb-component-block
+      sb-component-button mb-3 mx-2 lg:whitespace-nowrap
+      sb-component-button-primary">Confidential Case Evaluation
+
+      </a>
     styles:
       self:
         height: auto
