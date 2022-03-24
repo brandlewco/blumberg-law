@@ -33,7 +33,7 @@ sections:
           - pt-24
           - pb-32
           - pr-8
-          - pl-8
+          - pl-7
         alignItems: center
         justifyContent: center
         flexDirection: row
