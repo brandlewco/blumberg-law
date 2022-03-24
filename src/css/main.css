@@ -186,9 +186,9 @@
     #hero-button-grid a {
         @apply flex flex-row justify-start items-center w-full h-auto text-left bg-white;
     }
-    #hero-awards h2{
+    /* #hero-awards h2{
         @apply text-left;
-    }
+    } */
     #hero-awards figure {
         @apply flex flex-row justify-center overflow-visible;
     }
