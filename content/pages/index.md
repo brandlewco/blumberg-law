@@ -514,7 +514,7 @@ sections:
       - content/pages/cases/accused-or-child-abuse-by-causing-bruises.md
     variant: variant-b
     actions: []
-    showDate: true
+    showDate: false
     showAuthor: false
     showExcerpt: true
     showReadMoreLink: false
