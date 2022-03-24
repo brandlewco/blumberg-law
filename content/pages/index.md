@@ -152,7 +152,7 @@ sections:
   - colors: colors-b
     elementId: hero-button-grid
     title: |
-      Phoenix’s Leading
+      **Phoenix’s Leading**
 
       Criminal Defense Attorney.
     subtitle: Choose A Practice Area To Learn How We Can Help You.
