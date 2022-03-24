@@ -555,7 +555,7 @@ sections:
         - type: TextFormControl
           name: First
           label: First Name
-          placeholder: Your name
+          placeholder: First Name
           isRequired: 'true'
           width: 1/2
         - name: home-address
