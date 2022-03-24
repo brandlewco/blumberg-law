@@ -509,7 +509,6 @@ sections:
     subtitle: ''
     colors: colors-e
     posts:
-      - null
       - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
     variant: variant-b
     actions: []
