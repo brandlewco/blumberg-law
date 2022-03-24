@@ -563,7 +563,7 @@ sections:
           hideLabel: false
           placeholder: Last Name
           isRequired: false
-          width: full
+          width: 1/2
           type: TextFormControl
         - type: EmailFormControl
           name: email
