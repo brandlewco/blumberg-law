@@ -168,6 +168,10 @@
         }
     }
 
+    #homepage-hero-1 {
+        @apply w-1/2;
+    }
+
     #hero-button-grid article div {
         @apply w-full;
     }
