@@ -510,6 +510,7 @@ sections:
     colors: colors-e
     posts:
       - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
+      - content/pages/cases/accused-multiple-accounts-sexual-misconduct.md
       - content/pages/cases/accused-or-child-abuse-by-causing-bruises.md
     variant: variant-b
     actions: []
