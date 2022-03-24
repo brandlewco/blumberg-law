@@ -35,8 +35,8 @@ module.exports = {
                 '9/16': '56.25%'
             },
             fontFamily: {
-                fontPrimary: ['Playfair Display', 'serif'],
-                fontSecondary: ['Roboto Mono', 'monospace']
+                fontPrimary: ['mrs-eaves-xl-serif', 'serif'],
+                fontSecondary: ['basic-sans', 'monospace']
             }
         }
     },

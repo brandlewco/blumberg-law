@@ -21,10 +21,6 @@ contentModels:
     isPage: true
     urlPath: '/blog/{slug}'
     newFilePath: 'blog/{slug}.md'
-  CasesLayout:
-    isPage: true
-    urlPath: '/cases/{slug}'
-    newFilePath: 'cases/{slug}.md'
   Person:
     newFilePath: 'team/{slug}.json'
   PostFeedLayout:
@@ -33,6 +29,10 @@ contentModels:
     urlPath: '/blog'
     file: 'blog/index.md'
     newFilePath: 'blog/index.md'
+  CasesLayout:
+    isPage: true
+    urlPath: '/cases/{slug}'
+    newFilePath: 'cases/{slug}.md'
 modelsSource:
   type: files
   modelDirs:

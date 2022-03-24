@@ -30,7 +30,6 @@ export function getComponent(key: string): ComponentType {
  *     return <Section {...section} />;
  */
 const components = {
-    'CasesLayout': dynamic(() => import('./layouts/PostLayout')),
     'CheckboxFormControl': dynamic(() => import('./molecules/FormBlock/CheckboxFormControl')),
     'ContactSection': dynamic(() => import('./sections/ContactSection')),
     'CtaSection': dynamic(() => import('./sections/CtaSection')),
@@ -56,6 +55,7 @@ const components = {
     'VideoBlock': dynamic(() => import('./molecules/VideoBlock')),
     'PageLayout': dynamic(() => import('./layouts/PageLayout')),
     'PostLayout': dynamic(() => import('./layouts/PostLayout')),
+    'CasesLayout': dynamic(() => import('./layouts/CasesLayout')),
     'PostFeedLayout': dynamic(() => import('./layouts/PostFeedLayout')),
     'PostFeedCategoryLayout': dynamic(() => import('./layouts/PostFeedCategoryLayout'))
 };

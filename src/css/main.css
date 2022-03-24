@@ -1,12 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,400;0,500;1,400;1,500&family=Playfair+Display:wght@400;600;700&display=swap');
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 @layer base {
+    html {
+        font-size: 18px;
+    }
     body {
-        @apply bg-main text-base;
+        @apply bg-main;
     }
     h1,
     h2,
@@ -138,12 +139,12 @@
         @apply m-0 p-0;
     }
 
-    #call-us strong{ 
-      @apply text-secondary font-serif;
-      font-size: 0.5rem;
+    #call-us strong {
+        @apply text-secondary font-serif;
+        font-size: 0.5rem;
     }
-    #call-us:hover{
-        @apply bg-transparent text-white
+    #call-us:hover {
+        @apply bg-transparent text-white;
     }
 
     @media only screen and (max-width: 768px) {
@@ -170,7 +171,8 @@
     #hero-button-grid article div {
         @apply w-full;
     }
-    #hero-button-grid h2, #hero-button-grid p {
+    #hero-button-grid h2,
+    #hero-button-grid p {
         @apply text-center;
     }
     #hero-button-grid svg {
