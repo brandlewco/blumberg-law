@@ -6,9 +6,7 @@ title: >-
   Client accused of child abuse by breaking child’s arm and causing spiral
   fracture.
 colors: colors-d
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: 'Result: Not Guilty'
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
