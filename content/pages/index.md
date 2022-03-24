@@ -352,6 +352,40 @@ sections:
       text:
         textAlign: left
     type: TextSection
+  - title: Seasonal adventure
+    subtitle: ''
+    colors: colors-e
+    posts:
+      - null
+    variant: variant-b
+    actions: []
+    showDate: true
+    showAuthor: false
+    showExcerpt: false
+    showReadMoreLink: true
+    readMoreLinkLabel: Join adventure
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: FeaturedCasesSection
   - elementId: ''
     colors: colors-a
     variant: variant-b
