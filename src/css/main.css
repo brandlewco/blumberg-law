@@ -168,7 +168,7 @@
         }
     }
 
-    #homepage-hero-1 div.max-w-screen-2xl div{
+    #homepage-hero-1 div.max-w-screen-2xl > div{
         @apply lg:w-1/2 w-full;
     }
 
