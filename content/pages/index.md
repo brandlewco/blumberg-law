@@ -560,9 +560,8 @@ sections:
 
       <a href="/contact" class="sb-component sb-component-block
       sb-component-button mb-3 mx-2 lg:whitespace-nowrap
-      sb-component-button-primary">Confidential Case Evaluation
-
-      </a>
+      sb-component-button-primary w-full no-underline">Confidential Case
+      Evaluation</a>
     styles:
       self:
         height: auto
