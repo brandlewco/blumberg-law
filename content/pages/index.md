@@ -556,6 +556,9 @@ sections:
       judge or jury trial, Blumberg & Associates is devoted to obtaining an
       acquittal or not guilty verdict or helping you avoid mandatory sentences
       and the most serious consequences of a criminal conviction in Arizona.
+
+
+      <a class="button">Confidential Case Evaluation</a>
     styles:
       self:
         height: auto
