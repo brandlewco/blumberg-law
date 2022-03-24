@@ -353,7 +353,7 @@ sections:
       text:
         textAlign: left
     type: TextSection
-  - colors: colors-d
+  - colors: colors-e
     elementId: hero-awards
     title: Top Criminal Defense Attorney With A Record To Prove It.
     images:
