@@ -6,12 +6,13 @@ title: >-
   Client charged with 19 counts of sexual conduct with a minor facing in excess
   of 300 years with a 1 million dollar cash bond.
 colors: colors-d
-excerpt: 'Result: Not Guilty, All Counts'
+excerpt: 'Not Guilty, All Counts'
 bottomSections: []
 metaDescription: null
 socialImage: null
 layout: CasesLayout
 ---
+
 Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
 
 > Vestibulum ullamcorper risus auctor eleifend consequat.

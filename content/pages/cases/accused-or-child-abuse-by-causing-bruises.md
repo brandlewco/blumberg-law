@@ -4,12 +4,13 @@ addTitleSuffix: true
 metaTags: []
 title: Client accused of child abuse by causing bruises.
 colors: colors-d
-excerpt: 'Result: Not Guilty'
+excerpt: 'Not Guilty'
 bottomSections: []
 metaDescription: null
 socialImage: null
 layout: CasesLayout
 ---
+
 Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
 
 > Vestibulum ullamcorper risus auctor eleifend consequat.

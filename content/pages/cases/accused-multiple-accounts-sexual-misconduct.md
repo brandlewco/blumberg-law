@@ -6,12 +6,13 @@ title: >-
   Client charged with multiple counts with multiple victims of sexual conduct
   with a minor.
 colors: colors-d
-excerpt: 'Result: Hung-jury. Client was offered probation with no jail time.'
+excerpt: 'Hung-jury. Client was offered probation with no jail time.'
 bottomSections: []
 metaDescription: null
 socialImage: null
 layout: CasesLayout
 ---
+
 Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
 
 > Vestibulum ullamcorper risus auctor eleifend consequat.

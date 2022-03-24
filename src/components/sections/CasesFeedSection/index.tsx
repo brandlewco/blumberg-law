@@ -1,4 +1,4 @@
-import * as React from 'react';
+import React, { useCallback } from 'react'
 import classNames from 'classnames';
 import dayjs from 'dayjs';
 
@@ -8,6 +8,8 @@ import { Link, Action } from '../../atoms';
 import ImageBlock from '../../molecules/ImageBlock';
 import ArrowRightIcon from '../../svgs/arrow-right';
 import getPageUrlPath from '../../../utils/get-page-url-path';
+import useEmblaCarousel from 'embla-carousel-react'
+
 
 export default function CasesFeedSection(props) {
     const cssId = props.elementId || null;
@@ -16,6 +18,8 @@ export default function CasesFeedSection(props) {
     const sectionWidth = styles.self?.width || 'wide';
     const sectionHeight = styles.self?.height || 'auto';
     const sectionJustifyContent = styles.self?.justifyContent || 'center';
+    const [emblaRef, emblaApi] = useEmblaCarousel({ loop: true, align: 'start' })
+
     return (
         <div
             id={cssId}
@@ -56,7 +60,7 @@ export default function CasesFeedSection(props) {
                         </p>
                     )}
                     {postFeedActions(props)}
-                    {postFeedVariants(props)}
+                    {postFeedVariants(props, emblaRef, emblaApi)}
                     {props.pageLinks}
                 </div>
             </div>
@@ -84,24 +88,24 @@ function postFeedActions(props) {
     );
 }
 
-function postFeedVariants(props) {
+function postFeedVariants(props, emblaRef, emblaApi) {
     const variant = props.variant || 'variant-a';
     switch (variant) {
         case 'variant-a':
-            return postsVariantA(props);
+            return postsVariantA(props, emblaRef, emblaApi);
         case 'variant-b':
-            return postsVariantB(props);
+            return postsVariantB(props, emblaRef, emblaApi);
         case 'variant-c':
-            return postsVariantC(props);
+            return postsVariantC(props, emblaRef, emblaApi);
         case 'variant-d':
-            return postsVariantD(props);
+            return postsVariantD(props, emblaRef, emblaApi);
         case 'variant-e':
-            return postsVariantE(props);
+            return postsVariantE(props, emblaRef, emblaApi);
     }
     return null;
 }
 
-function postsVariantA(props) {
+function postsVariantA(props, emblaRef, emblaApi) {
     const posts = props.posts || [];
     if (posts.length === 0) {
         return null;
@@ -163,20 +167,29 @@ function postsVariantA(props) {
     );
 }
 
-function postsVariantB(props) {
+function postsVariantB(props, emblaRef, emblaApi) {
     const posts = props.posts || [];
     if (posts.length === 0) {
         return null;
     }
+    const scrollPrev = useCallback(() => {
+        if (emblaApi) emblaApi.scrollPrev()
+    }, [emblaApi])
+
+    const scrollNext = useCallback(() => {
+        if (emblaApi) emblaApi.scrollNext()
+    }, [emblaApi])
     return (
         <div
-            className={classNames('grid', 'gap-x-6', 'gap-y-12', 'md:grid-cols-3', 'lg:gap-x-8', {
+            className={classNames('embla', {
                 'mt-12': props.title || props.subtitle || (props.actions || []).length > 0
             })}
             {...(props.annotatePosts ? { 'data-sb-field-path': '.posts' } : null)}
+            ref={emblaRef}
         >
+        <div className="embla__container">
             {posts.map((post, index) => (
-                <article key={index} className="sb-card overflow-hidden" data-sb-object-id={post.__metadata?.id}>
+                <article key={index} className="embla__slide sb-card overflow-hidden" data-sb-object-id={post.__metadata?.id}>
                     <div className="flex flex-col min-h-full">
                         {post.featuredImage && (
                             <Link href={getPageUrlPath(post)} className="block h-0 w-full pt-2/3 relative overflow-hidden">
@@ -187,20 +200,20 @@ function postsVariantB(props) {
                                 />
                             </Link>
                         )}
-                        <div className="flex flex-col flex-grow px-4 pt-6 pb-10 sm:px-6">
-                            <div className="flex-grow">
+                        <div className="flex flex-col flex-grow">
+                            <div className="flex-grow px-4 pt-6 pb-6 sm:px-6">
                                 <h3 className="text-2xl">
                                     <Link href={getPageUrlPath(post)} data-sb-field-path="title">
                                         {post.title}
                                     </Link>
                                 </h3>
                                 <PostAttribution showAuthor={props.showAuthor} post={post} className="mt-2" />
-                                {props.showExcerpt && post.excerpt && (
-                                    <p className="mt-4" data-sb-field-path="excerpt">
-                                        {post.excerpt}
-                                    </p>
-                                )}
                             </div>
+                            {props.showExcerpt && post.excerpt && (
+                                    <div className="text-2xl font-bold flex flex-row justify-start items-start bg-primary text-white mt-4 px-4 pt-6 pb-6 sm:px-6 " data-sb-field-path="excerpt">
+                                        <span className='text-secondary pr-4'>X</span> {post.excerpt}
+                                    </div>
+                                )}
                             {(props.showDate || props.showReadMoreLink) && (
                                 <div className="mt-12 space-y-6">
                                     {props.showDate && <PostDate post={post} className="mb-2" />}
@@ -222,10 +235,17 @@ function postsVariantB(props) {
                 </article>
             ))}
         </div>
+        <button className="embla__prev" onClick={scrollPrev}>
+        Prev
+      </button>
+      <button className="embla__next" onClick={scrollNext}>
+        Next
+      </button>
+        </div>
     );
 }
 
-function postsVariantC(props) {
+function postsVariantC(props, emblaRef, emblaApi) {
     const posts = props.posts || [];
     if (posts.length === 0) {
         return null;
@@ -291,7 +311,7 @@ function postsVariantC(props) {
     );
 }
 
-function postsVariantD(props) {
+function postsVariantD(props, emblaRef, emblaApi) {
     const posts = props.posts || [];
     if (posts.length === 0) {
         return null;
@@ -356,7 +376,7 @@ function postsVariantD(props) {
     );
 }
 
-function postsVariantE(props) {
+function postsVariantE(props, emblaRef, emblaApi) {
     const posts = props.posts || [];
     if (posts.length === 0) {
         return null;
