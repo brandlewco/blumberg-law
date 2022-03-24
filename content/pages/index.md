@@ -2,6 +2,56 @@
 title: Home
 layout: PageLayout
 sections:
+  - type: HeroSection
+    elementId: homepage-hero-1
+    colors: colors-b
+    title: |
+      **More Than 30 Years**
+
+      Of Legal Experience
+
+      In Phoenix, Arizona.
+    subtitle: >-
+      If you have been charged with a criminal offense in the state of Arizona,
+      you deserve representation better than that of the prosecution.
+    actions:
+      - type: Button
+        label: Confidential Case Evaluation
+        url: 'https://www.stackbit.com/'
+        style: primary
+        iconPosition: right
+        icon: arrowRight
+        showIcon: true
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-24
+          - pb-32
+          - pr-8
+          - pl-8
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+        borderRadius: none
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    backgroundSize: full
+    backgroundImage:
+      url: /images/blumber-hero-mockup-ae753902.jpg
+      backgroundSize: cover
+      backgroundPosition: center
+      opacity: 100
   - colors: colors-b
     elementId: hero-features
     subtitle: ''
@@ -99,56 +149,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeaturedItemsSection
-  - type: HeroSection
-    elementId: homepage-hero-1
-    colors: colors-b
-    title: |
-      **More Than 30 Years**
-
-      Of Legal Experience
-
-      In Phoenix, Arizona.
-    subtitle: >-
-      If you have been charged with a criminal offense in the state of Arizona,
-      you deserve representation better than that of the prosecution.
-    actions:
-      - type: Button
-        label: Confidential Case Evaluation
-        url: 'https://www.stackbit.com/'
-        style: primary
-        iconPosition: right
-        icon: arrowRight
-        showIcon: true
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-24
-          - pb-32
-          - pr-8
-          - pl-8
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-        borderRadius: none
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    backgroundSize: full
-    backgroundImage:
-      url: /images/blumber-hero-mockup-ae753902.jpg
-      backgroundSize: cover
-      backgroundPosition: center
-      opacity: 100
   - colors: colors-b
     elementId: hero-button-grid
     title: |
