@@ -291,7 +291,7 @@ sections:
       url: /images/hero-3.png
       backgroundSize: cover
       backgroundPosition: center
-      opacity: 100
+      opacity: 44
     backgroundSize: full
   - elementId: ''
     colors: colors-d
