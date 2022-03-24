@@ -565,7 +565,7 @@ sections:
           isRequired: 'true'
           width: 1/2
         - name: phone-number
-          label: Home address
+          label: Phone Number
           hideLabel: false
           placeholder: XXX-XXX-XXXX
           isRequired: false
