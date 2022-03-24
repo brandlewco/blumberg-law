@@ -419,7 +419,7 @@
             @apply border-on-complementary-alt text-on-complementary-alt hover:bg-light hover:border-primary hover:text-primary;
         }
         .sb-card {
-            @apply bg-light text-complementary-alt;
+            @apply bg-light text-on-complementary-alt;
         }
         .sb-component-item-hover {
             @apply hover:bg-dark hover:text-light;
