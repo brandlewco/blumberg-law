@@ -564,11 +564,6 @@ sections:
           placeholder: Your email
           isRequired: 'true'
           width: 1/2
-        - type: CheckboxFormControl
-          name: updates
-          label: Sign me up to receive updates
-          isRequired: 'false'
-          width: full
         - name: description
           label: Description
           hideLabel: false
@@ -576,6 +571,11 @@ sections:
           isRequired: false
           width: full
           type: TextareaFormControl
+        - type: CheckboxFormControl
+          name: updates
+          label: Sign me up to receive updates
+          isRequired: 'false'
+          width: full
       submitLabel: Send Message
     media:
       type: ImageBlock
