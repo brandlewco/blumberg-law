@@ -30,7 +30,7 @@ sections:
           - mt-0
           - mb-0
         padding:
-          - pt-32
+          - pt-24
           - pb-48
           - pr-8
           - pl-8
