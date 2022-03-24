@@ -288,7 +288,7 @@ sections:
         justifyContent: flex-start
     type: FeaturedItemsSection
     backgroundImage:
-      url: /images/hero-3.png
+      url: /images/background-court-blue.jpg
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
