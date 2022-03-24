@@ -583,6 +583,7 @@ sections:
       - content/pages/blog/post-four.md
       - content/pages/blog/post-one.md
       - content/pages/blog/post-three.md
+      - content/pages/blog/post-two.md
     styles:
       self:
         height: auto
