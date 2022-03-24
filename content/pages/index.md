@@ -373,7 +373,7 @@ sections:
         url: /images/award-super-lawyers.png
         altText: Super Lawyers Rated
         caption: Super Lawyers Rated
-    spacing: 30
+    spacing: 32
     columns: 4
     showCaption: false
     enableHover: true
