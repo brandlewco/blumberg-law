@@ -34,8 +34,8 @@ sections:
           - pb-32
           - pr-8
           - pl-7
-        alignItems: flex-start
-        justifyContent: center
+        alignItems: center
+        justifyContent: flex-start
         flexDirection: row
         borderRadius: none
       title:
