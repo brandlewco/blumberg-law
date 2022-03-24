@@ -52,7 +52,7 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
-  - colors: colors-b
+  - colors: colors-a
     elementId: hero-features
     subtitle: ''
     items:
