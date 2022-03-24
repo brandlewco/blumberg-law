@@ -389,7 +389,7 @@ sections:
         padding:
           - pt-14
           - pb-14
-          - pl-4
+          - pl-8
           - pr-8
         justifyContent: center
       title:
