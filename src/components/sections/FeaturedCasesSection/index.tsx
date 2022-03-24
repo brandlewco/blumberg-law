@@ -1,4 +1,4 @@
 import CasesFeedSection from '../CasesFeedSection';
-export default function FeaturedCasesSection(props) {
+export default function FeaturedCaseSection(props) {
     return <CasesFeedSection {...props} annotatePosts={true} />;
 }
