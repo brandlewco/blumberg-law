@@ -581,6 +581,7 @@ sections:
     posts:
       - content/pages/blog/post-five.md
       - content/pages/blog/post-four.md
+      - content/pages/blog/post-one.md
     styles:
       self:
         height: auto
