@@ -593,7 +593,7 @@ sections:
         elementId: ''
         type: Button
     backgroundImage:
-      url: /images/background-court-blue.jpg
+      url: /images/background-arizona-desert.png
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
