@@ -178,7 +178,7 @@
     }
 
     .columns-4 {
-       columns: 4;
+        columns: 4;
     }
 
     @media only screen and (max-width: 768px) {
@@ -186,7 +186,7 @@
             @apply py-16;
         }
         .columns-4 {
-       columns: 1;
+            columns: 1;
         }
     }
 
@@ -255,6 +255,15 @@
     .dropdown:hover svg {
         @apply -rotate-90 text-secondary;
     } */
+
+    .sb-component-section {
+        position: relative;
+        overflow: hidden;
+    }
+
+    .react-parallax {
+        overflow: visible !important;
+    }
 
     /* Buttons */
     .sb-component-button {
