@@ -287,11 +287,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeaturedItemsSection
-    backgroundImage:
-      url: /images/background-arizona-desert.png
-      backgroundSize: cover
-      backgroundPosition: top
-      opacity: 100
     backgroundSize: full
   - elementId: ''
     colors: colors-d
