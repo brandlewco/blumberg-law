@@ -547,7 +547,8 @@ sections:
   - elementId: ''
     colors: colors-b
     variant: variant-b
-    title: Contact An Experianced Phoenix Criminal Attorney Today
+    title: |
+      Contact An **Experienced** Phoenix Criminal Attorney Today
     text: >
       At Blumberg & Associates, we apply our knowledge, skills, experience and
       dedication toward achieving a favorable result in your criminal case. We
