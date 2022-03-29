@@ -177,6 +177,10 @@
         @apply bg-transparent text-white;
     }
 
+    .columns-4 {
+        @apply columns-4;
+    }
+
     @media only screen and (max-width: 768px) {
         #hero-features {
             @apply py-16;
