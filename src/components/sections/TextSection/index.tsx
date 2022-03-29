@@ -26,6 +26,7 @@ export default function TextSection(props) {
                 'flex',
                 'flex-col',
                 'justify-center',
+                'relative',
                 mapMinHeightStyles(sectionHeight),
                 sectionStyles.margin,
                 sectionStyles.padding || 'py-12 px-4',
@@ -38,7 +39,7 @@ export default function TextSection(props) {
             }}
         >
             {props.backgroundImage && <BackgroundImage {...props.backgroundImage} />}
-            <div className={classNames('flex', 'w-full', mapStyles({ justifyContent: sectionJustifyContent }))}>
+            <div className={classNames('flex', 'w-full', 'z-10', mapStyles({ justifyContent: sectionJustifyContent }))}>
                 <div className={classNames('w-full', mapMaxWidthStyles(sectionWidth))}>{textBodyVariants(props)}</div>
             </div>
         </div>
