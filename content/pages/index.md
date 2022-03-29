@@ -289,7 +289,6 @@ sections:
     type: FeaturedItemsSection
     backgroundSize: full
     backgroundImage:
-      url: /images/background-arizona-desert.png
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
