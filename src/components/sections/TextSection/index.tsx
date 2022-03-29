@@ -106,8 +106,9 @@ function textBodyVariantB(props) {
                     )}
                 </div>
             )}
-            {props.text && (
+            {(props.text || props.actions)&& (
                 <div className={classNames('w-full', { 'mt-12 lg:mt-0 lg:w-2/3 lg:pl-3': props.title || props.subtitle })}>
+                    {props.text && (
                     <Markdown
                         options={{ forceBlock: true, forceWrapper: true }}
                         className={classNames('sb-markdown', 'sm:text-lg', styles.text ? mapStyles(styles.text) : null)}
@@ -115,9 +116,14 @@ function textBodyVariantB(props) {
                     >
                         {props.text}
                     </Markdown>
+                    )}
+                    {props.actions && (
+                       <div className=''>
+                       {itemActions(props)}
+                       </div>
+                    )}
                 </div>
             )}
-            {itemActions(props)}
         </div>
     );
 }
