@@ -292,6 +292,7 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
+      url: /images/background-arizona-desert.png
   - elementId: ''
     colors: colors-d
     variant: variant-a
