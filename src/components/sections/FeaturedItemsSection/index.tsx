@@ -1,6 +1,8 @@
 import * as React from 'react';
 import classNames from 'classnames';
 import Markdown from 'markdown-to-jsx';
+import { Parallax, Background } from "react-parallax";
+
 
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 import { getDataAttrs } from '../../../utils/get-data-attrs';
@@ -42,7 +44,22 @@ export default function FeaturedItemsSection(props) {
                 borderWidth: styles.self?.borderWidth ? `${styles.self?.borderWidth}px` : null
             }}
         >   
-        {props.backgroundImage && <BackgroundImage {...props.backgroundImage} />}
+        {/* {props.backgroundImage && <BackgroundImage {...props.backgroundImage} />} */}
+        {props.backgroundImage && <Parallax
+            bgImage={props.backgroundImage.url}
+            strength={400}
+            renderLayer={percentage => (
+                <div
+                    style={{
+                        position: 'absolute',
+                        left: '50%',
+                        top: '50%',
+                        width: percentage * 500,
+                        height: percentage * 500,
+                    }}
+                />
+            )}
+            ></Parallax>}
             <div className={classNames('flex', 'w-full', 'z-10', mapStyles({ justifyContent: sectionJustifyContent }))}>
                 <div className={classNames('w-full', mapMaxWidthStyles(sectionWidth))}>
                     {props.title && (

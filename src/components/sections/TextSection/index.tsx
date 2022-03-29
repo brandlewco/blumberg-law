@@ -2,6 +2,8 @@ import * as React from 'react';
 import Markdown from 'markdown-to-jsx';
 import classNames from 'classnames';
 import { Link, Action, BackgroundImage } from '../../atoms';
+import { Parallax, Background } from "react-parallax";
+
 
 
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
@@ -14,6 +16,7 @@ export default function TextSection(props) {
     const sectionWidth = sectionStyles.width || 'wide';
     const sectionHeight = sectionStyles.height || 'auto';
     const sectionJustifyContent = sectionStyles.justifyContent || 'center';
+    const bgImage = props.backgroundImage;
     return (
         <div
             id={cssId}
@@ -38,9 +41,26 @@ export default function TextSection(props) {
                 borderWidth: sectionStyles.borderWidth ? `${sectionStyles.borderWidth}px` : null
             }}
         >
-            {props.backgroundImage && <BackgroundImage {...props.backgroundImage} />}
+            {/* {props.backgroundImage && <BackgroundImage {...props.backgroundImage} />} */}
+            {props.backgroundImage && <Parallax
+            bgImage={props.backgroundImage.url}
+            strength={400}
+            renderLayer={percentage => (
+                <div
+                    style={{
+                        position: 'absolute',
+                        left: '50%',
+                        top: '50%',
+                        width: percentage * 500,
+                        height: percentage * 500,
+                    }}
+                />
+            )}
+            ></Parallax>}
             <div className={classNames('flex', 'w-full', 'z-10', mapStyles({ justifyContent: sectionJustifyContent }))}>
-                <div className={classNames('w-full', mapMaxWidthStyles(sectionWidth))}>{textBodyVariants(props)}</div>
+                <div className={classNames('w-full', mapMaxWidthStyles(sectionWidth))}>
+                    {textBodyVariants(props)}
+                </div>
             </div>
         </div>
     );
