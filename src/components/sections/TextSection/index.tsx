@@ -144,10 +144,7 @@ function itemActions(props) {
             })}
         >
             <div
-                className={classNames('flex', 'flex-wrap', 'items-center', '-mx-2', {
-                    'justify-center': styles.self?.textAlign === 'center',
-                    'justify-end': styles.self?.textAlign === 'right'
-                })}
+                className={classNames('flex', 'flex-wrap', 'items-center', '-mx-2', styles.actions ? mapStyles(styles.actions) : null)}
                 data-sb-field-path=".actions"
             >
                 {actions.map((action, index) => (
