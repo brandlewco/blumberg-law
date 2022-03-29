@@ -62,9 +62,11 @@ function textBodyVariantA(props) {
     return (
         <div>
             {props.title && (
-                <h2 className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
+                <Markdown
+                    options={{ forceWrapper: true, wrapper: 'h2' }}
+                    className={classNames('h1', styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
                     {props.title}
-                </h2>
+                </Markdown>
             )}
             {props.subtitle && (
                 <p
@@ -95,9 +97,11 @@ function textBodyVariantB(props) {
             {(props.title || props.subtitle) && (
                 <div className={classNames('w-full', { 'lg:w-1/3 lg:pr-3': props.text })}>
                     {props.title && (
-                        <h2 className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
+                        <Markdown
+                            options={{ forceWrapper: true, wrapper: 'h2' }}
+                            className={classNames('h1', styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
                             {props.title}
-                        </h2>
+                        </Markdown>
                     )}
                     {props.subtitle && (
                         <p
