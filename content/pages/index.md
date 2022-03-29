@@ -290,7 +290,7 @@ sections:
     backgroundImage:
       url: /images/background-arizona-desert.png
       backgroundSize: cover
-      backgroundPosition: center
+      backgroundPosition: bottom
       opacity: 100
     backgroundSize: full
   - elementId: ''
