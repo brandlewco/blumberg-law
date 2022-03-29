@@ -181,6 +181,10 @@
        columns: 4;
     }
 
+     #hero-features {
+         over
+     }
+
     @media only screen and (max-width: 768px) {
         #hero-features {
             @apply py-16;
