@@ -591,6 +591,11 @@ sections:
         style: secondary
         elementId: ''
         type: Button
+    backgroundImage:
+      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      backgroundSize: cover
+      backgroundPosition: center
+      opacity: 100
   - elementId: ''
     colors: colors-d
     backgroundSize: full
