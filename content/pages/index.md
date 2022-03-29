@@ -406,9 +406,7 @@ sections:
       knowledge, skills and experience to competently handle any criminal law
       matter in Arizona, including:
     text: |+
-      <ul style="columns: 4;
-      -webkit-columns: 4;
-      -moz-columns: 4; line-height: 1;">
+      <ul class="four-columns>
       *   Accounting & Tax Fraud
 
       *   Bank Fraud
