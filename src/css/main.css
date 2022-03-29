@@ -177,9 +177,7 @@
         @apply bg-transparent text-white;
     }
 
-    columns: 4;
--webkit-columns: 4;
--moz-columns: 4; line-height: 1;
+    .four-columns
 
     @media only screen and (max-width: 768px) {
         #hero-features {
