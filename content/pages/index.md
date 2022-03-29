@@ -289,7 +289,7 @@ sections:
     type: FeaturedItemsSection
     backgroundSize: full
     backgroundImage:
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/background-arizona-desert-8450e464.png
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
