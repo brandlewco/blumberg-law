@@ -1,7 +1,8 @@
 import * as React from 'react';
 import Markdown from 'markdown-to-jsx';
 import classNames from 'classnames';
-import { Link, Action } from '../../atoms';
+import { Link, Action, BackgroundImage } from '../../atoms';
+
 
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 import { getDataAttrs } from '../../../utils/get-data-attrs';
@@ -36,6 +37,7 @@ export default function TextSection(props) {
                 borderWidth: sectionStyles.borderWidth ? `${sectionStyles.borderWidth}px` : null
             }}
         >
+            {props.backgroundImage && <BackgroundImage {...props.backgroundImage} />}
             <div className={classNames('flex', 'w-full', mapStyles({ justifyContent: sectionJustifyContent }))}>
                 <div className={classNames('w-full', mapMaxWidthStyles(sectionWidth))}>{textBodyVariants(props)}</div>
             </div>

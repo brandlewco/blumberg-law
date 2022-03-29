@@ -25,14 +25,12 @@ fields:
       - label: Title on the left
         value: variant-b
     default: variant-a
-  - type: list
-    name: actions
-    label: Actions
-    items:
-      type: model
-      models:
-        - Button
-        - Link
+  - type: model
+    name: backgroundImage
+    group: styles
+    label: Background image
+    models:
+      - BackgroundImage
   - type: string
     name: title
     label: Title
@@ -51,6 +49,14 @@ fields:
       Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
       inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+  - type: list
+    name: actions
+    label: Actions
+    items:
+      type: model
+      models:
+        - Button
+        - Link
   - type: style
     name: styles
     styles:
