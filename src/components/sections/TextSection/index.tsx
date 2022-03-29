@@ -1,6 +1,7 @@
 import * as React from 'react';
 import Markdown from 'markdown-to-jsx';
 import classNames from 'classnames';
+import { Link, Action } from '../../atoms';
 
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 import { getDataAttrs } from '../../../utils/get-data-attrs';
@@ -79,6 +80,7 @@ function textBodyVariantA(props) {
                     {props.text}
                 </Markdown>
             )}
+            {itemActions(props)}
         </div>
     );
 }
@@ -115,9 +117,38 @@ function textBodyVariantB(props) {
                     </Markdown>
                 </div>
             )}
+            {itemActions(props)}
         </div>
     );
 }
+
+function itemActions(props) {
+    const actions = props.actions || [];
+    if (actions.length === 0) {
+        return null;
+    }
+    const styles = props.styles || {};
+    return (
+        <div
+            className={classNames('overflow-x-hidden', {
+                'mt-6': props.title || props.subtitle || props.text
+            })}
+        >
+            <div
+                className={classNames('flex', 'flex-wrap', 'items-center', '-mx-2', {
+                    'justify-center': styles.self?.textAlign === 'center',
+                    'justify-end': styles.self?.textAlign === 'right'
+                })}
+                data-sb-field-path=".actions"
+            >
+                {actions.map((action, index) => (
+                    <Action key={index} {...action} className="mb-3 mx-2 lg:whitespace-nowrap" data-sb-field-path={`.${index}`} />
+                ))}
+            </div>
+        </div>
+    );
+}
+
 
 function mapMinHeightStyles(height) {
     switch (height) {

@@ -65,7 +65,7 @@ export default function FeaturedItem(props) {
             {itemActions(props)}
         </article>
     );
-}
+} 
 
 function itemActions(props) {
     const actions = props.actions || [];

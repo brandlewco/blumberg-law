@@ -135,14 +135,28 @@
     }
     .embla__container {
         display: flex;
-        @apply gap-4 px-3 mx-3;
+        @apply gap-4;
     }
+
     .embla__slide {
         position: relative;
         flex: 0 0 33%;
     }
+    .embla__slide > div {
+        @apply mx-4;
+    }
+    .embla__nav {
+        @apply absolute w-full top-1/2 max-w-7xl inset-auto mt-8 mx-2;
+    }
     .embla__prev {
-        @apply absolute -left-2 top-1/2;
+        @apply absolute -left-12 bg-transparent duration-500 transition-all;
+    }
+    .embla__next {
+        @apply absolute -right-12 bg-transparent duration-500 transition-all;
+    }
+    .embla__prev:hover,
+    .embla__next:hover {
+        @apply bg-white rounded-full;
     }
     /* custom */
     #call-us {

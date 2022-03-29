@@ -7,6 +7,9 @@ import { getDataAttrs } from '../../../utils/get-data-attrs';
 import { Link, Action } from '../../atoms';
 import ImageBlock from '../../molecules/ImageBlock';
 import ArrowRightIcon from '../../svgs/arrow-right';
+import ArrowRightCircle from '../../svgs/arrow-right-circle';
+import ArrowLeftCircle from '../../svgs/arrow-left-circle';
+
 import getPageUrlPath from '../../../utils/get-page-url-path';
 import useEmblaCarousel from 'embla-carousel-react'
 
@@ -180,6 +183,7 @@ function postsVariantB(props, emblaRef, emblaApi) {
         if (emblaApi) emblaApi.scrollNext()
     }, [emblaApi])
     return (
+        <>
         <div
             className={classNames('embla', {
                 'mt-12': props.title || props.subtitle || (props.actions || []).length > 0
@@ -189,8 +193,8 @@ function postsVariantB(props, emblaRef, emblaApi) {
         >
         <div className="embla__container">
             {posts.map((post, index) => (
-                <article key={index} className="embla__slide sb-card overflow-hidden lg:w-1/3 w-1/2" data-sb-object-id={post.__metadata?.id}>
-                    <div className="flex flex-col min-h-full">
+                <article key={index} className="embla__slide overflow-hidden" data-sb-object-id={post.__metadata?.id}>
+                    <div className="sb-card flex flex-col min-h-full">
                         {post.featuredImage && (
                             <Link href={getPageUrlPath(post)} className="block h-0 w-full pt-2/3 relative overflow-hidden">
                                 <ImageBlock
@@ -235,13 +239,16 @@ function postsVariantB(props, emblaRef, emblaApi) {
                 </article>
             ))}
         </div>
-        <button className="embla__prev" onClick={scrollPrev}>
-        Prev
-      </button>
-      <button className="embla__next" onClick={scrollNext}>
-        Next
-      </button>
         </div>
+        <div className="embla__nav">
+        <button className="embla__prev" onClick={scrollPrev}>
+        <ArrowLeftCircle className="fill-current h-10 w-10" />
+        </button>
+        <button className="embla__next" onClick={scrollNext}>
+        <ArrowRightCircle className="fill-current h-10 w-10" />
+        </button>
+        </div>
+        </>
     );
 }
 
