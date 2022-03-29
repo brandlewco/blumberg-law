@@ -587,6 +587,16 @@ sections:
       text:
         textAlign: left
     type: TextSection
+    actions:
+      - label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
   - elementId: ''
     colors: colors-d
     backgroundSize: full
