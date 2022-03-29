@@ -31,7 +31,7 @@ fields:
     label: Background image
     models:
       - BackgroundImage
-  - type: enum
+  - type: markdown
     name: title
     label: Title
     default: The Section Title
