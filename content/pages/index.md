@@ -545,7 +545,7 @@ sections:
         justifyContent: center
     type: FeaturedCasesSection
   - elementId: ''
-    colors: colors-a
+    colors: colors-e
     variant: variant-b
     title: Contact An Experianced Phoenix Criminal Attorney Today
     text: >
