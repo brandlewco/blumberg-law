@@ -604,7 +604,31 @@ sections:
     showReadMoreLink: false
     readMoreLinkLabel: See All Cases
     variant: variant-b
-    actions: []
+    actions:
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: /
+        child:
+          - type: Link
+            label: Home
+            url: /
+            altText: Home
+          - type: Link
+            label: Blog
+            url: /
+            altText: Blog
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+        styles:
+          self:
+            padding:
+              - pt-5
+              - pb-5
+              - pl-4
+              - pr-4
     styles:
       self:
         height: auto
