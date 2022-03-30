@@ -337,7 +337,8 @@
                 "type": "Link",
                 "label": "Home",
                 "url": "/",
-                "altText": "home"
+                "altText": "home",
+                "showIcon": true
             },
             {
                 "type": "Link",
