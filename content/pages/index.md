@@ -627,7 +627,7 @@ sections:
       actions:
         justifyContent: center
     title: Read What Our Clients Are Saying
-    colors: colors-e
+    colors: colors-b
     posts:
       - content/pages/testimonials/yaser-awad.md
       - content/pages/testimonials/brent-wayne.md
