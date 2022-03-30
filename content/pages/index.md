@@ -606,7 +606,7 @@ sections:
     variant: variant-b
     actions:
       - type: Link
-        label: Read More Testim
+        label: Read More Testimonials
         altText: ''
         url: /
         child:
