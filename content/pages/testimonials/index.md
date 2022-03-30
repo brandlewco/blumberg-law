@@ -1,5 +1,5 @@
 ---
-layout: TestimonialsFeedLayout
+layout: PostFeedLayout
 title: Upcoming adventures
 numOfPostsPerPage: 10
 postFeed:
