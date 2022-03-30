@@ -626,7 +626,7 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-    title: Cases of Interest
+    title: Testimonials
     subtitle: Test
     colors: colors-e
     posts: []
