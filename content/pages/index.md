@@ -601,7 +601,7 @@ sections:
     showDate: false
     showAuthor: false
     showExcerpt: false
-    showReadMoreLink: false
+    showReadMoreLink: true
     readMoreLinkLabel: See All Cases
     variant: variant-b
     actions: []
