@@ -1,5 +1,5 @@
 {
-    "model": "TestimonialsCasesSection",
+    "model": "FeaturedTestimonialsSection",
     "presets": [
         {
             "label": "Featured Testimonials",
