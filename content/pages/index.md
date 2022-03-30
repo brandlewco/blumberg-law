@@ -657,7 +657,7 @@ sections:
       - content/pages/testimonials/danielle-chodrick.md
     media:
       type: ImageBlock
-      url: /images/portrait-testimonials.png
+      url: /images/blumber-hero-mockup.jpg
       altText: Photo
       caption: Photo
       elementId: ''
