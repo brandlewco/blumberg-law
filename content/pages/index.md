@@ -738,7 +738,6 @@ sections:
     elementId: ''
     colors: colors-e
     variant: variant-a
-    title: The Section Title
     subtitle: ''
     text: |-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
