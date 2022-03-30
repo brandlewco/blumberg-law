@@ -629,8 +629,7 @@ sections:
     title: Cases of Interest
     subtitle: ''
     colors: colors-e
-    posts:
-      - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
+    posts: []
   - elementId: ''
     colors: colors-d
     backgroundSize: full
