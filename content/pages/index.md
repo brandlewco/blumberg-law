@@ -854,7 +854,7 @@ sections:
     styles:
       self:
         height: auto
-        width: narrow
+        width: wide
         margin:
           - mt-0
           - mb-0
@@ -862,7 +862,7 @@ sections:
           - mr-0
         padding:
           - pt-16
-          - pb-16
+          - pb-28
           - pl-4
           - pr-4
         justifyContent: center
