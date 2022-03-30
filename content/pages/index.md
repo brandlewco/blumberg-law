@@ -771,7 +771,6 @@ sections:
     elementId: ''
     colors: colors-d
     variant: variant-a
-    title: The Section Title
     subtitle: ''
     text: >
       ## Domestic Violence
