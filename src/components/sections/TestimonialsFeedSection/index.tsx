@@ -11,7 +11,6 @@ import ArrowRightCircle from '../../svgs/arrow-right-circle';
 import ArrowLeftCircle from '../../svgs/arrow-left-circle';
 
 import getPageUrlPath from '../../../utils/get-page-url-path';
-import useEmblaCarousel from 'embla-carousel-react'
 
 
 export default function TestimonialsFeedSection(props) {
@@ -21,7 +20,6 @@ export default function TestimonialsFeedSection(props) {
     const sectionWidth = styles.self?.width || 'wide';
     const sectionHeight = styles.self?.height || 'auto';
     const sectionJustifyContent = styles.self?.justifyContent || 'center';
-    const [emblaRef, emblaApi] = useEmblaCarousel({ loop: true, align: "start" })
 
     return (
         <div
@@ -63,7 +61,7 @@ export default function TestimonialsFeedSection(props) {
                         </p>
                     )}
                     {postFeedActions(props)}
-                    {postFeedVariants(props, emblaRef, emblaApi)}
+                    {postFeedVariants(props)}
                     {props.pageLinks}
                 </div>
             </div>
@@ -91,24 +89,24 @@ function postFeedActions(props) {
     );
 }
 
-function postFeedVariants(props, emblaRef, emblaApi) {
+function postFeedVariants(props) {
     const variant = props.variant || 'variant-a';
     switch (variant) {
         case 'variant-a':
-            return postsVariantA(props, emblaRef, emblaApi);
+            return postsVariantA(props);
         case 'variant-b':
-            return postsVariantB(props, emblaRef, emblaApi);
+            return postsVariantB(props);
         case 'variant-c':
-            return postsVariantC(props, emblaRef, emblaApi);
+            return postsVariantC(props);
         case 'variant-d':
-            return postsVariantD(props, emblaRef, emblaApi);
+            return postsVariantD(props);
         case 'variant-e':
-            return postsVariantE(props, emblaRef, emblaApi);
+            return postsVariantE(props);
     }
     return null;
 }
 
-function postsVariantA(props, emblaRef, emblaApi) {
+function postsVariantA(props) {
     const posts = props.posts || [];
     if (posts.length === 0) {
         return null;
@@ -170,28 +168,20 @@ function postsVariantA(props, emblaRef, emblaApi) {
     );
 }
 
-function postsVariantB(props, emblaRef, emblaApi) {
+function postsVariantB(props) {
     const posts = props.posts || [];
     if (posts.length === 0) {
         return null;
     }
-    const scrollPrev = useCallback(() => {
-        if (emblaApi) emblaApi.scrollPrev()
-    }, [emblaApi])
-
-    const scrollNext = useCallback(() => {
-        if (emblaApi) emblaApi.scrollNext()
-    }, [emblaApi])
     return (
         <>
         <div
-            className={classNames('embla', {
+            className={classNames({
                 'mt-12': props.title || props.subtitle || (props.actions || []).length > 0
             })}
             {...(props.annotatePosts ? { 'data-sb-field-path': '.posts' } : null)}
             ref={emblaRef}
         >
-        <div className="embla__container">
             {posts.map((post, index) => (
                 <article key={index} className="embla__slide overflow-hidden" data-sb-object-id={post.__metadata?.id}>
                     <div className="sb-card flex flex-col min-h-full">
@@ -223,20 +213,11 @@ function postsVariantB(props, emblaRef, emblaApi) {
                 </article>
             ))}
         </div>
-        </div>
-        <div className="embla__nav">
-        <button className="embla__prev" onClick={scrollPrev}>
-        <ArrowLeftCircle className="fill-current h-10 w-10" />
-        </button>
-        <button className="embla__next" onClick={scrollNext}>
-        <ArrowRightCircle className="fill-current h-10 w-10" />
-        </button>
-        </div>
         </>
     );
 }
 
-function postsVariantC(props, emblaRef, emblaApi) {
+function postsVariantC(props) {
     const posts = props.posts || [];
     if (posts.length === 0) {
         return null;
@@ -302,7 +283,7 @@ function postsVariantC(props, emblaRef, emblaApi) {
     );
 }
 
-function postsVariantD(props, emblaRef, emblaApi) {
+function postsVariantD(props) {
     const posts = props.posts || [];
     if (posts.length === 0) {
         return null;
@@ -367,7 +348,7 @@ function postsVariantD(props, emblaRef, emblaApi) {
     );
 }
 
-function postsVariantE(props, emblaRef, emblaApi) {
+function postsVariantE(props) {
     const posts = props.posts || [];
     if (posts.length === 0) {
         return null;

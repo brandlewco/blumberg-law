@@ -1,6 +1,6 @@
-name: CasesLayout
-label: Cases
-layout: CasesLayout
+name: TestimonialsLayout
+label: Testimonials
+layout: TestimonialsLayout
 thumbnail: https://assets.stackbit.com/components/models/thumbnails/default.png
 extends:
   - Seo
