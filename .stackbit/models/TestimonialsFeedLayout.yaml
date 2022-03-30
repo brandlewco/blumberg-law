@@ -1,7 +1,7 @@
-name: PostFeedLayout
-label: Blog
+name: TestimonialsFeedLayout
+label: Testimonials
 labelField: title
-layout: PostFeedLayout
+layout: TestimonialsFeedLayout
 hideContent: true
 extends:
   - Seo
