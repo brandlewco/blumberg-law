@@ -646,7 +646,10 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-    title: Read What Our Clients Are Saying
+    title: |
+      Read What
+
+      **Our Clients Are Saying**
     colors: colors-b
     posts:
       - content/pages/testimonials/yaser-awad.md
