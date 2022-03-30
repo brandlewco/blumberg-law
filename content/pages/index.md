@@ -641,11 +641,11 @@ sections:
           - pr-4
         justifyContent: center
       title:
-        textAlign: center
+        textAlign: left
       subtitle:
-        textAlign: center
+        textAlign: left
       actions:
-        justifyContent: center
+        justifyContent: left
     title: |
       Read What
 

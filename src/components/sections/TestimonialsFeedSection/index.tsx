@@ -49,7 +49,7 @@ export default function TestimonialsFeedSection(props) {
         >
             <div className={classNames('flex', 'w-full', mapStyles({ justifyContent: sectionJustifyContent }))}>
                 <div className={classNames('w-full', mapMaxWidthStyles(sectionWidth))}>
-                    <div className='flex flex-row gap-4'>
+                    <div className='flex flex-row gap-12'>
                         {props.media && <div className='w-full lg:w-1/3'>{heroMedia(props.media)}</div> }
                         <div className='w-full lg:w-2/3'>
                             {props.title && (
@@ -87,7 +87,7 @@ function postFeedActions(props) {
     return (
         <div className={classNames('overflow-x-hidden', { 'mt-8': props.title || props.name })}>
             <div
-                className={classNames('flex', 'flex-wrap', 'items-center', '-mx-2', styles.actions ? mapStyles(styles.actions) : null)}
+                className={classNames('flex', 'flex-wrap', 'items-center', 'justify-start', '-mx-2', styles.actions ? mapStyles(styles.actions) : null)}
                 data-sb-field-path=".actions"
             >
                 {props.actions.map((action, index) => (
