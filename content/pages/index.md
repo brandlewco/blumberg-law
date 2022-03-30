@@ -608,7 +608,7 @@ sections:
       - type: Link
         label: Read More Testimonials
         altText: ''
-        url: /
+        url: /testimonials
         child:
           - type: Link
             label: Home
