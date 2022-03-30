@@ -658,7 +658,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/portrait-testimonials.png
-      altText: altText of the image
+      altText: Photo
       caption: Caption of the image
       elementId: ''
   - elementId: ''
