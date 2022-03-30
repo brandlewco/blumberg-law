@@ -180,10 +180,9 @@ function postsVariantB(props) {
                 'mt-12': props.title || props.name || (props.actions || []).length > 0
             })}
             {...(props.annotatePosts ? { 'data-sb-field-path': '.posts' } : null)}
-            ref={emblaRef}
         >
             {posts.map((post, index) => (
-                <article key={index} className="embla__slide overflow-hidden" data-sb-object-id={post.__metadata?.id}>
+                <article key={index} className="overflow-hidden" data-sb-object-id={post.__metadata?.id}>
                     <div className="sb-card flex flex-col min-h-full">
                         {post.featuredImage && (
                             <Link href={getPageUrlPath(post)} className="block h-0 w-full pt-2/3 relative overflow-hidden">
