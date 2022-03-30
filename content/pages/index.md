@@ -662,7 +662,7 @@ sections:
       caption: Caption of the image
       elementId: ''
   - elementId: ''
-    colors: colors-d
+    colors: colors-e
     backgroundSize: full
     title: Schedule Your Consultation
     text: |
