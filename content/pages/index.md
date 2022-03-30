@@ -712,10 +712,6 @@ sections:
           isRequired: 'false'
           width: full
       submitLabel: Send Message
-    media:
-      type: ImageBlock
-      url: /images/blumber-hero-mockup-65b26475.jpg
-      altText: Contact form image
     styles:
       self:
         height: auto
