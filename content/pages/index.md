@@ -739,13 +739,12 @@ sections:
     colors: colors-e
     variant: variant-a
     subtitle: ''
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      Please do not include any confidential or sensitive information in a
+      contact form, text message, or voicemail. The contact form sends
+      information by non-encrypted email, which is not secure. Submitting a
+      contact form, sending a text message, making a phone call, or leaving a
+      voicemail does not create an attorney-client relationship.
     actions: []
     styles:
       self:
