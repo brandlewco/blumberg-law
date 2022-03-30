@@ -595,47 +595,6 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
-  - type: FeaturedCasesSection
-    elementId: ''
-    showDate: true
-    showAuthor: false
-    showExcerpt: true
-    showReadMoreLink: true
-    readMoreLinkLabel: Join adventure
-    variant: variant-a
-    actions:
-      - type: Link
-        label: See all adventures
-        altText: See all adventures
-        url: /blog
-        showIcon: true
-        icon: arrowRight
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    title: Seasonal adventure
-    subtitle: ''
-    colors: colors-d
-    posts:
-      - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
   - elementId: ''
     colors: colors-d
     backgroundSize: full
