@@ -724,8 +724,8 @@ sections:
         padding:
           - pt-16
           - pb-16
-          - pl-4
-          - pr-8
+          - pl-8
+          - pr-4
         alignItems: center
         justifyContent: center
         flexDirection: row
@@ -751,7 +751,7 @@ sections:
     styles:
       self:
         height: auto
-        width: narrow
+        width: wide
         margin:
           - mt-0
           - mb-0
