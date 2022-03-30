@@ -736,7 +736,7 @@ sections:
     type: ContactSection
   - type: TextSection
     elementId: ''
-    colors: colors-d
+    colors: colors-e
     variant: variant-a
     title: The Section Title
     subtitle: ''
