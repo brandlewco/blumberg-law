@@ -3,7 +3,7 @@ import classNames from 'classnames';
 import dayjs from 'dayjs';
 import Markdown from 'markdown-to-jsx';
 
-
+import { getComponent } from '../../components-registry';
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 import { getDataAttrs } from '../../../utils/get-data-attrs';
 import { Link, Action } from '../../atoms';
@@ -50,24 +50,26 @@ export default function TestimonialsFeedSection(props) {
             <div className={classNames('flex', 'w-full', mapStyles({ justifyContent: sectionJustifyContent }))}>
                 <div className={classNames('w-full', mapMaxWidthStyles(sectionWidth))}>
                     <div className='flex flex-row gap-4'>
-                        <div className='w-full lg:w-1/3'></div>
+                        {props.media && <div className='w-full lg:w-1/3'>{heroMedia(props.media)}</div> }
                         <div className='w-full lg:w-2/3'>
-                        {props.title && (
-                            <h2 className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
-                                {props.title}
-                            </h2>
-                        )}
-                        {props.subtitle && (
-                            <p
-                                className={classNames('text-lg', 'sm:text-xl', styles.name ? mapStyles(styles.name) : null, { 'mt-6': props.title })}
-                                data-sb-field-path=".subtitle"
-                            >
-                                {props.subtitle}
-                            </p>
-                        )}
-                        {postFeedActions(props)}
+                            {props.title && (
+                                <Markdown
+                                    options={{ forceWrapper: true, wrapper: 'h2' }}
+                                    className={classNames('h1', styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
+                                    {props.title}
+                                </Markdown>
+                            )}
+                            {props.subtitle && (
+                                <p
+                                    className={classNames('text-lg', 'sm:text-xl', styles.name ? mapStyles(styles.name) : null, { 'mt-6': props.title })}
+                                    data-sb-field-path=".subtitle"
+                                >
+                                    {props.subtitle}
+                                </p>
+                            )}
                         {postFeedVariants(props)}
                         {props.pageLinks}
+                        {postFeedActions(props)}
                         </div>
                     </div>
                 </div>
@@ -181,8 +183,8 @@ function postsVariantB(props) {
             {...(props.annotatePosts ? { 'data-sb-field-path': '.posts' } : null)}
         >
             {posts.map((post, index) => (
-                <article key={index} className="overflow-hidden mt-4" data-sb-object-id={post.__metadata?.id}>
-                    <div className="sb-card flex flex-col min-h-full">
+                <article key={index} className="overflow-hidden mt-4 border-t border-solid border-white" data-sb-object-id={post.__metadata?.id}>
+                    <div className="flex flex-col min-h-full">
                         {/* {post.featuredImage && (
                             <Link href={getPageUrlPath(post)} className="block h-0 w-full pt-2/3 relative overflow-hidden">
                                 <ImageBlock
@@ -411,21 +413,21 @@ function postsVariantB(props) {
 //     );
 // }
 
-function PostDate({ post, className = '' }) {
-    if (!post.date) {
-        return null;
-    }
-    const date = post.date;
-    const dateTimeAttr = dayjs(date).format('YYYY-MM-DD HH:mm:ss');
-    const formattedDate = dayjs(date).format('MM/DD/YYYY');
-    return (
-        <div className={className ? className : null}>
-            <time dateTime={dateTimeAttr} data-sb-field-path="date">
-                {formattedDate}
-            </time>
-        </div>
-    );
-}
+// function PostDate({ post, className = '' }) {
+//     if (!post.date) {
+//         return null;
+//     }
+//     const date = post.date;
+//     const dateTimeAttr = dayjs(date).format('YYYY-MM-DD HH:mm:ss');
+//     const formattedDate = dayjs(date).format('MM/DD/YYYY');
+//     return (
+//         <div className={className ? className : null}>
+//             <time dateTime={dateTimeAttr} data-sb-field-path="date">
+//                 {formattedDate}
+//             </time>
+//         </div>
+//     );
+// }
 
 function PostAttribution({ showAuthor, post, className = '' }) {
     const author = showAuthor ? postAuthor(post) : null;
@@ -450,6 +452,19 @@ function PostAttribution({ showAuthor, post, className = '' }) {
         </div>
     );
 }
+
+function heroMedia(media) {
+    const mediaType = media.type;
+    if (!mediaType) {
+        throw new Error(`hero section media does not have the 'type' property`);
+    }
+    const Media = getComponent(mediaType);
+    if (!Media) {
+        throw new Error(`no component matching the hero section media type: ${mediaType}`);
+    }
+    return <Media {...media} data-sb-field-path=".media" />;
+}
+
 
 function postAuthor(post) {
     if (!post.author) {

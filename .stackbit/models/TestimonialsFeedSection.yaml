@@ -10,7 +10,7 @@ fieldGroups:
   - name: settings
     label: Settings
 fields:
-  - type: string
+  - type: markdown
     name: title
     label: Title
     default: Testimonials
