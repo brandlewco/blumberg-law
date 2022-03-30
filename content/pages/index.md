@@ -628,7 +628,8 @@ sections:
         justifyContent: center
     title: Read What Our Clients Are Saying
     colors: colors-e
-    posts: []
+    posts:
+      - content/pages/testimonials/yaser-awad.md
   - elementId: ''
     colors: colors-d
     backgroundSize: full
