@@ -87,7 +87,7 @@ function postFeedActions(props) {
     return (
         <div className={classNames('overflow-x-hidden', { 'mt-8': props.title || props.name })}>
             <div
-                className={classNames('flex', 'flex-wrap', 'items-center', 'justify-start', '-mx-2', styles.actions ? mapStyles(styles.actions) : null)}
+                className={classNames('flex', 'flex-wrap', 'items-center', '-mx-2', styles.actions ? mapStyles(styles.actions) : null)}
                 data-sb-field-path=".actions"
             >
                 {props.actions.map((action, index) => (

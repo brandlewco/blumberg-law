@@ -9,9 +9,9 @@ groups:
   - sectionComponent
 fields:
   - name: title
-    default: Featured
+    default: Featured Testimonials
   - name: subtitle
-    default: Featured blog posts section example
+    default: Featured Testimonials section example
   - name: colors
     default: colors-d
   - type: list

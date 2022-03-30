@@ -13,7 +13,7 @@ export default function TestimonialsFeedLayout(props) {
     const postFeedColors = postFeed?.colors || 'colors-d';
     const postFeedWidth = postFeed?.styles?.self?.width || 'wide';
     const postFeedJustifyContent = postFeed?.styles?.self?.justifyContent || 'center';
-    const TestimonialsFeedSection = getComponent('TestimonailsFeedSection');
+    const TestimonialsFeedSection = getComponent('TestimonialsFeedSection');
     const pageLinks = PageLinks({ pageIndex, baseUrlPath, numOfPages });
 
     return (
