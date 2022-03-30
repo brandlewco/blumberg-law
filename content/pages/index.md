@@ -626,7 +626,9 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-    title: Testimonials
+    title: |-
+      Read What
+      Our Clients Are Saying
     subtitle: Test
     colors: colors-e
     posts: []
