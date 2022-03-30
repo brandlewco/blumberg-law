@@ -598,7 +598,7 @@ sections:
       opacity: 100
   - type: FeaturedTestimonialsSection
     elementId: ''
-    showDate: true
+    showDate: false
     showAuthor: false
     showExcerpt: false
     showReadMoreLink: false
