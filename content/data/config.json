@@ -321,9 +321,7 @@
         }
     },
     "footer": {
-        "variant": "variant-b",
-        "colors": "colors-d",
-        "title": "Say hello",
+        "colors": "colors-b",
         "contacts": {
             "title": "Contact details",
             "phoneNumber": "850-123-5021",
@@ -337,21 +335,20 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Home",
-                "url": "/",
-                "altText": "home"
+                "label": "TEL: 602-277-6180\n",
+                "url": "tel:+16022776180",
+                "altText": "home",
+                "showIcon": true,
+                "iconPosition": "left",
+                "icon": "chevronRight"
             },
             {
                 "type": "Link",
-                "label": "About",
-                "url": "/about",
-                "altText": "about"
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": "blog"
+                "label": "FAX: 602-889-9167\n",
+                "url": "#",
+                "altText": "blog",
+                "iconPosition": "left",
+                "icon": "chevronRight"
             },
             {
                 "type": "Link",
@@ -405,6 +402,14 @@
                     "pl-4"
                 ]
             }
+        },
+        "variant": "variant-a",
+        "logo": {
+            "type": "ImageBlock",
+            "url": "/images/blumberg-law-logo-main.png",
+            "altText": "altText of the image",
+            "caption": "Caption of the image",
+            "elementId": ""
         }
     },
     "defaultMetaTags": []
