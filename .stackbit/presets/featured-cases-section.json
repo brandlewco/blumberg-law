@@ -2,19 +2,27 @@
     "model": "FeaturedCasesSection",
     "presets": [
         {
-            "label": "Featured casesdark - 3 columns",
-            "thumbnail": "images/posts-dark-3-col.png",
+            "label": "Featured cases - 3 columns",
+            "thumbnail": "images/cases-3-col.png",
             "data": {
                 "variant": "variant-b",
                 "colors": "colors-e",
-                "title": "Seasonal adventure",
+                "title": "Cases of Interest",
                 "subtitle": "",
                 "actions": [],
                 "showDate": true,
                 "showAuthor": false,
                 "showExcerpt": false,
-                "showReadMoreLink": true,
-                "readMoreLinkLabel": "Join adventure",
+                "showReadMoreLink": false,
+                "readMoreLinkLabel": "See All Cases",
+                "posts": [
+                    "content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md",
+                    "content/pages/cases/accused-multiple-accounts-sexual-misconduct.md",
+                    "content/pages/cases/accused-or-child-abuse-by-causing-bruises.md",
+                    "content/pages/cases/charged-19-counts-sexual-conduct-with-minor.md",
+                    "content/pages/cases/accused-multiple-accounts-sexual-misconduct.md",
+                    "content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md"
+                ],
                 "styles": {
                     "self": {
                         "height": "auto",
