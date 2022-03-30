@@ -600,7 +600,7 @@ sections:
     showDate: true
     showAuthor: false
     showExcerpt: true
-    showReadMoreLink: true
+    showReadMoreLink: false
     readMoreLinkLabel: See All Cases
     variant: variant-b
     actions: []
