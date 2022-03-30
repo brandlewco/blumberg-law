@@ -203,9 +203,9 @@ function postsVariantB(props) {
                                 </h3>
                                 <PostAttribution showAuthor={props.showAuthor} post={post} className="mt-2" />
                             </div>
-                            {props.showExcerpt && post.excerpt && (
-                                    <div className="text-2xl font-bold flex flex-row justify-start items-start bg-primary text-white mt-4 px-4 pt-6 pb-6 sm:px-6 " data-sb-field-path="excerpt">
-                                        <span className='text-secondary pr-4'>X</span> {post.excerpt}
+                            {post.content && (
+                                    <div className="text-2xl font-bold flex flex-row justify-start items-start bg-primary text-white mt-4 px-4 pt-6 pb-6 sm:px-6 " data-sb-field-path="content">
+                                        {post.content}
                                     </div>
                             )}
                         </div>

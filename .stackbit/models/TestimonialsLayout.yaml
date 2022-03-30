@@ -45,10 +45,10 @@ fields:
         backgroundColor: '$complementaryAlt'
         borderColor: '#ececec'
     default: colors-d
-  - type: string
-    name: excerpt
-    label: Name
-    default: John Doe
+  # - type: string
+  #   name: excerpt
+  #   label: Name
+  #   default: John Doe
   - type: list
     name: bottomSections
     label: Sections
