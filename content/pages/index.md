@@ -611,10 +611,6 @@ sections:
         url: /testimonials
         child:
           - type: Link
-            label: Home
-            url: /
-            altText: Home
-          - type: Link
             label: Blog
             url: /
             altText: Blog
