@@ -606,7 +606,7 @@ sections:
     variant: variant-b
     actions:
       - type: Link
-        label: Learn more
+        label: 'Read All '
         altText: ''
         url: /
         child:
