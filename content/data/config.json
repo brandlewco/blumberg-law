@@ -344,12 +344,6 @@
             },
             {
                 "type": "Link",
-                "label": "About",
-                "url": "/about",
-                "altText": "about"
-            },
-            {
-                "type": "Link",
                 "label": "Blog",
                 "url": "/blog",
                 "altText": "blog"
