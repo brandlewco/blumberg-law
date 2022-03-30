@@ -346,7 +346,8 @@
                 "type": "Link",
                 "label": "FAX: 602-889-9167\n",
                 "url": "#",
-                "altText": "blog"
+                "altText": "blog",
+                "iconPosition": "left"
             },
             {
                 "type": "Link",
