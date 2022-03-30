@@ -655,6 +655,12 @@ sections:
       - content/pages/testimonials/yaser-awad.md
       - content/pages/testimonials/brent-wayne.md
       - content/pages/testimonials/danielle-chodrick.md
+    media:
+      type: ImageBlock
+      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
   - elementId: ''
     colors: colors-d
     backgroundSize: full
