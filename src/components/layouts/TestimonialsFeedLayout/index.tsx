@@ -13,7 +13,7 @@ export default function TestimonialsFeedLayout(props) {
     const postFeedColors = postFeed?.colors || 'colors-d';
     const postFeedWidth = postFeed?.styles?.self?.width || 'wide';
     const postFeedJustifyContent = postFeed?.styles?.self?.justifyContent || 'center';
-    const PostFeedSection = getComponent('PostFeedSection');
+    const TestimonialsFeedSection = getComponent('TestimonailsFeedSection');
     const pageLinks = PageLinks({ pageIndex, baseUrlPath, numOfPages });
 
     return (
@@ -30,7 +30,7 @@ export default function TestimonialsFeedLayout(props) {
                     </div>
                 )}
                 {renderSections(topSections, 'topSections')}
-                <PostFeedSection {...postFeed} posts={items} pageLinks={pageLinks} data-sb-field-path="postFeed" />
+                <TestimonialsFeedSection {...postFeed} posts={items} pageLinks={pageLinks} data-sb-field-path="postFeed" />
                 {renderSections(bottomSections, 'bottomSections')}
             </main>
         </BaseLayout>
