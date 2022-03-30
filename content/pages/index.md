@@ -570,8 +570,8 @@ sections:
         padding:
           - pt-24
           - pb-24
-          - pl-0
-          - pr-4
+          - pl-4
+          - pr-0
         justifyContent: center
       title:
         textAlign: left
