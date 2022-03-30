@@ -404,7 +404,8 @@
                     "pl-4"
                 ]
             }
-        }
+        },
+        "variant": "variant-b"
     },
     "defaultMetaTags": []
 }
