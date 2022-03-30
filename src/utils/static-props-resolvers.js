@@ -47,6 +47,9 @@ const StaticPropsResolvers = {
     CasesLayout: (props, data, debugContext) => {
         return resolveReferences(props, ['author', 'category'], data.objects, debugContext);
     },
+    TestimonialsLayout: (props, data, debugContext) => {
+        return resolveReferences(props, ['author', 'category'], data.objects, debugContext);
+    },
     PostFeedLayout: (props, data) => {
         const numOfPostsPerPage = props.numOfPostsPerPage ?? 10;
         const allPosts = getAllPostsSorted(data.objects);
@@ -99,6 +102,9 @@ const StaticPropsResolvers = {
         return resolveReferences(props, ['posts.author', 'posts.category'], data.objects, debugContext);
     },
     FeaturedCasesSection: (props, data, debugContext) => {
+        return resolveReferences(props, ['posts.author', 'posts.category'], data.objects, debugContext);
+    },
+    FeaturedTestimonailsSection: (props, data, debugContext) => {
         return resolveReferences(props, ['posts.author', 'posts.category'], data.objects, debugContext);
     },
     FeaturedPeopleSection: (props, data, debugContext) => {

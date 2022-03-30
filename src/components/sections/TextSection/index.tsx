@@ -32,7 +32,6 @@ export default function TextSection(props) {
                 'relative',
                 mapMinHeightStyles(sectionHeight),
                 sectionStyles.margin,
-                sectionStyles.padding || 'py-12 px-4',
                 sectionStyles.borderColor,
                 sectionStyles.borderStyle ? mapStyles({ borderStyle: sectionStyles.borderStyle }) : 'border-none',
                 sectionStyles.borderRadius ? mapStyles({ borderRadius: sectionStyles.borderRadius }) : null
@@ -51,13 +50,11 @@ export default function TextSection(props) {
                         position: 'absolute',
                         left: '50%',
                         top: '50%',
-                        width: percentage * 500,
-                        height: percentage * 500,
                     }}
                 />
             )}
             ></Parallax>}
-            <div className={classNames('flex', 'w-full', 'z-10', mapStyles({ justifyContent: sectionJustifyContent }))}>
+            <div className={classNames('flex', 'w-full', 'z-10', mapStyles({ justifyContent: sectionJustifyContent }), sectionStyles.padding)}>
                 <div className={classNames('w-full', mapMaxWidthStyles(sectionWidth))}>
                     {textBodyVariants(props)}
                 </div>

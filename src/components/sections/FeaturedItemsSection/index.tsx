@@ -35,7 +35,6 @@ export default function FeaturedItemsSection(props) {
                 'relative',
                 mapMinHeightStyles(sectionHeight),
                 styles.self?.margin,
-                styles.self?.padding || 'py-12 px-4',
                 styles.self?.borderColor,
                 styles.self?.borderStyle ? mapStyles({ borderStyle: styles.self?.borderStyle }) : 'border-none',
                 styles.self?.borderRadius ? mapStyles({ borderRadius: styles.self?.borderRadius }) : null,
@@ -53,14 +52,12 @@ export default function FeaturedItemsSection(props) {
                     style={{
                         position: 'absolute',
                         left: '50%',
-                        top: '50%',
-                        width: percentage * 500,
-                        height: percentage * 500,
+                        top: '50%'
                     }}
                 />
             )}
             ></Parallax>}
-            <div className={classNames('flex', 'w-full', 'z-10', mapStyles({ justifyContent: sectionJustifyContent }))}>
+            <div className={classNames('flex', 'w-full', 'z-10', mapStyles({ justifyContent: sectionJustifyContent }), styles.self?.padding || 'py-12 px-4')}>
                 <div className={classNames('w-full', mapMaxWidthStyles(sectionWidth))}>
                     {props.title && (
                         <Markdown

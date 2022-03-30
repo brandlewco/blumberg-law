@@ -3,6 +3,7 @@ import PostFeedLayout from './PostFeedLayout';
 import PostFeedCategoryLayout from './PostFeedCategoryLayout';
 import PostLayout from './PostLayout';
 import CasesLayout from './CasesLayout';
+import TestimonialsLayout from './TestimonailsLayout';
 import BlankBaseLayout from './BlankBaseLayout';
 import DefaultBaseLayout from './DefaultBaseLayout';
 

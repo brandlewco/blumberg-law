@@ -33,6 +33,10 @@ contentModels:
     isPage: true
     urlPath: '/cases/{slug}'
     newFilePath: 'cases/{slug}.md'
+  TestimonialsLayout:
+    isPage: true
+    urlPath: '/testimonials/{slug}'
+    newFilePath: 'testimonials/{slug}.md'
 modelsSource:
   type: files
   modelDirs:
