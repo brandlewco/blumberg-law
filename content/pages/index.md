@@ -657,9 +657,9 @@ sections:
       - content/pages/testimonials/danielle-chodrick.md
     media:
       type: ImageBlock
-      url: /images/gallery-2.jpg
-      altText: altText of the image
-      caption: Caption of the image
+      url: /images/portrait-testimonials.png
+      altText: Photo
+      caption: Photo
       elementId: ''
   - elementId: ''
     colors: colors-d
