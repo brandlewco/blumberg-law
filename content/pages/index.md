@@ -598,10 +598,10 @@ sections:
       opacity: 100
   - type: FeaturedTestimonialsSection
     elementId: ''
-    showDate: false
-    showAuthor: false
-    showExcerpt: false
-    showReadMoreLink: false
+    showDate: true
+    showAuthor: true
+    showExcerpt: true
+    showReadMoreLink: true
     readMoreLinkLabel: See All Cases
     variant: variant-b
     actions:
