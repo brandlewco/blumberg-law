@@ -52,12 +52,12 @@ export default function TestimonialsFeedSection(props) {
                             {props.title}
                         </h2>
                     )}
-                    {props.subtitle && (
+                    {props.name && (
                         <p
-                            className={classNames('text-lg', 'sm:text-xl', styles.subtitle ? mapStyles(styles.subtitle) : null, { 'mt-6': props.title })}
-                            data-sb-field-path=".subtitle"
+                            className={classNames('text-lg', 'sm:text-xl', styles.name ? mapStyles(styles.name) : null, { 'mt-6': props.title })}
+                            data-sb-field-path=".name"
                         >
-                            {props.subtitle}
+                            {props.name}
                         </p>
                     )}
                     {postFeedActions(props)}
@@ -76,7 +76,7 @@ function postFeedActions(props) {
     }
     const styles = props.styles || {};
     return (
-        <div className={classNames('overflow-x-hidden', { 'mt-8': props.title || props.subtitle })}>
+        <div className={classNames('overflow-x-hidden', { 'mt-8': props.title || props.name })}>
             <div
                 className={classNames('flex', 'flex-wrap', 'items-center', '-mx-2', styles.actions ? mapStyles(styles.actions) : null)}
                 data-sb-field-path=".actions"
@@ -114,7 +114,7 @@ function postsVariantA(props) {
     return (
         <div
             className={classNames('grid', 'gap-x-6', 'gap-y-12', 'md:grid-cols-2', 'lg:gap-x-8', {
-                'mt-12': props.title || props.subtitle || (props.actions || []).length > 0
+                'mt-12': props.title || props.name || (props.actions || []).length > 0
             })}
             {...(props.annotatePosts ? { 'data-sb-field-path': '.posts' } : null)}
         >
@@ -177,7 +177,7 @@ function postsVariantB(props) {
         <>
         <div
             className={classNames({
-                'mt-12': props.title || props.subtitle || (props.actions || []).length > 0
+                'mt-12': props.title || props.name || (props.actions || []).length > 0
             })}
             {...(props.annotatePosts ? { 'data-sb-field-path': '.posts' } : null)}
             ref={emblaRef}
@@ -225,7 +225,7 @@ function postsVariantC(props) {
     return (
         <div
             className={classNames('grid', 'gap-6', 'md:grid-cols-6', 'lg:gap-8', {
-                'mt-12': props.title || props.subtitle || (props.actions || []).length > 0
+                'mt-12': props.title || props.name || (props.actions || []).length > 0
             })}
             {...(props.annotatePosts ? { 'data-sb-field-path': '.posts' } : null)}
         >
@@ -291,7 +291,7 @@ function postsVariantD(props) {
     return (
         <div
             className={classNames('grid', 'gap-y-12', {
-                'mt-12': props.title || props.subtitle || (props.actions || []).length > 0
+                'mt-12': props.title || props.name || (props.actions || []).length > 0
             })}
             {...(props.annotatePosts ? { 'data-sb-field-path': '.posts' } : null)}
         >
@@ -356,7 +356,7 @@ function postsVariantE(props) {
     return (
         <div
             className={classNames('grid', 'gap-y-12', {
-                'mt-12': props.title || props.subtitle || (props.actions || []).length > 0
+                'mt-12': props.title || props.name || (props.actions || []).length > 0
             })}
             {...(props.annotatePosts ? { 'data-sb-field-path': '.posts' } : null)}
         >

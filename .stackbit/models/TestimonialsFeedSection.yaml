@@ -1,6 +1,6 @@
 type: object
-name: CasesFeedSection
-label: Cases feed
+name: TestimonialsFeedSection
+label: Testimonials feed
 labelField: title
 extends:
   - Section

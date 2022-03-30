@@ -22,7 +22,7 @@ fields:
     models: [PagedPostsSection]
     default:
       title: null
-      subtitle: null
+      name: null
       showDate: true
       showAuthor: true
       variant: variant-b
