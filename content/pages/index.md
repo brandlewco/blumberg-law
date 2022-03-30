@@ -606,7 +606,7 @@ sections:
     variant: variant-b
     actions:
       - type: Link
-        label: 'Read All Client '
+        label: Read More Testim
         altText: ''
         url: /
         child:
