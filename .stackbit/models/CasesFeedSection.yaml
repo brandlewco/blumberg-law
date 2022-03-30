@@ -44,7 +44,7 @@ fields:
     label: Arrangement
     default: variant-b
     options:
-      - label: Three columns grid
+      - label: Carousel
         value: variant-b
   - type: list
     name: actions

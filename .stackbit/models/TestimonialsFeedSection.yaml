@@ -44,7 +44,7 @@ fields:
     label: Arrangement
     default: variant-b
     options:
-      - label: Three columns grid
+      - label: Testimonials Default
         value: variant-b
   - type: list
     name: actions

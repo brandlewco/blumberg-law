@@ -14,7 +14,7 @@ import getPageUrlPath from '../../../utils/get-page-url-path';
 import useEmblaCarousel from 'embla-carousel-react'
 
 
-export default function TestimonialsFeedSection(props) {
+export default function CasesFeedSection(props) {
     const cssId = props.elementId || null;
     const colors = props.colors || 'colors-d';
     const styles = props.styles || {};
@@ -217,7 +217,8 @@ function postsVariantB(props, emblaRef, emblaApi) {
                                     <div className="text-2xl font-bold flex flex-row justify-start items-start bg-primary text-white mt-4 px-4 pt-6 pb-6 sm:px-6 " data-sb-field-path="excerpt">
                                         <span className='text-secondary pr-4'>X</span> {post.excerpt}
                                     </div>
-                            )}
+                                )}
+
                         </div>
                     </div>
                 </article>
