@@ -321,7 +321,6 @@
         }
     },
     "footer": {
-        "variant": "variant-a",
         "colors": "colors-b",
         "title": "Say hello",
         "contacts": {
