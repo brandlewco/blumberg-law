@@ -630,6 +630,7 @@ sections:
     colors: colors-e
     posts:
       - content/pages/testimonials/yaser-awad.md
+      - content/pages/testimonials/brent-wayne.md
   - elementId: ''
     colors: colors-d
     backgroundSize: full
