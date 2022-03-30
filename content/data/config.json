@@ -338,7 +338,8 @@
                 "label": "Home",
                 "url": "/",
                 "altText": "home",
-                "showIcon": true
+                "showIcon": true,
+                "iconPosition": "left"
             },
             {
                 "type": "Link",
