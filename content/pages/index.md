@@ -659,7 +659,7 @@ sections:
       type: ImageBlock
       url: /images/portrait-testimonials.png
       altText: Photo
-      caption: Caption of the image
+      caption: Photo
       elementId: ''
   - elementId: ''
     colors: colors-d
