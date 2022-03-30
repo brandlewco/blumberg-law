@@ -599,7 +599,7 @@ sections:
   - type: FeaturedTestimonialsSection
     elementId: ''
     showDate: false
-    showAuthor: false
+    showAuthor: true
     showExcerpt: true
     showReadMoreLink: true
     readMoreLinkLabel: See All Cases
