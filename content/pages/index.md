@@ -655,12 +655,6 @@ sections:
       - content/pages/testimonials/yaser-awad.md
       - content/pages/testimonials/brent-wayne.md
       - content/pages/testimonials/danielle-chodrick.md
-    media:
-      type: ImageBlock
-      url: /images/portrait-testimonials.png
-      altText: Photo
-      caption: Photo
-      elementId: ''
   - elementId: ''
     colors: colors-d
     backgroundSize: full
