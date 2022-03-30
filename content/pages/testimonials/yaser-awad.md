@@ -5,7 +5,7 @@ addTitleSuffix: true
 metaTags: []
 title: Yaser Awad
 colors: colors-d
-excerpt: John Doe
+excerpt: Yaser Awad
 bottomSections: []
 metaDescription: null
 socialImage: null
