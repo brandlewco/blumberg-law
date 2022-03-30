@@ -336,7 +336,7 @@
             {
                 "type": "Link",
                 "label": "602-277-6180\n",
-                "url": "/",
+                "url": "tel:+1TEL: 602-277-6180\n",
                 "altText": "home",
                 "showIcon": true,
                 "iconPosition": "left",
