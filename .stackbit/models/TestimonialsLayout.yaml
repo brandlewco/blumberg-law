@@ -56,6 +56,17 @@ fields:
       type: model
       groups:
         - sectionComponent
+  - type: model
+    name: media
+    label: Media
+    models:
+      - FormBlock
+      - ImageBlock
+      - VideoBlock
+    default:
+      type: ImageBlock
+      url: /images/hero.webp
+      altText: Testimonials
   - type: string
     name: metaDescription
     label: 'Description tag (default: excerpt)'
