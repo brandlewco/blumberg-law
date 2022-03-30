@@ -339,7 +339,8 @@
                 "url": "/",
                 "altText": "home",
                 "showIcon": true,
-                "iconPosition": "left"
+                "iconPosition": "left",
+                "icon": "send"
             },
             {
                 "type": "Link",
