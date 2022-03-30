@@ -104,7 +104,7 @@ const StaticPropsResolvers = {
     FeaturedCasesSection: (props, data, debugContext) => {
         return resolveReferences(props, ['posts.author', 'posts.category'], data.objects, debugContext);
     },
-    FeaturedTestimonailsSection: (props, data, debugContext) => {
+    FeaturedTestimonialsSection: (props, data, debugContext) => {
         return resolveReferences(props, ['posts.author', 'posts.category'], data.objects, debugContext);
     },
     FeaturedPeopleSection: (props, data, debugContext) => {
