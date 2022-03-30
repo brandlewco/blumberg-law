@@ -666,7 +666,7 @@ sections:
     backgroundSize: full
     title: Schedule Your Consultation
     text: |
-      FILL Out The Form To Get Started.
+      Fill Out The Form To Get Started.
     form:
       type: FormBlock
       elementId: contact-form
