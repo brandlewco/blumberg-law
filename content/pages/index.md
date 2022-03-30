@@ -627,7 +627,6 @@ sections:
       actions:
         justifyContent: center
     title: Read What Our Clients Are Saying
-    subtitle: Test
     colors: colors-e
     posts: []
   - elementId: ''
