@@ -414,7 +414,7 @@ sections:
         url: /
     media:
       type: ImageBlock
-      url: /images/portrait-testimonials-placeholder-8436d596.png
+      url: /images/portrait-testimonials-placeholder.png
       altText: Hero image
     backgroundImage: null
     styles:
@@ -701,7 +701,7 @@ sections:
       - content/pages/testimonials/danielle-chodrick.md
     media:
       type: ImageBlock
-      url: /images/portrait-testimonials-71a052b4.png
+      url: /images/portrait-testimonials-placeholder.png
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
