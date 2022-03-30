@@ -767,53 +767,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - elementId: ''
-    colors: colors-e
-    variant: variant-c
-    title: Seasonal adventures
-    actions:
-      - type: Link
-        label: See all adventures
-        url: /blog
-        showIcon: true
-        icon: arrowRight
-    posts:
-      - content/pages/blog/post-five.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-one.md
-      - content/pages/blog/post-three.md
-      - content/pages/blog/post-two.md
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-28
-          - pb-48
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: FeaturedPostsSection
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
-    readMoreLinkLabel: Join adventure
-    showAuthor: false
   - type: DividerSection
     colors: colors-d
     styles:
