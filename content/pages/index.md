@@ -634,8 +634,7 @@ sections:
     title: Seasonal adventure
     subtitle: ''
     colors: colors-d
-    posts:
-      - content/pages/blog/post-two.md
+    posts: []
   - elementId: ''
     colors: colors-d
     backgroundSize: full
