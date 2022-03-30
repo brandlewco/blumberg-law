@@ -13,31 +13,15 @@ fields:
   - type: string
     name: title
     label: Title
-    default: Posts
+    default: Testimonials
   - type: string
     name: subtitle
     label: Subtitle
-    default: Blog posts
-  - type: boolean
-    name: showDate
-    label: Show post date
-    default: false
+    default: Subtitle
   - type: boolean
     name: showAuthor
     label: Show post author
     default: false
-  - type: boolean
-    name: showExcerpt
-    label: Show post excerpt
-    default: false
-  - type: boolean
-    name: showReadMoreLink
-    label: Show keep reading link
-    default: false
-  - type: string
-    name: readMoreLinkLabel
-    label: Keep reading link label
-    default: ''
   - type: enum
     name: variant
     group: styles
@@ -59,6 +43,17 @@ fields:
         label: View all
         url: '/'
         style: primary
+  - type: model
+    name: media
+    label: Media
+    models:
+      - FormBlock
+      - ImageBlock
+      - VideoBlock
+    default:
+      type: ImageBlock
+      url: /images/hero.webp
+      altText: Hero section image
   - type: style
     name: styles
     styles:
