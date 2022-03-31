@@ -322,15 +322,6 @@
     },
     "footer": {
         "colors": "colors-b",
-        "contacts": {
-            "title": "Contact details",
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "Our phone",
-            "email": "info@lorem.mail",
-            "emailAltText": "Our email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
-            "addressAltText": "Our address"
-        },
         "copyrightText": "Website by [BrandLew.co](https://www.stackbit.com/)\n",
         "primaryLinks": [
             {
