@@ -11,11 +11,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-b
     title: |
-      **More Than 30 Years**
-
-      Of Legal Experience
-
-      In Phoenix, Arizona.
+      Drug Crimes
     actions:
       - type: Button
         label: Confidential Case Evaluation
