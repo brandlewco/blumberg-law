@@ -78,19 +78,6 @@ sections:
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Button
-            label: |
-              Facebook
-            showIcon: true
-            icon: facebook
-            url: /
-            style: secondary
-            iconPosition: left
-        styles:
-          self:
-            textAlign: left
     actions: []
     columns: 3
     enableHover: false
