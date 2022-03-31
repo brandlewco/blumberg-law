@@ -100,7 +100,6 @@ sections:
       actions:
         justifyContent: left
     title: Testimonials
-    subtitle: Featured Testimonials section example
     colors: colors-b
     posts:
       - content/pages/testimonials/yaser-awad.md
