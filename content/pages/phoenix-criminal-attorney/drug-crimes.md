@@ -13,7 +13,9 @@ sections:
     backgroundSize: inset
     title: |
       Drug Crimes
-    subtitle: Need defense in a drug related crime
+    subtitle: >-
+      Are you being accused of a drug crime? Bruce Blumberg has over 30 year
+      experiance
     text: ''
     actions:
       - type: Button
