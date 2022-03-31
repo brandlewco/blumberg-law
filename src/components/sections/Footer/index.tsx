@@ -2,7 +2,7 @@ import * as React from 'react';
 import Markdown from 'markdown-to-jsx';
 import classNames from 'classnames';
 
-import { Social, Action, Link } from '../../atoms';
+import { Social, Action, Link, BackgroundImage } from '../../atoms';
 import ImageBlock from '../../molecules/ImageBlock';
 
 export default function Footer(props) {
@@ -14,7 +14,7 @@ export default function Footer(props) {
             className={classNames('sb-component', 'sb-component-footer', colors, footerStyles.padding || 'py-16 px-4')}
             data-sb-field-path={`${props.annotationPrefix}:footer`}
         >
-            <div className={classNames('mx-auto', 'pt-16', mapMaxWidthStyles(footerWidth))}>
+            <div className={classNames('mx-auto', mapMaxWidthStyles(footerWidth))}>
                 {footerVariants(props)}
             </div>
         </footer>
@@ -36,6 +36,7 @@ function footerVariantA(props) {
     const primaryLinks = props.primaryLinks || [];
     const socialLinks = props.socialLinks || [];
     const legalLinks = props.legalLinks || [];
+    const media = props.media.url || [];
     return (
         <>
             {(props.logo || props.title || props.text) && (
@@ -60,10 +61,10 @@ function footerVariantA(props) {
                 </div>
             )}
             {(primaryLinks.length > 0 || socialLinks.length > 0 || props.contacts) && (
-                <div className="sm:flex sm:justify-between sm:items-end">
+                <div className="sm:flex sm:justify-between sm:items-center">
                     {primaryLinks.length > 0 && (
-                        <div className="mb-6">
-                            <ul className="flex flex-col items-start mb-6 space-y-6 text-lg" data-sb-field-path=".primaryLinks">
+                        <div className="md:pl-48">
+                            <ul className="flex flex-col items-start space-y-6 text-lg" data-sb-field-path=".primaryLinks">
                                 {primaryLinks.map((link, index) => (
                                     <li key={index}>
                                         <Action {...link} data-sb-field-path={`.${index}`} />
@@ -72,8 +73,8 @@ function footerVariantA(props) {
                             </ul>
                         </div>
                     )}
-                    <div>
-                    {props.backgroundImage && <BackgroundImage {...props.backgroundImage} />}
+                    <div className="w-1/2 h-full relative py-60">
+                    {props.media && <BackgroundImage {...props.media} />}
                     </div>
                     {/* {(socialLinks.length > 0 || props.contacts) && (
                         <div className="mb-6">
