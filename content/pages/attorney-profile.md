@@ -155,9 +155,11 @@ sections:
     colors: colors-e
     backgroundSize: full
     title: Call To Action
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      Phasellus vitae convallis arcu. Nunc dictum elementum convallis.
+      Vestibulum tincidunt fringilla est sit amet placerat. Nullam in felis id
+      nisi ornare consequat. Aenean ex lectus, facilisis at tristique id,
+      ultricies at erat.
     actions:
       - type: Button
         label: Try it now
