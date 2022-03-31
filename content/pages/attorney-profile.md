@@ -45,7 +45,8 @@ sections:
     title: Connect With Bruce
     actions:
       - type: Button
-        label: Try it now
+        label: |
+          LinkedIn
         showIcon: true
         icon: arrowRight
         url: /
