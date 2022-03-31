@@ -78,7 +78,7 @@ sections:
             label: |
               Facebook
             showIcon: true
-            icon: arrowRight
+            icon: facebook
             url: /
             style: secondary
             iconPosition: left
