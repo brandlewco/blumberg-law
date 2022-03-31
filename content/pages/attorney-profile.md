@@ -73,7 +73,8 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Button
-            label: Learn more
+            label: |
+              Facebook
             showIcon: true
             icon: arrowRight
             url: /
