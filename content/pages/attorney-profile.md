@@ -165,11 +165,6 @@ sections:
         showIcon: true
         icon: arrowRight
         style: primary
-      - type: Link
-        label: Learn more
-        showIcon: true
-        icon: arrowRight
-        url: /
     backgroundImage: null
     styles:
       self:
