@@ -47,7 +47,7 @@ sections:
     title: ''
     backgroundImage:
       type: BackgroundImage
-      url: /images/bg.jpg
+      url: /images/background-arizona-desert.png
       backgroundSize: cover
       backgroundPosition: center
       opacity: 70
