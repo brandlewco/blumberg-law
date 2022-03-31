@@ -51,6 +51,7 @@ sections:
         icon: arrowRight
         url: /
         style: secondary
+        iconPosition: left
     backgroundImage: null
     styles:
       self:
