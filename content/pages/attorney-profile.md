@@ -46,7 +46,6 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Faster
         actions:
           - type: Button
             label: Learn more
