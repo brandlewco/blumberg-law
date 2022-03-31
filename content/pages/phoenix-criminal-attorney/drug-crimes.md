@@ -13,7 +13,7 @@ sections:
     backgroundSize: inset
     title: |
       Drug Crimes
-    subtitle: Need defense in a drug related incedent
+    subtitle: Need defense in a drug related crime
     text: ''
     actions:
       - type: Button
