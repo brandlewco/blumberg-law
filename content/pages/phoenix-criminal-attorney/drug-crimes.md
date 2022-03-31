@@ -53,7 +53,7 @@ sections:
         justifyContent: flex-start
     backgroundSize: full
     backgroundImage:
-      url: /images/blumberg-hero-mockup.jpg
+      url: /images/background-court-blue.jpg
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
