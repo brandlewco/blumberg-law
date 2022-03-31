@@ -65,7 +65,7 @@ sections:
             label: |
               Instagram
             showIcon: true
-            icon: arrowRight
+            icon: instagram
             url: /
             style: secondary
             iconPosition: left
