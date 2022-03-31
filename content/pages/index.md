@@ -48,7 +48,7 @@ sections:
         justifyContent: flex-start
     backgroundSize: full
     backgroundImage:
-      url: /images/blumber-hero-mockup-ae753902.jpg
+      url: /images/blumberg-hero-mockup.jpg
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
