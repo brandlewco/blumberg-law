@@ -33,11 +33,15 @@ import Jury from '../../svgs/a-jury';
 import SexCrime from '../../svgs/a-sex-crime';
 import ViolentCrime from '../../svgs/a-violent-crime';
 import MenuDown from '../../svgs/menu-down';
+import Map from '../../svgs/a-map';
+import Phone from '../../svgs/a-phone';
 
 
 
 const iconMap = {
     menuDown: MenuDown,
+    map: Map,
+    phone: Phone,
     apple: Apple,
     arrowLeft: ArrowLeft,
     arrowLeftCircle: ArrowLeftCircle,

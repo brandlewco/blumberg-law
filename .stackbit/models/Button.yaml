@@ -32,6 +32,10 @@ fields:
     group: styles
     label: Icon
     options:
+      - label: Phone
+        value: phone
+      - label: Map
+        value: map
       - label: Child Custody
         value: childCustody
       - label: Clients
