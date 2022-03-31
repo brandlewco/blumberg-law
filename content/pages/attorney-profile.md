@@ -61,7 +61,7 @@ sections:
             altText: ''
             url: /
             showIcon: false
-            icon: arrowRight
+            icon: facebook
             iconPosition: left
             style: secondary
             elementId: ''
