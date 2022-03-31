@@ -61,7 +61,8 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Button
-            label: Learn more
+            label: |
+              Instagram
             showIcon: true
             icon: arrowRight
             url: /
