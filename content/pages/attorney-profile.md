@@ -55,6 +55,7 @@ sections:
             icon: arrowRight
             url: /
             style: secondary
+            iconPosition: left
         styles:
           self:
             textAlign: left
