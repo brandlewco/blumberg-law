@@ -37,6 +37,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    elementId: bruce-blumberg
   - type: QuoteSection
     colors: colors-b
     quote: >-
