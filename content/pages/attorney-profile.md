@@ -39,7 +39,7 @@ sections:
         textAlign: left
     elementId: bruce-blumberg
   - type: FeaturedItemsSection
-    colors: colors-c
+    colors: colors-a
     elementId: ''
     title: Key value propositions
     backgroundSize: full
