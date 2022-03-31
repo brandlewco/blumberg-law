@@ -40,9 +40,8 @@ sections:
     elementId: bruce-blumberg
   - type: QuoteSection
     colors: colors-b
-    quote: >-
-      "This is someone else, not from our team, but she also loves fishing, so
-      we thought we should highlight her."
+    quote: |
+      "A quote of interest from Bruce that highlights his experience"
     name: ''
     title: ''
     backgroundImage:
