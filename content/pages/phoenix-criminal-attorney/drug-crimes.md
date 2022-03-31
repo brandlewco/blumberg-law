@@ -29,7 +29,7 @@ sections:
           - mb-0
         padding:
           - pt-8
-          - pb-32
+          - pb-8
           - pr-8
           - pl-8
         alignItems: center
