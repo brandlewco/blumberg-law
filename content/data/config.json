@@ -410,14 +410,7 @@
                 ]
             }
         },
-        "variant": "variant-a",
-        "logo": {
-            "type": "ImageBlock",
-            "url": "/images/blumberg-law-logo-main.png",
-            "altText": "altText of the image",
-            "caption": "Caption of the image",
-            "elementId": ""
-        }
+        "variant": "variant-a"
     },
     "defaultMetaTags": []
 }
