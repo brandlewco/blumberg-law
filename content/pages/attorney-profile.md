@@ -82,19 +82,6 @@ sections:
         actions:
           - type: Button
             label: |
-              Instagram
-            showIcon: true
-            icon: instagram
-            url: /
-            style: secondary
-            iconPosition: left
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Button
-            label: |
               Facebook
             showIcon: true
             icon: facebook
