@@ -76,7 +76,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/hero.webp
+      url: /images/portrait-testimonials-placeholder.png
       altText: Hero section image
     styles:
       self:
