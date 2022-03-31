@@ -55,6 +55,7 @@ sections:
             icon: linkedin
             url: /
             style: secondary
+            iconPosition: left
           - type: Button
             label: Learn more
             altText: ''
