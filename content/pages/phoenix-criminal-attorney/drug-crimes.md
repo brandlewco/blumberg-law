@@ -55,11 +55,6 @@ sections:
     elementId: ''
     colors: colors-d
     variant: variant-b
-    backgroundImage:
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
-      backgroundSize: cover
-      backgroundPosition: center
-      opacity: 100
     title: The Section Title
     subtitle: The section subtitle
     text: |-
