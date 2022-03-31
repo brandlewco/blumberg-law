@@ -54,7 +54,7 @@ sections:
             showIcon: true
             icon: arrowRight
             url: /
-            style: primary
+            style: secondary
           - type: Button
             label: Learn more
             altText: ''
