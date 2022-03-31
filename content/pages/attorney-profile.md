@@ -57,7 +57,8 @@ sections:
             style: secondary
             iconPosition: left
           - type: Button
-            label: Learn more
+            label: |
+              Instagram
             altText: ''
             url: /
             showIcon: false
