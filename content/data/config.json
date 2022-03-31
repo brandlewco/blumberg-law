@@ -348,7 +348,7 @@
                 "altText": "",
                 "url": "/",
                 "child": [],
-                "showIcon": false,
+                "showIcon": true,
                 "icon": "map",
                 "iconPosition": "left",
                 "elementId": "",
