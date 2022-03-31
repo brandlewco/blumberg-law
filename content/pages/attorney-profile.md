@@ -162,7 +162,8 @@ sections:
       ultricies at erat.
     actions:
       - type: Button
-        label: Try it now
+        label: |
+          Confidential Case Evaluation
         url: /
         showIcon: true
         icon: arrowRight
