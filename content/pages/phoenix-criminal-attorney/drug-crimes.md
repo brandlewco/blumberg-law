@@ -57,13 +57,50 @@ sections:
     variant: variant-b
     title: |
       Phoenix Drug Crimes Attorney
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      Law enforcement agencies devote a substantial part of their resources
+      toward making drug arrests and prosecuting defendants to the fullest
+      extent of the law. This is true for both Arizona state and federal
+      offenses. In their zeal, the police and prosecutors make mistakes – they
+      arrest the wrong person, they disregard important constitutional rights,
+      or they charge people with trafficking crimes when they were only in
+      possession or in the vicinity of a small amount of drugs.
+
+
+      *   [Drug
+      Possession](https://www.azblumberglaw.com/phoenix-criminal-attorney/drug-possession/)
+
+
+      *   [DUI](https://www.azblumberglaw.com/phoenix-criminal-attorney/dui/)
+
+
+      *   [Federal Drug
+      Crimes](https://www.azblumberglaw.com/phoenix-criminal-attorney/federal-drug-crimes/)
+
+
+      *   [Marijuana
+      Charges](https://www.azblumberglaw.com/phoenix-criminal-attorney/marijuana/)
+
+
+      *   [Meth
+      Charges](https://www.azblumberglaw.com/phoenix-criminal-attorney/meth/)
+
+
+      *   [Search &
+      Seizure](https://www.azblumberglaw.com/phoenix-criminal-attorney/search-seizure-issues/)
+
+
+      *   [State Drug
+      Crimes](https://www.azblumberglaw.com/phoenix-criminal-attorney/state-drug-crimes/)
+
+
+      *   [Traffic
+      Offenses](https://www.azblumberglaw.com/phoenix-criminal-attorney/traffic-offenses/)
+
+
+      *   [Violent
+      Crimes](https://www.azblumberglaw.com/phoenix-criminal-attorney/violent-crimes/)
+
     actions: []
     styles:
       self:
