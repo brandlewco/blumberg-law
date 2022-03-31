@@ -340,7 +340,7 @@
                 "altText": "home",
                 "showIcon": true,
                 "iconPosition": "left",
-                "icon": "chevronRight"
+                "icon": "phone"
             },
             {
                 "type": "Link",
