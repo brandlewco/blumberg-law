@@ -14,7 +14,9 @@ export default function Footer(props) {
             className={classNames('sb-component', 'sb-component-footer', colors, footerStyles.padding || 'py-16 px-4')}
             data-sb-field-path={`${props.annotationPrefix}:footer`}
         >
-            <div className={classNames('mx-auto', 'pt-16', mapMaxWidthStyles(footerWidth))}>{footerVariants(props)}</div>
+            <div className={classNames('mx-auto', 'pt-16', mapMaxWidthStyles(footerWidth))}>
+                {footerVariants(props)}
+            </div>
         </footer>
     );
 }
@@ -70,7 +72,10 @@ function footerVariantA(props) {
                             </ul>
                         </div>
                     )}
-                    {(socialLinks.length > 0 || props.contacts) && (
+                    <div>
+                    {props.backgroundImage && <BackgroundImage {...props.backgroundImage} />}
+                    </div>
+                    {/* {(socialLinks.length > 0 || props.contacts) && (
                         <div className="mb-6">
                             {socialLinks.length > 0 && (
                                 <ul className="flex items-center mb-6 space-x-10" data-sb-field-path=".socialLinks">
@@ -83,7 +88,7 @@ function footerVariantA(props) {
                             )}
                             {props.contacts && <Contacts {...props.contacts} className="mb-6 space-y-4 text-lg" />}
                         </div>
-                    )}
+                    )} */}
                 </div>
             )}
             <div className="border-t-2 border-current flex flex-col-reverse justify-between pt-6 lg:flex-row">

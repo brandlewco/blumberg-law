@@ -260,7 +260,8 @@
 
     h1 strong,
     h2 strong,
-    h3 strong {
+    h3 strong,
+    .markdown strong {
         color: #f1c02f;
     }
 

@@ -105,7 +105,7 @@ export default function Action(props) {
         >
             <Markdown
                 options={{ }}
-                className={""} data-sb-field-path=".label">
+                className={"markdown"} data-sb-field-path=".label">
                 {label}
             </Markdown>
             {showIcon && IconComponent && (
