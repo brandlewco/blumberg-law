@@ -41,7 +41,8 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-a
     elementId: ''
-    title: Key value propositions
+    title: |
+      Connect with Bruce.
     backgroundSize: full
     subtitle: ''
     items:
