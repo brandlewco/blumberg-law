@@ -5,6 +5,8 @@ import classNames from 'classnames';
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 import { getDataAttrs } from '../../../utils/get-data-attrs';
 import { BackgroundImage } from '../../atoms';
+import { Parallax, Background } from "react-parallax";
+
 
 export default function QuoteSection(props) {
     const cssId = props.elementId || null;
@@ -28,7 +30,6 @@ export default function QuoteSection(props) {
                 'relative',
                 mapMinHeightStyles(sectionHeight),
                 sectionStyles.margin,
-                sectionStyles.padding || 'py-12 px-4',
                 sectionStyles.borderColor,
                 sectionStyles.borderStyle ? mapStyles({ borderStyle: sectionStyles.borderStyle }) : 'border-none',
                 sectionStyles.borderRadius ? mapStyles({ borderRadius: sectionStyles.borderRadius }) : null
@@ -37,8 +38,22 @@ export default function QuoteSection(props) {
                 borderWidth: sectionStyles.borderWidth ? `${sectionStyles.borderWidth}px` : null
             }}
         >
-            {props.backgroundImage && <BackgroundImage {...props.backgroundImage} />}
-            <div className={classNames('flex', 'relative', 'w-full', mapStyles({ justifyContent: sectionJustifyContent }))}>
+            {/* {props.backgroundImage && <BackgroundImage {...props.backgroundImage} />} */}
+            {props.backgroundImage && <Parallax
+            bgImage={props.backgroundImage.url}
+            strength={400}
+            renderLayer={percentage => (
+                <div
+                    style={{
+                        position: 'absolute',
+                        left: '50%',
+                        top: '50%',
+                    }}
+                />
+            )}
+            ></Parallax>}
+            <div className={classNames('flex', 'relative', 'w-full',
+                sectionStyles.padding || 'py-12 px-4', mapStyles({ justifyContent: sectionJustifyContent }))}>
                 <div className={classNames('w-full', mapMaxWidthStyles(sectionWidth))}>{quoteContent(props)}</div>
             </div>
         </div>
