@@ -48,7 +48,7 @@ sections:
         label: |
           LinkedIn
         showIcon: true
-        icon: arrowRight
+        icon: linkedin
         url: /
         style: secondary
         iconPosition: left
