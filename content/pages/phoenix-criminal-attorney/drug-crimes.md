@@ -9,7 +9,7 @@ title: Drug Crimes
 sections:
   - type: HeroSection
     elementId: ''
-    colors: colors-a
+    colors: colors-b
     backgroundSize: inset
     title: We do fishing differently
     subtitle: Fresh. Better. Faster.
