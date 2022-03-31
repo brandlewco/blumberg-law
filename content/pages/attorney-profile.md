@@ -71,7 +71,7 @@ sections:
               Instagram
             altText: ''
             url: /
-            showIcon: false
+            showIcon: true
             icon: instagram
             iconPosition: left
             style: secondary
