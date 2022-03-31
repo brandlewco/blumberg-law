@@ -58,7 +58,9 @@ sections:
   - type: TextSection
     colors: colors-d
     variant: variant-a
-    title: This in an empty page
+    title: |+
+      # Phoenix Drug Crimes Attorney&#xA;
+
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
