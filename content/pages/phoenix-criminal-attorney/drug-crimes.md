@@ -15,7 +15,7 @@ sections:
       Drug Crimes
     subtitle: >-
       Are you being accused of a drug crime? Bruce Blumberg has over 30 year
-      experiance
+      experience
     text: ''
     actions:
       - type: Button
