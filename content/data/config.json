@@ -12,7 +12,7 @@
             {
                 "type": "Link",
                 "label": "Attorney Profile",
-                "url": "/about",
+                "url": "/attorney-profile",
                 "altText": "Attorney Profile",
                 "child": [],
                 "styles": {

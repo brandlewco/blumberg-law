@@ -39,7 +39,7 @@ function footerVariantA(props) {
     const media = props.media.url || [];
     return (
         <>
-            {(props.logo || props.title || props.text) && (
+            {/* {(props.logo || props.title || props.text) && (
                 <div className="mb-12">
                     <Link href="/" className="sb-footer-logo flex items-center">
                         {props.logo && <ImageBlock {...props.logo} className={classNames('max-h-12', { 'mr-2': props.title })} data-sb-field-path=".logo" />}
@@ -59,7 +59,7 @@ function footerVariantA(props) {
                         </Markdown>
                     )}
                 </div>
-            )}
+            )} */}
             {(primaryLinks.length > 0 || socialLinks.length > 0 || props.contacts) && (
                 <div className="sm:flex sm:justify-between sm:items-center">
                     {primaryLinks.length > 0 && (
@@ -73,29 +73,30 @@ function footerVariantA(props) {
                             </ul>
                         </div>
                     )}
-                    <div className="w-1/2 h-full relative py-60">
+                    <div className="w-1/2 h-full relative py-48">
                     {props.media && <BackgroundImage {...props.media} />}
                     </div>
-                    {/* {(socialLinks.length > 0 || props.contacts) && (
-                        <div className="mb-6">
-                            {socialLinks.length > 0 && (
-                                <ul className="flex items-center mb-6 space-x-10" data-sb-field-path=".socialLinks">
-                                    {socialLinks.map((link, index) => (
-                                        <li key={index}>
-                                            <Social {...link} data-sb-field-path={`.${index}`} />
-                                        </li>
-                                    ))}
-                                </ul>
-                            )}
-                            {props.contacts && <Contacts {...props.contacts} className="mb-6 space-y-4 text-lg" />}
-                        </div>
-                    )} */}
                 </div>
             )}
-            <div className="border-t-2 border-current flex flex-col-reverse justify-between pt-6 lg:flex-row">
+            <div className="border-t-2 border-current flex flex-col-reverse justify-between pt-6 lg:flex-row ">
+                <div className="max-w-7xl mx-auto w-full flex flex-row justify-between">
+                {(socialLinks.length > 0 || props.contacts) && (
+                    <div className="flex flex-row justify-start">
+                        {socialLinks.length > 0 && (
+                            <ul className="flex  mx-4 mb-4" data-sb-field-path=".socialLinks">
+                                {socialLinks.map((link, index) => (
+                                    <li key={index} className="mx-4 mb-2">
+                                        <Social {...link} data-sb-field-path={`.${index}`} />
+                                    </li>
+                                ))}
+                            </ul>
+                        )}
+                        {props.contacts && <Contacts {...props.contacts} className="flex flex-wrap justify-center mx-4 mb-4" classNameItem="mx-4 mb-2" />}
+                    </div>
+                )}
             <Markdown
-                options={{ forceInline: true, forceWrapper: true, wrapper: 'p' }}
-                className="sb-markdown"
+                options={{ forceInline: false, forceWrapper: true, wrapper: 'p' }}
+                className="sb-markdown text-center"
                 data-sb-field-path=".copyrightText"
             >
                 {props.copyrightText}
@@ -109,6 +110,7 @@ function footerVariantA(props) {
                         ))}
                     </ul>
                 )}
+                </div>
             </div>
         </>
     );
