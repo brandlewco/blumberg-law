@@ -60,7 +60,7 @@ sections:
             label: Learn more
             altText: ''
             url: /
-            showIcon: false
+            showIcon: true
             icon: facebook
             iconPosition: left
             style: secondary
