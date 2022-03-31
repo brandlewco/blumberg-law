@@ -69,4 +69,49 @@ sections:
         textAlign: left
       title:
         textAlign: left
+  - type: FeaturedTestimonialsSection
+    elementId: ''
+    showAuthor: false
+    variant: variant-b
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/hero.webp
+      altText: Hero section image
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    title: Testimonials
+    subtitle: Featured Testimonials section example
+    colors: colors-e
+    posts:
+      - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
+      - content/pages/cases/accused-multiple-accounts-sexual-misconduct.md
+      - content/pages/cases/accused-or-child-abuse-by-causing-bruises.md
+      - content/pages/cases/charged-19-counts-sexual-conduct-with-minor.md
+      - content/pages/cases/accused-multiple-accounts-sexual-misconduct.md
+      - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
+    name: ''
+    showDate: true
+    showExcerpt: false
+    showReadMoreLink: false
+    readMoreLinkLabel: See All Testimonials
 ---
