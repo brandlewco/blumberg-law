@@ -24,7 +24,7 @@ export default function HeroSection(props) {
             className={classNames(
                 'sb-component',
                 'sb-component-section',
-                'sb-component-cta-section',
+                'sb-component-hero-section',
                 bgSize === 'inset' ? 'flex' : null,
                 bgSize === 'inset' ? mapStyles({ justifyContent: sectionJustifyContent }) : null,
                 sectionStyles.margin

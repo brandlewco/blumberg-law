@@ -259,6 +259,10 @@
         @apply absolute left-0 top-0 w-16 h-16 text-secondary font-serif text-9xl pl-2;
     }
 
+    li p {
+        @apply m-0 !important;
+    }
+
     li::marker {
         color: #f1c02f;
     }

@@ -8,30 +8,25 @@ metaTags: []
 title: Drug Crimes
 sections:
   - type: HeroSection
-    elementId: ''
+    elementId: homepage-hero-1
     colors: colors-b
-    backgroundSize: inset
     title: |
-      Drug Crimes
+      **More Than 30 Years**
+
+      Of Legal Experience
+
+      In Phoenix, Arizona.
     subtitle: >-
-      Are you being accused of a drug crime? Bruce Blumberg has over 30 year
-      experience
-    text: ''
+      If you have been charged with a criminal offense in the state of Arizona,
+      you deserve representation better than that of the prosecution.
     actions:
       - type: Button
-        label: |
-          Get Representation
-        showIcon: true
-        icon: arrowRight
+        label: Confidential Case Evaluation
+        url: 'https://www.stackbit.com/'
         style: primary
-        url: /
-    media: null
-    backgroundImage:
-      type: ImageBlock
-      url: /images/background-court-blue.jpg
-      backgroundSize: cover
-      backgroundPosition: center
-      opacity: 100
+        iconPosition: right
+        icon: arrowRight
+        showIcon: true
     styles:
       self:
         height: auto
@@ -39,16 +34,15 @@ sections:
         margin:
           - mt-0
           - mb-0
-          - ml-0
-          - mr-0
         padding:
-          - pt-8
-          - pb-8
-          - pl-8
+          - pt-24
+          - pb-32
           - pr-8
+          - pl-8
         alignItems: center
         justifyContent: center
         flexDirection: row
+        borderRadius: none
       title:
         textAlign: left
       subtitle:
@@ -57,6 +51,12 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    backgroundSize: full
+    backgroundImage:
+      url: /images/blumberg-hero-mockup.jpg
+      backgroundSize: cover
+      backgroundPosition: center
+      opacity: 100
   - type: TextSection
     colors: colors-d
     variant: variant-a
@@ -84,4 +84,188 @@ sections:
         textAlign: left
       text:
         textAlign: left
+  - type: FeaturedCasesSection
+    elementId: ''
+    showDate: true
+    showAuthor: false
+    showExcerpt: true
+    showReadMoreLink: false
+    readMoreLinkLabel: See All Cases
+    variant: variant-b
+    actions: []
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    title: Cases of Interest
+    subtitle: ''
+    colors: colors-e
+    posts:
+      - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
+      - content/pages/cases/accused-multiple-accounts-sexual-misconduct.md
+      - content/pages/cases/accused-or-child-abuse-by-causing-bruises.md
+      - content/pages/cases/charged-19-counts-sexual-conduct-with-minor.md
+      - content/pages/cases/accused-multiple-accounts-sexual-misconduct.md
+      - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
+  - colors: colors-b
+    elementId: hero-button-grid
+    title: |
+      **Phoenix’s Leading**
+
+      Criminal Defense Attorney.
+    subtitle: Choose A Practice Area To Learn How We Can Help You.
+    items:
+      - type: FeaturedItem
+        actions:
+          - type: Button
+            label: |+
+              #### Drug Crimes
+
+            showIcon: true
+            url: /phoenix-criminal-attorney/drug-crimes/
+            style: secondary
+            iconPosition: left
+            icon: drugCrime
+        styles:
+          self:
+            textAlign: left
+            alignItems: center
+            justifyContent: center
+      - type: FeaturedItem
+        actions:
+          - type: Button
+            label: |+
+              #### Sex Crimes
+
+            showIcon: true
+            icon: sexCrime
+            url: /
+            style: secondary
+            iconPosition: left
+        styles:
+          self:
+            textAlign: left
+            alignItems: center
+            justifyContent: center
+      - type: FeaturedItem
+        actions:
+          - type: Button
+            label: |+
+              #### Violent Crimes
+
+            showIcon: true
+            icon: violentCrime
+            url: /
+            style: secondary
+            iconPosition: left
+        styles:
+          self:
+            textAlign: left
+            justifyContent: center
+            alignItems: center
+      - elementId: ''
+        subtitle: ''
+        actions:
+          - label: |+
+              #### Federal Crime
+
+            altText: Federal Crime
+            url: /
+            showIcon: true
+            icon: gavel
+            iconPosition: left
+            style: secondary
+            elementId: ''
+            type: Button
+        styles:
+          self:
+            textAlign: left
+            alignItems: center
+            justifyContent: center
+      - elementId: ''
+        actions:
+          - label: |+
+              #### White Collar Crime
+
+            altText: White Collar Crime
+            url: /
+            showIcon: true
+            icon: whiteCollarCrime
+            iconPosition: left
+            style: secondary
+            elementId: ''
+            type: Button
+        styles:
+          self:
+            textAlign: left
+            alignItems: center
+            justifyContent: center
+      - elementId: ''
+        subtitle: ''
+        actions:
+          - label: |
+              #### Child Custody
+
+              #### & Parenting Time
+            altText: Child Custody & Parenting Time
+            url: /
+            showIcon: true
+            icon: childCustody
+            iconPosition: left
+            style: secondary
+            elementId: ''
+            type: Button
+        styles:
+          self:
+            textAlign: left
+            alignItems: center
+            justifyContent: center
+    actions: []
+    columns: 3
+    enableHover: false
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-16
+          - pb-16
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: FeaturedItemsSection
+    backgroundSize: full
+    backgroundImage:
+      url: /images/background-arizona-desert.png
+      backgroundSize: cover
+      backgroundPosition: center
+      opacity: 100
 ---
