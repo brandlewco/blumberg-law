@@ -17,7 +17,8 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Join adventure
+        label: |
+          Get Representation
         showIcon: true
         icon: arrowRight
         style: primary
