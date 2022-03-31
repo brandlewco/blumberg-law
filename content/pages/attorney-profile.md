@@ -39,7 +39,7 @@ sections:
         textAlign: left
     elementId: bruce-blumberg
   - type: FeaturedItemsSection
-    colors: colors-a
+    colors: colors-e
     elementId: ''
     title: |
       Connect with Bruce.
@@ -78,7 +78,7 @@ sections:
             elementId: ''
         styles:
           self:
-            textAlign: left
+            textAlign: center
     actions: []
     columns: 1
     enableHover: false
@@ -92,13 +92,13 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-0
+          - pt-8
           - pb-8
           - pl-4
           - pr-4
         justifyContent: center
       title:
-        textAlign: left
+        textAlign: center
       subtitle:
         textAlign: left
       actions:
