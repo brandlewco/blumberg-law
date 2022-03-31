@@ -40,7 +40,7 @@ sections:
     elementId: bruce-blumberg
   - type: CtaSection
     elementId: ''
-    colors: colors-c
+    colors: colors-d
     backgroundSize: full
     title: Connect With Bruce
     actions:
