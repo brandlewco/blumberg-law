@@ -347,14 +347,7 @@
                 "label": "Learn more",
                 "altText": "",
                 "url": "/",
-                "child": [
-                    {
-                        "type": "Link",
-                        "label": "Blog",
-                        "url": "/",
-                        "altText": "Blog"
-                    }
-                ],
+                "child": [],
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
