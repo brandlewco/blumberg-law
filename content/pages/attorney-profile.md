@@ -114,7 +114,7 @@ sections:
     elementId: ''
     showDate: true
     showAuthor: false
-    showExcerpt: false
+    showExcerpt: true
     showReadMoreLink: false
     readMoreLinkLabel: See All Cases
     variant: variant-b
