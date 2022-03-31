@@ -12,7 +12,7 @@
                 "actions": [],
                 "showDate": true,
                 "showAuthor": false,
-                "showExcerpt": false,
+                "showExcerpt": true,
                 "showReadMoreLink": false,
                 "readMoreLinkLabel": "See All Cases",
                 "posts": [
