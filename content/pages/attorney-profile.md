@@ -38,53 +38,6 @@ sections:
       text:
         textAlign: left
     elementId: bruce-blumberg
-  - type: CtaSection
-    elementId: ''
-    colors: colors-d
-    backgroundSize: full
-    title: Connect With Bruce
-    actions:
-      - type: Button
-        label: |
-          LinkedIn
-        showIcon: true
-        icon: linkedin
-        url: /
-        style: secondary
-        iconPosition: left
-      - type: Button
-        label: Learn more
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-    backgroundImage: null
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-16
-          - pb-16
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: col
-      title:
-        textAlign: center
-      text:
-        textAlign: center
-      actions:
-        justifyContent: center
   - type: QuoteSection
     colors: colors-b
     quote: |
