@@ -62,7 +62,7 @@ sections:
             altText: ''
             url: /
             showIcon: false
-            icon: arrowRight
+            icon: instagram
             iconPosition: left
             style: secondary
             elementId: ''
