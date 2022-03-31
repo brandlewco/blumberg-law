@@ -404,7 +404,7 @@
         "variant": "variant-a",
         "media": {
             "type": "ImageBlock",
-            "url": "/images/background-arizona-desert.png",
+            "url": "/images/map-blumberg-law.png",
             "altText": "altText of the image",
             "caption": "Caption of the image",
             "elementId": ""
