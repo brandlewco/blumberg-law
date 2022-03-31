@@ -365,14 +365,6 @@
             },
             {
                 "type": "Link",
-                "label": "FAX: 602-889-9167\n",
-                "url": "#",
-                "altText": "blog",
-                "iconPosition": "left",
-                "icon": "chevronRight"
-            },
-            {
-                "type": "Link",
                 "label": "Contact us",
                 "url": "mailto:info@lorem.mail",
                 "altText": ""
