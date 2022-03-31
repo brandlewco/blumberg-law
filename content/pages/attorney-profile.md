@@ -110,4 +110,44 @@ sections:
     showExcerpt: false
     showReadMoreLink: false
     readMoreLinkLabel: See All Testimonials
+  - type: FeaturedCasesSection
+    elementId: ''
+    showDate: true
+    showAuthor: false
+    showExcerpt: false
+    showReadMoreLink: false
+    readMoreLinkLabel: See All Cases
+    variant: variant-b
+    actions: []
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    title: Cases of Interest
+    subtitle: ''
+    colors: colors-e
+    posts:
+      - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
+      - content/pages/cases/accused-multiple-accounts-sexual-misconduct.md
+      - content/pages/cases/accused-or-child-abuse-by-causing-bruises.md
+      - content/pages/cases/charged-19-counts-sexual-conduct-with-minor.md
+      - content/pages/cases/accused-multiple-accounts-sexual-misconduct.md
+      - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
 ---
