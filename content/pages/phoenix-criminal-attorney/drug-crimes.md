@@ -13,7 +13,7 @@ sections:
     backgroundSize: inset
     title: |
       Drug Crimes
-    subtitle: Fresh. Better. Faster.
+    subtitle: Need defense in a drug related incedent
     text: ''
     actions:
       - type: Button
