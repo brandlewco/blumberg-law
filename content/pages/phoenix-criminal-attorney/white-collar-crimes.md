@@ -11,7 +11,7 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |
-      Drug Crimes
+      White Collar Crimes
     actions:
       - type: Button
         label: |
