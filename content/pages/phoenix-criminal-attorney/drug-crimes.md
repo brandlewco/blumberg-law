@@ -103,7 +103,8 @@ sidebar:
         subtitle: ''
         actions:
           - type: Button
-            label: Learn more
+            label: |
+              Sex Crimes
             altText: ''
             url: /
             showIcon: false
