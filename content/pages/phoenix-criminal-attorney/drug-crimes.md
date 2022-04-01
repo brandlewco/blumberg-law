@@ -82,7 +82,6 @@ sections:
 sidebar:
   - type: FeaturedItemsSection
     colors: colors-e
-    elementId: ''
     backgroundSize: full
     subtitle: Choose a practice area to learn more.
     items:
@@ -179,6 +178,7 @@ sidebar:
         textAlign: left
       actions:
         justifyContent: flex-start
+    elementId: sidebar
 footer:
   - type: FeaturedCasesSection
     elementId: ''
