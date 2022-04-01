@@ -15,7 +15,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Drug Crime Representation
+          Child Custody & Parenting Time Representation
         url: /contact
         style: primary
         iconPosition: right
