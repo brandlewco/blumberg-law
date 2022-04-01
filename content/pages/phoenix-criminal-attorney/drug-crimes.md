@@ -20,7 +20,7 @@ hero:
         style: primary
         iconPosition: right
         icon: arrowRight
-        showIcon: false
+        showIcon: true
     styles:
       self:
         height: auto
