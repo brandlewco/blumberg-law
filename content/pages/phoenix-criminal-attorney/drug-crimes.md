@@ -6,7 +6,7 @@ addTitleSuffix: true
 socialImage: null
 metaTags: []
 title: Drug Crimes
-sections:
+hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
@@ -51,6 +51,7 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
+sections:
   - type: TextSection
     colors: colors-d
     variant: variant-a
@@ -78,6 +79,86 @@ sections:
         textAlign: left
       text:
         textAlign: left
+sidebar:
+  - type: FeaturedItemsSection
+    colors: colors-e
+    elementId: ''
+    backgroundSize: full
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: Faster
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        actions:
+          - type: Button
+            label: Learn more
+            showIcon: true
+            icon: arrowRight
+            url: /
+            style: primary
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: Smarter
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        actions:
+          - type: Button
+            label: Learn more
+            showIcon: true
+            icon: arrowRight
+            url: /
+            style: primary
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: Focused
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        actions:
+          - type: Button
+            label: Learn more
+            showIcon: true
+            icon: arrowRight
+            url: /
+            style: primary
+        styles:
+          self:
+            textAlign: left
+    actions: []
+    columns: 1
+    enableHover: false
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-80
+          - pb-0
+          - pl-8
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+footer:
   - type: FeaturedCasesSection
     elementId: ''
     showDate: true
@@ -262,83 +343,4 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
-sidebar:
-  - type: FeaturedItemsSection
-    colors: colors-e
-    elementId: ''
-    backgroundSize: full
-    subtitle: ''
-    items:
-      - type: FeaturedItem
-        title: Faster
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
-        actions:
-          - type: Button
-            label: Learn more
-            showIcon: true
-            icon: arrowRight
-            url: /
-            style: primary
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        title: Smarter
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
-        actions:
-          - type: Button
-            label: Learn more
-            showIcon: true
-            icon: arrowRight
-            url: /
-            style: primary
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        title: Focused
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
-        actions:
-          - type: Button
-            label: Learn more
-            showIcon: true
-            icon: arrowRight
-            url: /
-            style: primary
-        styles:
-          self:
-            textAlign: left
-    actions: []
-    columns: 1
-    enableHover: false
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-80
-          - pb-0
-          - pl-8
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
 ---
