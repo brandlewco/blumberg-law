@@ -18,9 +18,9 @@ sections:
           Drug Crime Representation
         url: 'https://www.stackbit.com/'
         style: primary
-        iconPosition: right
-        icon: arrowRight
-        showIcon: true
+        iconPosition: left
+        icon: drugCrime
+        showIcon: false
     styles:
       self:
         height: auto
