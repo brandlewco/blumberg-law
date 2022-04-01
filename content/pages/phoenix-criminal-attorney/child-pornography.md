@@ -19,7 +19,7 @@ hero:
         url: 'https://www.stackbit.com/'
         style: primary
         iconPosition: right
-        icon: drugCrime
+        icon: arrowRightCircle
         showIcon: true
     styles:
       self:
