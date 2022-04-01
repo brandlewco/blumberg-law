@@ -147,7 +147,7 @@ sidebar:
           - ml-0
           - mr-0
         padding:
-          - pt-80
+          - pt-8
           - pb-0
           - pl-8
           - pr-4
