@@ -11,7 +11,7 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |
-      Drug Crimes
+      Sex Crimes
     actions:
       - type: Button
         label: |
@@ -83,7 +83,7 @@ sidebar:
   - type: FeaturedItemsSection
     colors: colors-e
     backgroundSize: full
-    title: |+
+    title: |
       #### CHOOSE A PRACTICE AREA **TO LEARN MORE**
     items:
       - type: FeaturedItem
