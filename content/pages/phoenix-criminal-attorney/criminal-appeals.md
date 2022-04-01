@@ -15,7 +15,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Drug Crime Representation
+          Get Representation for Criminal Appeals
         url: /contact
         style: primary
         iconPosition: right
