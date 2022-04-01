@@ -94,7 +94,8 @@ sidebar:
             url: /phoenix-criminal-attorney/federal-crimes/
             style: primary
           - type: Button
-            label: Learn more
+            label: |
+              Sex Crimes2
             altText: ''
             url: /
             showIcon: true
