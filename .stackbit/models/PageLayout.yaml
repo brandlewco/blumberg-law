@@ -18,6 +18,13 @@ fields:
       type: model
       groups:
         - sectionComponent
+  - type: list
+    name: sidebar
+    label: Sidebar
+    items:
+      type: model
+      groups:
+        - sectionComponent
     default:
       - type: HeroSection
         elementId: homepage-hero-1
