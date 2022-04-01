@@ -20,7 +20,7 @@ export default function PageLayout(props) {
                 )}
                 <div className="flex flex-col md:flex-row justify-between items-start">
                 {sections.length > 0 && (
-                    <div className="flex-grow" data-sb-field-path="sections">
+                    <div className="w-full md:w-3/4" data-sb-field-path="sections">
                         {sections.map((section, index) => {
                             const Component = getComponent(section.type);
                             if (!Component) {
@@ -31,7 +31,7 @@ export default function PageLayout(props) {
                     </div>
                 )}
                 {sidebar.length > 0 && (
-                    <div className="" data-sb-field-path="sidebar">
+                    <div className="w-full md:w-1/4" data-sb-field-path="sidebar">
                         {sidebar.map((section, index) => {
                             const Component = getComponent(section.type);
                             if (!Component) {

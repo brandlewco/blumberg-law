@@ -32,6 +32,13 @@ fields:
       type: model
       groups:
         - sectionComponent
+  - type: list
+    name: footer
+    label: Footer
+    items:
+      type: model
+      groups:
+        - sectionComponent
     default:
       - type: HeroSection
         elementId: homepage-hero-1
