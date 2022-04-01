@@ -7,6 +7,8 @@ export default function PageLayout(props) {
     const { page, site } = props;
     const BaseLayout = getBaseLayoutComponent(page.baseLayout, site.baseLayout);
     const sections = page.sections || [];
+    const sidebar = page.sidebar || [];
+
 
     return (
         <BaseLayout page={page} site={site}>
@@ -16,8 +18,9 @@ export default function PageLayout(props) {
                         {page.title}
                     </h1>
                 )}
+                <div className="flex flex-col md:flex-row justify-between items-start">
                 {sections.length > 0 && (
-                    <div data-sb-field-path="sections">
+                    <div className="flex-grow" data-sb-field-path="sections">
                         {sections.map((section, index) => {
                             const Component = getComponent(section.type);
                             if (!Component) {
@@ -27,6 +30,18 @@ export default function PageLayout(props) {
                         })}
                     </div>
                 )}
+                {sidebar.length > 0 && (
+                    <div className="" data-sb-field-path="sidebar">
+                        {sidebar.map((section, index) => {
+                            const Component = getComponent(section.type);
+                            if (!Component) {
+                                throw new Error(`no component matching the page section's type: ${section.type}`);
+                            }
+                            return <Component key={index} {...section} data-sb-field-path={`sidebar.${index}`} />;
+                        })}
+                    </div>
+                )}
+                </div>
             </main>
         </BaseLayout>
     );

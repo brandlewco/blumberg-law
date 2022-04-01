@@ -12,6 +12,13 @@ fields:
     default: This is a new page
     required: true
   - type: list
+    name: hero
+    label: Hero
+    items:
+      type: model
+      groups:
+        - sectionComponent
+  - type: list
     name: sections
     label: Sections
     items:
