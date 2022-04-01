@@ -82,7 +82,6 @@ sections:
 sidebar:
   - type: FeaturedItemsSection
     colors: colors-e
-    backgroundSize: full
     items:
       - type: FeaturedItem
         actions:
