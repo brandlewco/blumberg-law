@@ -87,7 +87,7 @@ sidebar:
     title: |+
       #### CHOOSE A PRACTICE AREA **TO LEARN MORE**
     items:
-          - type: FeaturedItem
+      - type: FeaturedItem
         actions:
           - type: Button
             label: |
