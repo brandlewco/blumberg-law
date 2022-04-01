@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: PageLayout
-sections:
+hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
@@ -52,6 +52,7 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
+sections:
   - colors: colors-a
     elementId: hero-features
     subtitle: ''
