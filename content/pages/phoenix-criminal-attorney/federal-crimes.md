@@ -83,7 +83,6 @@ sidebar:
   - type: FeaturedItemsSection
     colors: colors-e
     backgroundSize: full
-    subtitle: CHOOSE A PRACTICE AREA TO LEARN MORE
     items:
       - type: FeaturedItem
         actions:
