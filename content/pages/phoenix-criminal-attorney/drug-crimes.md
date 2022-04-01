@@ -89,7 +89,8 @@ sidebar:
       - type: FeaturedItem
         actions:
           - type: Button
-            label: Learn more
+            label: |
+              Federal Crimes
             showIcon: true
             icon: arrowRight
             url: /
