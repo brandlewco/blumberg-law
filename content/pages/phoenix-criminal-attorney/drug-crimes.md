@@ -84,7 +84,7 @@ sidebar:
     colors: colors-e
     elementId: ''
     backgroundSize: full
-    subtitle: ''
+    subtitle: Choose a practice area to learn more.
     items:
       - type: FeaturedItem
         title: Faster
