@@ -264,7 +264,7 @@ sections:
       opacity: 100
 sidebar:
   - type: FeaturedItemsSection
-    colors: colors-a
+    colors: colors-e
     elementId: ''
     title: Key value propositions
     backgroundSize: full
