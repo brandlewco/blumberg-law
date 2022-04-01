@@ -84,7 +84,7 @@ sidebar:
   - type: FeaturedItemsSection
     colors: colors-e
     backgroundSize: full
-    subtitle: Choose a practice area to learn more.
+    subtitle: CHOOSE A PRACTICE AREA TO LEARN MORE
     items:
       - type: FeaturedItem
         actions:
