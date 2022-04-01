@@ -17,7 +17,7 @@ hero:
         label: |
           Get Representation for Juvenile Offenses
         url: /contact
-        style: secondary
+        style: primary
         iconPosition: right
         icon: arrowRight
         showIcon: true
