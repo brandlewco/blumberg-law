@@ -158,8 +158,6 @@ sidebar:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title: |
-      Choose a practice area to learn more.
 footer:
   - type: FeaturedCasesSection
     elementId: ''
