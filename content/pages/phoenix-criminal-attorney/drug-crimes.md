@@ -19,7 +19,7 @@ sections:
         url: 'https://www.stackbit.com/'
         style: primary
         iconPosition: right
-        icon: arrowRight
+        icon: drugCrime
         showIcon: true
     styles:
       self:
