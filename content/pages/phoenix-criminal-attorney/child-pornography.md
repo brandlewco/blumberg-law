@@ -19,7 +19,7 @@ hero:
         url: 'https://www.stackbit.com/'
         style: primary
         iconPosition: right
-        icon: arrowRightCircle
+        icon: arrowRight
         showIcon: true
     styles:
       self:
