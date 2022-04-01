@@ -20,7 +20,7 @@ hero:
         style: primary
         iconPosition: left
         icon: drugCrime
-        showIcon: false
+        showIcon: true
     styles:
       self:
         height: auto
