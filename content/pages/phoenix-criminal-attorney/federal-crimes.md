@@ -82,7 +82,6 @@ sections:
 sidebar:
   - type: FeaturedItemsSection
     colors: colors-e
-    backgroundSize: full
     items:
       - type: FeaturedItem
         actions:
@@ -142,8 +141,8 @@ sidebar:
           - pt-20
           - pb-8
           - pl-8
-          - pr-4
-        justifyContent: center
+          - pr-8
+        justifyContent: flex-start
       title:
         textAlign: left
       subtitle:
