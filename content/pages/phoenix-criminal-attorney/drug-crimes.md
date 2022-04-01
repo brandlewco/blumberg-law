@@ -87,7 +87,6 @@ sidebar:
     subtitle: Choose a practice area to learn more.
     items:
       - type: FeaturedItem
-        title: Faster
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
