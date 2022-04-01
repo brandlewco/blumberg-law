@@ -213,7 +213,7 @@ footer:
         justifyContent: center
     title: Cases of Interest
     subtitle: ''
-    colors: colors-c
+    colors: colors-d
     posts:
       - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
       - content/pages/cases/accused-multiple-accounts-sexual-misconduct.md
