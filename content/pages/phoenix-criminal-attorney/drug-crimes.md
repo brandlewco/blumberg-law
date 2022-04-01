@@ -110,7 +110,7 @@ sidebar:
             showIcon: false
             icon: arrowRight
             iconPosition: left
-            style: secondary
+            style: primary
             elementId: ''
         styles:
           self:
