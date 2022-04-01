@@ -15,7 +15,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Drug Crime Representation
+          Divorce Representation
         url: /contact
         style: primary
         iconPosition: right
