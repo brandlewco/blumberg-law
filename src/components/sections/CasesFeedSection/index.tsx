@@ -94,16 +94,16 @@ function postFeedActions(props) {
 function postFeedVariants(props, emblaRef, emblaApi) {
     const variant = props.variant || 'variant-a';
     switch (variant) {
-        case 'variant-a':
-            return postsVariantA(props, emblaRef, emblaApi);
+        // case 'variant-a':
+        //     return postsVariantA(props, emblaRef, emblaApi);
         case 'variant-b':
             return postsVariantB(props, emblaRef, emblaApi);
-        case 'variant-c':
-            return postsVariantC(props, emblaRef, emblaApi);
-        case 'variant-d':
-            return postsVariantD(props, emblaRef, emblaApi);
-        case 'variant-e':
-            return postsVariantE(props, emblaRef, emblaApi);
+        // case 'variant-c':
+        //     return postsVariantC(props, emblaRef, emblaApi);
+        // case 'variant-d':
+        //     return postsVariantD(props, emblaRef, emblaApi);
+        // case 'variant-e':
+        //     return postsVariantE(props, emblaRef, emblaApi);
     }
     return null;
 }
