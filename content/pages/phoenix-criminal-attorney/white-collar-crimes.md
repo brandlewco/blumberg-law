@@ -15,7 +15,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Drug Crime Representation
+          Get Representation for White Collar Crimes
         url: /contact
         style: primary
         iconPosition: right
