@@ -51,12 +51,6 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
-    media:
-      type: ImageBlock
-      url: /images/icon-gavel-8a7d531e.svg
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
   - type: TextSection
     colors: colors-d
     variant: variant-a
