@@ -142,7 +142,7 @@ sidebar:
           - pt-20
           - pb-8
           - pl-8
-          - pr-4
+          - pr-8
         justifyContent: flex-start
       title:
         textAlign: left
