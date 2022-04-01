@@ -148,7 +148,7 @@ sidebar:
           - mr-0
         padding:
           - pt-8
-          - pb-0
+          - pb-8
           - pl-8
           - pr-4
         justifyContent: center
