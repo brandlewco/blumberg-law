@@ -108,67 +108,67 @@ function postFeedVariants(props, emblaRef, emblaApi) {
     return null;
 }
 
-function postsVariantA(props, emblaRef, emblaApi) {
-    const posts = props.posts || [];
-    if (posts.length === 0) {
-        return null;
-    }
-    return (
-        <div
-            className={classNames('grid', 'gap-x-6', 'gap-y-12', 'md:grid-cols-2', 'lg:gap-x-8', {
-                'mt-12': props.title || props.subtitle || (props.actions || []).length > 0
-            })}
-            {...(props.annotatePosts ? { 'data-sb-field-path': '.posts' } : null)}
-        >
-            {posts.map((post, index) => (
-                <article key={index} className="sb-card overflow-hidden" data-sb-object-id={post.__metadata?.id}>
-                    <div className="flex flex-col min-h-full">
-                        {post.featuredImage && (
-                            <Link href={getPageUrlPath(post)} className="block h-0 w-full pt-2/3 relative overflow-hidden">
-                                <ImageBlock
-                                    {...post.featuredImage}
-                                    className="absolute left-0 top-0 h-full w-full object-cover transition-transform duration-500 hover:scale-105"
-                                    data-sb-field-path="featuredImage"
-                                />
-                            </Link>
-                        )}
-                        <div className="flex flex-col flex-grow px-4 pt-6 pb-10 sm:px-6">
-                            <div className="flex-grow">
-                                <h3 className="text-3xl">
-                                    <Link href={getPageUrlPath(post)} data-sb-field-path="title">
-                                        {post.title}
-                                    </Link>
-                                </h3>
-                                <PostAttribution showAuthor={props.showAuthor} post={post} className="mt-2" />
-                                {props.showExcerpt && post.excerpt && (
-                                    <p className="mt-4" data-sb-field-path="excerpt">
-                                        {post.excerpt}
-                                    </p>
-                                )}
-                            </div>
-                            {(props.showDate || props.showReadMoreLink) && (
-                                <div className="mt-12 space-y-6">
-                                    {props.showDate && <PostDate post={post} className="mb-2" />}
-                                    {props.showReadMoreLink && (
-                                        <div>
-                                            <Link
-                                                href={getPageUrlPath(post)}
-                                                className="sb-component sb-component-block sb-component-button sb-component-button-primary"
-                                            >
-                                                {props.readMoreLinkLabel && <span className="mr-3">{props.readMoreLinkLabel}</span>}
-                                                <ArrowRightIcon className="fill-current h-5 w-5" />
-                                            </Link>
-                                        </div>
-                                    )}
-                                </div>
-                            )}
-                        </div>
-                    </div>
-                </article>
-            ))}
-        </div>
-    );
-}
+// function postsVariantA(props, emblaRef, emblaApi) {
+//     const posts = props.posts || [];
+//     if (posts.length === 0) {
+//         return null;
+//     }
+//     return (
+//         <div
+//             className={classNames('grid', 'gap-x-6', 'gap-y-12', 'md:grid-cols-2', 'lg:gap-x-8', {
+//                 'mt-12': props.title || props.subtitle || (props.actions || []).length > 0
+//             })}
+//             {...(props.annotatePosts ? { 'data-sb-field-path': '.posts' } : null)}
+//         >
+//             {posts.map((post, index) => (
+//                 <article key={index} className="sb-card overflow-hidden" data-sb-object-id={post.__metadata?.id}>
+//                     <div className="flex flex-col min-h-full">
+//                         {post.featuredImage && (
+//                             <Link href={getPageUrlPath(post)} className="block h-0 w-full pt-2/3 relative overflow-hidden">
+//                                 <ImageBlock
+//                                     {...post.featuredImage}
+//                                     className="absolute left-0 top-0 h-full w-full object-cover transition-transform duration-500 hover:scale-105"
+//                                     data-sb-field-path="featuredImage"
+//                                 />
+//                             </Link>
+//                         )}
+//                         <div className="flex flex-col flex-grow px-4 pt-6 pb-10 sm:px-6">
+//                             <div className="flex-grow">
+//                                 <h3 className="text-3xl">
+//                                     <Link href={getPageUrlPath(post)} data-sb-field-path="title">
+//                                         {post.title}
+//                                     </Link>
+//                                 </h3>
+//                                 <PostAttribution showAuthor={props.showAuthor} post={post} className="mt-2" />
+//                                 {props.showExcerpt && post.excerpt && (
+//                                     <p className="mt-4" data-sb-field-path="excerpt">
+//                                         {post.excerpt}
+//                                     </p>
+//                                 )}
+//                             </div>
+//                             {(props.showDate || props.showReadMoreLink) && (
+//                                 <div className="mt-12 space-y-6">
+//                                     {props.showDate && <PostDate post={post} className="mb-2" />}
+//                                     {props.showReadMoreLink && (
+//                                         <div>
+//                                             <Link
+//                                                 href={getPageUrlPath(post)}
+//                                                 className="sb-component sb-component-block sb-component-button sb-component-button-primary"
+//                                             >
+//                                                 {props.readMoreLinkLabel && <span className="mr-3">{props.readMoreLinkLabel}</span>}
+//                                                 <ArrowRightIcon className="fill-current h-5 w-5" />
+//                                             </Link>
+//                                         </div>
+//                                     )}
+//                                 </div>
+//                             )}
+//                         </div>
+//                     </div>
+//                 </article>
+//             ))}
+//         </div>
+//     );
+// }
 
 function postsVariantB(props, emblaRef, emblaApi) {
     const posts = props.posts || [];
@@ -193,7 +193,7 @@ function postsVariantB(props, emblaRef, emblaApi) {
         >
         <div className="embla__container">
             {posts.map((post, index) => (
-                <article key={index} className="embla__slide overflow-hidden" data-sb-object-id={post.__metadata?.id}>
+                <article key={index} className="embla__slide_mobile lg:embla__slide overflow-hidden" data-sb-object-id={post.__metadata?.id}>
                     <div className="sb-card flex flex-col min-h-full">
                         {post.featuredImage && (
                             <Link href={getPageUrlPath(post)} className="block h-0 w-full pt-2/3 relative overflow-hidden">
@@ -225,7 +225,7 @@ function postsVariantB(props, emblaRef, emblaApi) {
             ))}
         </div>
         </div>
-        <div className="embla__nav">
+        <div className="hidden lg:block embla__nav">
         <button className="embla__prev" onClick={scrollPrev}>
         <ArrowLeftCircle className="fill-current h-10 w-10" />
         </button>
@@ -237,201 +237,201 @@ function postsVariantB(props, emblaRef, emblaApi) {
     );
 }
 
-function postsVariantC(props, emblaRef, emblaApi) {
-    const posts = props.posts || [];
-    if (posts.length === 0) {
-        return null;
-    }
-    return (
-        <div
-            className={classNames('grid', 'gap-6', 'md:grid-cols-6', 'lg:gap-8', {
-                'mt-12': props.title || props.subtitle || (props.actions || []).length > 0
-            })}
-            {...(props.annotatePosts ? { 'data-sb-field-path': '.posts' } : null)}
-        >
-            {posts.map((post, index) => (
-                <article
-                    key={index}
-                    className={classNames('sb-card', 'overflow-hidden', index % 5 === 0 || index % 5 === 1 ? 'md:col-span-3' : 'md:col-span-2')}
-                    data-sb-object-id={post.__metadata?.id}
-                >
-                    <div className="flex flex-col min-h-full">
-                        {post.featuredImage && (
-                            <Link href={getPageUrlPath(post)} className="block h-0 w-full pt-2/3 relative overflow-hidden">
-                                <ImageBlock
-                                    {...post.featuredImage}
-                                    className="absolute left-0 top-0 h-full w-full object-cover transition-transform duration-500 hover:scale-105"
-                                    data-sb-field-path="featuredImage"
-                                />
-                            </Link>
-                        )}
-                        <div className="flex flex-col flex-grow px-4 pt-6 pb-10 sm:px-6">
-                            <div className="flex-grow">
-                                <h3 className="text-3xl">
-                                    <Link href={getPageUrlPath(post)} data-sb-field-path="title">
-                                        {post.title}
-                                    </Link>
-                                </h3>
-                                <PostAttribution showAuthor={props.showAuthor} post={post} className="mt-2" />
-                                {props.showExcerpt && post.excerpt && (
-                                    <p className="mt-4" data-sb-field-path="excerpt">
-                                        {post.excerpt}
-                                    </p>
-                                )}
-                            </div>
-                            {(props.showDate || props.showReadMoreLink) && (
-                                <div className="mt-12 space-y-6">
-                                    {props.showDate && <PostDate post={post} className="mb-2" />}
-                                    {props.showReadMoreLink && (
-                                        <div>
-                                            <Link
-                                                href={getPageUrlPath(post)}
-                                                className="sb-component sb-component-block sb-component-button sb-component-button-primary"
-                                            >
-                                                {props.readMoreLinkLabel && <span className="mr-3">{props.readMoreLinkLabel}</span>}
-                                                <ArrowRightIcon className="fill-current h-5 w-5" />
-                                            </Link>
-                                        </div>
-                                    )}
-                                </div>
-                            )}
-                        </div>
-                    </div>
-                </article>
-            ))}
-        </div>
-    );
-}
+// function postsVariantC(props, emblaRef, emblaApi) {
+//     const posts = props.posts || [];
+//     if (posts.length === 0) {
+//         return null;
+//     }
+//     return (
+//         <div
+//             className={classNames('grid', 'gap-6', 'md:grid-cols-6', 'lg:gap-8', {
+//                 'mt-12': props.title || props.subtitle || (props.actions || []).length > 0
+//             })}
+//             {...(props.annotatePosts ? { 'data-sb-field-path': '.posts' } : null)}
+//         >
+//             {posts.map((post, index) => (
+//                 <article
+//                     key={index}
+//                     className={classNames('sb-card', 'overflow-hidden', index % 5 === 0 || index % 5 === 1 ? 'md:col-span-3' : 'md:col-span-2')}
+//                     data-sb-object-id={post.__metadata?.id}
+//                 >
+//                     <div className="flex flex-col min-h-full">
+//                         {post.featuredImage && (
+//                             <Link href={getPageUrlPath(post)} className="block h-0 w-full pt-2/3 relative overflow-hidden">
+//                                 <ImageBlock
+//                                     {...post.featuredImage}
+//                                     className="absolute left-0 top-0 h-full w-full object-cover transition-transform duration-500 hover:scale-105"
+//                                     data-sb-field-path="featuredImage"
+//                                 />
+//                             </Link>
+//                         )}
+//                         <div className="flex flex-col flex-grow px-4 pt-6 pb-10 sm:px-6">
+//                             <div className="flex-grow">
+//                                 <h3 className="text-3xl">
+//                                     <Link href={getPageUrlPath(post)} data-sb-field-path="title">
+//                                         {post.title}
+//                                     </Link>
+//                                 </h3>
+//                                 <PostAttribution showAuthor={props.showAuthor} post={post} className="mt-2" />
+//                                 {props.showExcerpt && post.excerpt && (
+//                                     <p className="mt-4" data-sb-field-path="excerpt">
+//                                         {post.excerpt}
+//                                     </p>
+//                                 )}
+//                             </div>
+//                             {(props.showDate || props.showReadMoreLink) && (
+//                                 <div className="mt-12 space-y-6">
+//                                     {props.showDate && <PostDate post={post} className="mb-2" />}
+//                                     {props.showReadMoreLink && (
+//                                         <div>
+//                                             <Link
+//                                                 href={getPageUrlPath(post)}
+//                                                 className="sb-component sb-component-block sb-component-button sb-component-button-primary"
+//                                             >
+//                                                 {props.readMoreLinkLabel && <span className="mr-3">{props.readMoreLinkLabel}</span>}
+//                                                 <ArrowRightIcon className="fill-current h-5 w-5" />
+//                                             </Link>
+//                                         </div>
+//                                     )}
+//                                 </div>
+//                             )}
+//                         </div>
+//                     </div>
+//                 </article>
+//             ))}
+//         </div>
+//     );
+// }
 
-function postsVariantD(props, emblaRef, emblaApi) {
-    const posts = props.posts || [];
-    if (posts.length === 0) {
-        return null;
-    }
-    return (
-        <div
-            className={classNames('grid', 'gap-y-12', {
-                'mt-12': props.title || props.subtitle || (props.actions || []).length > 0
-            })}
-            {...(props.annotatePosts ? { 'data-sb-field-path': '.posts' } : null)}
-        >
-            {posts.map((post, index) => (
-                <article key={index} data-sb-object-id={post.__metadata?.id} className="sb-card overflow-hidden">
-                    <div className="md:flex">
-                        {post.featuredImage && (
-                            <div className="md:w-2/5">
-                                <Link
-                                    href={getPageUrlPath(post)}
-                                    className="block h-0 w-full pt-2/3 relative overflow-hidden md:h-60 md:min-h-full md:pt-0 lg:h-72"
-                                >
-                                    <ImageBlock
-                                        {...post.featuredImage}
-                                        className="absolute left-0 top-0 h-full w-full object-cover transition-transform duration-500 hover:scale-105"
-                                        data-sb-field-path="featuredImage"
-                                    />
-                                </Link>
-                            </div>
-                        )}
-                        <div className="px-4 pt-6 pb-10 sm:px-6 md:w-3/5 md:self-center md:pt-8">
-                            <h3 className="text-3xl">
-                                <Link href={getPageUrlPath(post)} data-sb-field-path="title">
-                                    {post.title}
-                                </Link>
-                            </h3>
-                            <PostAttribution showAuthor={props.showAuthor} post={post} className="mt-2" />
-                            {props.showExcerpt && post.excerpt && (
-                                <p className="mt-4" data-sb-field-path="excerpt">
-                                    {post.excerpt}
-                                </p>
-                            )}
-                            {(props.showDate || props.showReadMoreLink) && (
-                                <div className="mt-12 space-y-6">
-                                    {props.showDate && <PostDate post={post} className="mb-2" />}
-                                    {props.showReadMoreLink && (
-                                        <div>
-                                            <Link
-                                                href={getPageUrlPath(post)}
-                                                className="sb-component sb-component-block sb-component-button sb-component-button-primary"
-                                            >
-                                                {props.readMoreLinkLabel && <span className="mr-3">{props.readMoreLinkLabel}</span>}
-                                                <ArrowRightIcon className="fill-current h-5 w-5" />
-                                            </Link>
-                                        </div>
-                                    )}
-                                </div>
-                            )}
-                        </div>
-                    </div>
-                </article>
-            ))}
-        </div>
-    );
-}
+// function postsVariantD(props, emblaRef, emblaApi) {
+//     const posts = props.posts || [];
+//     if (posts.length === 0) {
+//         return null;
+//     }
+//     return (
+//         <div
+//             className={classNames('grid', 'gap-y-12', {
+//                 'mt-12': props.title || props.subtitle || (props.actions || []).length > 0
+//             })}
+//             {...(props.annotatePosts ? { 'data-sb-field-path': '.posts' } : null)}
+//         >
+//             {posts.map((post, index) => (
+//                 <article key={index} data-sb-object-id={post.__metadata?.id} className="sb-card overflow-hidden">
+//                     <div className="md:flex">
+//                         {post.featuredImage && (
+//                             <div className="md:w-2/5">
+//                                 <Link
+//                                     href={getPageUrlPath(post)}
+//                                     className="block h-0 w-full pt-2/3 relative overflow-hidden md:h-60 md:min-h-full md:pt-0 lg:h-72"
+//                                 >
+//                                     <ImageBlock
+//                                         {...post.featuredImage}
+//                                         className="absolute left-0 top-0 h-full w-full object-cover transition-transform duration-500 hover:scale-105"
+//                                         data-sb-field-path="featuredImage"
+//                                     />
+//                                 </Link>
+//                             </div>
+//                         )}
+//                         <div className="px-4 pt-6 pb-10 sm:px-6 md:w-3/5 md:self-center md:pt-8">
+//                             <h3 className="text-3xl">
+//                                 <Link href={getPageUrlPath(post)} data-sb-field-path="title">
+//                                     {post.title}
+//                                 </Link>
+//                             </h3>
+//                             <PostAttribution showAuthor={props.showAuthor} post={post} className="mt-2" />
+//                             {props.showExcerpt && post.excerpt && (
+//                                 <p className="mt-4" data-sb-field-path="excerpt">
+//                                     {post.excerpt}
+//                                 </p>
+//                             )}
+//                             {(props.showDate || props.showReadMoreLink) && (
+//                                 <div className="mt-12 space-y-6">
+//                                     {props.showDate && <PostDate post={post} className="mb-2" />}
+//                                     {props.showReadMoreLink && (
+//                                         <div>
+//                                             <Link
+//                                                 href={getPageUrlPath(post)}
+//                                                 className="sb-component sb-component-block sb-component-button sb-component-button-primary"
+//                                             >
+//                                                 {props.readMoreLinkLabel && <span className="mr-3">{props.readMoreLinkLabel}</span>}
+//                                                 <ArrowRightIcon className="fill-current h-5 w-5" />
+//                                             </Link>
+//                                         </div>
+//                                     )}
+//                                 </div>
+//                             )}
+//                         </div>
+//                     </div>
+//                 </article>
+//             ))}
+//         </div>
+//     );
+// }
 
-function postsVariantE(props, emblaRef, emblaApi) {
-    const posts = props.posts || [];
-    if (posts.length === 0) {
-        return null;
-    }
-    return (
-        <div
-            className={classNames('grid', 'gap-y-12', {
-                'mt-12': props.title || props.subtitle || (props.actions || []).length > 0
-            })}
-            {...(props.annotatePosts ? { 'data-sb-field-path': '.posts' } : null)}
-        >
-            {posts.map((post, index) => (
-                <article key={index} data-sb-object-id={post.__metadata?.id} className="sb-card overflow-hidden">
-                    <div className="md:flex">
-                        {post.featuredImage && (
-                            <div className="md:w-2/5">
-                                <Link
-                                    href={getPageUrlPath(post)}
-                                    className="block h-0 w-full pt-2/3 relative overflow-hidden md:h-60 md:min-h-full md:pt-0 lg:h-72"
-                                >
-                                    <ImageBlock
-                                        {...post.featuredImage}
-                                        className="absolute left-0 top-0 h-full w-full object-cover transition-transform duration-500 hover:scale-105"
-                                        data-sb-field-path="featuredImage"
-                                    />
-                                </Link>
-                            </div>
-                        )}
-                        <div className="px-4 pt-6 pb-10 sm:px-6 md:w-3/5 md:self-center md:pt-8">
-                            <h3 className="text-3xl">
-                                <Link href={getPageUrlPath(post)} data-sb-field-path="title">
-                                    {post.title}
-                                </Link>
-                            </h3>
-                            <PostAttribution showAuthor={props.showAuthor} post={post} className="mt-2" />
-                            {props.showExcerpt && post.excerpt && (
-                                <p className="mt-4" data-sb-field-path="excerpt">
-                                    {post.excerpt}
-                                </p>
-                            )}
-                            {(props.showDate || props.showReadMoreLink) && (
-                                <div className="mt-12 space-y-6">
-                                    {props.showDate && <PostDate post={post} className="mb-2" />}
-                                    {props.showReadMoreLink && (
-                                        <div>
-                                            <Link
-                                                href={getPageUrlPath(post)}
-                                                className="sb-component sb-component-block sb-component-button sb-component-button-primary"
-                                            >
-                                                {props.readMoreLinkLabel && <span className="mr-3">{props.readMoreLinkLabel}</span>}
-                                                <ArrowRightIcon className="fill-current h-5 w-5" />
-                                            </Link>
-                                        </div>
-                                    )}
-                                </div>
-                            )}
-                        </div>
-                    </div>
-                </article>
-            ))}
-        </div>
-    );
-}
+// function postsVariantE(props, emblaRef, emblaApi) {
+//     const posts = props.posts || [];
+//     if (posts.length === 0) {
+//         return null;
+//     }
+//     return (
+//         <div
+//             className={classNames('grid', 'gap-y-12', {
+//                 'mt-12': props.title || props.subtitle || (props.actions || []).length > 0
+//             })}
+//             {...(props.annotatePosts ? { 'data-sb-field-path': '.posts' } : null)}
+//         >
+//             {posts.map((post, index) => (
+//                 <article key={index} data-sb-object-id={post.__metadata?.id} className="sb-card overflow-hidden">
+//                     <div className="md:flex">
+//                         {post.featuredImage && (
+//                             <div className="md:w-2/5">
+//                                 <Link
+//                                     href={getPageUrlPath(post)}
+//                                     className="block h-0 w-full pt-2/3 relative overflow-hidden md:h-60 md:min-h-full md:pt-0 lg:h-72"
+//                                 >
+//                                     <ImageBlock
+//                                         {...post.featuredImage}
+//                                         className="absolute left-0 top-0 h-full w-full object-cover transition-transform duration-500 hover:scale-105"
+//                                         data-sb-field-path="featuredImage"
+//                                     />
+//                                 </Link>
+//                             </div>
+//                         )}
+//                         <div className="px-4 pt-6 pb-10 sm:px-6 md:w-3/5 md:self-center md:pt-8">
+//                             <h3 className="text-3xl">
+//                                 <Link href={getPageUrlPath(post)} data-sb-field-path="title">
+//                                     {post.title}
+//                                 </Link>
+//                             </h3>
+//                             <PostAttribution showAuthor={props.showAuthor} post={post} className="mt-2" />
+//                             {props.showExcerpt && post.excerpt && (
+//                                 <p className="mt-4" data-sb-field-path="excerpt">
+//                                     {post.excerpt}
+//                                 </p>
+//                             )}
+//                             {(props.showDate || props.showReadMoreLink) && (
+//                                 <div className="mt-12 space-y-6">
+//                                     {props.showDate && <PostDate post={post} className="mb-2" />}
+//                                     {props.showReadMoreLink && (
+//                                         <div>
+//                                             <Link
+//                                                 href={getPageUrlPath(post)}
+//                                                 className="sb-component sb-component-block sb-component-button sb-component-button-primary"
+//                                             >
+//                                                 {props.readMoreLinkLabel && <span className="mr-3">{props.readMoreLinkLabel}</span>}
+//                                                 <ArrowRightIcon className="fill-current h-5 w-5" />
+//                                             </Link>
+//                                         </div>
+//                                     )}
+//                                 </div>
+//                             )}
+//                         </div>
+//                     </div>
+//                 </article>
+//             ))}
+//         </div>
+//     );
+// }
 
 function PostDate({ post, className = '' }) {
     if (!post.date) {

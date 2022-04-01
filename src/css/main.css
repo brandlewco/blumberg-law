@@ -135,13 +135,20 @@
     }
     .embla__container {
         display: flex;
-        @apply gap-4;
+        @apply gap-4 flex-col lg:flex-row;
     }
 
     .embla__slide {
         position: relative;
         flex: 0 0 33%;
     }
+    .embla__slide_mobile {
+        position: relative;
+        flex: 0 0 100%;
+    }
+
+    embla__container
+
     .embla__slide > div {
         @apply mx-4;
     }
@@ -184,13 +191,18 @@
     #hero-features {
         overflow: visible !important;
     }
-
+    /* small only */
     @media only screen and (max-width: 768px) {
         #hero-features {
             @apply py-16;
         }
         .columns-4 {
             columns: 1;
+        }
+    }
+    @media only screen and (max-width: 1024px) {
+        .embla__container .embla__slide_mobile:nth-child(n+4){
+            @apply hidden;
         }
     }
 
