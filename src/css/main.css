@@ -253,6 +253,12 @@
         @apply float-right w-1/3 ml-2 mt-2 mb-2;
     }
 
+    /* sidebar */
+    /* #sidebar a {
+        @apply mb-0;
+    } */
+
+
     /* about - attorney profile */
     #bruce-blumberg img {
         @apply w-full pr-16 pt-8;

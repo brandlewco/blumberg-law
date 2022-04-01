@@ -83,9 +83,10 @@ sidebar:
   - type: FeaturedItemsSection
     colors: colors-e
     backgroundSize: full
-    subtitle: CHOOSE A PRACTICE AREA TO LEARN MORE
+    title: |+
+      #### CHOOSE A PRACTICE AREA **TO LEARN MORE**
     items:
-      - type: FeaturedItem
+          - type: FeaturedItem
         actions:
           - type: Button
             label: |
@@ -94,13 +95,6 @@ sidebar:
             icon: arrowRight
             url: /phoenix-criminal-attorney/federal-crimes/
             style: primary
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        elementId: ''
-        subtitle: ''
-        actions:
           - type: Button
             label: |
               Sex Crimes
@@ -111,15 +105,6 @@ sidebar:
             iconPosition: right
             style: primary
             elementId: ''
-        styles:
-          self:
-            textAlign: left
-            alignItems: flex-start
-            justifyContent: flex-start
-      - type: FeaturedItem
-        elementId: ''
-        subtitle: ''
-        actions:
           - type: Button
             label: |
               Violent Crimes
@@ -130,15 +115,6 @@ sidebar:
             iconPosition: right
             style: primary
             elementId: ''
-        styles:
-          self:
-            textAlign: left
-            alignItems: flex-start
-            justifyContent: flex-start
-      - type: FeaturedItem
-        elementId: ''
-        subtitle: ''
-        actions:
           - type: Button
             label: |
               White Collar Crimes
@@ -152,8 +128,6 @@ sidebar:
         styles:
           self:
             textAlign: left
-            alignItems: flex-start
-            justifyContent: flex-start
     actions: []
     columns: 1
     enableHover: false

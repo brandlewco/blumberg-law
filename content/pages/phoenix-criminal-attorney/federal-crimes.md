@@ -95,23 +95,6 @@ sidebar:
             style: primary
           - type: Button
             label: |
-              Sex Crimes2
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        elementId: ''
-        subtitle: ''
-        actions:
-          - type: Button
-            label: |
               Sex Crimes
             altText: ''
             url: /phoenix-criminal-attorney/sex-crimes/
@@ -120,15 +103,6 @@ sidebar:
             iconPosition: right
             style: primary
             elementId: ''
-        styles:
-          self:
-            textAlign: left
-            alignItems: flex-start
-            justifyContent: flex-start
-      - type: FeaturedItem
-        elementId: ''
-        subtitle: ''
-        actions:
           - type: Button
             label: |
               Violent Crimes
@@ -139,15 +113,6 @@ sidebar:
             iconPosition: right
             style: primary
             elementId: ''
-        styles:
-          self:
-            textAlign: left
-            alignItems: flex-start
-            justifyContent: flex-start
-      - type: FeaturedItem
-        elementId: ''
-        subtitle: ''
-        actions:
           - type: Button
             label: |
               White Collar Crimes
@@ -161,8 +126,6 @@ sidebar:
         styles:
           self:
             textAlign: left
-            alignItems: flex-start
-            justifyContent: flex-start
     actions: []
     columns: 1
     enableHover: false
