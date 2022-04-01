@@ -266,7 +266,6 @@ sidebar:
   - type: FeaturedItemsSection
     colors: colors-e
     elementId: ''
-    title: Key value propositions
     backgroundSize: full
     subtitle: ''
     items:
