@@ -178,6 +178,7 @@ sidebar:
         textAlign: left
       actions:
         justifyContent: flex-start
+    elementId: sidebar
 footer:
   - type: FeaturedCasesSection
     elementId: ''
