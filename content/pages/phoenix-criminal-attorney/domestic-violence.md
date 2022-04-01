@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: 'Domestic '
+title: Domestic Violence
 hero:
   - type: HeroSection
     elementId: homepage-hero-1
