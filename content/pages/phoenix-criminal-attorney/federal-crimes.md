@@ -128,7 +128,7 @@ sidebar:
             textAlign: left
     actions: []
     columns: 1
-    enableHover: false
+    enableHover: true
     styles:
       self:
         height: auto
