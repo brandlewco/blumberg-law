@@ -109,7 +109,7 @@ sidebar:
             url: /phoenix-criminal-attorney/sex-crimes/
             showIcon: false
             icon: arrowRight
-            iconPosition: right
+            iconPosition: left
             style: secondary
             elementId: ''
         styles:
