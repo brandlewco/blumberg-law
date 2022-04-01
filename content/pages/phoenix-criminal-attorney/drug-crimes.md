@@ -16,7 +16,7 @@ hero:
       - type: Button
         label: |
           Drug Crime Representation
-        url: 'https://www.stackbit.com/'
+        url: /contact
         style: primary
         iconPosition: right
         icon: arrowRight
