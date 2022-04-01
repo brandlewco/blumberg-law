@@ -179,7 +179,9 @@ sidebar:
         justifyContent: flex-start
     elementId: sidebar
     title: |+
-      #### CHOOSE A PRACTICE AREA TO LEARN MORE
+      #### CHOOSE A PRACTICE AREA
+
+      #### **TO LEARN MORE**
 
 footer:
   - type: FeaturedCasesSection
