@@ -156,7 +156,6 @@ sidebar:
 
       #### **TO LEARN MORE**
 
-    subtitle: asd
 footer:
   - type: FeaturedCasesSection
     elementId: ''
