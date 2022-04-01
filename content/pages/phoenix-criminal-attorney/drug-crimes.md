@@ -82,7 +82,7 @@ sections:
 sidebar:
   - type: FeaturedItemsSection
     colors: colors-e
-    elementId: ''
+    elementId: sidebar
     backgroundSize: full
     subtitle: Choose a practice area to learn more.
     items:
