@@ -18,7 +18,7 @@ hero:
           Child Pornography Criminal Representation
         url: 'https://www.stackbit.com/'
         style: primary
-        iconPosition: left
+        iconPosition: right
         icon: drugCrime
         showIcon: true
     styles:
