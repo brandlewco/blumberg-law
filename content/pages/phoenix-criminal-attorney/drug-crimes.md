@@ -20,7 +20,7 @@ sections:
         style: secondary
         iconPosition: left
         icon: drugCrime
-        showIcon: true
+        showIcon: false
     styles:
       self:
         height: auto
