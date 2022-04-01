@@ -15,7 +15,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Drug Crime Representation
+          Representation for Juvenile Offenses
         url: /contact
         style: primary
         iconPosition: right
