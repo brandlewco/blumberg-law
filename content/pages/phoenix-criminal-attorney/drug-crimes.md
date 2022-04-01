@@ -115,8 +115,46 @@ sidebar:
         styles:
           self:
             textAlign: left
-            alignItems: center
-            justifyContent: center
+            alignItems: flex-start
+            justifyContent: flex-start
+      - type: FeaturedItem
+        elementId: ''
+        subtitle: ''
+        actions:
+          - type: Button
+            label: |
+              Violent Crimes
+            altText: ''
+            url: /phoenix-criminal-attorney/violent-crimes/
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        styles:
+          self:
+            textAlign: left
+            alignItems: flex-start
+            justifyContent: flex-start
+      - type: FeaturedItem
+        elementId: ''
+        subtitle: ''
+        actions:
+          - type: Button
+            label: |
+              White Collar Crimes
+            altText: ''
+            url: /phoenix-criminal-attorney/white-collar-crimes/
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        styles:
+          self:
+            textAlign: left
+            alignItems: flex-start
+            justifyContent: flex-start
     actions: []
     columns: 1
     enableHover: false
