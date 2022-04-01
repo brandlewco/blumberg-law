@@ -145,12 +145,12 @@
             {
                 "label": "Family Law",
                 "altText": "Family Law",
-                "url": "/phoenix-criminal-attorney/family-law/",
+                "url": "/phoenix-family-attorney/family-law/",
                 "child": [
                     {
                         "label": "Child Custody & Parenting Time",
                         "altText": "Child Custody & Parenting Time",
-                        "url": "/phoenix-criminal-attorney/child-custody-parenting-time/",
+                        "url": "/phoenix-family-attorney/child-custody-parenting-time/",
                         "showIcon": false,
                         "icon": "arrowRight",
                         "iconPosition": "right",
@@ -159,7 +159,7 @@
                     {
                         "label": "Divorce",
                         "altText": "Divorce",
-                        "url": "/phoenix-criminal-attorney/divorce/",
+                        "url": "/phoenix-family-attorney/divorce/",
                         "showIcon": false,
                         "icon": "arrowRight",
                         "iconPosition": "right",
