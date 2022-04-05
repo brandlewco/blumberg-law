@@ -5,6 +5,7 @@ import {
     getRootPagePath,
     resolveReferences,
     getAllPostsSorted,
+    getAllTestimonialsSorted,
     getAllCategoryPostsSorted,
     getAllAuthorPostsSorted,
     getPagedItemsForPage,
@@ -60,7 +61,7 @@ const StaticPropsResolvers = {
     },
     CasesFeedLayout: (props, data) => {
         const numOfPostsPerPage = props.numOfPostsPerPage ?? 10;
-        const allPosts = getAllPostsSorted(data.objects);
+        const allPosts = getAllCasesSorted(data.objects);
         const paginationData = getPagedItemsForPage(props, allPosts, numOfPostsPerPage);
         const items = resolveReferences(paginationData.items, ['author', 'category'], data.objects);
         return {
@@ -74,7 +75,7 @@ const StaticPropsResolvers = {
     },
     TestimonialsFeedLayout: (props, data) => {
         const numOfPostsPerPage = props.numOfPostsPerPage ?? 10;
-        const allPosts = getAllPostsSorted(data.objects);
+        const allPosts = getAllTestimonialsSorted(data.objects);
         const paginationData = getPagedItemsForPage(props, allPosts, numOfPostsPerPage);
         const items = resolveReferences(paginationData.items, ['author', 'category'], data.objects);
         return {
