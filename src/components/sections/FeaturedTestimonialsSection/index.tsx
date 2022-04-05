@@ -1,4 +1,4 @@
-import TestimonialsFeedSection from '../TestimonialsFeedSection';
+import TestimonialFeedSection from '../TestimonialFeedSection';
 export default function FeaturedTestimonialsSection(props) {
-    return <TestimonialsFeedSection {...props} annotatePosts={true} />;
+    return <TestimonialFeedSection {...props} annotatePosts={true} />;
 }

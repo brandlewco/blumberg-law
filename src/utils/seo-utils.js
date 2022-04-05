@@ -44,7 +44,7 @@ export function seoGenerateTitle(page, site) {
 export function seoGenerateMetaDescription(page, site) {
     let metaDescription = null;
     // Blog posts use the exceprt as the default meta description
-    if (page.__metadata.modelName === 'PostLayout' || 'CasesLayout' || 'TestimonialsLayout') {
+    if (page.__metadata.modelName === 'PostLayout' || 'CasesLayout' || 'TestimonialLayout') {
         metaDescription = page.excerpt;
     }
     // page metaDescription field overrides all others
@@ -61,7 +61,7 @@ export function seoGenerateOgImage(page, site) {
         ogImage = site.defaultSocialImage;
     }
     // Blog posts use the featuredImage as the default og:image
-    if (page.__metadata.modelName === 'PostLayout' || 'CasesLayout' || 'TestimonialsLayout') {
+    if (page.__metadata.modelName === 'PostLayout' || 'CasesLayout' || 'TestimonialLayout') {
         if (page.featuredImage?.url) {
             ogImage = page.featuredImage.url;
         }

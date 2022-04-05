@@ -1,5 +1,5 @@
 type: object
-name: TestimonialsFeedSection
+name: TestimonialFeedSection
 label: Testimonials feed
 labelField: title
 extends:

@@ -1,7 +1,7 @@
-name: TestimonialsFeedLayout
+name: TestimonialFeedLayout
 label: Testimonials
 labelField: title
-layout: TestimonialsFeedLayout
+layout: TestimonialFeedLayout
 hideContent: true
 extends:
   - Seo

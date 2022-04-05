@@ -15,7 +15,7 @@ import ArrowLeftCircle from '../../svgs/arrow-left-circle';
 import getPageUrlPath from '../../../utils/get-page-url-path';
 
 
-export default function TestimonialsFeedSection(props) {
+export default function TestimonialFeedSection(props) {
     const cssId = props.elementId || null;
     const colors = props.colors || 'colors-d';
     const styles = props.styles || {};

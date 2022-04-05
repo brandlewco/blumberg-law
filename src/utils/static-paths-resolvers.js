@@ -23,7 +23,7 @@ const StaticPathsResolvers = {
         const numOfPostsPerPage = page.numOfPostsPerPage ?? 10;
         return generatePagedPathsForPage(page, posts, numOfPostsPerPage);
     },
-    TestimonialsFeedLayout: (page, objects) => {
+    TestimonialFeedLayout: (page, objects) => {
         const posts = getAllPosts(objects);
         const numOfPostsPerPage = page.numOfPostsPerPage ?? 10;
         return generatePagedPathsForPage(page, posts, numOfPostsPerPage);

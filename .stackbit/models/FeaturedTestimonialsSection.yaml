@@ -4,7 +4,7 @@ label: Featured Testimonials
 labelField: title
 thumbnail: https://assets.stackbit.com/components/models/thumbnails/default.png
 extends:
-  - TestimonialsFeedSection
+  - TestimonialFeedSection
 groups:
   - sectionComponent
 fields:
@@ -20,6 +20,6 @@ fields:
     items:
       type: reference
       models:
-        - TestimonialsLayout
+        - TestimonialLayout
     default:
       -

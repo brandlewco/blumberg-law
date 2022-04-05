@@ -25,7 +25,7 @@ export function getAllPosts(objects) {
 }
 
 export function getAllTestimonials(objects) {
-    return objects.filter((object) => object.layout === 'TestimonialsLayout');
+    return objects.filter((object) => object.layout === 'TestimonialLayout');
 }
 
 export function sortPosts(posts) {

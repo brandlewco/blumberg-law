@@ -3,7 +3,7 @@ name: PagedTestimonialsSection
 label: Post feed
 labelField: title
 extends:
-  - TestimonialsFeedSection
+  - TestimonialFeedSection
 fields:
   - name: title
     hidden: true

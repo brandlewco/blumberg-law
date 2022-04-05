@@ -6,14 +6,14 @@ import { getComponent } from '../../components-registry';
 import { getBaseLayoutComponent } from '../../../utils/base-layout';
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 
-export default function TestimonialsFeedLayout(props) {
+export default function TestimonialFeedLayout(props) {
     const { page, site } = props;
     const BaseLayout = getBaseLayoutComponent(page.baseLayout, site.baseLayout);
     const { title, topSections = [], bottomSections = [], pageIndex, baseUrlPath, numOfPages, items, postFeed } = page;
     const postFeedColors = postFeed?.colors || 'colors-d';
     const postFeedWidth = postFeed?.styles?.self?.width || 'wide';
     const postFeedJustifyContent = postFeed?.styles?.self?.justifyContent || 'center';
-    const TestimonialsFeedSection = getComponent('TestimonialsFeedSection');
+    const TestimonialFeedSection = getComponent('TestimonialFeedSection');
     const pageLinks = PageLinks({ pageIndex, baseUrlPath, numOfPages });
 
     return (
@@ -30,7 +30,7 @@ export default function TestimonialsFeedLayout(props) {
                     </div>
                 )}
                 {renderSections(topSections, 'topSections')}
-                <TestimonialsFeedSection {...postFeed} posts={items} pageLinks={pageLinks} data-sb-field-path="postFeed" />
+                <TestimonialFeedSection {...postFeed} posts={items} pageLinks={pageLinks} data-sb-field-path="postFeed" />
                 {renderSections(bottomSections, 'bottomSections')}
             </main>
         </BaseLayout>

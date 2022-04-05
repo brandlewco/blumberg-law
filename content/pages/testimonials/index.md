@@ -1,5 +1,5 @@
 ---
-layout: TestimonialsFeedLayout
+layout: TestimonialFeedLayout
 title: Testimonials
 numOfPostsPerPage: 10
 styles:
@@ -144,7 +144,7 @@ bottomSections:
     backgroundSize: full
 addTitleSuffix: true
 postFeed:
-  type: PagedPostsSection
+  type: PagedTestimonialsSection
   elementId: ''
   showExcerpt: false
   showReadMoreLink: false

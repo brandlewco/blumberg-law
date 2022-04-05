@@ -1,6 +1,6 @@
-name: TestimonialsLayout
+name: TestimonialLayout
 label: Testimonials
-layout: TestimonialsLayout
+layout: TestimonialLayout
 thumbnail: https://assets.stackbit.com/components/models/thumbnails/default.png
 extends:
   - Seo

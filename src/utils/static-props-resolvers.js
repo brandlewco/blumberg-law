@@ -70,10 +70,10 @@ const StaticPropsResolvers = {
             items
         };
     },
-    TestimonialsLayout: (props, data, debugContext) => {
+    TestimonialLayout: (props, data, debugContext) => {
         return resolveReferences(props, ['author', 'category'], data.objects, debugContext);
     },
-    TestimonialsFeedLayout: (props, data) => {
+    TestimonialFeedLayout: (props, data) => {
         const numOfPostsPerPage = props.numOfPostsPerPage ?? 10;
         const allPosts = getAllTestimonialsSorted(data.objects);
         const paginationData = getPagedItemsForPage(props, allPosts, numOfPostsPerPage);
@@ -115,6 +115,14 @@ const StaticPropsResolvers = {
     },
     RecentPostsSection: (props, data) => {
         const allPosts = getAllPostsSorted(data.objects).slice(0, props.recentCount || 6);
+        const recentPosts = resolveReferences(allPosts, ['author', 'category'], data.objects);
+        return {
+            ...props,
+            posts: recentPosts
+        };
+    },
+    RecentTestimonialsSection: (props, data) => {
+        const allPosts = getAllTestimonialsSorted(data.objects).slice(0, props.recentCount || 6);
         const recentPosts = resolveReferences(allPosts, ['author', 'category'], data.objects);
         return {
             ...props,
