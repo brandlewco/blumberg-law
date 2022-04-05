@@ -38,7 +38,7 @@ bottomSections:
         justifyContent: left
     title: Testimonials
     subtitle: Featured Testimonials section example
-    colors: colors-a
+    colors: colors-e
     posts:
       - content/pages/testimonials/yaser-awad.md
       - content/pages/testimonials/brent-wayne.md
