@@ -1,6 +1,6 @@
 ---
 layout: TestimonialsFeedLayout
-title: Upcoming adventures
+title: Testimonials
 numOfPostsPerPage: 10
 postFeed:
   showDate: true
@@ -8,7 +8,6 @@ postFeed:
   showExcerpt: false
   showReadMoreLink: true
   readMoreLinkLabel: Join adventure
-  variant: variant-c
   colors: colors-d
   styles:
     self:
@@ -18,6 +17,7 @@ postFeed:
         - pl-4
         - pr-4
         - pb-12
+  variant: variant-c
 styles:
   title:
     textAlign: center
