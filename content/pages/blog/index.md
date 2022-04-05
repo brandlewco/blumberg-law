@@ -3,7 +3,7 @@ layout: PostFeedLayout
 numOfPostsPerPage: 10
 postFeed:
   showDate: true
-  showAuthor: false
+  showAuthor: true
   showExcerpt: false
   showReadMoreLink: true
   readMoreLinkLabel: Join adventure
