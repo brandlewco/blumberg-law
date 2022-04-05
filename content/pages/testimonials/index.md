@@ -1,6 +1,6 @@
 ---
 layout: TestimonialsFeedLayout
-title: Upcoming adventures
+title: Testimonials
 numOfPostsPerPage: 10
 postFeed:
   showDate: true
