@@ -146,9 +146,10 @@ addTitleSuffix: true
 postFeed:
   type: PagedTestimonialsSection
   elementId: ''
-  showExcerpt: false
-  showReadMoreLink: false
-  readMoreLinkLabel: ''
+  media:
+    type: ImageBlock
+    url: /images/hero.webp
+    altText: Hero section image
   styles:
     self:
       height: auto
