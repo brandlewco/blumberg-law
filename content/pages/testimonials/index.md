@@ -17,6 +17,7 @@ postFeed:
         - pl-4
         - pr-4
         - pb-12
+  variant: variant-c
 styles:
   title:
     textAlign: center
