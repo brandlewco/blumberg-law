@@ -2,22 +2,6 @@
 layout: TestimonialsFeedLayout
 title: Testimonials
 numOfPostsPerPage: 10
-postFeed:
-  showDate: true
-  showAuthor: false
-  showExcerpt: false
-  showReadMoreLink: true
-  readMoreLinkLabel: Join adventure
-  colors: colors-d
-  styles:
-    self:
-      width: narrow
-      padding:
-        - pt-0
-        - pl-4
-        - pr-4
-        - pb-12
-  variant: variant-c
 styles:
   title:
     textAlign: center
