@@ -4,7 +4,7 @@ numOfPostsPerPage: 10
 postFeed:
   showDate: true
   showAuthor: true
-  showExcerpt: false
+  showExcerpt: true
   showReadMoreLink: true
   readMoreLinkLabel: Keep Reading
   variant: variant-c
