@@ -1,6 +1,5 @@
 ---
 layout: PostFeedLayout
-title: Upcoming adventures
 numOfPostsPerPage: 10
 postFeed:
   showDate: true
