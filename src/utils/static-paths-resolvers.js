@@ -18,6 +18,16 @@ const StaticPathsResolvers = {
         const numOfPostsPerPage = page.numOfPostsPerPage ?? 10;
         return generatePagedPathsForPage(page, posts, numOfPostsPerPage);
     },
+    CasesFeedLayout: (page, objects) => {
+        const posts = getAllPosts(objects);
+        const numOfPostsPerPage = page.numOfPostsPerPage ?? 10;
+        return generatePagedPathsForPage(page, posts, numOfPostsPerPage);
+    },
+    TestimonialsFeedLayout: (page, objects) => {
+        const posts = getAllPosts(objects);
+        const numOfPostsPerPage = page.numOfPostsPerPage ?? 10;
+        return generatePagedPathsForPage(page, posts, numOfPostsPerPage);
+    },
     PostFeedCategoryLayout: (page, objects) => {
         const categoryId = page.__metadata?.id;
         const numOfPostsPerPage = page.numOfPostsPerPage ?? 10;

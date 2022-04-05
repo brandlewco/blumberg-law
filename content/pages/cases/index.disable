@@ -1,5 +1,5 @@
 ---
-layout: PostFeedLayout
+layout: CasesFeedLayout
 title: Upcoming adventures
 numOfPostsPerPage: 10
 postFeed:

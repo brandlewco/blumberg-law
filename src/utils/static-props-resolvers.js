@@ -44,13 +44,35 @@ const StaticPropsResolvers = {
     PostLayout: (props, data, debugContext) => {
         return resolveReferences(props, ['author', 'category'], data.objects, debugContext);
     },
+    PostFeedLayout: (props, data) => {
+        const numOfPostsPerPage = props.numOfPostsPerPage ?? 10;
+        const allPosts = getAllPostsSorted(data.objects);
+        const paginationData = getPagedItemsForPage(props, allPosts, numOfPostsPerPage);
+        const items = resolveReferences(paginationData.items, ['author', 'category'], data.objects);
+        return {
+            ...props,
+            ...paginationData,
+            items
+        };
+    },
     CasesLayout: (props, data, debugContext) => {
         return resolveReferences(props, ['author', 'category'], data.objects, debugContext);
+    },
+    CasesFeedLayout: (props, data) => {
+        const numOfPostsPerPage = props.numOfPostsPerPage ?? 10;
+        const allPosts = getAllPostsSorted(data.objects);
+        const paginationData = getPagedItemsForPage(props, allPosts, numOfPostsPerPage);
+        const items = resolveReferences(paginationData.items, ['author', 'category'], data.objects);
+        return {
+            ...props,
+            ...paginationData,
+            items
+        };
     },
     TestimonialsLayout: (props, data, debugContext) => {
         return resolveReferences(props, ['author', 'category'], data.objects, debugContext);
     },
-    PostFeedLayout: (props, data) => {
+    TestimonialsFeedLayout: (props, data) => {
         const numOfPostsPerPage = props.numOfPostsPerPage ?? 10;
         const allPosts = getAllPostsSorted(data.objects);
         const paginationData = getPagedItemsForPage(props, allPosts, numOfPostsPerPage);

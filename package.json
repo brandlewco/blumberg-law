@@ -32,7 +32,9 @@
         "sourcebit": "^0.11.0",
         "sourcebit-source-filesystem": "^0.2.0",
         "sourcebit-target-next": "^0.7.1",
-        "tailwindcss": "^2.2.4"
+        "tailwindcss": "^2.2.4",
+        "uuid": "^8.3.2",
+        "uuidv4": "^6.2.13"
     },
     "devDependencies": {
         "@next/bundle-analyzer": "^11.1.2",
