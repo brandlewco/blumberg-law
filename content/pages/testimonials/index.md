@@ -8,7 +8,7 @@ styles:
 bottomSections:
   - type: FeaturedTestimonialsSection
     elementId: ''
-    showAuthor: false
+    showAuthor: true
     variant: variant-b
     actions: []
     media:
