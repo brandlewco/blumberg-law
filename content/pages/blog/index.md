@@ -158,4 +158,5 @@ bottomSections:
         textAlign: center
     backgroundSize: full
 addTitleSuffix: true
+title: Arizona Law Insights
 ---
