@@ -9,4 +9,4 @@ import TestimonialsFeedLayout from './TestimonialsFeedLayout';
 import BlankBaseLayout from './BlankBaseLayout';
 import DefaultBaseLayout from './DefaultBaseLayout';
 
-export { PageLayout, PostFeedLayout, PostFeedCategoryLayout, PostLayout, CasesLayout, TestimonialsLayout, BlankBaseLayout, DefaultBaseLayout };
+export { PageLayout, PostFeedLayout, PostFeedCategoryLayout, PostLayout, CasesLayout, CasesFeedLayout, TestimonialsLayout, TestimonialsFeedLayout, BlankBaseLayout, DefaultBaseLayout };
