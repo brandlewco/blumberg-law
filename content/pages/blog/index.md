@@ -16,7 +16,7 @@ postFeed:
         - pt-8
         - pl-4
         - pr-4
-        - pb-12
+        - pb-8
 styles:
   title:
     textAlign: center
