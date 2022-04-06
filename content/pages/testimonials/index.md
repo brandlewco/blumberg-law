@@ -57,7 +57,8 @@ topSections:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
-    title: The Section Title
+    title: |
+      The Section Title
     subtitle: The section subtitle
     text: |-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
