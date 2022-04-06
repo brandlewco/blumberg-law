@@ -155,6 +155,71 @@ sections:
         textAlign: left
       text:
         textAlign: left
+  - type: FeaturedItemsSection
+    colors: colors-e
+    elementId: ''
+    title: |
+      Connect with Bruce.
+    backgroundSize: full
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        actions:
+          - type: Button
+            label: |
+              LinkedIn
+            showIcon: true
+            icon: linkedin
+            url: /
+            style: secondary
+            iconPosition: left
+          - type: Button
+            label: |
+              Facebook
+            altText: ''
+            url: /
+            showIcon: true
+            icon: facebook
+            iconPosition: left
+            style: secondary
+            elementId: ''
+          - type: Button
+            label: |
+              Instagram
+            altText: ''
+            url: /
+            showIcon: true
+            icon: instagram
+            iconPosition: left
+            style: secondary
+            elementId: ''
+        styles:
+          self:
+            textAlign: center
+    actions: []
+    columns: 1
+    enableHover: false
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
 sidebar: []
 footer: []
 ---

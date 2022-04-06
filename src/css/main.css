@@ -167,7 +167,7 @@
     }
     /* custom */
     #call-us {
-        @apply text-primary lg:text-white text-3xl font-serif leading-tight border-0 shadow-none p-0 m-0 text-center w-full;
+        @apply bg-transparent text-primary lg:text-white text-3xl font-serif leading-tight border-0 shadow-none p-0 m-0 text-center w-full;
     }
     #call-us div {
         @apply flex flex-col justify-between;
@@ -237,7 +237,7 @@
         @apply mr-6;
     }
     #hero-button-grid a {
-        @apply flex flex-row justify-start items-center w-full h-auto text-left bg-white;
+        @apply flex flex-row justify-start items-center w-full h-auto text-left;
     }
     /* #hero-awards h2{
         @apply text-left;
@@ -433,7 +433,7 @@
         }
         .sb-component-button-secondary,
         .sb-component-social-secondary {
-            @apply border-on-light text-on-light hover:bg-light hover:border-primary hover:text-primary;
+            @apply border-on-light text-on-light hover:bg-primary hover:border-primary hover:text-primary;
         }
         .sb-card {
             @apply bg-complementary text-on-light;
@@ -451,13 +451,13 @@
         }
         .sb-component-button-secondary,
         .sb-component-social-secondary {
-            @apply border-on-dark text-on-light hover:text-secondary hover:bg-light hover:border-primary hover:text-primary;
+            @apply bg-light border-primary text-on-light hover:bg-white hover:border-white hover:text-primary;
         }
         .sb-card {
             @apply bg-light text-on-light;
         }
         .sb-component-item-hover {
-            @apply hover:bg-light hover:text-on-light;
+            @apply hover:bg-complementary hover:text-on-light;
         }
     }
     .colors-c {
