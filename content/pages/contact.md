@@ -45,7 +45,7 @@ hero:
         textAlign: left
 sections:
   - elementId: ''
-    colors: colors-e
+    colors: colors-a
     backgroundSize: full
     form:
       type: FormBlock
