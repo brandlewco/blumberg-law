@@ -19,7 +19,6 @@ export default function  CasesLayout(props) {
     return (
         <BaseLayout page={page} site={site}>
             <main id="main" className="sb-layout sb-post-layout">
-                TEST
                 <article className={classNames(colors, 'px-4', 'sm:px-8', 'py-14', 'lg:py-20')}>
                     <div className="max-w-7xl mx-auto">
                         {/* {page.media && <div className="w-full mb-8 sm:mb-12">{postMedia(page.media)}</div>} */}
