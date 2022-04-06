@@ -8,7 +8,7 @@ title: >-
   Trials
 colors: colors-d
 date: '2021-09-01'
-excerpt: Quick excerpt about post
+excerpt: Quick excerpt about post.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
