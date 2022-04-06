@@ -1,5 +1,5 @@
 type: object
-name: PagedPostsSection
+name: PagedTestimonialsSection
 label: Post feed
 labelField: title
 extends:

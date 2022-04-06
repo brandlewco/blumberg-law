@@ -1,5 +1,5 @@
 name: TestimonialFeedLayout
-label: Testimonials
+label: Blog
 labelField: title
 layout: TestimonialFeedLayout
 hideContent: true
@@ -18,14 +18,14 @@ fields:
   - type: model
     name: postFeed
     readOnly: true
-    label: Testimonial Feed
-    models: [PagedTestimonialsSection]
+    label: Post Feed
+    models: [PagedPostsSection]
     default:
       title: null
-      name: null
+      subtitle: null
       showDate: true
       showAuthor: true
-      variant: variant-b
+      variant: variant-a
       colors: colors-a
       actions: []
   - type: list
