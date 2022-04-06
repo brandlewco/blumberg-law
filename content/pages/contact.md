@@ -28,7 +28,7 @@ hero:
         altText: ''
         url: /
         showIcon: false
-        icon: arrowRight
+        icon: phone
         iconPosition: right
         style: primary
         elementId: ''
