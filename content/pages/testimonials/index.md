@@ -87,4 +87,5 @@ topSections:
         textAlign: left
       text:
         textAlign: left
+title: Testimonials
 ---
