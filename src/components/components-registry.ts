@@ -64,5 +64,6 @@ const components = {
     'PostFeedLayout': dynamic(() => import('./layouts/PostFeedLayout')),
     'CasesFeedLayout': dynamic(() => import('./layouts/CasesFeedLayout')),
     'TestimonialFeedLayout': dynamic(() => import('./layouts/TestimonialFeedLayout')),
-    'PostFeedCategoryLayout': dynamic(() => import('./layouts/PostFeedCategoryLayout'))
+    'PostFeedCategoryLayout': dynamic(() => import('./layouts/PostFeedCategoryLayout')),
+    'TestimonialFeedCategoryLayout': dynamic(() => import('./layouts/TestimonialFeedCategoryLayout'))
 };

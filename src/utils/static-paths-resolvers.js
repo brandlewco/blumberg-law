@@ -34,6 +34,12 @@ const StaticPathsResolvers = {
         const categoryPosts = getAllCategoryPostsSorted(objects, categoryId);
         return generatePagedPathsForPage(page, categoryPosts, numOfPostsPerPage);
     },
+    TestimonialFeedCategoryLayout: (page, objects) => {
+        const categoryId = page.__metadata?.id;
+        const numOfPostsPerPage = page.numOfPostsPerPage ?? 10;
+        const categoryPosts = getAllCategoryPostsSorted(objects, categoryId);
+        return generatePagedPathsForPage(page, categoryPosts, numOfPostsPerPage);
+    },
     Person: (page, objects) => {
         const categoryId = page.__metadata?.id;
         const categoryPosts = getAllAuthorPostsSorted(objects, categoryId);
