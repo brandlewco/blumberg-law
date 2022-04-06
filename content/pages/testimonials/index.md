@@ -45,7 +45,7 @@ postFeed:
   showAuthor: true
   variant: variant-b
   actions: []
-  colors: colors-a
+  colors: colors-e
 topSections:
   - type: TextSection
     elementId: ''
