@@ -610,7 +610,7 @@ sections:
         label: |
           See All Testimonials
         altText: ''
-        url: /
+        url: /testimonials
         showIcon: true
         icon: arrowRight
         iconPosition: right
