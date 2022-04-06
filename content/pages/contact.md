@@ -73,6 +73,7 @@ sections:
           placeholder: Your email
           isRequired: 'true'
           width: 1/2
+          hideLabel: true
         - name: phone-number
           label: Phone Number
           hideLabel: false
