@@ -22,12 +22,30 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+Buying a house is a rewarding and life changing experience for many new and even experienced buyers. With mortgages, however, it is incredibly important to be as scrupulous as possible throughout the whole process, as it is easier than one might think to accidentally commit mortgage fraud. While most crimes are clear in nature like stealing, or causing physical harm to another, mortgage fraud has a wide range from organized intentional schemes all the way to accidental omission and improper filings. Fortunately, in any case, there is always help to mitigate the stress being experienced by such heavy accusations.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+**What is a Mortgage?**
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+To begin to even understand mortgage fraud, let’s clearly get out of the way what a mortgage even is, in simplest terms. A mortgage is a loan used to buy or refinance a home. If you do not have enough to pay a house in full with cash, as most do not, a mortgage is the way to purchase a home through a financed loan. There always exists a lender party, and a borrower party, where the borrower is expected to pay back the loan over a set of years and months.** **
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+**What is Mortgage Fraud, and When Does it Occur? **
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+It is entirely possible to unintentionally commit mortgage fraud. As per the FBI, omission or improper reporting of information that influences a borrower or lender can be considered a heavily fined and punished crime.
+
+The FBI has also listed other forms of mortgage fraud. Aside from borrowers not accurately displaying true reflective and transparent financial documentation, there exists fraud in the form of white-collar crime. This fraud occurs when industry insiders use their knowledge or special circumstances to commit or facilitate fraud. This fraud is not the same in nature as those borrowers looking to secure a home. Rather, these frauds involve an attempt to misuse the lending process to steal cash from either the lenders or the homeowners borrowing. Any members of the housing industry from banks to brokers and appraisers can be involved in improperly following proper documentation processes.** **
+
+**What Are My Next Steps Following Mortgage Fraud Accusations?**
+
+Committing fraud whether intentionally or unintentionally, from borrower or by lender, is heavily punishable in Arizona, as well as nationwide. Should you be accused of mortgage fraud, your first step is to find a mortgage fraud attorney to help guide you through what immediate steps to take next, as well as what documents and other resources you may need to reach. A criminal defense attorney is going to help with whatever unique circumstance you find yourself in, and will ease the burdens of the process.
+
+**Accused of Mortgage Fraud? Contact Our Offices Today**
+
+Regardless of the nature of mortgage fraud accusations, the stress comes all the same. Facing the notions of fraud related penalties and punishments is enough to get anyone understandably worked up. Thankfully, there is a long history in understanding these cases which attorneys are experienced in. At Blumberg & Associates, our [Phoenix criminal attorneys](https://www.azblumberglaw.com/phoenix-criminal-attorney/) understand the stress entangled with such accusations, and we care to help you every step of the way. For any questions or concerns regarding mortgage fraud, rest assured in contacting our team at (602) 277-6180 today.
+
+Resources:
+
+azleg.gov/viewdocument/?docName=
+
+azleg.gov/ars/13/02320.htm
+
+fbi.gov/investigate/white-collar-crime/mortgage-fraud
