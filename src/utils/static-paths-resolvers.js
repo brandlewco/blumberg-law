@@ -1,4 +1,4 @@
-import { getAllPosts, getAllCategoryPostsSorted, getAllAuthorPostsSorted, generatePagedPathsForPage } from './data-utils';
+import { getAllPosts, getAllTestimonials, getAllCategoryPostsSorted, getAllAuthorPostsSorted, generatePagedPathsForPage } from './data-utils';
 
 export function resolveStaticPaths({ pages, objects }) {
     return pages.reduce((paths, page) => {
@@ -18,13 +18,13 @@ const StaticPathsResolvers = {
         const numOfPostsPerPage = page.numOfPostsPerPage ?? 10;
         return generatePagedPathsForPage(page, posts, numOfPostsPerPage);
     },
-    CasesFeedLayout: (page, objects) => {
-        const posts = getAllPosts(objects);
-        const numOfPostsPerPage = page.numOfPostsPerPage ?? 10;
-        return generatePagedPathsForPage(page, posts, numOfPostsPerPage);
-    },
+    // CasesFeedLayout: (page, objects) => {
+    //     const posts = getAllPosts(objects);
+    //     const numOfPostsPerPage = page.numOfPostsPerPage ?? 10;
+    //     return generatePagedPathsForPage(page, posts, numOfPostsPerPage);
+    // },
     TestimonialFeedLayout: (page, objects) => {
-        const posts = getAllPosts(objects);
+        const posts = getAllTestimonials(objects);
         const numOfPostsPerPage = page.numOfPostsPerPage ?? 10;
         return generatePagedPathsForPage(page, posts, numOfPostsPerPage);
     },

@@ -7,6 +7,7 @@ import {
     getAllPostsSorted,
     getAllTestimonialsSorted,
     getAllCategoryPostsSorted,
+    getAllCategoryTestimonialsSorted,
     getAllAuthorPostsSorted,
     getPagedItemsForPage,
     mapDeepAsync
@@ -88,6 +89,18 @@ const StaticPropsResolvers = {
         const categoryId = props.__metadata?.id;
         const numOfPostsPerPage = props.numOfPostsPerPage ?? 10;
         const allCategoryPosts = getAllCategoryPostsSorted(data.objects, categoryId);
+        const paginationData = getPagedItemsForPage(props, allCategoryPosts, numOfPostsPerPage);
+        const items = resolveReferences(paginationData.items, ['author', 'category'], data.objects);
+        return {
+            ...props,
+            ...paginationData,
+            items
+        };
+    },
+    TestimonialFeedCategoryLayout: (props, data) => {
+        const categoryId = props.__metadata?.id;
+        const numOfPostsPerPage = props.numOfPostsPerPage ?? 10;
+        const allCategoryPosts = getAllCategoryTestimonialsSorted(data.objects, categoryId);
         const paginationData = getPagedItemsForPage(props, allCategoryPosts, numOfPostsPerPage);
         const items = resolveReferences(paginationData.items, ['author', 'category'], data.objects);
         return {

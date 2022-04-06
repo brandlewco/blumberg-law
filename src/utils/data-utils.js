@@ -4,12 +4,18 @@ export function getAllPostsSorted(objects) {
 }
 
 export function getAllTestimonialsSorted(objects) {
-    const allTestimonials = getAllTestimonials(objects);
-    return sortTestimonials(allTestimonials);
+    const allPosts = getAllTestimonials(objects);
+    return sortPosts(allPosts);
 }
 
 export function getAllCategoryPostsSorted(objects, categoryId) {
     const allPosts = getAllPosts(objects);
+    const categoryPosts = allPosts.filter((post) => post.category === categoryId);
+    return sortPosts(categoryPosts);
+}
+
+export function getAllCategoryTestimonialsSorted(objects, categoryId) {
+    const allPosts = getAllTestimonials(objects);
     const categoryPosts = allPosts.filter((post) => post.category === categoryId);
     return sortPosts(categoryPosts);
 }
@@ -29,10 +35,6 @@ export function getAllTestimonials(objects) {
 }
 
 export function sortPosts(posts) {
-    return posts.sort((postA, postB) => new Date(postB.date).getTime() - new Date(postA.date).getTime());
-}
-
-export function sortTestimonials(posts) {
     return posts.sort((postA, postB) => new Date(postB.date).getTime() - new Date(postA.date).getTime());
 }
 

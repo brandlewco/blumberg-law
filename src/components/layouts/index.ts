@@ -6,7 +6,8 @@ import CasesLayout from './CasesLayout';
 import CasesFeedLayout from './CasesFeedLayout';
 import TestimonialLayout from './TestimonialLayout';
 import TestimonialFeedLayout from './TestimonialFeedLayout';
+import TestimonialFeedCategoryLayout from './TestimonialFeedCategoryLayout';
 import BlankBaseLayout from './BlankBaseLayout';
 import DefaultBaseLayout from './DefaultBaseLayout';
 
-export { PageLayout, PostFeedLayout, PostFeedCategoryLayout, PostLayout, CasesLayout, CasesFeedLayout, TestimonialLayout, TestimonialFeedLayout, BlankBaseLayout, DefaultBaseLayout };
+export { PageLayout, PostFeedLayout, PostFeedCategoryLayout, PostLayout, CasesLayout, CasesFeedLayout, TestimonialLayout, TestimonialFeedLayout, TestimonialFeedCategoryLayout, BlankBaseLayout, DefaultBaseLayout };

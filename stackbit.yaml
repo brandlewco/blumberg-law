@@ -39,11 +39,11 @@ contentModels:
     urlPath: '/cases'
     file: 'cases/index.md'
     newFilePath: 'cases/index.md'
-  TestimonialsLayout:
+  TestimonialLayout:
     isPage: true
     urlPath: '/testimonials/{slug}'
     newFilePath: 'testimonials/{slug}.md'
-  TestimonialsFeedLayout:
+  TestimonialFeedLayout:
     isPage: true
     singleInstance: true
     urlPath: '/testimonials'
