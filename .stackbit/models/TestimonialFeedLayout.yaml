@@ -1,5 +1,5 @@
 name: TestimonialFeedLayout
-label: Blog
+label: Testimonials
 labelField: title
 layout: TestimonialFeedLayout
 hideContent: true
