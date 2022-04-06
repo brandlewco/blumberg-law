@@ -29,7 +29,7 @@ hero:
         url: /
         showIcon: false
         icon: phone
-        iconPosition: right
+        iconPosition: left
         style: primary
         elementId: ''
     styles:
