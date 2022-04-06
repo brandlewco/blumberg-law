@@ -6,7 +6,6 @@ styles:
     textAlign: center
 bottomSections: []
 addTitleSuffix: true
-title: Testimonials
 postFeed:
   type: PagedPostsSection
   elementId: ''
