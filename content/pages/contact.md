@@ -76,7 +76,7 @@ sections:
           hideLabel: true
         - name: phone-number
           label: Phone Number
-          hideLabel: false
+          hideLabel: true
           placeholder: XXX-XXX-XXXX
           isRequired: false
           width: 1/2
