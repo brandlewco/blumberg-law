@@ -22,9 +22,8 @@ hero:
     text: >
       Contact us today for a confidential case evaluation.
 
-
-      Call us at [602-277-6180](tel:+16022776180), or contact us using the form
-      below today for experienced representation.
+      Get dedicated, experienced, and proven legal representation in Phoenix,
+      Arizona with Bruce Blumberg.
     actions: []
     styles:
       self:
