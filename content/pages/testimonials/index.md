@@ -111,7 +111,7 @@ postFeed:
   subtitle: null
   showDate: true
   showAuthor: true
-  variant: variant-d
+  variant: variant-c
   actions: []
   colors: colors-a
 ---
