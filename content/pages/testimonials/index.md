@@ -43,7 +43,6 @@ postFeed:
   subtitle: null
   showDate: true
   showAuthor: true
-  variant: variant-b
   actions: []
   colors: colors-a
 topSections:
