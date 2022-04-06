@@ -113,5 +113,5 @@ postFeed:
   showAuthor: true
   variant: variant-a
   actions: []
-  colors: colors-b
+  colors: colors-a
 ---
