@@ -89,5 +89,5 @@ bottomSections:
         textAlign: center
     type: MediaGallerySection
 addTitleSuffix: true
-title: Arizona Law Insights
+title: Arizona Law Insights Blog
 ---
