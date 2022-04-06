@@ -11,7 +11,7 @@ postFeed:
   colors: colors-d
   styles:
     self:
-      width: narrow
+      width: wide
       padding:
         - pt-8
         - pl-4
