@@ -53,7 +53,7 @@ topSections:
     colors: colors-d
     variant: variant-b
     backgroundImage:
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/background-court-blue.jpg
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
