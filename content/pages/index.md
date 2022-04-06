@@ -600,32 +600,22 @@ sections:
   - type: FeaturedTestimonialsSection
     elementId: ''
     showDate: true
-    showAuthor: true
+    showAuthor: false
     showExcerpt: true
     showReadMoreLink: true
     readMoreLinkLabel: See All Cases
     variant: variant-b
     actions:
-      - type: Link
-        label: Read More Testimonials
+      - type: Button
+        label: |
+          See All Testimonials
         altText: ''
         url: /testimonials
-        child:
-          - type: Link
-            label: Blog
-            url: /
-            altText: Blog
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
+        style: primary
         elementId: ''
-        styles:
-          self:
-            padding:
-              - pt-5
-              - pb-5
-              - pl-4
-              - pr-4
     styles:
       self:
         height: auto
