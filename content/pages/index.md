@@ -600,7 +600,7 @@ sections:
   - type: FeaturedTestimonialsSection
     elementId: ''
     showDate: true
-    showAuthor: false
+    showAuthor: true
     showExcerpt: true
     showReadMoreLink: true
     readMoreLinkLabel: See All Cases
