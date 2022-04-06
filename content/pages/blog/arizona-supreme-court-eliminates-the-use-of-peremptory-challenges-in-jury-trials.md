@@ -21,6 +21,7 @@ media:
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-qkxt493m4.json
 ---
 Recently, the Arizona Supreme Court eliminated the use of “peremptory” challenges in jury trials. They became the first State in the United States to do so. “Peremptory” challenges gave trial attorneys the ability to “strike” certain potential jurors who seemed to be biased toward the client’s case. The defendant and the State each received six strikes. The law precluded the use of a peremptory challenge for a “race-based” reason. The United States Supreme Court has “long recognized the role of the peremptory challenge in reinforcing a defendant’s right to a trial by an impartial jury.” *United States v. Martinez-Salazar*, 528 U.S. 304, at 311. Despite a long and unanimous history of the right to peremptory strikes and the fact that they are one tool to help deliver an impartial jury, the Arizona Supreme Court has eliminated them. Your lawyer must be prepared to use a comprehensive written juror questionnaire, particularized to the nature of the charges and be well qualified at questioning potential jurors in order to move the court to grant “strikes for cause.” The accused and the State will still have unlimited “strikes for cause.”
 
