@@ -28,7 +28,7 @@ hero:
           ### CALL 602-277-6180
 
         altText: ''
-        url: /
+        url: 'tel:+1'
         showIcon: false
         icon: arrowRight
         iconPosition: left
