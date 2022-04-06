@@ -30,7 +30,7 @@ export default function TestimonialFeedSection(props) {
             className={classNames(
                 'sb-component',
                 'sb-component-section',
-                'sb-component-post-feed-section',
+                'sb-component-testimonial-feed-section',
                 colors,
                 'flex',
                 'flex-col',

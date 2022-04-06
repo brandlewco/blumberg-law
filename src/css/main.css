@@ -257,6 +257,7 @@
     /* #sidebar a {
         @apply mb-0;
     } */
+    
 
 
     /* about - attorney profile */
@@ -265,6 +266,9 @@
     }
 
     /* testimonials */
+    .sb-component-testimonial-feed-section article {
+        @apply border-complementary-alt border-b-4 border-t-0
+    }
     .quote {
         @apply relative;
     }
