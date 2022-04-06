@@ -607,7 +607,8 @@ sections:
     variant: variant-b
     actions:
       - type: Button
-        label: Learn more
+        label: |
+          See All Testimonials
         altText: ''
         url: /
         showIcon: true
