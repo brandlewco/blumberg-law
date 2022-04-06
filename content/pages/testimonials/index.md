@@ -29,7 +29,7 @@ postFeed:
         - pr-4
       justifyContent: center
       borderRadius: none
-      borderWidth: 2
+      borderWidth: 4
       borderStyle: none
       borderColor: border-secondary
     title:
