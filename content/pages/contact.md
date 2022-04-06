@@ -47,7 +47,6 @@ sections:
   - elementId: ''
     colors: colors-e
     backgroundSize: full
-    title: Schedule Your Consultation
     text: |
       Fill Out The Form To Get Started.
     form:
