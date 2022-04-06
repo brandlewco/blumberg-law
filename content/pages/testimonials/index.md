@@ -79,7 +79,7 @@ postFeed:
   elementId: ''
   showExcerpt: true
   showReadMoreLink: true
-  readMoreLinkLabel: Read
+  readMoreLinkLabel: Read More
   styles:
     self:
       height: auto
