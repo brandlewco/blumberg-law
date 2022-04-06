@@ -44,38 +44,79 @@ hero:
       text:
         textAlign: left
 sections:
-  - type: TextSection
-    colors: colors-d
-    variant: variant-a
-    title: About our business
-    text: >-
-      For us fishing is a life style. The connection to the waters is what makes
-      us friends, and what makes us a family and it what makes us a business.
-
-
-      We believe there’s a better, more sustainable way to live out of what the
-      sea has to offer, while  keeping our products fresh and delicious.
+  - elementId: ''
+    colors: colors-e
+    backgroundSize: full
+    title: Schedule Your Consultation
+    text: |
+      Fill Out The Form To Get Started.
+    form:
+      type: FormBlock
+      elementId: contact-form
+      action: /.netlify/functions/submission_created
+      destination: ''
+      fields:
+        - type: TextFormControl
+          name: First
+          label: First Name
+          placeholder: First Name
+          isRequired: true
+          width: 1/2
+        - name: last-name
+          label: Last Name
+          hideLabel: false
+          placeholder: Last Name
+          isRequired: false
+          width: 1/2
+          type: TextFormControl
+        - type: EmailFormControl
+          name: email
+          label: Email
+          placeholder: Your email
+          isRequired: 'true'
+          width: 1/2
+        - name: phone-number
+          label: Phone Number
+          hideLabel: false
+          placeholder: XXX-XXX-XXXX
+          isRequired: false
+          width: 1/2
+          type: TextFormControl
+        - name: description
+          label: Description
+          hideLabel: false
+          placeholder: Please describe
+          isRequired: false
+          width: full
+          type: TextareaFormControl
+        - type: CheckboxFormControl
+          name: updates
+          label: Sign me up to receive updates
+          isRequired: 'false'
+          width: full
+      submitLabel: Send Message
     styles:
       self:
         height: auto
-        width: narrow
+        width: wide
         margin:
           - mt-0
           - mb-0
           - ml-0
           - mr-0
         padding:
-          - pt-36
-          - pb-56
-          - pl-4
+          - pt-16
+          - pb-16
+          - pl-8
           - pr-4
+        alignItems: center
         justifyContent: center
+        flexDirection: row
       title:
-        textAlign: left
-      subtitle:
         textAlign: left
       text:
         textAlign: left
+    type: ContactSection
 sidebar: []
 footer: []
 ---
