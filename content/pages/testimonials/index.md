@@ -1,6 +1,6 @@
 ---
 layout: TestimonialFeedLayout
-numOfPostsPerPage: 10
+numOfPostsPerPage: 6
 styles:
   title:
     textAlign: center
