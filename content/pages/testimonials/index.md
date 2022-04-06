@@ -7,7 +7,7 @@ styles:
 bottomSections: []
 addTitleSuffix: false
 postFeed:
-  type: PagedPostsSection
+  type: PagedTestimonialSection
   elementId: testimonial-light
   showExcerpt: true
   showReadMoreLink: true
@@ -15,7 +15,7 @@ postFeed:
   styles:
     self:
       height: auto
-      width: narrow
+      width: wide
       margin:
         - mt-0
         - mb-0
@@ -30,7 +30,7 @@ postFeed:
       borderRadius: none
       borderWidth: 0
       borderStyle: none
-      borderColor: border-secondary
+      borderColor: border-dark
     title:
       textAlign: center
     subtitle:
