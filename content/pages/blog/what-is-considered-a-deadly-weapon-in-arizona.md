@@ -69,7 +69,7 @@ Other defenses related to procedural law include:
 
 *   Prejudicial testimony
 
-These are just a few of the potential defenses that may be available in your case. Your attorney will go over your case strategy and let you know what specific defenses they plan to raise on your behalf.** **
+These are just a few of the potential defenses that may be available in your case. Your attorney will go over your case strategy and let you know what specific defenses they plan to raise on your behalf.\*\* \*\*
 
 **Contact an Arizona Criminal Lawyer Today**
 
