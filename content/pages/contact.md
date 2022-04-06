@@ -62,7 +62,7 @@ sections:
           hideLabel: true
         - name: last-name
           label: Last Name
-          hideLabel: false
+          hideLabel: true
           placeholder: Last Name
           isRequired: false
           width: 1/2
