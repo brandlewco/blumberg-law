@@ -77,7 +77,7 @@ sections:
         - name: phone-number
           label: Phone Number
           hideLabel: true
-          placeholder: XXX-XXX-XXXX
+          placeholder: Phone Number
           isRequired: false
           width: 1/2
           type: TextFormControl
