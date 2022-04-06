@@ -47,8 +47,6 @@ sections:
   - elementId: ''
     colors: colors-e
     backgroundSize: full
-    text: |
-      Fill Out The Form To Get Started.
     form:
       type: FormBlock
       elementId: contact-form
