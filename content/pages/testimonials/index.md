@@ -59,7 +59,7 @@ topSections:
       opacity: 100
     title: |
       The Section Title
-    subtitle: The section subtitle
+    subtitle: Real People. Real Cases.
     text: |-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
