@@ -9,7 +9,7 @@ title: contact
 hero:
   - type: TextSection
     elementId: ''
-    colors: colors-d
+    colors: colors-b
     variant: variant-a
     backgroundImage:
       url: /images/background-court-blue.jpg
