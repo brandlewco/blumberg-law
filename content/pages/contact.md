@@ -25,7 +25,7 @@ hero:
     actions:
       - type: Button
         label: |+
-          ### 602-277-6180
+          ### CALL 602-277-6180
 
         altText: ''
         url: /
