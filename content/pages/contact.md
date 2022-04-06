@@ -24,7 +24,7 @@ hero:
 
 
       Call us at [602-277-6180](tel:+16022776180), or contact us using the form
-      below today for experienced representation. 
+      below today for experienced representation.
     actions: []
     styles:
       self:
@@ -88,7 +88,7 @@ sections:
         - name: description
           label: Description
           hideLabel: true
-          placeholder: Please describe
+          placeholder: Please describe your case.
           isRequired: false
           width: full
           type: TextareaFormControl
@@ -103,7 +103,7 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-8
+          - pt-16
           - pb-8
           - pl-4
           - pr-4
@@ -115,6 +115,39 @@ sections:
       text:
         textAlign: left
     type: ContactSection
+  - type: TextSection
+    elementId: ''
+    colors: colors-a
+    variant: variant-a
+    subtitle: ''
+    text: >
+      Please do not include any confidential or sensitive information in a
+      contact form, text message, or voicemail. The contact form sends
+      information by non-encrypted email, which is not secure. Submitting a
+      contact form, sending a text message, making a phone call, or leaving a
+      voicemail does not create an attorney-client relationship.
+    actions: []
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-0
+          - pb-8
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
 sidebar: []
 footer: []
 ---
