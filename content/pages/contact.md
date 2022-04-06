@@ -24,7 +24,9 @@ hero:
       Arizona with Bruce Blumberg.
     actions:
       - type: Button
-        label: Learn more
+        label: |+
+          ### 602-277-6180
+
         altText: ''
         url: /
         showIcon: false
