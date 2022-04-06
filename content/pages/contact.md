@@ -27,7 +27,7 @@ hero:
         label: Learn more
         altText: ''
         url: /
-        showIcon: false
+        showIcon: true
         icon: phone
         iconPosition: left
         style: primary
