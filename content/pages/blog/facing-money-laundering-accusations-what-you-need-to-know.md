@@ -21,6 +21,7 @@ media:
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-qkxt493m4.json
 ---
 Money laundering is a serious crime that could have long term punishments which follow. Money laundering surmounts the millions, billions, and even trillions of dollars worldwide. The figures and general statistics of how much money is laundered is difficult to keep track of due to the nature of secrecy involved with laundering.
 
