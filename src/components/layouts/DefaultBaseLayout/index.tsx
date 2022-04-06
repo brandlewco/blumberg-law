@@ -27,6 +27,7 @@ export default function DefaultBaseLayout(props) {
                     })}
                     <meta name="viewport" content="width=device-width, initial-scale=1" />
                     {site.favicon && <link rel="icon" href={site.favicon} />}
+                    <link rel="stylesheet" href="https://use.typekit.net/yxh4eie.css"></link>
                 </Head>
                 {site.header && <Header {...site.header} annotationPrefix={siteMeta.id} />}
                 {props.children}

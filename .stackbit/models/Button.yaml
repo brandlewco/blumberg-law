@@ -8,7 +8,7 @@ fieldGroups:
   - name: settings
     label: Settings
 fields:
-  - type: string
+  - type: markdown
     name: label
     label: Label
     default: Learn more
@@ -32,6 +32,26 @@ fields:
     group: styles
     label: Icon
     options:
+      - label: Phone
+        value: phone
+      - label: Map
+        value: map
+      - label: Child Custody
+        value: childCustody
+      - label: Clients
+        value: clients
+      - label: Drug Crimes
+        value: drugCrime
+      - label: Gavel
+        value: gavel
+      - label: Jury
+        value: jury
+      - label: Sex Crime
+        value: sexCrime
+      - label: Violent Crime
+        value: violentCrime
+      - label: White Collar Crime
+        value: whiteCollarCrime
       - label: Apple
         value: apple
       - label: Arrow left

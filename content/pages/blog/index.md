@@ -1,23 +1,22 @@
 ---
 layout: PostFeedLayout
-title: Upcoming adventures
 numOfPostsPerPage: 10
 postFeed:
   showDate: true
-  showAuthor: false
-  showExcerpt: false
+  showAuthor: true
+  showExcerpt: true
   showReadMoreLink: true
-  readMoreLinkLabel: Join adventure
+  readMoreLinkLabel: Keep Reading
   variant: variant-c
   colors: colors-d
   styles:
     self:
-      width: narrow
+      width: wide
       padding:
-        - pt-0
+        - pt-8
         - pl-4
         - pr-4
-        - pb-12
+        - pb-8
 styles:
   title:
     textAlign: center
@@ -25,7 +24,9 @@ bottomSections:
   - type: TextSection
     colors: colors-d
     variant: variant-a
-    text: '## [Follow us on Instagram](https://www.stackbit.com/)'
+    text: |+
+      ## [Follow Bruce On Instagram](https://www.stackbit.com/)
+
     styles:
       self:
         height: auto
@@ -87,59 +88,23 @@ bottomSections:
       subtitle:
         textAlign: center
     type: MediaGallerySection
-  - type: ContactSection
-    colors: colors-e
-    title: Join our club
-    text: >
-      We will notify you every time a shipment is heading to your neighborhood,
-      and you could immediatly let us know if you want in or not
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      destination: ''
-      action: /.netlify/functions/submission_created
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: Submit form
-      styles:
-        submitLabel:
-          textAlign: center
+topSections:
+  - type: TextSection
+    elementId: ''
+    colors: colors-b
+    variant: variant-a
+    backgroundImage:
+      url: /images/background-court-blue.jpg
+      backgroundSize: cover
+      backgroundPosition: center
+      opacity: 100
+    title: Arizona Legal Insights Blog
+    subtitle: The latest rulings and tips to keep yourself protected.
+    actions: []
     styles:
       self:
         height: auto
-        width: narrow
+        width: wide
         margin:
           - mt-0
           - mb-0
@@ -148,15 +113,14 @@ bottomSections:
         padding:
           - pt-24
           - pb-24
-          - pr-4
           - pl-4
-        alignItems: center
+          - pr-4
         justifyContent: center
-        flexDirection: row
       title:
-        textAlign: center
+        textAlign: left
+      subtitle:
+        textAlign: left
       text:
-        textAlign: center
-    backgroundSize: full
+        textAlign: left
 addTitleSuffix: true
 ---

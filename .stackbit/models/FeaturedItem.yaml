@@ -47,6 +47,7 @@ fields:
     name: styles
     styles:
       self:
+        textAlign: ['left', 'center', 'right']
         padding: ['tw0:36']
         borderRadius: '*'
         borderWidth: ['0:8']
@@ -64,13 +65,18 @@ fields:
           - value: 'border-complementary'
             label: 'Complementary color'
             color: '$complementary'
-        textAlign: ['left', 'center', 'right']
+        alignItems: ['flex-start', 'flex-end', 'center']
+        justifyContent: ['flex-start', 'flex-end', 'center']
       title:
         fontWeight: ['400', '500']
+        textAlign: ['left', 'center', 'right']
         fontStyle: ['normal', 'italic']
       subtitle:
         fontWeight: ['400', '500']
+        textAlign: ['left', 'center', 'right']
         fontStyle: ['normal', 'italic']
     default:
       self:
-        textAlign: left
+        textAlign: 'left'
+        alignItems: 'center'
+        justifyContent: 'center'

@@ -1,6 +1,10 @@
 import * as React from 'react';
 import Markdown from 'markdown-to-jsx';
 import classNames from 'classnames';
+import { Link, Action, BackgroundImage } from '../../atoms';
+import { Parallax, Background } from "react-parallax";
+
+
 
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 import { getDataAttrs } from '../../../utils/get-data-attrs';
@@ -12,6 +16,7 @@ export default function TextSection(props) {
     const sectionWidth = sectionStyles.width || 'wide';
     const sectionHeight = sectionStyles.height || 'auto';
     const sectionJustifyContent = sectionStyles.justifyContent || 'center';
+    const bgImage = props.backgroundImage;
     return (
         <div
             id={cssId}
@@ -24,9 +29,9 @@ export default function TextSection(props) {
                 'flex',
                 'flex-col',
                 'justify-center',
+                'relative',
                 mapMinHeightStyles(sectionHeight),
                 sectionStyles.margin,
-                sectionStyles.padding || 'py-12 px-4',
                 sectionStyles.borderColor,
                 sectionStyles.borderStyle ? mapStyles({ borderStyle: sectionStyles.borderStyle }) : 'border-none',
                 sectionStyles.borderRadius ? mapStyles({ borderRadius: sectionStyles.borderRadius }) : null
@@ -35,8 +40,24 @@ export default function TextSection(props) {
                 borderWidth: sectionStyles.borderWidth ? `${sectionStyles.borderWidth}px` : null
             }}
         >
-            <div className={classNames('flex', 'w-full', mapStyles({ justifyContent: sectionJustifyContent }))}>
-                <div className={classNames('w-full', mapMaxWidthStyles(sectionWidth))}>{textBodyVariants(props)}</div>
+            {/* {props.backgroundImage && <BackgroundImage {...props.backgroundImage} />} */}
+            {props.backgroundImage && <Parallax
+            bgImage={props.backgroundImage.url}
+            strength={400}
+            renderLayer={percentage => (
+                <div
+                    style={{
+                        position: 'absolute',
+                        left: '50%',
+                        top: '50%',
+                    }}
+                />
+            )}
+            ></Parallax>}
+            <div className={classNames('flex', 'w-full', 'z-10', mapStyles({ justifyContent: sectionJustifyContent }), sectionStyles.padding)}>
+                <div className={classNames('w-full', mapMaxWidthStyles(sectionWidth))}>
+                    {textBodyVariants(props)}
+                </div>
             </div>
         </div>
     );
@@ -58,9 +79,11 @@ function textBodyVariantA(props) {
     return (
         <div>
             {props.title && (
-                <h2 className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
+                <Markdown
+                    options={{ forceWrapper: true, wrapper: 'h2' }}
+                    className={classNames('h1', styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
                     {props.title}
-                </h2>
+                </Markdown>
             )}
             {props.subtitle && (
                 <p
@@ -79,6 +102,7 @@ function textBodyVariantA(props) {
                     {props.text}
                 </Markdown>
             )}
+            {itemActions(props)}
         </div>
     );
 }
@@ -90,9 +114,11 @@ function textBodyVariantB(props) {
             {(props.title || props.subtitle) && (
                 <div className={classNames('w-full', { 'lg:w-1/3 lg:pr-3': props.text })}>
                     {props.title && (
-                        <h2 className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
+                        <Markdown
+                            options={{ forceWrapper: true, wrapper: 'h2' }}
+                            className={classNames('h1', styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
                             {props.title}
-                        </h2>
+                        </Markdown>
                     )}
                     {props.subtitle && (
                         <p
@@ -104,8 +130,9 @@ function textBodyVariantB(props) {
                     )}
                 </div>
             )}
-            {props.text && (
+            {(props.text || props.actions)&& (
                 <div className={classNames('w-full', { 'mt-12 lg:mt-0 lg:w-2/3 lg:pl-3': props.title || props.subtitle })}>
+                    {props.text && (
                     <Markdown
                         options={{ forceBlock: true, forceWrapper: true }}
                         className={classNames('sb-markdown', 'sm:text-lg', styles.text ? mapStyles(styles.text) : null)}
@@ -113,11 +140,42 @@ function textBodyVariantB(props) {
                     >
                         {props.text}
                     </Markdown>
+                    )}
+                    {props.actions && (
+                       <div className=''>
+                       {itemActions(props)}
+                       </div>
+                    )}
                 </div>
             )}
         </div>
     );
 }
+
+function itemActions(props) {
+    const actions = props.actions || [];
+    if (actions.length === 0) {
+        return null;
+    }
+    const styles = props.styles || {};
+    return (
+        <div
+            className={classNames('overflow-x-hidden', {
+                'mt-6': props.title || props.subtitle || props.text
+            })}
+        >
+            <div
+                className={classNames('flex', 'flex-wrap', 'items-center', '-mx-2', styles.actions ? mapStyles(styles.actions) : null)}
+                data-sb-field-path=".actions"
+            >
+                {actions.map((action, index) => (
+                    <Action key={index} {...action} className="mb-3 mx-2 lg:whitespace-nowrap" data-sb-field-path={`.${index}`} />
+                ))}
+            </div>
+        </div>
+    );
+}
+
 
 function mapMinHeightStyles(height) {
     switch (height) {

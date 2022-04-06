@@ -10,10 +10,16 @@ export default function FeaturedItem(props) {
     const cssId = props.elementId || null;
     const styles = props.styles || {};
     const itemBorderWidth = styles.self?.borderWidth ? styles.self?.borderWidth : 0;
+    const sectionAlignItems = props.alignItems || 'center';
+    const sectionJustifyContent = props.justifyContent || 'center';
+
+
     return (
         <article
             id={cssId}
             className={classNames(
+                'flex',
+                'flex-col',
                 'sb-component',
                 'sb-component-block',
                 'sb-component-item',
@@ -26,14 +32,16 @@ export default function FeaturedItem(props) {
             data-sb-field-path={props['data-sb-field-path']}
         >
             {props.featuredImage && (
-                <div className="mb-6">
+                <div className="mb-6 image">
                     <ImageBlock {...props.featuredImage} className="inline-block" data-sb-field-path=".featuredImage" />
                 </div>
             )}
             {props.title && (
-                <h3 className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
+                <Markdown
+                    options={{ forceWrapper: true, wrapper: 'h3' }}
+                    className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
                     {props.title}
-                </h3>
+                </Markdown>
             )}
             {props.subtitle && (
                 <p
@@ -57,7 +65,7 @@ export default function FeaturedItem(props) {
             {itemActions(props)}
         </article>
     );
-}
+} 
 
 function itemActions(props) {
     const actions = props.actions || [];

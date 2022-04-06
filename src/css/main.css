@@ -1,12 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,400;0,500;1,400;1,500&family=Merriweather:ital@0;1&display=swap');
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 @layer base {
+    html {
+        font-size: 18px;
+    }
     body {
-        @apply bg-main text-base;
+        @apply bg-main;
     }
     h1,
     h2,
@@ -14,7 +15,7 @@
     h4,
     h5,
     h6 {
-        @apply break-words;
+        @apply break-words font-bold;
         line-height: 1.15;
     }
 }
@@ -127,13 +128,212 @@
         }
     }
 
+    /* embla slider */
+    .embla {
+        overflow: hidden;
+        position: relative;
+    }
+    .embla__container {
+        display: flex;
+        @apply gap-4 flex-col lg:flex-row;
+    }
+
+    .embla__slide {
+        position: relative;
+        flex: 0 0 33%;
+    }
+    .embla__slide_mobile {
+        position: relative;
+        flex: 0 0 100%;
+    }
+
+    embla__container
+
+    .embla__slide > div {
+        @apply mx-4;
+    }
+    .embla__nav {
+        @apply absolute w-full top-1/2 max-w-7xl inset-auto mt-8 mx-2;
+    }
+    .embla__prev {
+        @apply absolute -left-12 bg-transparent duration-500 transition-all;
+    }
+    .embla__next {
+        @apply absolute -right-12 bg-transparent duration-500 transition-all;
+    }
+    .embla__prev:hover,
+    .embla__next:hover {
+        @apply bg-white rounded-full;
+    }
+    /* custom */
+    #call-us {
+        @apply bg-transparent text-primary lg:text-white text-3xl font-serif leading-tight border-0 shadow-none p-0 m-0 text-center w-full;
+    }
+    #call-us div {
+        @apply flex flex-col justify-between;
+    }
+    #call-us p {
+        @apply m-0 p-0;
+    }
+
+    #call-us strong {
+        @apply lg:text-secondary font-serif;
+        font-size: 0.5rem;
+    }
+    #call-us:hover {
+        @apply bg-transparent text-white;
+    }
+
+    .columns-4 {
+        columns: 4;
+    }
+
+    #hero-features {
+        overflow: visible !important;
+    }
+    /* small only */
+    @media only screen and (max-width: 768px) {
+        #hero-features {
+            @apply py-16;
+        }
+        .columns-4 {
+            columns: 1;
+        }
+    }
+    @media only screen and (max-width: 1024px) {
+        .embla__container .embla__slide_mobile:nth-child(n+4){
+            @apply hidden;
+        }
+    }
+
+    @media only screen and (min-width: 768px) {
+        #hero-features article {
+            margin-top: -64px;
+            @apply flex flex-col relative;
+        }
+        #hero-features article div:last-child {
+            /* margin-top: auto !important; */
+        }
+        #hero-features article:nth-child(2)::after {
+            content: '';
+            width: calc(100% + 2rem);
+            border-color: #dedede;
+            @apply absolute h-2/3 bottom-0  border-l-2 border-r-2 border-solid;
+        }
+    }
+
+    #homepage-hero-1 div.max-w-screen-2xl > div {
+        @apply lg:w-1/2 w-full;
+    }
+
+    #hero-button-grid article div {
+        @apply w-full;
+    }
+    #hero-button-grid h2,
+    #hero-button-grid p {
+        @apply text-center;
+    }
+    #hero-button-grid svg {
+        @apply mr-6;
+    }
+    #hero-button-grid a {
+        @apply flex flex-row justify-start items-center w-full h-auto text-left;
+    }
+
+    header nav {
+        @apply px-4 py-3 md:px-4 md:py-0
+    }
+    /* #hero-awards h2{
+        @apply text-left;
+    } */
+    #hero-awards figure {
+        @apply flex flex-row justify-center overflow-visible;
+    }
+    #hero-awards img {
+        @apply h-32 w-auto;
+    }
+
     .markdown-image img {
         @apply float-right w-1/3 ml-2 mt-2 mb-2;
     }
 
+    /* sidebar */
+    /* #sidebar a {
+        @apply mb-0;
+    } */
+    
+
+
+    /* about - attorney profile */
+    #bruce-blumberg img {
+        @apply w-full pr-16 pt-8;
+    }
+
+    /* testimonials */
+    .sb-component-testimonial-feed-section article {
+        @apply border-complementary-alt border-b-4 border-t-0
+    }
+    .quote {
+        @apply relative;
+    }
+    .quote p {
+        @apply pl-16;
+    }
+
+    .quote::before {
+        content: '“';
+        @apply absolute left-0 top-0 w-16 h-16 text-secondary font-serif text-9xl pl-2;
+    }
+
+    li p {
+        @apply m-0 !important;
+    }
+
+    li::marker {
+        color: #f1c02f;
+    }
+
+    h1 strong,
+    h2 strong,
+    h3 strong,
+    .markdown strong {
+        color: #f1c02f;
+    }
+
+    .dropdown svg {
+        @apply transform transition-all text-secondary pr-0;
+    }
+
+    /* 
+    .dropdown:hover svg {
+        @apply -rotate-90 text-secondary;
+    } */
+
+    .sb-component-section {
+        position: relative;
+        overflow: hidden;
+    }
+
+    .react-parallax {
+        overflow: visible !important;
+    }
+
+    .react-parallax-bgimage {
+        @apply -ml-4;
+    }
+
+    /* footer */
+    footer a:hover:after {
+        transform: scaleX(0) !important;
+    }
+
+    footer .contact-svg svg {
+        @apply w-16 mr-4 !important;
+    }
+
     /* Buttons */
     .sb-component-button {
-        @apply border-2 inline-flex items-center justify-center no-underline text-center transition duration-200 ease-in;
+        @apply border-2 inline-flex items-center justify-center no-underline text-center transition duration-200 ease-in rounded-full;
     }
     .sb-component-social {
         @apply transition duration-200 ease-in;
@@ -152,7 +352,7 @@
         @apply inline-flex items-center justify-center no-underline relative;
     }
     .sb-component-link:after {
-        @apply bg-current absolute left-0 w-full;
+        @apply bg-secondary absolute left-0 w-full;
         bottom: -2px;
         content: '';
         height: 2px;
@@ -241,7 +441,7 @@
         }
         .sb-component-button-secondary,
         .sb-component-social-secondary {
-            @apply border-on-light text-on-light hover:bg-light hover:border-primary hover:text-primary;
+            @apply border-on-light text-on-light hover:bg-primary hover:border-primary hover:text-primary;
         }
         .sb-card {
             @apply bg-complementary text-on-light;
@@ -259,13 +459,13 @@
         }
         .sb-component-button-secondary,
         .sb-component-social-secondary {
-            @apply border-on-dark text-on-dark hover:bg-light hover:border-primary hover:text-primary;
+            @apply bg-light border-primary text-on-light hover:bg-white hover:border-white hover:text-primary;
         }
         .sb-card {
             @apply bg-light text-on-light;
         }
         .sb-component-item-hover {
-            @apply hover:bg-light hover:text-on-light;
+            @apply hover:bg-complementary hover:text-on-light;
         }
     }
     .colors-c {
@@ -331,7 +531,7 @@
             @apply border-on-complementary-alt text-on-complementary-alt hover:bg-light hover:border-primary hover:text-primary;
         }
         .sb-card {
-            @apply bg-light text-complementary-alt;
+            @apply bg-light text-on-complementary-alt;
         }
         .sb-component-item-hover {
             @apply hover:bg-dark hover:text-light;

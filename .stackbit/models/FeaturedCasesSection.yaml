@@ -1,0 +1,25 @@
+type: object
+name: FeaturedCasesSection
+label: Featured cases
+labelField: title
+thumbnail: https://assets.stackbit.com/components/models/thumbnails/default.png
+extends:
+  - CasesFeedSection
+groups:
+  - sectionComponent
+fields:
+  - name: title
+    default: Featured
+  - name: subtitle
+    default: Featured blog posts section example
+  - name: colors
+    default: colors-d
+  - type: list
+    name: posts
+    label: Posts
+    items:
+      type: reference
+      models:
+        - CasesLayout
+    default:
+      -

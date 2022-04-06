@@ -1,0 +1,11 @@
+{
+    "type": "Person",
+    "firstName": "Bruce",
+    "lastName": "Blumberg",
+    "role": "Attorney",
+    "bio": "With over 30 years of experiance, Bruce Blumberg is the founder and principal attorney at Blumberg & Associates, a Phoenix law firm serving clients throughout Phoenix and statewide in the areas of criminal defense and family law.",
+    "image": {
+        "url": "/images/bruce-profile.png",
+        "altText": "Bruce Blumberg"
+    }
+}

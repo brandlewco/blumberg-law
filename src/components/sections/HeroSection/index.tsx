@@ -24,7 +24,7 @@ export default function HeroSection(props) {
             className={classNames(
                 'sb-component',
                 'sb-component-section',
-                'sb-component-cta-section',
+                'sb-component-hero-section',
                 bgSize === 'inset' ? 'flex' : null,
                 bgSize === 'inset' ? mapStyles({ justifyContent: sectionJustifyContent }) : null,
                 sectionStyles.margin
@@ -104,14 +104,14 @@ function heroBody(props) {
         <div>
             {props.title && (
                 <Markdown
-                    options={{ forceWrapper: true, wrapper: 'h2'}}
-                     className={classNames('h1', styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
+                    options={{ forceWrapper: true, wrapper: 'h2' }}
+                    className={classNames('h1', styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
                     {props.title}
                 </Markdown>
             )}
             {props.subtitle && (
                 <Markdown
-                    options={{ forceWrapper: true, forceBlock: true}}
+                    options={{ forceWrapper: true, forceBlock: true }}
                     className={classNames('text-xl', 'sm:text-2xl', styles.subtitle ? mapStyles(styles.subtitle) : null, { 'mt-4': props.title })}
                     data-sb-field-path=".subtitle"
                 >

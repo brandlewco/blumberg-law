@@ -78,6 +78,17 @@ fields:
       phoneAltText: 'Call us'
       email: 'john@doe.com'
       emailAltText: 'Email us'
+  - type: model
+    name: media
+    label: Media
+    models:
+      - FormBlock
+      - ImageBlock
+      - VideoBlock
+    default:
+      type: ImageBlock
+      url: /images/hero.webp
+      altText: Hero section image
   - type: markdown
     name: copyrightText
     label: Copyright text

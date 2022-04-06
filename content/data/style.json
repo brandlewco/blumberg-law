@@ -47,16 +47,16 @@
     "main": "#efefef",
     "light": "#ffffff",
     "onLight": "#1C2E5C",
-    "dark": "#333333",
+    "dark": "#000000",
     "onDark": "#ffffff",
     "primary": "#1C2E5C",
     "onPrimary": "#ffffff",
     "secondary": "#F1C02F",
     "onSecondary": "#1C2E5C",
     "complementary": "#ffffff",
-    "onComplementary": "#1c2e5c",
+    "onComplementary": "#1C2E5C",
     "complementaryAlt": "#efefef",
-    "onComplementaryAlt": "#f1c02f",
+    "onComplementaryAlt": "#1c2e5c",
     "buttonPrimary": {
         "weight": "normal",
         "case": "none",
@@ -67,14 +67,15 @@
         "shadow": "none"
     },
     "buttonSecondary": {
-        "weight": "normal",
-        "case": "none",
-        "letterSpacing": "normal",
+        "weight": "medium",
+        "case": "uppercase",
+        "letterSpacing": "wider",
         "borderRadius": "none",
         "borderStyle": "solid",
-        "horizontalPadding": 20,
-        "verticalPadding": 10,
-        "shadow": "none"
+        "horizontalPadding": 16,
+        "verticalPadding": 16,
+        "shadow": "md",
+        "size": "base"
     },
     "link": {
         "weight": "normal",

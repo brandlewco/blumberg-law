@@ -1,45 +1,41 @@
 ---
 title: Home
 layout: PageLayout
-sections:
+hero:
   - type: HeroSection
     elementId: homepage-hero-1
-    colors: colors-e
-    backgroundSize: full
-    title: |-
-      More Than 30 Years  
+    colors: colors-b
+    title: |
+      **More Than 30 Years**
+
       Of Legal Experience
-    subtitle: |-
+
+      In Phoenix, Arizona.
+    subtitle: >-
       If you have been charged with a criminal offense in the state of Arizona,
       you deserve representation better than that of the prosecution.
     actions:
       - type: Button
-        label: Get Started
+        label: Confidential Case Evaluation
         url: 'https://www.stackbit.com/'
         style: primary
         iconPosition: right
         icon: arrowRight
         showIcon: true
-    backgroundImage:
-      type: BackgroundImage
-      url: /images/pexels-august-de-richelieu-4427614.jpg
-      backgroundSize: cover
-      backgroundPosition: right
-      opacity: 100
     styles:
       self:
         height: auto
-        width: narrow
+        width: wide
         margin:
-          - mt-6
+          - mt-0
           - mb-0
         padding:
-          - pt-20
-          - pb-96
-          - pr-12
-          - pl-12
+          - pt-24
+          - pb-32
+          - pr-8
+          - pl-8
         alignItems: center
-        justifyContent: flex-start
+        justifyContent: center
         flexDirection: row
         borderRadius: none
       title:
@@ -50,112 +46,88 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: QuoteSection
-    colors: colors-d
-    quote: >-
-      “It’s great to see someone taking action while still maintaining a
-      sustainable fish supply to home cooks.”
-    name: Isabelle Parks
-    title: Head chef at Parks
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-36
-          - pr-4
-          - pl-4
-        justifyContent: center
-      quote:
-        textAlign: center
-      name:
-        textAlign: center
-      title:
-        textAlign: center
-  - elementId: ''
-    colors: colors-c
-    variant: variant-a
-    title: Seasonal adventures
-    actions:
-      - type: Link
-        label: See all adventures
-        url: /blog
-        showIcon: true
-        icon: arrowRight
-    posts:
-      - content/pages/blog/post-five.md
-      - content/pages/blog/post-four.md
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-28
-          - pb-48
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: FeaturedPostsSection
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
-    readMoreLinkLabel: Join adventure
-    showAuthor: false
-  - type: TextSection
-    colors: colors-e
-    variant: variant-a
-    text: '## [Follow us on Instagram](https://www.stackbit.com/)'
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-36
-          - pr-4
-          - pl-4
-        justifyContent: center
-      text:
-        textAlign: center
-  - type: FeatureHighlightSection
-    colors: colors-d
     backgroundSize: full
-    title: Time to leave your desk. Let’s go flying
-    text: |
-      We’re local, seasonal fisherman, supporting fishing restrictions.
-    actions:
-      - type: Link
-        label: Join adventure
-        url: 'https://www.stackbit.com/'
-        showIcon: true
-        icon: arrowRight
     backgroundImage:
-      type: BackgroundImage
-      url: /images/hero-3.webp
+      url: /images/blumberg-hero-mockup.jpg
       backgroundSize: cover
       backgroundPosition: center
-      opacity: 90
+      opacity: 100
+sections:
+  - colors: colors-a
+    elementId: hero-features
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: |-
+          Extensive Trial
+
+          Experience.
+        text: >
+          Bruce Blumberg has handled more than 100 jury trials including 5
+          murder trials, and innumerable bench trials for clients charged with
+          felonies and misdemeanors.
+        actions: []
+        styles:
+          self:
+            textAlign: center
+            alignItems: center
+            justifyContent: flex-start
+            padding:
+              - pr-4
+        featuredImage:
+          url: /images/icon-jury-d2332d6b.svg
+          altText: altText of the image
+          caption: Caption of the image
+          elementId: ''
+          type: ImageBlock
+      - type: FeaturedItem
+        title: |-
+          Proven Track Record
+
+          In The Courtroom.
+        text: >
+          We have won acquittals in more than 25 serious felony cases, more than
+          many attorneys have even tried.
+        actions: []
+        styles:
+          self:
+            textAlign: center
+            alignItems: center
+            justifyContent: flex-start
+            borderWidth: 0
+            borderColor: border-complementary
+            borderStyle: solid
+            padding:
+              - pl-4
+              - pr-4
+        featuredImage:
+          url: /images/icon-gavel-8a7d531e.svg
+          altText: altText of the image
+          caption: Caption of the image
+          elementId: ''
+          type: ImageBlock
+      - type: FeaturedItem
+        title: Successfully Represented Thousands of Clients.
+        text: >
+          Contact us today to schedule a consultation with our knowledgeable
+          legal team.
+        actions: []
+        styles:
+          self:
+            textAlign: center
+            alignItems: center
+            justifyContent: flex-start
+            padding:
+              - pl-4
+        featuredImage:
+          url: /images/icon-clients-88acd407.svg
+          altText: altText of the image
+          caption: Caption of the image
+          elementId: ''
+          type: ImageBlock
+    actions: []
+    columns: 3
+    enableHover: false
     styles:
       self:
         height: auto
@@ -166,72 +138,385 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-36
-          - pb-72
-          - pr-4
-          - pl-4
+          - pt-0
+          - pb-8
+          - pl-8
+          - pr-8
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
         justifyContent: flex-start
+    type: FeaturedItemsSection
+  - colors: colors-b
+    elementId: hero-button-grid
+    title: |
+      **Phoenix’s Leading**
+
+      Criminal Defense Attorney.
+    subtitle: Choose A Practice Area To Learn How We Can Help You.
+    items:
+      - type: FeaturedItem
+        actions:
+          - type: Button
+            label: |+
+              #### Drug Crimes
+
+            showIcon: true
+            url: /phoenix-criminal-attorney/drug-crimes/
+            style: secondary
+            iconPosition: left
+            icon: drugCrime
+        styles:
+          self:
+            textAlign: left
+            alignItems: center
+            justifyContent: center
+      - type: FeaturedItem
+        actions:
+          - type: Button
+            label: |+
+              #### Sex Crimes
+
+            showIcon: true
+            icon: sexCrime
+            url: /
+            style: secondary
+            iconPosition: left
+        styles:
+          self:
+            textAlign: left
+            alignItems: center
+            justifyContent: center
+      - type: FeaturedItem
+        actions:
+          - type: Button
+            label: |+
+              #### Violent Crimes
+
+            showIcon: true
+            icon: violentCrime
+            url: /
+            style: secondary
+            iconPosition: left
+        styles:
+          self:
+            textAlign: left
+            justifyContent: center
+            alignItems: center
+      - elementId: ''
+        subtitle: ''
+        actions:
+          - label: |+
+              #### Federal Crime
+
+            altText: Federal Crime
+            url: /
+            showIcon: true
+            icon: gavel
+            iconPosition: left
+            style: secondary
+            elementId: ''
+            type: Button
+        styles:
+          self:
+            textAlign: left
+            alignItems: center
+            justifyContent: center
+      - elementId: ''
+        actions:
+          - label: |+
+              #### White Collar Crime
+
+            altText: White Collar Crime
+            url: /
+            showIcon: true
+            icon: whiteCollarCrime
+            iconPosition: left
+            style: secondary
+            elementId: ''
+            type: Button
+        styles:
+          self:
+            textAlign: left
+            alignItems: center
+            justifyContent: center
+      - elementId: ''
+        subtitle: ''
+        actions:
+          - label: |
+              #### Child Custody
+
+              #### & Parenting Time
+            altText: Child Custody & Parenting Time
+            url: /
+            showIcon: true
+            icon: childCustody
+            iconPosition: left
+            style: secondary
+            elementId: ''
+            type: Button
+        styles:
+          self:
+            textAlign: left
+            alignItems: center
+            justifyContent: center
+    actions: []
+    columns: 3
+    enableHover: false
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-16
+          - pb-16
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: FeaturedItemsSection
+    backgroundSize: full
+    backgroundImage:
+      url: /images/background-arizona-desert.png
+      backgroundSize: cover
+      backgroundPosition: center
+      opacity: 100
+  - elementId: ''
+    colors: colors-d
+    variant: variant-a
+    title: >-
+      A lawyer with the skills and experience you need when facing the fight of
+      your life.
+    subtitle: ''
+    text: >+
+      <div class="flex flex-col lg:flex-row justify-between items-start gap-12
+      text-base text-left font-sans">
+
+      <div>At Blumberg & Associates, you’ll find the representation you need to
+      get the best outcome available in your Arizona criminal law matter. We
+      believe every person accused of a crime deserves fair treatment and
+      effective defense by a skilled and knowledgeable criminal defense lawyer.
+      Phoenix criminal attorney Bruce Blumberg is a Board-Certified Criminal Law
+      Specialist with over 30 years of experience practicing criminal law in
+      Arizona. In that time, he has handled every type of felony and misdemeanor
+      case, including over 100 jury trials and innumerable bench (non-jury)
+      trials. He has won a tremendous number of jury trials and obtained
+      acquittals in more than 25 serious felonies. Bruce’s experience and
+      success in criminal defense are virtually unmatched in the state of
+      Arizona.
+
+      </div><div>If you’ve been arrested on a felony or misdemeanor charge in
+      Phoenix, Blumberg & Associates offers practical advice and effective
+      representation to help you make the best of a bad situation. Your best
+      chance at a favorable outcome in your criminal case is to be represented
+      by an attorney with extensive experience representing people in
+      circumstances similar to yours. There are a lot of criminal defense
+      lawyers in practice, and not all of them will be suitable for your needs.
+      In more than 30 years of practice, Phoenix criminal defense attorney Bruce
+      Blumberg has successfully represented thousands of clients faced with all
+      types of criminal charges by prosecutors at the Arizona state or federal
+      level. </div>
+
+      </div>
+
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-16
+          - pb-16
+          - pl-8
+          - pr-8
+        justifyContent: center
       title:
         textAlign: left
       subtitle:
         textAlign: left
       text:
         textAlign: left
-      actions:
-        justifyContent: flex-start
-  - type: ContactSection
-    colors: colors-d
-    title: Join our club
-    text: >
-      We will notify you every time a shipment is heading to your neighborhood,
-      and you could immediatly let us know if you want in or not
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      destination: ''
-      action: /.netlify/functions/submission_created
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: Submit form
-      styles:
-        submitLabel:
-          textAlign: center
+    type: TextSection
+  - colors: colors-e
+    elementId: hero-awards
+    title: Top Rated Criminal Defense Attorney.
+    images:
+      - type: ImageBlock
+        url: /images/award-avvo-10.png
+        altText: AVVO 10.0 Superb Top Attorney Criminal Defense
+        caption: AVVO 10.0 Superb Top Attorney Criminal Defense
+      - type: ImageBlock
+        url: /images/award-av-preeminent.png
+        altText: AV Preeminent Lawyer Ratings
+        caption: AV Preeminent Lawyer Ratings
+      - type: ImageBlock
+        url: /images/certified-specialist-state-bar-arizona.png
+        altText: State Bar Of Arizona Certified Specialist - Criminal Law
+        caption: State Bar Of Arizona Certified Specialist - Criminal Law
+      - type: ImageBlock
+        url: /images/award-super-lawyers.png
+        altText: Super Lawyers Rated
+        caption: Super Lawyers Rated
+    spacing: 32
+    columns: 4
+    showCaption: false
+    enableHover: true
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-16
+          - pb-16
+          - pl-8
+          - pr-8
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+    type: MediaGallerySection
+    aspectRatio: auto
+  - elementId: ''
+    colors: colors-a
+    variant: variant-a
+    subtitle: >-
+      As a Board-Certified criminal law specialist, Bruce Blumberg has the
+      knowledge, skills and experience to competently handle any criminal law
+      matter in Arizona, including:
+    text: |+
+      <ul class="columns-4">
+      *   Accounting & Tax Fraud
+
+      *   Bank Fraud
+
+      *   Child Molestation
+
+      *   Child Pornography
+
+      *   Children Crimes
+
+      *   Computer & Internet Fraud
+
+      *   Corporate Fraud
+
+      *   Criminal Appeals
+
+      *   Dangerous Offenses
+
+      *   Date & Spousal Rape
+
+      *   Domestic Violence
+
+      *   Drug Crimes
+
+      *   Drug Possession
+
+      *   DUI
+
+      *   Embezzlement
+
+      *   Federal Crimes
+
+      *   Federal Drug Crimes
+
+      *   Health Care Fraud
+
+      *   Homicide
+
+      *   Juvenile Crimes
+
+      *   Mail & Wire Fraud
+
+      *   Mandatory Sentencing
+
+      *   Marijuana Charges
+
+      *   Meth Charges
+
+      *   Money Laundering
+
+      *   Mortgage Fraud
+
+      *   Parole & Probation Violations
+
+      *   Prostitution
+
+      *   Search & Seizure
+
+      *   Sex Offender Registration
+
+      *   Sexual Assault
+
+      *   Sex Crimes
+
+      *   State Drug Crimes
+
+      *   Traffic Offenses
+
+      *   Violent Crimes
+
+      *   White Collar Crime
+
+      </ul>
+
     styles:
       self:
         height: auto
         width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-16
+          - pb-16
+          - pl-8
+          - pr-8
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+    type: TextSection
+  - type: FeaturedCasesSection
+    elementId: ''
+    showDate: true
+    showAuthor: false
+    showExcerpt: true
+    showReadMoreLink: false
+    readMoreLinkLabel: See All Cases
+    variant: variant-b
+    actions: []
+    styles:
+      self:
+        height: auto
+        width: wide
         margin:
           - mt-0
           - mb-0
@@ -240,28 +525,344 @@ sections:
         padding:
           - pt-24
           - pb-24
-          - pr-4
           - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    title: Cases of Interest
+    subtitle: ''
+    colors: colors-e
+    posts:
+      - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
+      - content/pages/cases/accused-multiple-accounts-sexual-misconduct.md
+      - content/pages/cases/accused-or-child-abuse-by-causing-bruises.md
+      - content/pages/cases/charged-19-counts-sexual-conduct-with-minor.md
+      - content/pages/cases/accused-multiple-accounts-sexual-misconduct.md
+      - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
+  - elementId: ''
+    colors: colors-b
+    variant: variant-b
+    title: |
+      Contact An **Experienced** Phoenix Criminal Attorney Today
+    text: >
+      At Blumberg & Associates, we apply our knowledge, skills, experience and
+      dedication toward achieving a favorable result in your criminal case. We
+      work hard to resolve your case pre-trial wherever possible, including
+      getting the prosecutor or judge to dismiss or reduce the charges or secure
+      probation, diversion or some other desirable outcome. If your case can’t
+      be resolved pre-trial, you are in the hands of one of Arizona’s most
+      experienced and successful criminal law trial litigators. Whether facing a
+      judge or jury trial, Blumberg & Associates is devoted to obtaining an
+      acquittal or not guilty verdict or helping you avoid mandatory sentences
+      and the most serious consequences of a criminal conviction in Arizona.
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+    type: TextSection
+    actions:
+      - label: Learn more
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Button
+    backgroundImage:
+      url: /images/background-court-blue.jpg
+      backgroundSize: cover
+      backgroundPosition: center
+      opacity: 100
+  - type: FeaturedTestimonialsSection
+    elementId: ''
+    showDate: true
+    showAuthor: false
+    showExcerpt: true
+    showReadMoreLink: true
+    readMoreLinkLabel: See All Cases
+    variant: variant-b
+    actions:
+      - type: Button
+        label: |
+          See All Testimonials
+        altText: ''
+        url: /testimonials
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: left
+    title: |
+      Read What
+
+      **Our Clients Are Saying**
+    colors: colors-b
+    posts:
+      - content/pages/testimonials/yaser-awad.md
+      - content/pages/testimonials/brent-wayne.md
+      - content/pages/testimonials/danielle-chodrick.md
+    media:
+      type: ImageBlock
+      url: /images/portrait-testimonials-placeholder.png
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
+  - elementId: ''
+    colors: colors-e
+    backgroundSize: full
+    title: Schedule Your Consultation
+    text: |
+      Fill Out The Form To Get Started.
+    form:
+      type: FormBlock
+      elementId: contact-form
+      action: /.netlify/functions/submission_created
+      destination: ''
+      fields:
+        - type: TextFormControl
+          name: First
+          label: First Name
+          placeholder: First Name
+          isRequired: true
+          width: 1/2
+        - name: last-name
+          label: Last Name
+          hideLabel: false
+          placeholder: Last Name
+          isRequired: false
+          width: 1/2
+          type: TextFormControl
+        - type: EmailFormControl
+          name: email
+          label: Email
+          placeholder: Your email
+          isRequired: 'true'
+          width: 1/2
+        - name: phone-number
+          label: Phone Number
+          hideLabel: false
+          placeholder: XXX-XXX-XXXX
+          isRequired: false
+          width: 1/2
+          type: TextFormControl
+        - name: description
+          label: Description
+          hideLabel: false
+          placeholder: Please describe
+          isRequired: false
+          width: full
+          type: TextareaFormControl
+        - type: CheckboxFormControl
+          name: updates
+          label: Sign me up to receive updates
+          isRequired: 'false'
+          width: full
+      submitLabel: Send Message
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-16
+          - pb-16
+          - pl-8
+          - pr-4
         alignItems: center
         justifyContent: center
         flexDirection: row
       title:
-        textAlign: center
+        textAlign: left
       text:
-        textAlign: center
-  - type: DividerSection
-    colors: colors-d
+        textAlign: left
+    type: ContactSection
+  - type: TextSection
+    elementId: ''
+    colors: colors-e
+    variant: variant-a
+    subtitle: ''
+    text: >
+      Please do not include any confidential or sensitive information in a
+      contact form, text message, or voicemail. The contact form sends
+      information by non-encrypted email, which is not secure. Submitting a
+      contact form, sending a text message, making a phone call, or leaving a
+      voicemail does not create an attorney-client relationship.
+    actions: []
     styles:
       self:
+        height: auto
         width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
         padding:
-          - pt-8
-          - pb-4
-          - pl-0
-          - pr-0
+          - pt-0
+          - pb-8
+          - pl-4
+          - pr-4
         justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+  - type: TextSection
+    elementId: ''
+    colors: colors-d
+    variant: variant-a
+    subtitle: ''
+    text: >
+      ## Domestic Violence
+
+
+      As a criminal law specialist who also handles an array of high-conflict
+      divorce, child custody and other family law matters, attorney Bruce
+      Blumberg is familiar with the issues of spousal abuse, child abuse and
+      other incidents of domestic violence. We also know that allegations of
+      domestic violence can sometimes be put forward wrongly, whether due to
+      innocent misunderstandings or a desire to gain leverage in a divorce or
+      child custody dispute. The consequences of a domestic violence finding are
+      swift and severe. Long before any criminal trial or conviction for abuse,
+      you can be forced out of your home, forced to relinquish firearms, and
+      kept from having any contact with your children, often while being
+      required to pay support at the same time.
+
+
+      Blumberg & Associates provides a strong, assertive defense against
+      unfounded accusations of domestic violence. We’ll fight hard to protect
+      your name, reputation and relationship with your children while helping
+      you avoid the jail time and criminal record that can result from being
+      found guilty of domestic violence.
+
+
+
+
+      ## Juvenile Offenses
+
+
+      The goal of the juvenile justice system is rehabilitation, not punishment.
+      For minors arrested for juvenile or criminal offenses, the juvenile system
+      is almost always preferable to being put through the criminal system. Yet
+      under Arizona law, some juveniles must be tried as adults for certain
+      offenses, and even where it isn’t required, prosecutors can file charges
+      in adult court, or juvenile court judges can transfer cases to criminal
+      court. In many situations a juvenile charged in adult court may be
+      entitled to a transfer hearing to return to juvenile court. Of particular
+      significance is the area of juvenile sex crimes. It is vital to retain a
+      criminal defense attorney with experience in handling juvenile sex crimes.
+      The treatment of juveniles in this area differs substantially from that of
+      adults.  Bruce Blumberg is experienced across the spectrum of juvenile
+      offenses. At Blumberg & Associates, we know the right steps to take to
+      help your son or daughter get the best result after an arrest for a
+      criminal offense or status offense in Phoenix or surrounding areas.
+
+
+
+
+      ## Probation Violations
+
+
+      Getting sentenced to a period of probation is an alternative to
+      incarceration that, for many people, amounts to an excellent outcome in
+      their criminal case. However, if during the probation period you commit
+      any criminal offense or otherwise break the terms of your probation, the
+      jail sentence which had been suspended or deferred can be rapidly imposed,
+      without the benefit of a full trial. It is important to be aware of this
+      possibility before you plead guilty to an offense in order to get
+      probation. Talk to your attorney about whether a plea or trial is in your
+      best interests.
+
+
+      Besides staying out of trouble, other common terms of probation include
+      reporting to your probation officer as required, allowing the probation
+      officer into your home, keeping a job, staying within a specified
+      geographical region, refraining from associating with certain individuals,
+      and submitting to random alcohol and drug tests.
+
+
+      If found in violation of probation, the court could send you to jail,
+      lengthen your period of probation or add more restrictions to your current
+      probation. You are entitled to due process before your probation can be
+      modified or revoked, and you are entitled to be represented by an
+      attorney. At Blumberg & Associates, we can submit evidence and testimony
+      to challenge whether you actually violated the terms of your probation or
+      show that your constitutional rights were violated. We may also be able to
+      help modify or terminate overly restrictive probation that is keeping you
+      from getting or maintaining a job or being with your kids.
+    actions: []
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-16
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
 addTitleSuffix: true
 metaTags: []
 ---

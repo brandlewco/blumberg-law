@@ -2,64 +2,31 @@ import * as React from 'react';
 import { useState, useEffect } from 'react';
 import { useRouter } from 'next/router';
 import classNames from 'classnames';
+import { v4 as uuidv4 } from 'uuid';
 
 import { Link, Action } from '../../atoms';
 import ImageBlock from '../../molecules/ImageBlock';
 import CloseIcon from '../../svgs/close';
 import MenuIcon from '../../svgs/menu';
 
+
 export default function Header(props) {
     const primaryColors = props.primaryColors || 'colors-d';
     const headerStyles = props.styles?.self || {};
     const headerWidth = headerStyles.width || 'narrow';
+    
     return (
         <header
-            className={classNames('sb-component', 'sb-component-header', primaryColors, props.isSticky ? 'sticky top-0 z-10' : 'relative')}
+            className={classNames('sb-component', 'sb-component-header', primaryColors, props.isSticky ? 'sticky top-0 z-50' : 'relative')}
             data-sb-field-path={`${props.annotationPrefix}:header`}
         >
-            <div className={classNames(headerStyles.padding || 'py-5 px-4')}>
                 <div className={classNames('mx-auto', mapMaxWidthStyles(headerWidth))}>
                     <Link href="#main" className="sr-only">
                         Skip to main content
                     </Link>
-                    {headerVariants(props)}
+                    {headerVariantB(props)}
                 </div>
-            </div>
         </header>
-    );
-}
-
-function headerVariants(props) {
-    const headerVariant = props.headerVariant || 'variant-a';
-    switch (headerVariant) {
-        case 'variant-a':
-            return headerVariantA(props);
-        case 'variant-b':
-            return headerVariantB(props);
-        case 'variant-c':
-            return headerVariantC(props);
-    }
-    return null;
-}
-
-function headerVariantA(props) {
-    const primaryLinks = props.primaryLinks || [];
-    const secondaryLinks = props.secondaryLinks || [];
-    return (
-        <div className="flex items-center relative">
-            {(props.logo || (props.title && props.isTitleVisible)) && <div className="mr-8">{siteLogoLink(props)}</div>}
-            {primaryLinks.length > 0 && (
-                <ul className="hidden lg:flex lg:items-center mr-8 space-x-8" data-sb-field-path=".primaryLinks">
-                    {listOfLinks(primaryLinks)}
-                </ul>
-            )}
-            {secondaryLinks.length > 0 && (
-                <ul className="hidden lg:flex lg:items-center ml-auto space-x-8" data-sb-field-path=".secondaryLinks">
-                    {listOfLinks(secondaryLinks)}
-                </ul>
-            )}
-            {(primaryLinks.length > 0 || secondaryLinks.length > 0) && <MobileMenu {...props} />}
-        </div>
     );
 }
 
@@ -67,47 +34,23 @@ function headerVariantB(props) {
     const primaryLinks = props.primaryLinks || [];
     const secondaryLinks = props.secondaryLinks || [];
     return (
-        <div className="flex items-center relative">
+        <nav className="flex flex-row justify-between items-center relative">
             {(props.logo || (props.title && props.isTitleVisible)) && <div className="mr-8">{siteLogoLink(props)}</div>}
             {primaryLinks.length > 0 && (
-                <ul
-                    className="hidden lg:flex lg:items-center space-x-8 absolute left-1/2 top-1/2 transform -translate-y-1/2 -translate-x-1/2 w-auto"
+                <ul key="primaryLinks"
+                    className="hidden lg:flex lg:items-center space-x-8 w-auto"
                     data-sb-field-path=".primaryLinks"
                 >
-                    {listOfLinks(primaryLinks)}
+                    {listOfLinks(primaryLinks, false)}
                 </ul>
             )}
             {secondaryLinks.length > 0 && (
-                <ul className="hidden lg:flex lg:items-center ml-auto space-x-8" data-sb-field-path=".secondaryLinks">
-                    {listOfLinks(secondaryLinks)}
+                <ul key="secondaryLinks" className="hidden lg:flex lg:items-center space-x-8" data-sb-field-path=".secondaryLinks">
+                    {listOfLinks(secondaryLinks, false)}
                 </ul>
             )}
             {(primaryLinks.length > 0 || secondaryLinks.length > 0) && <MobileMenu {...props} />}
-        </div>
-    );
-}
-
-function headerVariantC(props) {
-    const primaryLinks = props.primaryLinks || [];
-    const secondaryLinks = props.secondaryLinks || [];
-    return (
-        <div className="flex items-center relative">
-            {(props.logo || (props.title && props.isTitleVisible)) && <div className="mr-8">{siteLogoLink(props)}</div>}
-            {primaryLinks.length > 0 && (
-                <ul className="hidden lg:flex lg:items-center ml-auto space-x-8" data-sb-field-path=".primaryLinks">
-                    {listOfLinks(primaryLinks)}
-                </ul>
-            )}
-            {secondaryLinks.length > 0 && (
-                <ul
-                    className={classNames('hidden', 'lg:flex', 'lg:items-center', 'space-x-8', primaryLinks.length > 0 ? 'ml-8' : 'ml-auto')}
-                    data-sb-field-path=".secondaryLinks"
-                >
-                    {listOfLinks(secondaryLinks)}
-                </ul>
-            )}
-            {(primaryLinks.length > 0 || secondaryLinks.length > 0) && <MobileMenu {...props} />}
-        </div>
+        </nav>
     );
 }
 
@@ -184,33 +127,51 @@ function siteLogoLink(props) {
     );
 }
 
-// function listOfLinks(links, inMobileMenu = false) {
-//     return links.map((link, index) => (
-//         <li key={index}>
-//             <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
-//         </li>
-//     ));
-// }
-
 function listOfLinks(links, inMobileMenu = false) {
     return links.map((link, index) => {
-        // const defaultStyle = link.type === 'Link' ? 'link' : 'secondary';
-        // const style = link.style || defaultStyle;
-        const linkChild = link.linkChild || [];
+        const secondaryColors = 'colors-d';
+        const headerStyles = link.styles || {};
+        const linkChild = link.child || [];
+        const [isMenuOpen, setIsMenuOpen] = useState(false);
+        const router = useRouter();
+        var toggle = false;
+
+        useEffect(() => {
+            const handleRouteChange = () => {
+                setIsMenuOpen(false);
+            };
+            router.events.on('routeChangeStart', handleRouteChange);
+
+            return () => {
+                router.events.off('routeChangeStart', handleRouteChange);
+            };
+        }, [router.events]);
+
         return (
-            <li key={index}>
-                <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
+            <>
                 {linkChild.length > 0 && (
-                    <ul>
-                        {linkChild.map((link, index) => (
-                            <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
-                        ))}
-                    </ul>
+                    <li key={index} data-key={index} className={classNames('dropdown', 'relative', 'block', 'lg:py-12')}
+                        onMouseEnter={() => setIsMenuOpen(true)}
+                        onMouseLeave={() => setIsMenuOpen(false)}
+                        onMouseDown={() => setIsMenuOpen(toggle = !toggle)}
+                    >
+                        <Action {...link} url="#" style="link" showIcon="true" icon="menuDown" className="w-full flex flex-row justify-between border-b-2 lg:border-0 border-solid border-secondary " data-sb-field-path={`.${index}`} />
+                        <ul className={classNames(secondaryColors, 'transition-all', 'lg:absolute', 'top-full', 'flex', 'flex-col', 'whitespace-nowrap', 'px-4', 'pt-4', 'shadow-lg', isMenuOpen ? 'block' : 'hidden')} data-sb-field-path=".primaryLinks">
+                            {linkChild.map((link, index) => (
+                                <li key={index} data-key={index} className="pb-4">
+                                    <Action {...link} style="link" className="w-full justify-start border-b-2 lg:border-0 border-solid border-gray" data-sb-field-path={`.${index}`} />
+                                </li>
+                            ))}
+                        </ul>
+                    </li>
                 )}
-                {/* {linkChild.length == 0 && (
-                    <Action {...link} className={classNames(inMobileMenu && style !== 'link' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
-                )} */}
-            </li>
+                
+                {linkChild.length == 0 && (
+                    <li key={index} data-key={index}  className={classNames('relative', 'block')}>
+                        <Action {...link} className={classNames(headerStyles, "w-full justify-start border-b-2 lg:border-0 border-solid border-secondary ", inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
+                    </li>
+                )}
+            </>
         );
     });
 }
@@ -218,9 +179,9 @@ function listOfLinks(links, inMobileMenu = false) {
 function mapMaxWidthStyles(width) {
     switch (width) {
         case 'narrow':
-            return 'max-w-7xl';
+            return 'max-w-5xl';
         case 'wide':
-            return 'max-w-screen-2xl';
+            return 'max-w-7xl';
         case 'full':
             return 'max-w-full';
     }

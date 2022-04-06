@@ -29,6 +29,26 @@ contentModels:
     urlPath: '/blog'
     file: 'blog/index.md'
     newFilePath: 'blog/index.md'
+  CasesLayout:
+    isPage: true
+    urlPath: '/cases/{slug}'
+    newFilePath: 'cases/{slug}.md'
+  CasesFeedLayout:
+    isPage: true
+    singleInstance: true
+    urlPath: '/cases'
+    file: 'cases/index.md'
+    newFilePath: 'cases/index.md'
+  TestimonialLayout:
+    isPage: true
+    urlPath: '/testimonials/{slug}'
+    newFilePath: 'testimonials/{slug}.md'
+  TestimonialFeedLayout:
+    isPage: true
+    singleInstance: true
+    urlPath: '/testimonials'
+    file: 'testimonials/index.md'
+    newFilePath: 'testimonials/index.md'
 modelsSource:
   type: files
   modelDirs:

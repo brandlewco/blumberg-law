@@ -1,4 +1,6 @@
 import * as React from 'react';
+import Markdown from 'markdown-to-jsx';
+
 import classNames from 'classnames';
 import Link from '../Link';
 import Apple from '../../svgs/apple';
@@ -22,8 +24,24 @@ import Send from '../../svgs/send';
 import Twitter from '../../svgs/twitter';
 import Vimeo from '../../svgs/vimeo';
 import YouTube from '../../svgs/youtube';
+import ChildCustody from '../../svgs/a-child-custody';
+import WhiteCollarCrime from '../../svgs/a-white-collar-crime';
+import DrugCrime from '../../svgs/a-drug-crime';
+import Clients from '../../svgs/a-clients';
+import Gavel from '../../svgs/a-gavel';
+import Jury from '../../svgs/a-jury';
+import SexCrime from '../../svgs/a-sex-crime';
+import ViolentCrime from '../../svgs/a-violent-crime';
+import MenuDown from '../../svgs/menu-down';
+import Map from '../../svgs/a-map';
+import Phone from '../../svgs/a-phone';
+
+
 
 const iconMap = {
+    menuDown: MenuDown,
+    map: Map,
+    phone: Phone,
     apple: Apple,
     arrowLeft: ArrowLeft,
     arrowLeftCircle: ArrowLeftCircle,
@@ -44,7 +62,15 @@ const iconMap = {
     send: Send,
     twitter: Twitter,
     vimeo: Vimeo,
-    youtube: YouTube
+    youtube: YouTube,
+    childCustody: ChildCustody,
+    clients: Clients,
+    drugCrime: DrugCrime,
+    gavel: Gavel,
+    jury: Jury,
+    sexCrime: SexCrime,
+    violentCrime: ViolentCrime,
+    whiteCollarCrime: WhiteCollarCrime,
 };
 
 export default function Action(props) {
@@ -77,10 +103,14 @@ export default function Action(props) {
             })}
             data-sb-field-path={annotations.join(' ').trim()}
         >
-            {label && <span>{label}</span>}
+            <Markdown
+                options={{ }}
+                className={"markdown"} data-sb-field-path=".label">
+                {label}
+            </Markdown>
             {showIcon && IconComponent && (
                 <IconComponent
-                    className={classNames('fill-current h-5 w-5', {
+                    className={classNames('fill-current', {
                         'order-first': iconPosition === 'left',
                         'mr-1.5': label && iconPosition === 'left',
                         'ml-1.5': label && iconPosition === 'right'

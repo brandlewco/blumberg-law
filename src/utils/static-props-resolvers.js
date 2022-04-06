@@ -5,7 +5,9 @@ import {
     getRootPagePath,
     resolveReferences,
     getAllPostsSorted,
+    getAllTestimonialsSorted,
     getAllCategoryPostsSorted,
+    getAllCategoryTestimonialsSorted,
     getAllAuthorPostsSorted,
     getPagedItemsForPage,
     mapDeepAsync
@@ -27,16 +29,16 @@ export function resolveStaticProps(urlPath, data) {
         ...data.props
     };
     return mapDeepAsync(
-      props,
-      async (value, keyPath, stack) => {
-          const objectType = value?.type || value?.layout;
-          if (objectType && StaticPropsResolvers[objectType]) {
-              const resolver = StaticPropsResolvers[objectType];
-              return resolver(value, data, { keyPath, stack });
-          }
-          return value;
-      },
-      { postOrder: true }
+        props,
+        async (value, keyPath, stack) => {
+            const objectType = value?.type || value?.layout;
+            if (objectType && StaticPropsResolvers[objectType]) {
+                const resolver = StaticPropsResolvers[objectType];
+                return resolver(value, data, { keyPath, stack });
+            }
+            return value;
+        },
+        { postOrder: true }
     );
 }
 
@@ -55,10 +57,50 @@ const StaticPropsResolvers = {
             items
         };
     },
+    CasesLayout: (props, data, debugContext) => {
+        return resolveReferences(props, ['author', 'category'], data.objects, debugContext);
+    },
+    CasesFeedLayout: (props, data) => {
+        const numOfPostsPerPage = props.numOfPostsPerPage ?? 10;
+        const allPosts = getAllCasesSorted(data.objects);
+        const paginationData = getPagedItemsForPage(props, allPosts, numOfPostsPerPage);
+        const items = resolveReferences(paginationData.items, ['author', 'category'], data.objects);
+        return {
+            ...props,
+            ...paginationData,
+            items
+        };
+    },
+    TestimonialLayout: (props, data, debugContext) => {
+        return resolveReferences(props, ['author', 'category'], data.objects, debugContext);
+    },
+    TestimonialFeedLayout: (props, data) => {
+        const numOfPostsPerPage = props.numOfPostsPerPage ?? 10;
+        const allPosts = getAllTestimonialsSorted(data.objects);
+        const paginationData = getPagedItemsForPage(props, allPosts, numOfPostsPerPage);
+        const items = resolveReferences(paginationData.items, ['author', 'category'], data.objects);
+        return {
+            ...props,
+            ...paginationData,
+            items
+        };
+    },
     PostFeedCategoryLayout: (props, data) => {
         const categoryId = props.__metadata?.id;
         const numOfPostsPerPage = props.numOfPostsPerPage ?? 10;
         const allCategoryPosts = getAllCategoryPostsSorted(data.objects, categoryId);
+        const paginationData = getPagedItemsForPage(props, allCategoryPosts, numOfPostsPerPage);
+        const items = resolveReferences(paginationData.items, ['author', 'category'], data.objects);
+        return {
+            ...props,
+            ...paginationData,
+            items
+        };
+    },
+    TestimonialFeedCategoryLayout: (props, data) => {
+        const categoryId = props.__metadata?.id;
+        const numOfPostsPerPage = props.numOfPostsPerPage ?? 10;
+        const allCategoryPosts = getAllCategoryTestimonialsSorted(data.objects, categoryId);
         const paginationData = getPagedItemsForPage(props, allCategoryPosts, numOfPostsPerPage);
         const items = resolveReferences(paginationData.items, ['author', 'category'], data.objects);
         return {
@@ -80,7 +122,7 @@ const StaticPropsResolvers = {
             postFeed: {
                 showAuthor: true,
                 showDate: true,
-                variant: 'variant-d',
+                variant: 'variant-d'
             }
         };
     },
@@ -92,7 +134,21 @@ const StaticPropsResolvers = {
             posts: recentPosts
         };
     },
+    RecentTestimonialsSection: (props, data) => {
+        const allPosts = getAllTestimonialsSorted(data.objects).slice(0, props.recentCount || 6);
+        const recentPosts = resolveReferences(allPosts, ['author', 'category'], data.objects);
+        return {
+            ...props,
+            posts: recentPosts
+        };
+    },
     FeaturedPostsSection: (props, data, debugContext) => {
+        return resolveReferences(props, ['posts.author', 'posts.category'], data.objects, debugContext);
+    },
+    FeaturedCasesSection: (props, data, debugContext) => {
+        return resolveReferences(props, ['posts.author', 'posts.category'], data.objects, debugContext);
+    },
+    FeaturedTestimonialsSection: (props, data, debugContext) => {
         return resolveReferences(props, ['posts.author', 'posts.category'], data.objects, debugContext);
     },
     FeaturedPeopleSection: (props, data, debugContext) => {

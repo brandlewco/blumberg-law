@@ -1,0 +1,25 @@
+type: object
+name: FeaturedTestimonialsSection
+label: Featured Testimonials
+labelField: title
+thumbnail: https://assets.stackbit.com/components/models/thumbnails/default.png
+extends:
+  - TestimonialFeedSection
+groups:
+  - sectionComponent
+fields:
+  - name: title
+    default: Featured Testimonials
+  - name: subtitle
+    default: Featured Testimonials section example
+  - name: colors
+    default: colors-d
+  - type: list
+    name: posts
+    label: Posts
+    items:
+      type: reference
+      models:
+        - TestimonialLayout
+    default:
+      -

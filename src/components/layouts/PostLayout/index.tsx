@@ -19,9 +19,9 @@ export default function PostLayout(props) {
     return (
         <BaseLayout page={page} site={site}>
             <main id="main" className="sb-layout sb-post-layout">
+            {page.media && <div className="w-full ">{postMedia(page.media)}</div>}
                 <article className={classNames(colors, 'px-4', 'sm:px-8', 'py-14', 'lg:py-20')}>
                     <div className="max-w-7xl mx-auto">
-                        {page.media && <div className="w-full mb-8 sm:mb-12">{postMedia(page.media)}</div>}
                         <header className="max-w-5xl mx-auto mb-12 text-left">
                             {page.title && <h1 data-sb-field-path="title">{page.title}</h1>}
                             <div className="text-lg mt-6">
@@ -65,7 +65,7 @@ function postMedia(media) {
     if (!Media) {
         throw new Error(`no component matching the hero section media type: ${mediaType}`);
     }
-    return <Media {...media} className={classNames({ 'w-full': mediaType === 'ImageBlock' })} data-sb-field-path="media" />;
+    return <Media {...media} className={classNames({ 'object-cover h-72 w-full': mediaType === 'ImageBlock' })} data-sb-field-path="media" />;
 }
 
 function PostAttribution({ post }) {

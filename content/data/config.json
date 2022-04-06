@@ -6,125 +6,353 @@
         "isSticky": true,
         "primaryColors": "colors-b",
         "secondaryColors": "colors-d",
-        "title": "Business",
+        "title": "Blumberg & Associates",
         "isTitleVisible": false,
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Home",
-                "url": "/",
-                "altText": ""
+                "label": "Attorney Profile",
+                "url": "/attorney-profile",
+                "altText": "Attorney Profile",
+                "child": [],
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-0",
+                            "pb-0"
+                        ]
+                    }
+                },
+                "showIcon": false
             },
             {
                 "type": "Link",
-                "label": "About",
-                "url": "/about",
-                "altText": "",
+                "label": "Criminal Defense",
+                "url": "/phoenix-criminal-attorney/criminal-defense",
+                "altText": "Criminal Defense",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-0",
+                            "pb-0"
+                        ]
+                    }
+                },
                 "child": [
                     {
-                        "label": "Child 1",
-                        "altText": "",
-                        "url": "/",
+                        "label": "Child Pornography",
+                        "altText": "Child Pornography",
+                        "url": "/phoenix-criminal-attorney/child-pornography/",
                         "showIcon": false,
                         "icon": "arrowRight",
                         "iconPosition": "right",
                         "elementId": ""
                     },
                     {
-                        "label": "Child 2",
+                        "label": "Criminal Appeals",
                         "altText": "",
-                        "url": "/",
+                        "url": "/phoenix-criminal-attorney/criminal-appeals/",
                         "showIcon": false,
                         "icon": "arrowRight",
                         "iconPosition": "right",
                         "elementId": ""
                     },
                     {
-                        "label": "Child 3",
+                        "label": "Domestic Violence",
+                        "altText": "Domestic Violence",
+                        "url": "/phoenix-criminal-attorney/domestic-violence/",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
+                    },
+                    {
+                        "label": "Drug Crimes",
+                        "altText": "Drug Crimes",
+                        "url": "/phoenix-criminal-attorney/drug-crimes/",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
+                    },
+                    {
+                        "label": "Federal Crimes",
+                        "altText": "Federal Crimes",
+                        "url": "/phoenix-criminal-attorney/federal-crimes/",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
+                    },
+                    {
+                        "label": "Juvenile Offenses",
                         "altText": "",
-                        "url": "/",
+                        "url": "/phoenix-criminal-attorney/juvenile-offenses/",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
+                    },
+                    {
+                        "label": "Parole & Probation Violations",
+                        "altText": "Parole & Probation Violations",
+                        "url": "/phoenix-criminal-attorney/parole-probation-violations/",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
+                    },
+                    {
+                        "label": "Prostitution",
+                        "altText": "Prostitution",
+                        "url": "/phoenix-criminal-attorney/prostitution/",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
+                    },
+                    {
+                        "label": "Sex Crimes",
+                        "altText": "Sex Crimes",
+                        "url": "/phoenix-criminal-attorney/sex-crimes/",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
+                    },
+                    {
+                        "label": "Violent Crimes",
+                        "altText": "Violent Crimes",
+                        "url": "/phoenix-criminal-attorney/violent-crimes/",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
+                    },
+                    {
+                        "label": "White Collar Crimes",
+                        "altText": "White Collar Crimes",
+                        "url": "/phoenix-criminal-attorney/white-collar-crimes/",
                         "showIcon": false,
                         "icon": "arrowRight",
                         "iconPosition": "right",
                         "elementId": ""
                     }
-                ]
+                ],
+                "showIcon": true,
+                "icon": "arrowLeftCircle"
             },
             {
-                "type": "Link",
-                "label": "Adventures",
+                "label": "Family Law",
+                "altText": "Family Law",
+                "url": "/phoenix-family-attorney/family-law/",
+                "child": [
+                    {
+                        "label": "Child Custody & Parenting Time",
+                        "altText": "Child Custody & Parenting Time",
+                        "url": "/phoenix-family-attorney/child-custody-parenting-time/",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
+                    },
+                    {
+                        "label": "Divorce",
+                        "altText": "Divorce",
+                        "url": "/phoenix-family-attorney/divorce/",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
+                    },
+                    {
+                        "label": "Modifications & Enforcements",
+                        "altText": "Modifications & Enforcements",
+                        "url": "/phoenix-family-attorney/modifications-enforcements/",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
+                    },
+                    {
+                        "label": "Orders of Protection",
+                        "altText": "Orders of Protection",
+                        "url": "/phoenix-family-attorney/orders-of-protection/",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
+                    },
+                    {
+                        "label": "Paternity",
+                        "altText": "Paternity",
+                        "url": "/phoenix-family-attorney/paternity/",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
+                    },
+                    {
+                        "label": "Spousal Maintenance",
+                        "altText": "Spousal Maintenance",
+                        "url": "/phoenix-family-attorney/spousal-maintenance/",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
+                    },
+                    {
+                        "label": "Temporary Orders",
+                        "altText": "Temporary Orders",
+                        "url": "/phoenix-family-attorney/temporary-orders/",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
+                    }
+                ],
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-0",
+                            "pb-0",
+                            "pl-4",
+                            "pr-4"
+                        ]
+                    }
+                },
+                "type": "Link"
+            },
+            {
+                "label": "Testimonials",
+                "altText": "Testimonials",
+                "url": "/testimonials",
+                "child": [],
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-0",
+                            "pb-0",
+                            "pl-4",
+                            "pr-4"
+                        ]
+                    }
+                },
+                "type": "Link"
+            },
+            {
+                "label": "Blog",
+                "altText": "Blog",
                 "url": "/blog",
-                "altText": ""
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-0",
+                            "pb-0",
+                            "pl-4",
+                            "pr-4"
+                        ]
+                    }
+                },
+                "type": "Link"
+            },
+            {
+                "label": "Contact",
+                "altText": "Contact",
+                "url": "/contact",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-0",
+                            "pb-0",
+                            "pl-4",
+                            "pr-4"
+                        ]
+                    }
+                },
+                "type": "Link"
             }
         ],
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "Contact us",
-                "url": "mailto:info@lorem.mail",
+                "label": "**Confidential Case Evaluations**\n\n602-277-6180\n",
+                "url": "tel:+16022776180",
                 "altText": "Contact us",
-                "style": "secondary",
-                "showIcon": true,
+                "style": "primary",
+                "showIcon": false,
                 "icon": "arrowRight",
-                "iconPosition": "right"
+                "iconPosition": "right",
+                "elementId": "call-us"
             }
         ],
         "styles": {
             "self": {
-                "width": "narrow",
+                "width": "wide",
                 "padding": [
-                    "pt-5",
-                    "pb-5",
+                    "pt-8",
+                    "pb-8",
                     "pr-4",
                     "pl-4"
                 ]
             }
         },
         "logo": {
-            "url": "/images/blumberg-law-logo-main.png",
+            "url": "/images/blumberg-law-logo-main-e6e147f4.png",
             "altText": "Blumberg Law Arizona Logo",
             "elementId": "",
             "type": "ImageBlock"
         }
     },
     "footer": {
-        "variant": "variant-b",
-        "colors": "colors-d",
-        "title": "Say hello",
-        "contacts": {
-            "title": "Contact details",
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "Our phone",
-            "email": "info@lorem.mail",
-            "emailAltText": "Our email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
-            "addressAltText": "Our address"
-        },
-        "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)",
+        "colors": "colors-b",
+        "copyrightText": "© 2020 - 2022 Blumberg & Associates. All rights reserved.\n\n\nWebsite by [BrandLew.co](https://www.stackbit.com/)\n",
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Home",
+                "label": "**TEL:** 602-277-6180\n\n**FAX:** 602-889-9167\n",
+                "url": "tel:+16022776180",
+                "altText": "home",
+                "showIcon": true,
+                "iconPosition": "left",
+                "icon": "phone"
+            },
+            {
+                "type": "Link",
+                "label": "3600 N 19TH AVE\n\nPHOENIX, AZ 85015\n",
+                "altText": "",
                 "url": "/",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "About",
-                "url": "/about",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Adventures",
-                "url": "/blog",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Contact us",
-                "url": "mailto:info@lorem.mail",
-                "altText": ""
+                "child": [],
+                "showIcon": true,
+                "icon": "map",
+                "iconPosition": "left",
+                "elementId": "",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-5",
+                            "pb-5",
+                            "pl-4",
+                            "pr-4"
+                        ]
+                    }
+                }
             }
         ],
         "socialLinks": [
@@ -164,14 +392,22 @@
         ],
         "styles": {
             "self": {
-                "width": "narrow",
+                "width": "full",
                 "padding": [
                     "pt-0",
-                    "pb-16",
-                    "pr-4",
-                    "pl-4"
+                    "pb-8",
+                    "pr-0",
+                    "pl-0"
                 ]
             }
+        },
+        "variant": "variant-a",
+        "media": {
+            "type": "ImageBlock",
+            "url": "/images/map-blumberg-law.png",
+            "altText": "altText of the image",
+            "caption": "Caption of the image",
+            "elementId": ""
         }
     },
     "defaultMetaTags": []

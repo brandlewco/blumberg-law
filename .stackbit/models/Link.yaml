@@ -8,7 +8,7 @@ fieldGroups:
   - name: settings
     label: Settings
 fields:
-  - type: string
+  - type: markdown
     name: label
     label: Label
     default: Learn more
@@ -48,6 +48,26 @@ fields:
     group: styles
     label: Icon
     options:
+      - label: Phone
+        value: phone
+      - label: Map
+        value: map
+      - label: Child Custody
+        value: childCustody
+      - label: Clients
+        value: clients
+      - label: Drug Crimes
+        value: drugCrime
+      - label: Gavel
+        value: gavel
+      - label: Jury
+        value: jury
+      - label: Sex Crime
+        value: sexCrime
+      - label: Violent Crime
+        value: violentCrime
+      - label: White Collar Crime
+        value: whiteCollarCrime
       - label: Apple
         value: apple
       - label: Arrow left
@@ -108,3 +128,11 @@ fields:
     label: Element ID
     description: A unique ID for the HTML element. Must not contain whitespace.
     default: ''
+  - type: style
+    name: styles
+    styles:
+      self:
+        padding: ['tw0:36']
+    default:
+      self:
+        padding: ['pt-5', 'pb-5', 'pl-4', 'pr-4']

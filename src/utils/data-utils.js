@@ -3,8 +3,19 @@ export function getAllPostsSorted(objects) {
     return sortPosts(allPosts);
 }
 
+export function getAllTestimonialsSorted(objects) {
+    const allPosts = getAllTestimonials(objects);
+    return sortPosts(allPosts);
+}
+
 export function getAllCategoryPostsSorted(objects, categoryId) {
     const allPosts = getAllPosts(objects);
+    const categoryPosts = allPosts.filter((post) => post.category === categoryId);
+    return sortPosts(categoryPosts);
+}
+
+export function getAllCategoryTestimonialsSorted(objects, categoryId) {
+    const allPosts = getAllTestimonials(objects);
     const categoryPosts = allPosts.filter((post) => post.category === categoryId);
     return sortPosts(categoryPosts);
 }
@@ -17,6 +28,10 @@ export function getAllAuthorPostsSorted(objects, authorId) {
 
 export function getAllPosts(objects) {
     return objects.filter((object) => object.layout === 'PostLayout');
+}
+
+export function getAllTestimonials(objects) {
+    return objects.filter((object) => object.layout === 'TestimonialLayout');
 }
 
 export function sortPosts(posts) {

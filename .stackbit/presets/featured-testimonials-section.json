@@ -1,0 +1,44 @@
+{
+    "model": "FeaturedTestimonialsSection",
+    "presets": [
+        {
+            "label": "Featured Testimonials",
+            "thumbnail": "images/cases-3-col.png",
+            "data": {
+                "variant": "variant-b",
+                "colors": "colors-b",
+                "title": "Testimonials",
+                "name": "",
+                "actions": [],
+                "showDate": false,
+                "showAuthor": false,
+                "showExcerpt": false,
+                "showReadMoreLink": false,
+                "readMoreLinkLabel": "See All Testimonials",
+                "posts": [
+                    "content/pages/testimonials/yaser-awad.md",
+                    "content/pages/testimonials/brent-wayne.md",
+                    "content/pages/testimonials/danielle-chodrick.md"
+                ],
+                "styles": {
+                    "self": {
+                        "height": "auto",
+                        "width": "wide",
+                        "margin": ["mt-0", "mb-0", "ml-0", "mr-0"],
+                        "padding": ["pt-24", "pb-24", "pl-4", "pr-4"],
+                        "justifyContent": "center"
+                    },
+                    "title": {
+                        "textAlign": "left"
+                    },
+                    "subtitle": {
+                        "textAlign": "left"
+                    },
+                    "actions": {
+                        "justifyContent": "left"
+                    }
+                }
+            }
+        }
+    ]
+}

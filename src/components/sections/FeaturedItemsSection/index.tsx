@@ -1,15 +1,19 @@
 import * as React from 'react';
 import classNames from 'classnames';
+import Markdown from 'markdown-to-jsx';
+import { Parallax, Background } from "react-parallax";
+
 
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 import { getDataAttrs } from '../../../utils/get-data-attrs';
-import Action from '../../atoms/Action';
+import { Action, BackgroundImage } from '../../atoms';
 import FeaturedItem from './FeaturedItem';
 
 export default function FeaturedItemsSection(props) {
     const cssId = props.elementId || null;
     const colors = props.colors || 'colors-d';
     const styles = props.styles || {};
+    const bgSize = props.backgroundSize || 'full';
     const sectionWidth = styles.self?.width || 'wide';
     const sectionHeight = styles.self?.height || 'auto';
     const sectionJustifyContent = styles.self?.justifyContent || 'center';
@@ -21,28 +25,46 @@ export default function FeaturedItemsSection(props) {
             className={classNames(
                 'sb-component',
                 'sb-component-section',
-                'sb-component-featured-items-section',
+                'sb-component-feature-highlight-section',
+                bgSize === 'inset' ? 'w-full' : null,
+                bgSize === 'inset' ? mapMaxWidthStyles(sectionWidth) : null,
                 colors,
                 'flex',
                 'flex-col',
                 'justify-center',
+                'relative',
                 mapMinHeightStyles(sectionHeight),
                 styles.self?.margin,
-                styles.self?.padding || 'py-12 px-4',
                 styles.self?.borderColor,
                 styles.self?.borderStyle ? mapStyles({ borderStyle: styles.self?.borderStyle }) : 'border-none',
-                styles.self?.borderRadius ? mapStyles({ borderRadius: styles.self?.borderRadius }) : null
+                styles.self?.borderRadius ? mapStyles({ borderRadius: styles.self?.borderRadius }) : null,
             )}
             style={{
                 borderWidth: styles.self?.borderWidth ? `${styles.self?.borderWidth}px` : null
             }}
-        >
-            <div className={classNames('flex', 'w-full', mapStyles({ justifyContent: sectionJustifyContent }))}>
+        >   
+        {/* {props.backgroundImage && <BackgroundImage {...props.backgroundImage} />} */}
+        {props.backgroundImage && <Parallax
+            bgImage={props.backgroundImage.url}
+            strength={400}
+            renderLayer={percentage => (
+                <div
+                    style={{
+                        position: 'absolute',
+                        left: '50%',
+                        top: '50%'
+                    }}
+                />
+            )}
+            ></Parallax>}
+            <div className={classNames('flex', 'w-full', 'z-10', mapStyles({ justifyContent: sectionJustifyContent }), styles.self?.padding || 'py-12 px-4')}>
                 <div className={classNames('w-full', mapMaxWidthStyles(sectionWidth))}>
                     {props.title && (
-                        <h2 className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
-                            {props.title}
-                        </h2>
+                        <Markdown
+                        options={{ forceWrapper: true, wrapper: 'h2' }}
+                        className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
+                        {props.title}
+                        </Markdown>
                     )}
                     {props.subtitle && (
                         <p
@@ -116,11 +138,12 @@ function mapMinHeightStyles(height) {
 function mapMaxWidthStyles(width) {
     switch (width) {
         case 'narrow':
-            return 'max-w-5xl';
-        case 'wide':
             return 'max-w-7xl';
+        case 'wide':
+            return 'max-w-screen-2xl';
         case 'full':
             return 'max-w-full';
     }
     return null;
 }
+
