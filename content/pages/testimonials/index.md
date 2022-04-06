@@ -78,7 +78,7 @@ postFeed:
   type: PagedPostsSection
   elementId: ''
   showExcerpt: false
-  showReadMoreLink: false
+  showReadMoreLink: true
   readMoreLinkLabel: ''
   styles:
     self:
