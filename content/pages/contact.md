@@ -31,7 +31,7 @@ hero:
         showIcon: false
         icon: arrowRight
         iconPosition: left
-        style: primary
+        style: secondary
         elementId: ''
     styles:
       self:
