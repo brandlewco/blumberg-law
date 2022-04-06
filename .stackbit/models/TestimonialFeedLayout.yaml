@@ -18,7 +18,7 @@ fields:
   - type: model
     name: postFeed
     readOnly: true
-    label: Post Feed
+    label: Testimonial Feed
     models: [PagedTestimonialsSection]
     default:
       title: null

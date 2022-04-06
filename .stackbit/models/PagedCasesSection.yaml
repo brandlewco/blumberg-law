@@ -1,9 +1,9 @@
 type: object
-name: PagedTestimonialsSection
+name: PagedCasesSection
 label: Post feed
 labelField: title
 extends:
-  - TestimonialFeedSection
+  - CasesFeedSection
 fields:
   - name: title
     hidden: true
