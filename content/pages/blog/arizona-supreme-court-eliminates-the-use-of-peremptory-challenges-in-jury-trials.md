@@ -17,6 +17,7 @@ featuredImage:
 media:
   type: ImageBlock
   altText: Post image
+  url: /images/gavel-placeholder.jpg
 bottomSections: []
 metaDescription: null
 socialImage: null
