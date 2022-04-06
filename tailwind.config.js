@@ -37,6 +37,9 @@ module.exports = {
             fontFamily: {
                 fontPrimary: ['mrs-eaves-xl-serif', 'serif'],
                 fontSecondary: ['basic-sans', 'monospace']
+            },
+            aspectRatio: {
+                '2/3': '2 / 3'
             }
         }
     },
