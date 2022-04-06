@@ -12,7 +12,7 @@ hero:
     colors: colors-d
     variant: variant-a
     backgroundImage:
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/background-court-blue.jpg
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
