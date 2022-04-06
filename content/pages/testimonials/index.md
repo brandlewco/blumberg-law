@@ -57,8 +57,7 @@ topSections:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
-    title: |
-      The Section Title
+    title: Testimonials
     subtitle: Real People. Real Cases.
     text: |-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
