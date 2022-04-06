@@ -19,8 +19,12 @@ hero:
     title: |
       Need a lawyer?
     subtitle: ''
-    text: |
+    text: >
       Contact us today for a confidential case evaluation.
+
+
+      Call us at [602-277-6180](tel:+16022776180), or contact us using the form
+      below.
     actions: []
     styles:
       self:
