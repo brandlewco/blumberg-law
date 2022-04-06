@@ -239,6 +239,10 @@
     #hero-button-grid a {
         @apply flex flex-row justify-start items-center w-full h-auto text-left;
     }
+
+    header nav {
+        @apply px-4 py-3 md:px-4 md:py-0
+    }
     /* #hero-awards h2{
         @apply text-left;
     } */
@@ -323,8 +327,8 @@
         transform: scaleX(0) !important;
     }
 
-    footer svg {
-        /* @apply w-20 mr-8 !important; */
+    footer .contact-svg svg {
+        @apply w-16 mr-4 !important;
     }
 
     /* Buttons */

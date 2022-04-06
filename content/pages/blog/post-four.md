@@ -3,7 +3,7 @@ title: Extreme fly fishing
 layout: PostLayout
 date: '2021-12-01'
 colors: colors-c
-author: content/data/team/hilary-ouse.json
+author: content/data/team/bruce-blumberg.json
 excerpt: >-
   We’re local, seasonal fisherman, supporting fishing restrictions. We fish what
   the sea has to offer, nothing more, and no cheating.

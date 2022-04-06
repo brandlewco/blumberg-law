@@ -20,14 +20,12 @@ export default function Header(props) {
             className={classNames('sb-component', 'sb-component-header', primaryColors, props.isSticky ? 'sticky top-0 z-50' : 'relative')}
             data-sb-field-path={`${props.annotationPrefix}:header`}
         >
-            <div className={classNames()}>
                 <div className={classNames('mx-auto', mapMaxWidthStyles(headerWidth))}>
                     <Link href="#main" className="sr-only">
                         Skip to main content
                     </Link>
                     {headerVariantB(props)}
                 </div>
-            </div>
         </header>
     );
 }
@@ -36,7 +34,7 @@ function headerVariantB(props) {
     const primaryLinks = props.primaryLinks || [];
     const secondaryLinks = props.secondaryLinks || [];
     return (
-        <div className="flex flex-row justify-between items-center relative">
+        <nav className="flex flex-row justify-between items-center relative">
             {(props.logo || (props.title && props.isTitleVisible)) && <div className="mr-8">{siteLogoLink(props)}</div>}
             {primaryLinks.length > 0 && (
                 <ul key="primaryLinks"
@@ -52,7 +50,7 @@ function headerVariantB(props) {
                 </ul>
             )}
             {(primaryLinks.length > 0 || secondaryLinks.length > 0) && <MobileMenu {...props} />}
-        </div>
+        </nav>
     );
 }
 

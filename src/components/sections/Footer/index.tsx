@@ -61,10 +61,10 @@ function footerVariantA(props) {
                 </div>
             )} */}
             {(primaryLinks.length > 0 || socialLinks.length > 0 || props.contacts) && (
-                <div className="sm:flex sm:justify-between sm:items-center">
+                <div className="flex flex-col md:flex-row justify-between items-center">
                     {primaryLinks.length > 0 && (
-                        <div className="md:pl-48">
-                            <ul className="flex flex-col items-start space-y-6 text-lg" data-sb-field-path=".primaryLinks">
+                        <div className="w-full lg:w-1/2 px-8 py-8">
+                            <ul className="contact-svg flex flex-col items-start space-y-6 text-lg" data-sb-field-path=".primaryLinks">
                                 {primaryLinks.map((link, index) => (
                                     <li key={index}>
                                         <Action {...link} data-sb-field-path={`.${index}`} />
@@ -73,7 +73,7 @@ function footerVariantA(props) {
                             </ul>
                         </div>
                     )}
-                    <div className="w-1/2 h-full relative py-48">
+                    <div className="w-full lg:w-1/2 h-full relative py-48">
                     {props.media && <BackgroundImage {...props.media} />}
                     </div>
                 </div>

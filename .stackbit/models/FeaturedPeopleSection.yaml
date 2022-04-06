@@ -51,9 +51,9 @@ fields:
       models:
         - Person
     default:
-      - content/data/team/desmond-eagle.json
-      - content/data/team/dianne-ameter.json
-      - content/data/team/hilary-ouse.json
+      - content/data/team/bruce-blumberg.json
+      - content/data/team/bruce-blumberg.json
+      - content/data/team/bruce-blumberg.json
   - type: style
     name: styles
     styles:
