@@ -77,7 +77,7 @@ title: Arizona Law Insights
 postFeed:
   type: PagedPostsSection
   elementId: ''
-  showExcerpt: false
+  showExcerpt: true
   showReadMoreLink: true
   readMoreLinkLabel: ''
   styles:
