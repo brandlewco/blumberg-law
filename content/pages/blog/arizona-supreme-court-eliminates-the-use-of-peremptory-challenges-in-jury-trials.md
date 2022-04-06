@@ -6,7 +6,7 @@ metaTags: []
 title: >-
   Arizona Supreme Court Eliminates The Use Of “Peremptory” Challenges In Jury
   Trials
-colors: colors-c
+colors: colors-a
 date: '2021-09-01'
 excerpt: Quick excerpt about post.
 featuredImage:
