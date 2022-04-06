@@ -5,7 +5,7 @@ styles:
   title:
     textAlign: center
 bottomSections: []
-addTitleSuffix: true
+addTitleSuffix: false
 postFeed:
   type: PagedPostsSection
   elementId: ''
@@ -87,5 +87,5 @@ topSections:
         textAlign: left
       text:
         textAlign: left
-metaTitle: Blumberg & Associates Testimonials
+metaTitle: Blumberg Testimonials
 ---
