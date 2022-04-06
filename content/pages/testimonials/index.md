@@ -73,7 +73,7 @@ bottomSections:
         textAlign: center
     type: MediaGallerySection
 addTitleSuffix: true
-title: Arizona Law Insights
+title: Testimonials
 postFeed:
   type: PagedPostsSection
   elementId: ''
