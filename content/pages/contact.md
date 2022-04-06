@@ -17,7 +17,7 @@ hero:
       backgroundPosition: center
       opacity: 100
     title: |
-      Need a lawyer?
+      Contact us today for a confidential case evaluation.
     subtitle: ''
     text: >
       Get dedicated, experienced, and proven legal representation in Phoenix,
