@@ -42,7 +42,7 @@ postFeed:
   title: null
   subtitle: null
   showDate: true
-  showAuthor: true
+  showAuthor: false
   variant: variant-b
   actions: []
   colors: colors-a
