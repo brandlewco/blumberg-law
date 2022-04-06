@@ -115,9 +115,6 @@ sections:
       text:
         textAlign: left
     type: ContactSection
-    text: |+
-      test
-
 sidebar: []
 footer: []
 ---
