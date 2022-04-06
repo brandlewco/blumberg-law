@@ -87,5 +87,5 @@ topSections:
         textAlign: left
       text:
         textAlign: left
-metaTitle: Testimonials
+metaTitle: Blumberg Testimonials
 ---
