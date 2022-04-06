@@ -21,6 +21,7 @@ media:
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-qkxt493m4.json
 ---
 Throughout the state of Arizona, the use of illegal drugs is strictly prohibited. According to the Center for Disease Control and Prevention, Arizona had the 12th highest drug mortality rate in the United States during the year 2014. This statistic warrants concern, as Arizona is not even in the top quartile for the most populous states in the nation. As a result of the widespread drug-related deaths in Arizona, government officials have implemented stricter laws in an attempt to crack down on the prevalence of drug use. Thus, an individual who has been charged for possessing “dangerous” drugs, is at risk of receiving serious penalties that may even require years of jail time. If you have been charged with drug possession and you wish to reduce your punishment or clear your name from this serious charge, you will need the assistance of a highly skilled Arizona drug attorney.
 
