@@ -30,7 +30,7 @@ postFeed:
       justifyContent: center
       borderRadius: none
       borderWidth: 8
-      borderStyle: solid
+      borderStyle: none
       borderColor: border-secondary
     title:
       textAlign: center
