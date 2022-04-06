@@ -22,6 +22,7 @@ hero:
     text: >
       Contact us today for a confidential case evaluation.
 
+
       Get dedicated, experienced, and proven legal representation in Phoenix,
       Arizona with Bruce Blumberg.
     actions: []
