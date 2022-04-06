@@ -8,7 +8,7 @@ bottomSections: []
 addTitleSuffix: false
 postFeed:
   type: PagedPostsSection
-  elementId: ''
+  elementId: testimonial-light
   showExcerpt: true
   showReadMoreLink: true
   readMoreLinkLabel: Read More
