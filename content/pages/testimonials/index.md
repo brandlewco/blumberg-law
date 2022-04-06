@@ -50,7 +50,7 @@ postFeed:
 topSections:
   - type: TextSection
     elementId: ''
-    colors: colors-d
+    colors: colors-b
     variant: variant-b
     backgroundImage:
       url: /images/background-court-blue.jpg
