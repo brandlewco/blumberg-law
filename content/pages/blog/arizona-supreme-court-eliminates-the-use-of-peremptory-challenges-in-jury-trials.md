@@ -11,7 +11,7 @@ date: '2021-09-01'
 excerpt: Quick excerpt about post.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/gavel-placeholder.jpg
   altText: Post thumbnail image
   caption: ''
 media:
