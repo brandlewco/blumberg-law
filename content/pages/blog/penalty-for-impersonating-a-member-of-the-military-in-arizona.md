@@ -16,7 +16,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
