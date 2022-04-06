@@ -27,7 +27,7 @@ hero:
         label: Learn more
         altText: ''
         url: /
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: left
         style: primary
