@@ -13,7 +13,7 @@ postFeed:
     self:
       width: narrow
       padding:
-        - pt-0
+        - pt-8
         - pl-4
         - pr-4
         - pb-12
@@ -123,5 +123,4 @@ topSections:
       text:
         textAlign: left
 addTitleSuffix: true
-# title: Arizona Legal Insights Blog
 ---
