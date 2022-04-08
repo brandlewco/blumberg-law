@@ -8,7 +8,7 @@ metaTags: []
 title: Attorney Profile
 sections:
   - type: TextSection
-    colors: colors-d
+    colors: colors-a
     variant: variant-b
     title: >-
       Bruce Blumberg
@@ -39,10 +39,10 @@ sections:
         textAlign: left
     elementId: bruce-blumberg
   - type: FeaturedItemsSection
-    colors: colors-e
+    colors: colors-b
     elementId: ''
     title: |
-      Connect with Bruce.
+      **Connect with Bruce.**
     backgroundSize: full
     subtitle: ''
     items:
@@ -207,7 +207,7 @@ sections:
         justifyContent: center
     title: Cases of Interest
     subtitle: ''
-    colors: colors-e
+    colors: colors-d
     posts:
       - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
       - content/pages/cases/accused-multiple-accounts-sexual-misconduct.md

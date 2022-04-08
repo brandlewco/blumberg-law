@@ -6,22 +6,21 @@ metaTags: []
 title: Accused of Possession of Child Pornography? Fighting the Charges
 colors: colors-d
 date: '2021-01-27'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: '/images/gavel-placeholder.jpg'
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: '/images/gavel-placeholder.jpg'
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
 ---
+
 Possession of or the transmission of child pornography is a serious crime in Arizona, and is a heavily punished Felony nationwide, sometimes resulting in life imprisonment. Being such a serious crime, it is of utmost imperative to contact a criminal defense attorney immediately. If you suspect you have been wrongly accused with possession of or transmission of child pornography, or are wondering what your legal options are, it is of time-sensitive importance to contact an attorney as soon as possible. Child pornography accusations can drastically and dramatically alter someone’s life, as such is best resolved sooner and with expert advice.
 
 What is Child Pornography, and What is Possession of it ?

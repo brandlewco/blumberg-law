@@ -39,8 +39,8 @@ export default function QuoteSection(props) {
             }}
         >
             {/* {props.backgroundImage && <BackgroundImage {...props.backgroundImage} />} */}
-            {props.backgroundImage && <Parallax
-            bgImage={props.backgroundImage.url}
+            <Parallax
+            bgImage={props.backgroundImage ? props.backgroundImage.url : null}
             strength={400}
             renderLayer={percentage => (
                 <div
@@ -51,11 +51,13 @@ export default function QuoteSection(props) {
                     }}
                 />
             )}
-            ></Parallax>}
+            >
             <div className={classNames('flex', 'relative', 'w-full',
                 sectionStyles.padding || 'py-12 px-4', mapStyles({ justifyContent: sectionJustifyContent }))}>
                 <div className={classNames('w-full', mapMaxWidthStyles(sectionWidth))}>{quoteContent(props)}</div>
             </div>
+            </Parallax>
+
         </div>
     );
 }

@@ -6,23 +6,22 @@ metaTags: []
 title: Facing Money Laundering Accusations? What You Need to Know
 colors: colors-d
 date: '2021-03-09'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: '/images/gavel-placeholder.jpg'
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: '/images/gavel-placeholder.jpg'
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
+
 Money laundering is a serious crime that could have long term punishments which follow. Money laundering surmounts the millions, billions, and even trillions of dollars worldwide. The figures and general statistics of how much money is laundered is difficult to keep track of due to the nature of secrecy involved with laundering.
 
 It is estimated that anywhere from 800 billion to 2 trillion dollars are laundered every year. While it is difficult to determine for certain how much is laundered, it becomes a lot easier with the identification of individual money laundering operations. If you have been accused of money laundering, it is critically important that you obtain legal help immediately.

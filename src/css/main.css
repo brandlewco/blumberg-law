@@ -4,7 +4,7 @@
 
 @layer base {
     html {
-        font-size: 18px;
+     @apply text-xs md:text-base
     }
     body {
         @apply bg-main;
@@ -18,6 +18,25 @@
         @apply break-words font-bold;
         line-height: 1.15;
     }
+    h1, .h1 {
+        @apply text-5xl md:text-6xl
+    }
+    h2 {
+        @apply text-4xl md:text-5xl
+    }
+    h3 {
+        @apply text-3xl md:text-4xl
+    }
+    h4 {
+        @apply text-2xl md:text-3xl
+    }
+    h5 {
+        @apply text-xl md:text-2xl
+    }
+    h6 {
+        @apply text-lg md:text-xl
+    }
+    
 }
 
 @layer components {
@@ -167,7 +186,7 @@
     }
     /* custom */
     #call-us {
-        @apply bg-transparent text-primary lg:text-white text-3xl font-serif leading-tight border-0 shadow-none p-0 m-0 text-center w-full;
+        @apply bg-transparent text-primary lg:text-white text-3xl font-serif leading-none border-0 shadow-none p-0 m-0 text-center w-full;
     }
     #call-us div {
         @apply flex flex-col justify-between;
@@ -178,7 +197,7 @@
 
     #call-us strong {
         @apply lg:text-secondary font-serif;
-        font-size: 0.5rem;
+        font-size: 0.75rem;
     }
     #call-us:hover {
         @apply bg-transparent text-white;
@@ -257,13 +276,6 @@
         @apply float-right w-1/3 ml-2 mt-2 mb-2;
     }
 
-    /* sidebar */
-    /* #sidebar a {
-        @apply mb-0;
-    } */
-    
-
-
     /* about - attorney profile */
     #bruce-blumberg img {
         @apply w-full pr-16 pt-8;
@@ -271,7 +283,7 @@
 
     /* testimonials */
     .sb-component-testimonial-feed-section article {
-        @apply border-complementary-alt border-b-4 border-t-0
+        @apply border-complementary-alt border-b-4 border-t-0;
     }
     .quote {
         @apply relative;
@@ -318,8 +330,13 @@
         overflow: visible !important;
     }
 
+    .react-parallax img {
+        @apply object-cover;
+
+    }
+
     .react-parallax-bgimage {
-        @apply -ml-4;
+        /* @apply -ml-4 object-cover; */
     }
 
     /* footer */
@@ -477,7 +494,7 @@
         }
         .sb-component-button-secondary,
         .sb-component-social-secondary {
-            @apply border-on-secondary text-on-secondary hover:bg-light hover:border-primary hover:text-primary;
+            @apply border-on-secondary text-on-secondary hover:bg-white hover:border-primary hover:text-primary;
         }
         .sb-card {
             @apply bg-light text-dark;

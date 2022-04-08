@@ -6,9 +6,7 @@ metaTags: []
 title: Penalty For Impersonating A Member Of The Military In Arizona
 colors: colors-d
 date: '2021-07-16'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/gavel-placeholder.jpg
@@ -23,6 +21,7 @@ metaDescription: null
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
+
 America’s war heroes are among the most venerated individuals in our society. But what happens if you try to impersonate them? In everyday language, this is sometimes referred to as “stolen valor.” It goes without saying that the general public looks down upon this behavior, but how is it viewed in the eyes of the law? Is impersonating a military officer illegal in Arizona? If so, what kinds of consequences might you face if charged with this crime?
 
 **You Could Face Felony Fraud Charges **
@@ -45,6 +44,6 @@ Don’t face any criminal charges without the help of a skilled [Phoenix crimin
 
 Resource:
 
-tucson.com/news/local/crime/tucson-man-faces-charges-of-impersonating-air-force-officer/article\_84d6ede2-9de0-11e0-816d-001cc4c03286.html
+tucson.com/news/local/crime/tucson-man-faces-charges-of-impersonating-air-force-officer/article_84d6ede2-9de0-11e0-816d-001cc4c03286.html
 
 denverpost.com/2009/06/11/man-accused-of-impersonating-war-hero-in-ariz/

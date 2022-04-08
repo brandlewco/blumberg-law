@@ -182,7 +182,7 @@ sections:
 
             showIcon: true
             icon: sexCrime
-            url: /
+            url: /phoenix-criminal-attorney/sex-crimes/
             style: secondary
             iconPosition: left
         styles:
@@ -198,7 +198,7 @@ sections:
 
             showIcon: true
             icon: violentCrime
-            url: /
+            url: /phoenix-criminal-attorney/violent-crimes/
             style: secondary
             iconPosition: left
         styles:
@@ -213,7 +213,7 @@ sections:
               #### Federal Crime
 
             altText: Federal Crime
-            url: /
+            url: /phoenix-criminal-attorney/federal-crimes/
             showIcon: true
             icon: gavel
             iconPosition: left
@@ -231,7 +231,7 @@ sections:
               #### White Collar Crime
 
             altText: White Collar Crime
-            url: /
+            url: /phoenix-criminal-attorney/white-collar-crimes/
             showIcon: true
             icon: whiteCollarCrime
             iconPosition: left
@@ -246,12 +246,11 @@ sections:
       - elementId: ''
         subtitle: ''
         actions:
-          - label: |
+          - label: |+
               #### Child Custody
 
-              #### & Parenting Time
             altText: Child Custody & Parenting Time
-            url: /
+            url: /phoenix-family-attorney/child-custody-parenting-time/
             showIcon: true
             icon: childCustody
             iconPosition: left
@@ -295,7 +294,7 @@ sections:
       backgroundPosition: center
       opacity: 100
   - elementId: ''
-    colors: colors-d
+    colors: colors-a
     variant: variant-a
     title: >-
       A lawyer with the skills and experience you need when facing the fight of
@@ -354,7 +353,7 @@ sections:
       text:
         textAlign: left
     type: TextSection
-  - colors: colors-e
+  - colors: colors-d
     elementId: hero-awards
     title: Top Rated Criminal Defense Attorney.
     images:
@@ -536,7 +535,7 @@ sections:
         justifyContent: center
     title: Cases of Interest
     subtitle: ''
-    colors: colors-e
+    colors: colors-d
     posts:
       - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
       - content/pages/cases/accused-multiple-accounts-sexual-misconduct.md
@@ -653,7 +652,7 @@ sections:
       caption: Caption of the image
       elementId: ''
   - elementId: ''
-    colors: colors-e
+    colors: colors-a
     backgroundSize: full
     title: Schedule Your Consultation
     text: |
@@ -727,7 +726,7 @@ sections:
     type: ContactSection
   - type: TextSection
     elementId: ''
-    colors: colors-e
+    colors: colors-a
     variant: variant-a
     subtitle: ''
     text: >
@@ -760,7 +759,7 @@ sections:
         textAlign: left
   - type: TextSection
     elementId: ''
-    colors: colors-d
+    colors: colors-a
     variant: variant-a
     subtitle: ''
     text: >

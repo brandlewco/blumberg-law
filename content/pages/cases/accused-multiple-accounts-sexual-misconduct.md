@@ -17,7 +17,7 @@ Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur
 
 > Vestibulum ullamcorper risus auctor eleifend consequat.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+![Placeholder Image](/images/gavel-placeholder.jpg)
 
 In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
 

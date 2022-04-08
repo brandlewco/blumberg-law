@@ -53,7 +53,7 @@ hero:
       opacity: 100
 sections:
   - type: TextSection
-    colors: colors-d
+    colors: colors-a
     variant: variant-a
     title: |
       Phoenix Paternity Attorney
@@ -81,7 +81,7 @@ sections:
         textAlign: left
 sidebar:
   - type: FeaturedItemsSection
-    colors: colors-e
+    colors: colors-d
     backgroundSize: full
     title: |
       #### CHOOSE A PRACTICE AREA **TO LEARN MORE**
@@ -186,7 +186,7 @@ footer:
         justifyContent: center
     title: Cases of Interest
     subtitle: ''
-    colors: colors-e
+    colors: colors-d
     posts:
       - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
       - content/pages/cases/accused-multiple-accounts-sexual-misconduct.md
