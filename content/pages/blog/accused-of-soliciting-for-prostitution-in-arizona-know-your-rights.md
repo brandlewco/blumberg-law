@@ -15,7 +15,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/arizona-accused-of-soliciting-prostitution.jpg
-  altText: Post image
+  altText: Soliciting prostitution in Arizona
 bottomSections: []
 metaDescription: null
 socialImage: null
