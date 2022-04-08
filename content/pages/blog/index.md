@@ -57,5 +57,5 @@ topSections:
         textAlign: left
 addTitleSuffix: true
 metaTitle: Bruce Blumberg Arizona Law Insight Blog
-metaDescription: 'Read about recent Arizona court rulings, and ot'
+metaDescription: 'Read about recent Arizona court rulings, and other '
 ---
