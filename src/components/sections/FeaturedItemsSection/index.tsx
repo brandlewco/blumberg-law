@@ -44,19 +44,20 @@ export default function FeaturedItemsSection(props) {
             }}
         >   
         {/* {props.backgroundImage && <BackgroundImage {...props.backgroundImage} />} */}
-        {props.backgroundImage && <Parallax
-            bgImage={props.backgroundImage.url}
+        <Parallax
+            bgImage={props.backgroundImage ? props.backgroundImage.url : null}
             strength={400}
             renderLayer={percentage => (
                 <div
                     style={{
                         position: 'absolute',
                         left: '50%',
-                        top: '50%'
+                        top: '50%',
+                        objectFit: 'cover',
                     }}
                 />
             )}
-            ></Parallax>}
+        >
             <div className={classNames('flex', 'w-full', 'z-10', mapStyles({ justifyContent: sectionJustifyContent }), styles.self?.padding || 'py-12 px-4')}>
                 <div className={classNames('w-full', mapMaxWidthStyles(sectionWidth))}>
                     {props.title && (
@@ -91,6 +92,7 @@ export default function FeaturedItemsSection(props) {
                     )}
                 </div>
             </div>
+            </Parallax>
         </div>
     );
 }

@@ -41,8 +41,8 @@ export default function TextSection(props) {
             }}
         >
             {/* {props.backgroundImage && <BackgroundImage {...props.backgroundImage} />} */}
-            {props.backgroundImage && <Parallax
-            bgImage={props.backgroundImage.url}
+            <Parallax
+            bgImage={props.backgroundImage ? props.backgroundImage.url : null}
             strength={400}
             renderLayer={percentage => (
                 <div
@@ -53,12 +53,13 @@ export default function TextSection(props) {
                     }}
                 />
             )}
-            ></Parallax>}
-            <div className={classNames('flex', 'w-full', 'z-10', mapStyles({ justifyContent: sectionJustifyContent }), sectionStyles.padding)}>
-                <div className={classNames('w-full', mapMaxWidthStyles(sectionWidth))}>
-                    {textBodyVariants(props)}
+            >
+                <div className={classNames('flex', 'w-full', 'z-10', mapStyles({ justifyContent: sectionJustifyContent }), sectionStyles.padding)}>
+                    <div className={classNames('w-full', mapMaxWidthStyles(sectionWidth))}>
+                        {textBodyVariants(props)}
+                    </div>
                 </div>
-            </div>
+            </Parallax>
         </div>
     );
 }
