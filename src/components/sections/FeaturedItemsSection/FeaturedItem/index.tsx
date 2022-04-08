@@ -80,7 +80,7 @@ function itemActions(props) {
             })}
         >
             <div
-                className={classNames('flex', 'flex-wrap', 'items-center', '-mx-2', {
+                className={classNames('actions', 'flex', 'flex-wrap', 'items-center', '-mx-2', {
                     'justify-center': styles.self?.textAlign === 'center',
                     'justify-end': styles.self?.textAlign === 'right'
                 })}

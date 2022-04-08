@@ -49,8 +49,8 @@ export default function TestimonialFeedSection(props) {
         >
             <div className={classNames('flex', 'w-full', mapStyles({ justifyContent: sectionJustifyContent }))}>
                 <div className={classNames('w-full', mapMaxWidthStyles(sectionWidth))}>
-                    <div className='flex flex-row gap-12'>
-                        {props.media && <div className='w-full lg:w-1/2'>{heroMedia(props.media)}</div> }
+                    <div className='flex flex-col-reverse lg:flex-row gap-12'>
+                        {props.media && <div className='w-full lg:w-1/2 px-4 lg:px-0 object-cover overflow-hidden'>{heroMedia(props.media)}</div> }
                         <div className='w-full'>
                             {props.title && (
                                 <Markdown

@@ -4,7 +4,7 @@
 
 @layer base {
     html {
-     @apply text-xs md:text-base
+        font-size: 18px;
     }
     body {
         @apply bg-main;
@@ -244,6 +244,9 @@
     #homepage-hero-1 div.max-w-screen-2xl > div {
         @apply lg:w-1/2 w-full;
     }
+    /* #homepage-hero-1 .absolute {
+        @apply
+    } */
 
     #hero-button-grid article div {
         @apply w-full;
@@ -274,6 +277,15 @@
 
     .markdown-image img {
         @apply float-right w-1/3 ml-2 mt-2 mb-2;
+    }
+
+    /* sidebar */
+    .sidebar .actions {
+        @apply flex flex-col w-full;
+    }
+
+    .sidebar .actions a {
+        @apply w-full
     }
 
     /* about - attorney profile */
@@ -523,7 +535,7 @@
             @apply border-on-complementary text-on-complementary hover:bg-light hover:border-primary hover:text-primary;
         }
         .sb-card {
-            @apply bg-light text-dark;
+            @apply bg-light text-dark m-2;
         }
         .sb-card h2,
         .sb-card h3,

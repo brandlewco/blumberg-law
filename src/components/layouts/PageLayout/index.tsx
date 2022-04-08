@@ -45,7 +45,7 @@ export default function PageLayout(props) {
                         </div>
                     )}
                     {sidebar.length > 0 && (
-                        <div className="w-full md:w-1/4" data-sb-field-path="sidebar">
+                        <div className="sidebar w-full md:w-1/4" data-sb-field-path="sidebar">
                             {sidebar.map((section, index) => {
                                 const Component = getComponent(section.type);
                                 if (!Component) {
