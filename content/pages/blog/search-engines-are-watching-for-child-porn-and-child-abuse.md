@@ -22,12 +22,14 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+Only a few years ago, search engines like Google, Bing, Internet Explorer and others remained neutral on the issue of [child porn](https://www.azblumberglaw.com/phoenix-criminal-attorney/child-pornography/) and child abuse, not really taking an active hand in blocking it. Google had previously gone as far as creating a database where law enforcement, charities, organizations and citizens could add details or locations of abuse imagery, which it would then hide or remove from search results. But in the last year, all the big search engines have changed their approach to child abuse, child porn and other [sex crimes](https://www.azblumberglaw.com/phoenix-criminal-attorney/sex-crimes/) crimes because they hope to help make a difference in fighting these crimes. In particular, Google and the other search engines now block illegal content, both online and in their email programming.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+Search engines track user behavior in order to tailor advertising to a user’s particular taste. As a consequence, that allows companies like Google to monitor both online surfing and email looking for offenders.  They also act upon notifications from citizens about offending content including child porn, bestiality, fetishism and more. In November 2013, Google began installing measures to block over 100,000 online search results linked to child abuse worldwide.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+When a search engine company discovers offending material, their first step is to notify the proper authorities. Then they remove or block the offending material within 24 hours of the notification.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+In August 2014, Google’s precautions took a big step forward. A Houston restaurant worker, John Henry Skillern, age 41, was arrested following a cyber-tip Google passed along to the National Center for Missing and Exploited Children.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Google has promised that once its protection software is honed, it will share it with other internet companies and child protection organizations.
+
+Microsoft, in a strong team effort, is working closely with Google and says its Bing search will also strive to produce clean results for its users.
