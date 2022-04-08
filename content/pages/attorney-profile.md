@@ -126,7 +126,7 @@ sections:
           - pt-40
           - pb-10
           - pl-8
-          - pr-4
+          - pr-8
         justifyContent: center
       quote:
         textAlign: left
