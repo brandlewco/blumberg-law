@@ -177,7 +177,7 @@ sections:
     readMoreLinkLabel: See All Testimonials
     subtitle: >-
       Hear directly from our clients why Bruce is the best criminal defense and
-      family law lawyer in Arizona.
+      family law lawyer in Phoenix, Arizona.
   - type: FeaturedCasesSection
     elementId: ''
     showDate: true
