@@ -10,7 +10,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/arizona-money-laundering-accusations.jpg
-  altText: Post thumbnail image
+  altText: Money laundering in Arizona
   caption: ''
 media:
   type: ImageBlock
