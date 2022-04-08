@@ -10,7 +10,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/arizona-caught-with-dangerous-drugs.jpg
-  altText: Post thumbnail image
+  altText: Drug possession Arizona
   caption: ''
 media:
   type: ImageBlock
