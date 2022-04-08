@@ -278,8 +278,8 @@ sections:
         padding:
           - pt-16
           - pb-16
-          - pl-4
-          - pr-4
+          - pl-8
+          - pr-8
         justifyContent: center
       title:
         textAlign: left
@@ -343,7 +343,7 @@ sections:
           - mr-0
         padding:
           - pt-16
-          - pb-16
+          - pb-8
           - pl-8
           - pr-8
         justifyContent: center
@@ -493,7 +493,7 @@ sections:
           - mr-0
         padding:
           - pt-16
-          - pb-16
+          - pb-8
           - pl-8
           - pr-8
         justifyContent: center
@@ -523,10 +523,10 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
+          - pt-16
+          - pb-16
+          - pl-8
+          - pr-8
         justifyContent: center
       title:
         textAlign: center
@@ -570,10 +570,10 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
+          - pt-16
+          - pb-16
+          - pl-8
+          - pr-8
         justifyContent: center
       title:
         textAlign: left
@@ -626,10 +626,10 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
+          - pt-16
+          - pb-16
+          - pl-8
+          - pr-8
         justifyContent: center
       title:
         textAlign: left
@@ -653,9 +653,9 @@ sections:
       caption: Caption of the image
       elementId: ''
   - elementId: ''
-    colors: colors-a
+    colors: colors-d
     backgroundSize: full
-    title: Schedule Your Consultation
+    title: Schedule Your Confidential Case Consultation
     text: |
       Fill Out The Form To Get Started.
     form:
@@ -714,9 +714,9 @@ sections:
           - mr-0
         padding:
           - pt-16
-          - pb-16
+          - pb-0
           - pl-8
-          - pr-4
+          - pr-8
         alignItems: center
         justifyContent: center
         flexDirection: row
@@ -727,12 +727,12 @@ sections:
     type: ContactSection
   - type: TextSection
     elementId: ''
-    colors: colors-a
+    colors: colors-d
     variant: variant-a
     subtitle: ''
     text: >
       Please do not include any confidential or sensitive information in a
-      contact form, text message, or voicemail. The contact form sends
+      contact form, text message, or voicemail. This contact form sends
       information by non-encrypted email, which is not secure. Submitting a
       contact form, sending a text message, making a phone call, or leaving a
       voicemail does not create an attorney-client relationship.
@@ -747,7 +747,7 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-0
+          - pt-4
           - pb-8
           - pl-4
           - pr-4
@@ -853,9 +853,9 @@ sections:
           - mr-0
         padding:
           - pt-16
-          - pb-28
-          - pl-4
-          - pr-4
+          - pb-16
+          - pl-8
+          - pr-8
         justifyContent: center
       title:
         textAlign: left

@@ -45,8 +45,8 @@ hero:
         padding:
           - pt-8
           - pb-8
-          - pl-4
-          - pr-4
+          - pl-8
+          - pr-8
         justifyContent: center
       title:
         textAlign: left
@@ -112,8 +112,8 @@ sections:
         padding:
           - pt-16
           - pb-8
-          - pl-4
-          - pr-4
+          - pl-8
+          - pr-8
         alignItems: center
         justifyContent: center
         flexDirection: row
