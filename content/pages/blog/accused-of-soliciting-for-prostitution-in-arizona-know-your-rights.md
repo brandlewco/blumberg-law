@@ -10,7 +10,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/arizona-accused-of-soliciting-prostitution.jpg
-  altText: Soliciting prostitution in arizona
+  altText: Soliciting prostitution in Arizona
   caption: ''
 media:
   type: ImageBlock
