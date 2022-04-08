@@ -10,7 +10,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/arizona-possesion-of-child-pornography.jpg
-  altText: Post thumbnail image
+  altText: Charged with possessing child pornography
   caption: ''
 media:
   type: ImageBlock
