@@ -42,7 +42,7 @@ sections:
     colors: colors-b
     elementId: ''
     title: |
-      Connect with Bruce.
+      **Connect with Bruce.**
     backgroundSize: full
     subtitle: ''
     items:
