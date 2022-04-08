@@ -15,7 +15,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/arizona-possesion-of-child-pornography.jpg
-  altText: Post image
+  altText: Charged with possessing child pornography
 bottomSections: []
 metaDescription: null
 socialImage: null
