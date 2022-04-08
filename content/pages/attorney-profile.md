@@ -167,7 +167,6 @@ sections:
     title: Testimonials
     colors: colors-b
     posts:
-      - content/pages/testimonials/yaser-awad.md
       - content/pages/testimonials/brent-wayne.md
       - content/pages/testimonials/danielle-chodrick.md
     name: ''
