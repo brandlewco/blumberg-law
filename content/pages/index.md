@@ -165,7 +165,7 @@ sections:
               #### Drug Crimes
 
             showIcon: true
-            url: /phoenix-criminal-attorney/drug-crimes/
+            url: phoenix-criminal-attorney/drug-crimes/
             style: secondary
             iconPosition: left
             icon: drugCrime
