@@ -175,6 +175,7 @@ sections:
     showExcerpt: false
     showReadMoreLink: false
     readMoreLinkLabel: See All Testimonials
+    subtitle: Hear from our clients why Bruce is the best cho
   - type: FeaturedCasesSection
     elementId: ''
     showDate: true
