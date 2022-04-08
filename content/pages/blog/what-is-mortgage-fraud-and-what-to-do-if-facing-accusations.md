@@ -14,7 +14,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: /images/gavel-placeholder.jpg
+  url: /images/arizona-mortgage-fraud.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
