@@ -23,7 +23,7 @@ postFeed:
         - mr-0
       padding:
         - pt-8
-        - pb-12
+        - pb-16
         - pl-8
         - pr-8
       justifyContent: center
