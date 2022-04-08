@@ -22,12 +22,23 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+Despite the fact that divorce is becoming less popular nationwide, there is one type of divorce that is on the rise: the so-called “gray divorce.” This term, dedicated to couples over the age of 50 who choose to divorce, is en-vogue amongst baby boomers, as divorces for couples in this demographic are up more than 100 percent since the 1990s. That’s a startling increase for an age group that is traditionally thought to have cleared many of the hurdles that lead to divorce.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+There are specific considerations that must be addressed for these gray divorcees. If you find yourself in this increasing group, keep the following in mind, and speak with an attorney who can help you navigate the legal, financial, tax and emotional challenges that lie ahead.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+*   **Whose House is This?**
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+    *   Are you in a community property state? Whose name(s) is on the title? Does my spouse have an equitable lien? There are lots of questions to answer when dividing the most expensive assets of a divorcing couple. Hiring experienced counsel is the best way to ensure you’re paying attention to the many small details that can cause big challenges down the line. Remember, to keep the house, you’ll likely make sacrifices in the negotiations somewhere else.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+*   **Whose Debt is This?**
+
+    *   Dividing assets is often the main focus of a divorcing couple, but many times the division of debt is of equal importance – and equal stress. Itemize everything that is owed, and be prepared to make the difficult decisions about who “owns” what, and how will these debts be divided.
+
+*   **Where’s the Income?**
+
+    *   If you were married for more than 10 years, you can possibly receive benefits on your ex-spouse’s record. There are qualifying factors for this, of course, including being at least 62 years of age, but speak with your attorney to understand where your future income will be generated (and who gets what).
+
+*   **Social Adjustment Post-Divorce**
+
+    *   Aside from money, houses, debts and the myriad other factors that are inherent in your divorce, you should pay attention to how both parties will adjust on a social basis moving forward. Consider talking with friends, family or even a therapist who is well-versed in this area to explore ways to cope and move forward socially. This is an important if often overlooked portion of the recovery process, and one that shouldn’t be ignored.
+
