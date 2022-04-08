@@ -10,7 +10,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/arizona-deadly-weapons.jpg
-  altText: Post thumbnail image
+  altText: Deadly or dangerous weapon arizona
   caption: ''
 media:
   type: ImageBlock
