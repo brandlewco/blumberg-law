@@ -168,7 +168,6 @@ sections:
     colors: colors-b
     posts:
       - content/pages/testimonials/brent-wayne.md
-      - content/pages/testimonials/danielle-chodrick.md
       - content/pages/testimonials/megan-mayes.md
     name: ''
     showDate: false
