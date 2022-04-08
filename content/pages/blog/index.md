@@ -1,6 +1,6 @@
 ---
 layout: PostFeedLayout
-numOfPostsPerPage: 10
+numOfPostsPerPage: 8
 postFeed:
   showDate: true
   showAuthor: true
@@ -56,4 +56,8 @@ topSections:
       text:
         textAlign: left
 addTitleSuffix: true
+metaTitle: Bruce Blumberg Arizona Law Insight Blog
+metaDescription: >-
+  Read about recent Arizona court rulings, and learns ways to protects yourself
+  from the law.
 ---
