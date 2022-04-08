@@ -1,6 +1,6 @@
 ---
 layout: PostFeedLayout
-numOfPostsPerPage: 10
+numOfPostsPerPage: 8
 postFeed:
   showDate: true
   showAuthor: true
