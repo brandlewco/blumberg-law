@@ -14,7 +14,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: /images/gavel-placeholder.jpg
+  url: /images/arizona-money-laundering-accusations.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
