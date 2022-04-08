@@ -716,7 +716,7 @@ sections:
           - pt-16
           - pb-16
           - pl-8
-          - pr-4
+          - pr-8
         alignItems: center
         justifyContent: center
         flexDirection: row
