@@ -102,37 +102,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: QuoteSection
-    colors: colors-b
-    quote: |
-      "A quote of interest from Bruce that highlights his experience"
-    name: ''
-    title: ''
-    backgroundImage:
-      type: BackgroundImage
-      url: /images/background-arizona-desert.png
-      backgroundSize: cover
-      backgroundPosition: center
-      opacity: 70
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-40
-          - pb-10
-          - pl-4
-          - pr-4
-        justifyContent: center
-      quote:
-        textAlign: left
-      name:
-        textAlign: left
-      title:
-        textAlign: left
   - type: FeaturedTestimonialsSection
     elementId: ''
     showAuthor: false
