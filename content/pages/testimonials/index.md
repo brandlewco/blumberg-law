@@ -25,7 +25,7 @@ postFeed:
         - pt-8
         - pb-12
         - pl-8
-        - pr-4
+        - pr-8
       justifyContent: center
       borderRadius: none
       borderWidth: 0
