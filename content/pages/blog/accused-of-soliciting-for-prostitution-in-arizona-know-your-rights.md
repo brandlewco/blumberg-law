@@ -9,13 +9,13 @@ date: '2021-03-15'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
-  altText: Post thumbnail image
+  url: /images/arizona-accused-of-soliciting-prostitution.jpg
+  altText: Soliciting prostitution in Arizona
   caption: ''
 media:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
-  altText: Post image
+  url: /images/arizona-accused-of-soliciting-prostitution.jpg
+  altText: Soliciting prostitution in Arizona
 bottomSections: []
 metaDescription: null
 socialImage: null

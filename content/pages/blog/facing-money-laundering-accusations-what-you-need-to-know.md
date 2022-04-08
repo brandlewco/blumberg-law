@@ -9,13 +9,13 @@ date: '2021-03-09'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
-  altText: Post thumbnail image
+  url: /images/arizona-money-laundering-accusations.jpg
+  altText: Money laundering in Arizona
   caption: ''
 media:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
-  altText: Post image
+  url: /images/arizona-money-laundering-accusations.jpg
+  altText: Money laundering in Arizona
 bottomSections: []
 metaDescription: null
 socialImage: null

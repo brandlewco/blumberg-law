@@ -13,10 +13,10 @@ postFeed:
     self:
       width: wide
       padding:
-        - pt-8
-        - pl-4
-        - pr-4
-        - pb-8
+        - pt-16
+        - pl-8
+        - pr-8
+        - pb-16
 styles:
   title:
     textAlign: center
@@ -32,7 +32,7 @@ topSections:
       backgroundPosition: center
       opacity: 100
     title: Arizona Legal Insights Blog
-    subtitle: The latest rulings and tips to keep yourself protected.
+    subtitle: 'Recent rulings from Arizona courts, and how to keep yourself protected.'
     actions: []
     styles:
       self:
@@ -44,10 +44,10 @@ topSections:
           - ml-0
           - mr-0
         padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
+          - pt-16
+          - pb-16
+          - pl-8
+          - pr-8
         justifyContent: center
       title:
         textAlign: left

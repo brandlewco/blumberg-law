@@ -28,8 +28,8 @@ sections:
         padding:
           - pt-16
           - pb-16
-          - pl-4
-          - pr-4
+          - pl-8
+          - pr-8
         justifyContent: center
       title:
         textAlign: left
@@ -123,10 +123,10 @@ sections:
           - mt-0
           - mb-0
         padding:
-          - pt-40
-          - pb-10
-          - pl-4
-          - pr-4
+          - pt-32
+          - pb-32
+          - pl-8
+          - pr-8
         justifyContent: center
       quote:
         textAlign: left
@@ -141,7 +141,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/portrait-testimonials-placeholder.png
+      url: /images/bruce-blumberg-arizona-lawyer-testimonials.jpg
       altText: Hero section image
     styles:
       self:
@@ -153,10 +153,10 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
+          - pt-16
+          - pb-16
+          - pl-8
+          - pr-8
         justifyContent: center
       title:
         textAlign: left
@@ -167,14 +167,17 @@ sections:
     title: Testimonials
     colors: colors-b
     posts:
-      - content/pages/testimonials/yaser-awad.md
-      - content/pages/testimonials/brent-wayne.md
-      - content/pages/testimonials/danielle-chodrick.md
+      - content/pages/testimonials/jg-hori.md
+      - content/pages/testimonials/megan-mayes.md
+      - content/pages/testimonials/jamie-hemmert.md
     name: ''
     showDate: false
     showExcerpt: false
     showReadMoreLink: false
     readMoreLinkLabel: See All Testimonials
+    subtitle: >-
+      Hear directly from our clients why Bruce is the best criminal defense and
+      family law lawyer in Phoenix, Arizona.
   - type: FeaturedCasesSection
     elementId: ''
     showDate: true
@@ -194,10 +197,10 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
+          - pt-16
+          - pb-16
+          - pl-8
+          - pr-8
         justifyContent: center
       title:
         textAlign: center
@@ -215,46 +218,4 @@ sections:
       - content/pages/cases/charged-19-counts-sexual-conduct-with-minor.md
       - content/pages/cases/accused-multiple-accounts-sexual-misconduct.md
       - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
-  - type: CtaSection
-    elementId: ''
-    colors: colors-e
-    backgroundSize: full
-    title: Call To Action
-    text: >
-      Phasellus vitae convallis arcu. Nunc dictum elementum convallis.
-      Vestibulum tincidunt fringilla est sit amet placerat. Nullam in felis id
-      nisi ornare consequat. Aenean ex lectus, facilisis at tristique id,
-      ultricies at erat.
-    actions:
-      - type: Button
-        label: |
-          Confidential Case Evaluation
-        url: /
-        showIcon: true
-        icon: arrowRight
-        style: primary
-    backgroundImage: null
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
 ---

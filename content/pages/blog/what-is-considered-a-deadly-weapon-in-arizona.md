@@ -9,13 +9,13 @@ date: '2020-07-22'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
-  altText: Post thumbnail image
+  url: /images/arizona-deadly-weapons.jpg
+  altText: Deadly or dangerous weapon Arizona
   caption: ''
 media:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
-  altText: Post image
+  url: /images/arizona-deadly-weapons.jpg
+  altText: Deadly or dangerous weapon Arizona
 bottomSections: []
 metaDescription: null
 socialImage: null

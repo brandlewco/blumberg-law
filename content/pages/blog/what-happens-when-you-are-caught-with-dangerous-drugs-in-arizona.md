@@ -9,13 +9,13 @@ date: '2021-02-03'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
-  altText: Post thumbnail image
+  url: /images/arizona-caught-with-dangerous-drugs.jpg
+  altText: Drug possession Arizona
   caption: ''
 media:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
-  altText: Post image
+  url: /images/arizona-caught-with-dangerous-drugs.jpg
+  altText: Drug possession Arizona
 bottomSections: []
 metaDescription: null
 socialImage: null

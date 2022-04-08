@@ -9,13 +9,13 @@ date: '2021-01-27'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
-  altText: Post thumbnail image
+  url: /images/arizona-possesion-of-child-pornography.jpg
+  altText: Charged with possessing child pornography
   caption: ''
 media:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
-  altText: Post image
+  url: /images/arizona-possesion-of-child-pornography.jpg
+  altText: Charged with possessing child pornography
 bottomSections: []
 metaDescription: null
 socialImage: null

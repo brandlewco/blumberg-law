@@ -9,13 +9,13 @@ date: '2021-03-23'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
-  altText: Post thumbnail image
+  url: /images/arizona-mortgage-fraud.jpg
+  altText: Mortgage Fraud Arizona
   caption: ''
 media:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
-  altText: Post image
+  url: /images/arizona-mortgage-fraud.jpg
+  altText: Mortgage Fraud Arizona
 bottomSections: []
 metaDescription: null
 socialImage: null

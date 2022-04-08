@@ -9,13 +9,13 @@ date: '2020-06-11'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
-  altText: Post thumbnail image
+  url: /images/arizona-being-investigated.jpg
+  altText: Are you being investigated for a crime in Arizona
   caption: ''
 media:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
-  altText: Post image
+  url: /images/arizona-being-investigated.jpg
+  altText: Are you being investigated for a crime in Arizona
 bottomSections: []
 metaDescription: null
 socialImage: null
