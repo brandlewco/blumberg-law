@@ -29,7 +29,7 @@ hero:
         margin:
           - mt-0
           - mb-0
-          - mr-60
+          - mr-0
         padding:
           - pt-24
           - pb-32
