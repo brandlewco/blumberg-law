@@ -22,12 +22,44 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+An [order of protection](https://www.azblumberglaw.com/phoenix-family-attorney/orders-of-protection/) is issued by the court to limit the behavior of someone who harms or threatens to harm you.  You may apply for an order of protection if the defendant is connected to you in an intimate manner. For instance, the defendant must be your spouse or former spouse, roommate or former roommate, father or mother of your child or unborn child, a person you were formerly involved with on a romantic or sexual basis, a family member such as a parent, grandparent, brother, sister, etc. or your spouse’s family member.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+In order to apply for an order of protection, the defendant has either committed or is about to commit any of the following:
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+Any of the following acts in which the defendant:
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+*   endangers;
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+*   threatens or intimidates;
+
+*   assaults, including use of a dangerous weapon or causing serious bodily harm;
+
+*   kidnaps or unlawfully imprisons;
+
+*   interferes with the custody of a child unlawfully;
+
+*   criminally trespasses or criminally damages; disorderly conduct or stalks;
+
+*   abuses a child or vulnerable adult;
+
+*   interferes with judicial proceedings;
+
+*   uses a telephone to terrify, intimidate, threaten, harass, annoy, or offend;
+
+*   harasses
+
+In Arizona, orders of protection in the area of family law generally take one of two forms.
+
+**Domestic Violence Order of Protection**
+
+This is the most commonly requested order of protection. It is a civil order from the court telling the person who has threatened or assaulted you not to threaten or hurt you, enter your residence, or even to leave your shared residence. In addition, the order can require the respondent to seek out counseling.
+
+**Injunction Against Harassment**
+
+This offers broader protection than a domestic violence protection order. The abuser can be ordered not to have any contact with you by phone, at home, work or almost anywhere you ask the court to put in the order. The abuser may be ordered to vacate the home or residence. In short, the judge has the power under the law to order anything else that will help protect you as long as you agree to it.
+
+**What if someone violates an order of protection?**
+
+If the abuser or harasser violates the order or protection, you can call the police. The offender may be arrested or charged with violating the court order.
+
+An [Phoenix Sex Crimes Lawyer](https://www.azblumberglaw.com/phoenix-criminal-attorney/sex-crimes/) with years of experience in this area of law can be a great help in filing for orders of protection.
