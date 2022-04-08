@@ -177,7 +177,7 @@ sections:
     readMoreLinkLabel: See All Testimonials
     subtitle: >-
       Hear from our clients why Bruce is your best choice for criminal defense
-      and family law
+      and family law lawyer.
   - type: FeaturedCasesSection
     elementId: ''
     showDate: true
