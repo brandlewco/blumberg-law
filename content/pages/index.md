@@ -33,7 +33,7 @@ hero:
         padding:
           - pt-24
           - pb-32
-          - pr-60
+          - pr-96
           - pl-8
         alignItems: center
         justifyContent: center
