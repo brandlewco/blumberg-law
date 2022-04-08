@@ -22,12 +22,23 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+It isn’t unusual for someone to be falsely accused of a [sex crime](https://www.azblumberglaw.com/phoenix-criminal-attorney/sex-crimes/) in today’s society. A child caught in a divorce and angry at one parent might lash out by falsely accusing the other parent. An angry spouse involved in a contentious child custody suit might accuse the other spouse of sexual abuse to keep custody of the child. Whatever the circumstances, the first step is in understanding that this is an extremely serious accusation. The consequences can be life shattering. Possible outcomes include:
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+*   Time in jail or prison
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+*   Placed on probation for an extended period, or for life
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+*   Required to register as a sex offender
+
+*   Loss of employment, professional licenses, custody of children
+
+*   Face a civil law suit for damages
+
+If you are arrested, do not answer any questions without an attorney present. Remember, anything you say can and will be used against you in a court of law. Remember that if you demand an attorney, but cannot afford one, the police cannot continue to question you if you want to use a court appointed attorney. If you do have the funds, you should immediately hire a reputable attorney, with years of experience defending against these types of accusations. An attorney can quickly begin providing you with advice and direction. If you haven’t been arrested, leave immediately and refuse to answer questions then consult with an attorney as soon as possible.
+
+Unfortunately, these kinds of cases are expensive, especially if you face a criminal or violent charge. Begin gathering the money you will need to pay for your defense as soon as possible.
+
+Take the time to learn about the accusations against you and why your defense team may suggest certain measures.
+
+No matter what the situation is, your first step should be to immediately hire an attorney who can help guide you through the difficult process of defending yourself against these charges.
