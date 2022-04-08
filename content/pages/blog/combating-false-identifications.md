@@ -3,8 +3,7 @@ layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
 metaTags: []
-title: |
-  Combating False Identifications
+title: Combating False Identifications
 colors: colors-d
 date: '2020-01-10'
 excerpt: >-
