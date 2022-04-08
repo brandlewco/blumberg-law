@@ -8,7 +8,7 @@ postFeed:
   showReadMoreLink: true
   readMoreLinkLabel: Keep Reading
   variant: variant-d
-  colors: colors-a
+  colors: colors-d
   styles:
     self:
       width: wide
