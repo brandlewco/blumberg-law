@@ -9,7 +9,7 @@ title: Case Results
 sections:
   - type: TextSection
     elementId: ''
-    colors: colors-d
+    colors: colors-a
     variant: variant-a
     title: The Section Title
     subtitle: ''
