@@ -22,12 +22,26 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+Any sex-related offense involving a minor is something you need to take very seriously in Arizona. Child molestation is when someone knowingly touches or causes someone to touch another person under 15 years of age on their genitalia. This also includes touching over the clothes. If you or a loved one has been charged with child molestation in Arizona, you need to speak with a [Phoenix child molestation attorney](https://www.azblumberglaw.com/phoenix-criminal-attorney/child-molestation/) right away.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+**Child Molestation A.R.S. §13-1410**
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+Child molestation in Arizona is covered under A.R.S. §13-1410. It is classified as a Class 2 felony and is classified as a Dangerous Crimes Against Children (DCAC). This means a conviction results in severe penalties due to the state’s mandatory sentencing laws. If convicted, you will spend a minimum of ten years in prison, but it could be a maximum of 24 years. There is no early release or parole possible. When you get out of prison, you will also be required to register for the sex offender registration program.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+If you have a prior felony, including another DCAC offense, you will be spending more time in prison. The minimum sentence jumps to 21 years while the maximum sentence jumps to 35 years. You would be required to serve 100% of the prison time before you would be eligible for release.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Offenders who are convicted of two counts of molestation have to face consecutive sentences. Many defense lawyers who don’t often practice in the area of “sex crimes” might believe that two or more counts of molestation may run “concurrently” because the predecessor statute, A.R.S. §13-604.01(I), permitted it. Very recently the Arizona Court of Appeals in *State v. Brock*, filed 3/12/2020, ruled that A.R.S. §13-705(M) mandates that any two counts of “dangerous crimes against children” must run consecutively. This means someone would have to serve a minimum of 20 years in prison, which is two ten-year sentences.
+
+Even if you aren’t convicted, being charged can carry some consequences. A charge for child molestation can result in losing your parental rights in a civil action brought by Arizona Child Protective Services.
+
+**Possible Defenses to Child Molestation Charges**
+
+It’s not uncommon that a spouse makes molestation allegations during a divorce, or a rebellious teenager who wants a parent or stepparent out of their life. They make up false statements thinking this is the best way to remedy the situation. It’s important to challenge these allegations right away.
+
+You can assert that the touching never happened, or that touching occurred, but it was not of a sexual nature. Never speak with the police, at all, except to say thank you, but I must have my attorney present. I will not speak to you without my attorney. Police will use “confrontation calls” to try to obtain a confession from a suspect. These are scripted, recorded calls from alleged victims or people very close to them. Do not try to “fool” or “trick” the caller or the police. Just hang-up and call a lawyer.
+
+Asserting a defense to the charge of child molestation is complicated. It is likely that the defense will involve the use of experts. For decades Bruce Blumberg has associated with some of the most qualified experts in the nation regarding child-sex matters. Your attorney will need to interview all parties and ensure there is a strong cross-examination. In addition, your attorney needs to review how the report of child molestation was made, get copies of the Child Protective Services reports, and question anyone, such as forensic interviewers, who spoke with the alleged victim.
+
+**Contact an Arizona Child Molestation Attorney**
+
+Don’t attempt to fight child molestation charges on your own or with a public defender representing you. Instead, rely on the skill of a Phoenix child molestation attorney. Contact Blumberg & Associates today to schedule an initial consultation. Let us evaluate your case and provide you with the best Arizona defense possible.
