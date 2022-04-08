@@ -198,7 +198,7 @@ sections:
 
             showIcon: true
             icon: violentCrime
-            url: /
+            url: /phoenix-criminal-attorney/violent-crimes/
             style: secondary
             iconPosition: left
         styles:
