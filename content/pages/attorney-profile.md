@@ -39,7 +39,7 @@ sections:
         textAlign: left
     elementId: bruce-blumberg
   - type: FeaturedItemsSection
-    colors: colors-e
+    colors: colors-c
     elementId: ''
     title: |
       Connect with Bruce.
