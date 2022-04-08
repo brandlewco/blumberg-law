@@ -15,7 +15,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/arizona-money-laundering-accusations.jpg
-  altText: Post image
+  altText: Money laundering in Arizona
 bottomSections: []
 metaDescription: null
 socialImage: null
