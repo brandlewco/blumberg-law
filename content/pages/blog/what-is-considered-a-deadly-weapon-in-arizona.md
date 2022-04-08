@@ -15,7 +15,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/arizona-deadly-weapons.jpg
-  altText: Post image
+  altText: Deadly or dangerous weapon Arizona
 bottomSections: []
 metaDescription: null
 socialImage: null
