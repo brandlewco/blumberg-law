@@ -231,7 +231,7 @@ sections:
               #### White Collar Crime
 
             altText: White Collar Crime
-            url: /
+            url: /phoenix-criminal-attorney/white-collar-crimes/
             showIcon: true
             icon: whiteCollarCrime
             iconPosition: left
