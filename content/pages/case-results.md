@@ -52,17 +52,17 @@ sections:
     styles:
       self:
         height: auto
-        width: narrow
+        width: wide
         margin:
           - mt-0
           - mb-0
           - ml-0
           - mr-0
         padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
+          - pt-16
+          - pb-16
+          - pl-8
+          - pr-8
         justifyContent: center
       title:
         textAlign: left
