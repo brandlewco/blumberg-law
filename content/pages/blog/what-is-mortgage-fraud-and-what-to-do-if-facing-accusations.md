@@ -10,7 +10,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/arizona-mortgage-fraud.jpg
-  altText: Post thumbnail image
+  altText: Mortgage Fraud Arizona
   caption: ''
 media:
   type: ImageBlock
