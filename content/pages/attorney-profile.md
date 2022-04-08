@@ -175,7 +175,7 @@ sections:
     showExcerpt: false
     showReadMoreLink: false
     readMoreLinkLabel: See All Testimonials
-    subtitle: Hear from our clients why Bruce is the best cho
+    subtitle: Hear from our clients why Bruce is your best bet.
   - type: FeaturedCasesSection
     elementId: ''
     showDate: true
