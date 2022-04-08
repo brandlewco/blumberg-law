@@ -182,7 +182,7 @@ sections:
 
             showIcon: true
             icon: sexCrime
-            url: /
+            url: /phoenix-criminal-attorney/sex-crimes/
             style: secondary
             iconPosition: left
         styles:
