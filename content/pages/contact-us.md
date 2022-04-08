@@ -10,7 +10,7 @@ hero:
   - type: TextSection
     elementId: ''
     colors: colors-b
-    variant: variant-b
+    variant: variant-a
     backgroundImage:
       url: /images/background-court-blue.jpg
       backgroundSize: cover
