@@ -15,7 +15,7 @@ postFeed:
       padding:
         - pt-8
         - pl-8
-        - pr-4
+        - pr-8
         - pb-8
 styles:
   title:
