@@ -141,7 +141,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/portrait-testimonials-placeholder.png
+      url: /images/bruce-blumberg-arizona-lawyer-testimonials.jpg
       altText: Hero section image
     styles:
       self:
