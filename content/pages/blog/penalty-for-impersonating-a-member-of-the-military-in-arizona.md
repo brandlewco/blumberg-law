@@ -9,7 +9,7 @@ date: '2021-07-16'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/gavel-placeholder.jpg
+  url: /images/arizona-penelty-for-impersonating-a-military-member.jpg
   altText: Post thumbnail image
   caption: ''
 media:
