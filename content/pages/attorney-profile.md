@@ -169,6 +169,7 @@ sections:
     posts:
       - content/pages/testimonials/jg-hori.md
       - content/pages/testimonials/megan-mayes.md
+      - content/pages/testimonials/jamie-hemmert.md
     name: ''
     showDate: false
     showExcerpt: false
