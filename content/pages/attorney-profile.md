@@ -8,7 +8,7 @@ metaTags: []
 title: Attorney Profile
 sections:
   - type: TextSection
-    colors: colors-d
+    colors: colors-a
     variant: variant-b
     title: >-
       Bruce Blumberg
