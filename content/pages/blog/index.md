@@ -56,4 +56,5 @@ topSections:
       text:
         textAlign: left
 addTitleSuffix: true
+metaTitle: Bruce Blumberg Arizona Law Insight Blog
 ---
