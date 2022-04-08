@@ -15,7 +15,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/arizona-being-investigated.jpg
-  altText: Post image
+  altText: Are you being investigated for a crime in Arizona
 bottomSections: []
 metaDescription: null
 socialImage: null
