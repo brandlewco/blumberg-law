@@ -251,7 +251,7 @@ sections:
 
               #### & Parenting Time
             altText: Child Custody & Parenting Time
-            url: /
+            url: phoenix-family-attorney/child-custody-parenting-time/
             showIcon: true
             icon: childCustody
             iconPosition: left
