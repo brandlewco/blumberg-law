@@ -732,7 +732,7 @@ sections:
     subtitle: ''
     text: >
       Please do not include any confidential or sensitive information in a
-      contact form, text message, or voicemail. The contact form sends
+      contact form, text message, or voicemail. This contact form sends
       information by non-encrypted email, which is not secure. Submitting a
       contact form, sending a text message, making a phone call, or leaving a
       voicemail does not create an attorney-client relationship.
