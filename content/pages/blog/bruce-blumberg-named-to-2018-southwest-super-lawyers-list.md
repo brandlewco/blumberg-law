@@ -22,12 +22,10 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+The *2018 Southwest Super Lawyers*list was released today and for the fifth time, Bruce Blumberg was recognized.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+Blumberg was listed for his work as a criminal defense attorney in Arizona. Only 5 percent attorneys are selected to *Super Lawyers. *
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+Blumberg is certified as a specialist in criminal law by the State Bar of Arizona. Of the 18,000 licensed attorneys in Arizona, about 750 of them have received specialist certification, and only a handful of those are certified in the area of criminal law.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
-
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+*Super Lawyers* is a rating service based on peer nominations that are supported by interviews, independent research, data verification and good-standing review. Only 5 percent of lawyers across Arizona and New Mexico are selected to the Super Lawyers list each year. Those selected are included in lists published both nationally in *Super Lawyers Magazine* and regionally in publications to serve as a resource for attorneys and consumers seeking outstanding legal counsel.
