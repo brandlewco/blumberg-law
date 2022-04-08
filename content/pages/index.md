@@ -760,7 +760,7 @@ sections:
         textAlign: left
   - type: TextSection
     elementId: ''
-    colors: colors-d
+    colors: colors-a
     variant: variant-a
     subtitle: ''
     text: >
