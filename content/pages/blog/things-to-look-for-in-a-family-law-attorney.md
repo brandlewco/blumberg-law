@@ -22,12 +22,30 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+Family law attorneys are your resource for a number of highly personal events in your life. Examples of family law services include adoption, child support, divorce, guardianship, marriage and more. At [Blumberg & Associates](https://azblumbergfamilylaw.com/attorney-bruce-e-blumberg-reviews/), we understand the family law attorney selection is one that you don’t take lightly. Here are some key elements we recommend looking for to ensure you find a quality attorney who can meet your needs.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+**Experience**
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+When it comes to family law, an experienced and knowledgeable practice is a must to ensure you select a practice that is aware of the laws related to your legal needs. Blumberg & Associates has more than 30 years litigation experience. We have proudly served clients in a variety of cases in courtrooms throughout the state of Arizona.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+What goes along with experience is expertise. When you have a family law issue, choosing a lawyer for whom family law is a small part of his or her practice often does not lend the level of expertise that you need.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+**Flexible Schedules**
+
+The nature of family law is such that you may need to meet with your attorney after standard business hours. You also may find you need to bring your child with you to a meeting. We are flexible with these and many other scenarios that can occur related to your scheduling.
+
+In addition to scheduling considerations, it’s important that your lawyer provides you the resources to make and keep appointments. This includes technology, equipment, and friendly staff that makes going to each appointment as convenient as possible.
+
+**Professionalism**
+
+Dealing with the delicate matters that are often involved with family law requires the utmost level of professionalism.
+
+When you are interviewing potential lawyers, think about how they come across. Some questions to ask yourself include:
+
+*   Does the person dress and speak in a professional manner?
+
+*   Do they seem to represent your values?
+
+*   Could they serve as a representative of your concerns and family?
+
+If the answer is no, this family lawyer is likely not the best option for your case. Your family lawyer should always be courteous to you and your family. The law firm is ultimately providing a service. You should feel valued as a client and treated with an utmost level of professionalism.
