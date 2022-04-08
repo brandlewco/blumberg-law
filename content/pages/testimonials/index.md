@@ -24,7 +24,7 @@ postFeed:
       padding:
         - pt-8
         - pb-12
-        - pl-4
+        - pl-8
         - pr-4
       justifyContent: center
       borderRadius: none
