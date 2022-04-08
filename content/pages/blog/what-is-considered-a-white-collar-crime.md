@@ -22,12 +22,66 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+Fraud is one of the most common types of white-collar crimes, but it is not the only one. There are a variety of criminal offenses that can be classified as white-collar crimes, including those that involve embezzlement, conspiracy, extortion, and computer crimes.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+If you are being charged with a white-collar crime in Arizona, it’s imperative that you take the charges seriously. White-collar crimes are typically federal offenses, which means there is often a mandatory minimum prison sentence. If you are facing criminal charges for a white-collar crime in Arizona, you need a skilled [Phoenix white collar crime attorney](https://www.azblumberglaw.com/phoenix-criminal-attorney/white-collar-crimes/) on your side.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+**Defining White-Collar Crime**
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+In general, white-collar crime is one that is carried out through deceptive means. They are not typically violent crimes. Some of the most common white-collar crimes we handle for Arizona clients include:
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+*   Bank fraud
+
+*   Health care fraud
+
+*   Accounting and tax fraud
+
+*   Credit Card fraud
+
+*   Mortgage fraud
+
+*   Bribery
+
+*   Forgery
+
+*   Medicare fraud
+
+*   Corporate fraud
+
+*   Money laundering
+
+*   Embezzlement
+
+*   Corporate fraud
+
+*   Mail and wire fraud
+
+*   Computer and internet fraud
+
+*   Bankruptcy fraud
+
+*   Extortion
+
+White-collar crime cases can be complex. The statutes are lengthy, and that can lead to confusion on exactly what is defined as white-collar crime. This is why you need an experienced Phoenix white-collar crime attorney to defend you.
+
+**Importance of Retaining an Arizona White-Collar Crimes Attorney**
+
+With white-collar crimes, you could be under investigation for weeks, or maybe even months, before you are arrested for a crime. If you suspect you are under investigation, don’t wait until you are arrested. It’s important to retain an attorney sooner rather than later.
+
+If you retain an attorney before you are arrested, we can start working on keeping the authorities from filing charges. We can learn a lot about the investigation as it’s going on and also speak with law enforcement officers on your behalf.
+
+You need to be careful and limit your conversations with law enforcement while you’re being investigated. Don’t believe that they are on your side. They may try to get you to believe that they are on your side, but they aren’t. Their goal is to get you to say something incriminating that will help their case. They may tell you that they are looking for a way to help you clear yourself, but that’s rarely ever the case.
+
+**Defenses to White Collar-Crimes**
+
+There are a number of defenses that may work in white-collar crimes in Arizona. Some of the most common ones are:
+
+*   Lack of Intent — Many white-collar crimes must show that you had the intent to commit a crime. If the prosecution is unable to show that you intended to commit a crime, then the charges might be dropped.
+
+*   Victims are Also Guilty — Your case may involve a larger group that has also engaged in white-collar crimes. If this is the case, then the other party might not be eligible to collect restitution and the government might decide to drop the charges against you.
+
+*   Lack of Knowledge — If there are multiple parties involved, you may not have even been aware that there was any wrongdoing happening.
+
+**Contact an Arizona White-Collar Crimes Attorney**
+
+If you need assistance with an Arizona white-collar criminal defense, contact Blumberg & Associates today to schedule an initial consultation.
