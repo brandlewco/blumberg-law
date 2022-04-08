@@ -24,12 +24,41 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+After a [sex offender](https://www.azblumberglaw.com/phoenix-criminal-attorney/sex-offender-registration/) is released from jail or prison, he or she may remain under supervision (probation) depending on the nature of the crime. If the offender is under supervision, he or she must register with the country sheriff’s office in the community he or she is relocating to within 72 hours of release. Sex offenders may be supervised in their day-to-day activities in order to protect their victims, vulnerable people and the general public. Sex offenders have other rules and regulations to follow.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+**Here are some of the rules and regulations sex offender must abide by:**
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+*   The offender must remain available for contact as directed by his or her probation officer.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+*   The offender must remain within specified geographic boundaries.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+*   The probation officer must approve the sex offender’s residence and living arrangements. Generally, the address is reviewed to assess potential risks to the community. Depending on the crime, the neighborhood may be notified of the offender’s presence.  Also, depending on the crime, offenders may not be permitted to live near schools, child care facilities or parks where children play.
+
+*   All parts of the offender’s residence will be inspected regularly.
+
+*   The offender cannot relocate without permission.
+
+*   The offender may or may not be allowed access to a personal computer depending on the nature of his or her crime. If a computer is allowed, it may have blocks installed to prevent access to specific types of sites or information.
+
+*   Offenders may not own or have in their possession any magazines, videos, telephones or anything else with pornographic content, nor can they patronize any establishment in the sex industry.
+
+*   Offenders are not allowed to be in possession of any drugs, alcohol or mood altering substances unless they have been prescribed by a doctor.
+
+*   Offenders may or may not be allowed contact of any kind with past or potential victims, including family members. That is an issue the court will decide.
+
+*   Offenders must submit to regular urine, breathalyzer or DNA testing.
+
+*   Offenders may not own, use or possess firearms or ammunition.
+
+*   Offenders must register with the county sheriff’s office if they are visiting or vacationing from another state for more than 10 days.
+
+*   Offenders are required to obtain a special driver’s license from the DMV each year.
+
+**Offenders can expect help from the state of Arizona for the following\*:**
+
+*   Sexual deviancy counseling from state-certified counselors.
+
+*   Chemical dependency treatment and counseling through organizations like AA and others.
+
+*   Education, work and community service are encouraged, but with review and management of any potential risk.
+
