@@ -13,7 +13,7 @@ postFeed:
     self:
       width: wide
       padding:
-        - pt-8
+        - pt-16
         - pl-8
         - pr-8
         - pb-8
