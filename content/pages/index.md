@@ -295,7 +295,7 @@ sections:
       backgroundPosition: center
       opacity: 100
   - elementId: ''
-    colors: colors-d
+    colors: colors-a
     variant: variant-a
     title: >-
       A lawyer with the skills and experience you need when facing the fight of
