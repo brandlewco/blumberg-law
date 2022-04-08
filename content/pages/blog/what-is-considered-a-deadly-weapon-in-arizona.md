@@ -9,12 +9,12 @@ date: '2020-07-22'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/arizona-deadly-weapons.jpg
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
