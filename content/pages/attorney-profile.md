@@ -54,7 +54,7 @@ sections:
             showIcon: true
             icon: linkedin
             url: /
-            style: primary
+            style: secondary
             iconPosition: left
           - type: Button
             label: |
