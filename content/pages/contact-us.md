@@ -25,7 +25,7 @@ hero:
     actions:
       - type: Button
         label: |
-          ### CALL 602-277-6180
+          #### CALL 602-277-6180
         altText: ''
         url: 'tel:+16022776180'
         showIcon: false
