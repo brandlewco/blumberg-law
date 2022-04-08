@@ -176,7 +176,7 @@ sections:
     showReadMoreLink: false
     readMoreLinkLabel: See All Testimonials
     subtitle: >-
-      Hear directly from our clients why Bruce is your best choice for criminal
+      Hear directly from our clients why Bruce is the best choice for criminal
       defense and family law lawyer in Arizona.
   - type: FeaturedCasesSection
     elementId: ''
