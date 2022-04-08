@@ -10,7 +10,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/arizona-penelty-for-impersonating-a-military-member.jpg
-  altText: Post thumbnail image
+  altText: Impersonating a military member in arizona
   caption: ''
 media:
   type: ImageBlock
