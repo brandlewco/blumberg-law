@@ -10,7 +10,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/arizona-being-investigated.jpg
-  altText: Post thumbnail image
+  altText: Are you being investigated for a crime in Arizona
   caption: ''
 media:
   type: ImageBlock
