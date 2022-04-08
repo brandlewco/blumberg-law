@@ -15,7 +15,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/arizona-caught-with-dangerous-drugs.jpg
-  altText: Post image
+  altText: Drug possession Arizona
 bottomSections: []
 metaDescription: null
 socialImage: null
