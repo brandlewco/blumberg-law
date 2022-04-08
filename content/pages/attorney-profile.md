@@ -168,6 +168,7 @@ sections:
     colors: colors-b
     posts:
       - content/pages/testimonials/megan-mayes.md
+      - content/pages/testimonials/jg-hori.md
     name: ''
     showDate: false
     showExcerpt: false
