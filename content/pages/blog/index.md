@@ -7,7 +7,7 @@ postFeed:
   showExcerpt: true
   showReadMoreLink: true
   readMoreLinkLabel: Keep Reading
-  variant: variant-a
+  variant: variant-d
   colors: colors-d
   styles:
     self:
