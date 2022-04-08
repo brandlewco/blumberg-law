@@ -855,7 +855,7 @@ sections:
           - pt-16
           - pb-28
           - pl-8
-          - pr-4
+          - pr-8
         justifyContent: center
       title:
         textAlign: left
