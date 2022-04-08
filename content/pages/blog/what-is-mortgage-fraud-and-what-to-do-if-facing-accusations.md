@@ -15,7 +15,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/arizona-mortgage-fraud.jpg
-  altText: Post image
+  altText: Mortgage Fraud Arizona
 bottomSections: []
 metaDescription: null
 socialImage: null
