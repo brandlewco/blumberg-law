@@ -6,22 +6,21 @@ metaTags: []
 title: Dangerous Crimes Have Serious Legal Consequences
 colors: colors-d
 date: '2020-05-27'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: '/images/gavel-placeholder.jpg'
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: '/images/gavel-placeholder.jpg'
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
 ---
+
 When a defendant faces charges in a dangerous crime, prosecutors will utilize the allegation to their advantage.
 
 For example, a domestic dispute involving a vehicle pointed at another party, and even without “really” intending to harm them, can be used by the State to add a deadly weapon or dangerous instrument charge to the case. Under those circumstances an individual may face a sentencing range of a mandatory 5 to15 years by placing the victim in danger or fear for bodily injury or life.

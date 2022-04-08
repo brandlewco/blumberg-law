@@ -6,22 +6,21 @@ metaTags: []
 title: Criminal Defense Glossary
 colors: colors-d
 date: '2014-10-30'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: '/images/gavel-placeholder.jpg'
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: '/images/gavel-placeholder.jpg'
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
 ---
+
 The law is a language unto itself. In modern times, we refer to the language of courtrooms, pleadings, and laws as “legalese.” This term is no more than a playful characterization of legal jargon. And while it may take several years of law school to truly ascertain the technical meanings of judicial terms, the following is a glossary of the more common ones:
 
 **Jurisdiction:** Jurisdiction refers to a court’s ability to exercise power over a defendant. For a State to have jurisdiction over a criminal proceedings, the criminal act must “touch” the State in some manner. The most common example is committing a crime within a State. If you steal something in Arizona, you are subject to prosecution in Arizona courts.

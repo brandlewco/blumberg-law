@@ -6,22 +6,21 @@ metaTags: []
 title: High-Net Worth Divorce Mistakes
 colors: colors-d
 date: '2017-10-30'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: '/images/gavel-placeholder.jpg'
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: '/images/gavel-placeholder.jpg'
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
 ---
+
 Divorces are often painful for anybody and can be one of life’s most challenging chapters. If you’re going through a divorce here are seven mistakes divorcing couples often make when the financial and emotional stakes are highest.
 
 **Hiding Your Assets**

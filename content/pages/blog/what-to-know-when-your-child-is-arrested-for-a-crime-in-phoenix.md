@@ -6,22 +6,21 @@ metaTags: []
 title: What to Know When Your Child is Arrested for a Crime in Phoenix
 colors: colors-d
 date: '2020-04-30'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: '/images/gavel-placeholder.jpg'
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: '/images/gavel-placeholder.jpg'
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
 ---
+
 When a minor is arrested for a criminal offense, they will go through a different judicial system experience than someone who is being charged as an adult. Because the court system is different, it’s important to retain a [Phoenix juvenile crime attorney](https://www.azblumberglaw.com/phoenix-criminal-attorney/juvenile-offenses/) who can help.
 
 You want someone who understands how the system operates and can prepare the best defense possible. At Blumberg & Associates, we have years of experience helping Phoenix area families resolve criminal charges in juvenile court.

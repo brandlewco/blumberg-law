@@ -6,22 +6,21 @@ metaTags: []
 title: Drug Cases are Subject to Mandatory Sentencing
 colors: colors-d
 date: '2020-06-03'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: '/images/gavel-placeholder.jpg'
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: '/images/gavel-placeholder.jpg'
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
 ---
+
 Most drug cases don’t involve jury trials because ultimately the police discover a person holding a substantial amount of drugs and there’s not usually a way around the associated charges.
 
 In these cases, a client needs a defense attorney who can obtain the best deal possible from the circumstances. This means either no agreements or a probationary period that helps ease the burden.

@@ -6,22 +6,21 @@ metaTags: []
 title: Criminal Trials in Maricopa County Could be Delayed Due to COVID-19
 colors: colors-d
 date: '2020-05-21'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: '/images/gavel-placeholder.jpg'
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: '/images/gavel-placeholder.jpg'
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
 ---
+
 There’s no denying that the current pandemic is affecting every aspect of our lives, and the legal system is no exception. The courts are making changes to how cases are handled to help reduce the spread of the virus. For some, this could be good news as some criminal trials are being delayed. According to an AZ Central news report, the Maricopa County Attorney’s Office is reducing the number of people it’s charging with crimes for now.
 
 Keeping public safety in mind, the reduction in criminal trials means there are potentially fewer people in courtrooms and in the county jail. According to statistics released from the Maricopa County Sheriff’s office, the average inmate population is already dropping. In mid-April, the average inmate population was 5,550, down from 7,500 prior to the pandemic.

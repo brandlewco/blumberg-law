@@ -6,22 +6,21 @@ metaTags: []
 title: How to File for Divorce in Arizona
 colors: colors-d
 date: '2014-08-28'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: '/images/gavel-placeholder.jpg'
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: '/images/gavel-placeholder.jpg'
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
 ---
+
 Divorce or dissolution of marriage is the process necessary to legally end a marriage. [Divorce ](https://www.azblumberglaw.com/phoenix-family-attorney/divorce/)proceedings may take into account how assets, property and debt may be split, as well as how the custody of children will be handled.
 
 **Where do I get a divorce?**

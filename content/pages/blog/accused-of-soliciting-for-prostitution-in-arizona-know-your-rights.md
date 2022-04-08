@@ -6,23 +6,22 @@ metaTags: []
 title: Accused of Soliciting for Prostitution in Arizona? Know Your Rights
 colors: colors-d
 date: '2021-03-15'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: '/images/gavel-placeholder.jpg'
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: '/images/gavel-placeholder.jpg'
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
+
 Prostitution is a serious crime in the state of Arizona. Not only is it generally frowned up and held with contempt, it is also an area that can connect to much greater issues that can get one into heaps of trouble. It is of the essence to get legal advice promptly or as soon as possible if you have been accused of soliciting for prostitution. That being said, know there are defense options available to you.
 
 ### **What is Prostitution Defined as in Arizona?**

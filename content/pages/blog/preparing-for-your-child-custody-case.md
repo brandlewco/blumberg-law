@@ -6,22 +6,21 @@ metaTags: []
 title: Preparing for Your Child Custody Case
 colors: colors-d
 date: '2017-12-05'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: '/images/gavel-placeholder.jpg'
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: '/images/gavel-placeholder.jpg'
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
 ---
+
 ## **Be Prepared**
 
 Being prepared for trial is critical to finding success in your child custody case. Preparation includes gathering documents of past involvement in your child’s life, having a parenting plan going forward and making arrangements to seamlessly transition your parenting style to accommodate the new arrangements.

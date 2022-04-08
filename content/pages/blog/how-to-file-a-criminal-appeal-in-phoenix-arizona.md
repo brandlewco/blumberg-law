@@ -6,22 +6,21 @@ metaTags: []
 title: 'How to File a Criminal Appeal in Phoenix, Arizona'
 colors: colors-d
 date: '2020-04-07'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: '/images/gavel-placeholder.jpg'
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: '/images/gavel-placeholder.jpg'
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
 ---
+
 If you lose a criminal case, it’s understandable that you will want to appeal the conviction. However, not all cases will be successful on appeal. In order to prevail on appeal for a criminal conviction, you would need to show the appellate court that you did not receive a fair trial. If you are considering filing an appeal in Arizona, you need an experienced [Phoenix criminal appeals attorney](https://www.azblumberglaw.com/phoenix-criminal-attorney/criminal-appeals/) to assist.
 
 **What is an Appeal?**
@@ -32,11 +31,11 @@ An appeal is basically a request to the higher court to review the decisions mad
 
 Just because you were found guilty, your case doesn’t automatically become worthy of an appellate hearing. If your due process was violated or laws were not followed, those situations would create appealable issues. Some of the most common issues that constitute grounds for appeal include:
 
-*   Evidence: If evidence is mishandled in a trial, it could provide grounds for an appeal. If a judge allows prejudicial testimony that unfairly influences the jury, misapplies hearsay rules, or denies your attorney the right to introduce exculpatory evidence, it could cause the fairness of the trial to be called into question.
+- Evidence: If evidence is mishandled in a trial, it could provide grounds for an appeal. If a judge allows prejudicial testimony that unfairly influences the jury, misapplies hearsay rules, or denies your attorney the right to introduce exculpatory evidence, it could cause the fairness of the trial to be called into question.
 
-*   Procedural Issues: When a judge doesn’t follow proper procedures, it can give rise to an issue for appeal. Examples can include reading the wrong jury instructions, not including or excluding evidence by mistake, and not complying with the rules of discovery.
+- Procedural Issues: When a judge doesn’t follow proper procedures, it can give rise to an issue for appeal. Examples can include reading the wrong jury instructions, not including or excluding evidence by mistake, and not complying with the rules of discovery.
 
-*   Applying the Principles of Law: During your trial, the judge may need to apply the principles of law. For example, whether the defendant was permitted full and meaningful confrontation, whether a specific statute was applied, or whether there was a constitutional violation.
+- Applying the Principles of Law: During your trial, the judge may need to apply the principles of law. For example, whether the defendant was permitted full and meaningful confrontation, whether a specific statute was applied, or whether there was a constitutional violation.
 
 **Process of Filing a Criminal Appeal**
 

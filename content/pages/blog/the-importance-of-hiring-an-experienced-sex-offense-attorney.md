@@ -6,22 +6,21 @@ metaTags: []
 title: The Importance of Hiring an Experienced Sex Offense Attorney
 colors: colors-d
 date: '2020-06-10'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: '/images/gavel-placeholder.jpg'
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: '/images/gavel-placeholder.jpg'
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
 ---
+
 In Phoenix Arizona, if you’re charged with a sex offense you’ve got a very rough road ahead. One must understand that jurors come in to these types of cases with preconceived notions about sex crimes and it’s up to a skilled criminal defense attorney to point out to the jurors what their duties and obligations are regarding our Constitution, and that they would want those same principles imparted to their loved ones and their neighbors.
 
 **Jury Trials**

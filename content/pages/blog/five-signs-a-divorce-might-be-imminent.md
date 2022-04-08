@@ -6,22 +6,21 @@ metaTags: []
 title: Five Signs a Divorce Might Be Imminent
 colors: colors-d
 date: '2017-11-20'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: '/images/gavel-placeholder.jpg'
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: '/images/gavel-placeholder.jpg'
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
 ---
+
 Sometimes the best way to deal with divorce is to spot the warning signs before you’re faced with a decision to end your marriage. Below we’ll review five of the top trends or traits that are frequently found in divorcing couples. If you fit these categories is doesn’t mean your relationship is destined to fail, but you should be aware of the trends.
 
 1.  **Cash Counts.** According to [a study posted by the American Sociological Review](https://www.asanet.org/sites/default/files/attach/journals/aug16asrfeature.pdf), the primary factor leading to divorce is the husband’s job status. When compared to men who have steady, gainful employment, men who do not have a job have a markedly higher risk of becoming divorced in any given year. Couples who fight about money have a significantly higher risk of facing divorce, but men without jobs are an additional 30 percent more likely to see their marriage end in divorce than even the couples who routinely fight about funds.
