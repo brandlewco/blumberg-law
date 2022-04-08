@@ -22,12 +22,52 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+In Arizona, there are over 20 different offenses that could land you on the Arizona Sex Offender Registry. A sex crime conviction is something that will follow you for the rest of your life. If you are facing charges of a sex offense in Arizona, you must contact an experienced [Phoenix sex crimes attorney](https://www.azblumberglaw.com/phoenix-criminal-attorney/sex-crimes/) right away.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+When you are convicted of a sex crime, you might be sentenced to probation or, in more severe cases, you’ll be facing mandatory prison time. In either situation, certain offenses will result in your name being added to the website Sex Offender Registry database. This is a public database, so anyone can look up your information if they choose. Also, the county sheriff’s office lets the community know what your assessed risk level is.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+Notification can include distributing flyers with your information, including your photo and address. These might be distributed to people who live in your neighborhood, community groups, schools, potential employers, and even local media. If you fail to register with the sheriff, you could be facing a class 4 felony charge. If you move, you also have to register again within 72 hours as well.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+**Types of Crimes that Can Land You on the Sex Offender Registry**
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Some of the more common sexual offenses that require you to register with the county sheriff include:
+
+*   Sexual assault;
+
+*   Indecent exposure;
+
+*   Molestation of a child;
+
+*   Sexual conduct with a minor;
+
+*   Sex abuse;
+
+*   Public sexual indecency;
+
+*   Taking a child for prostitution purposes; and
+
+*   Sexual exploitation of a minor.
+
+These crimes, as well as others, will follow you for the rest of your life. Being listed on the sex offender registry means you don’t have freedom of where to live, where you visit, who can be around you, etc.
+
+**Registering as a Sex Offender**
+
+When you are required to register as a sex offender, you must:
+
+*   Provide your name and all your aliases;
+
+*   Submit an electronic fingerprint;
+
+*   Provide a current photograph;
+
+*   List all your online identifying information, like screen names, e-mail addresses, etc.; and
+
+*   Provide a blood sample, which would be on file if you were in prison.
+
+You will be required to apply for a new driver’s license that lists your history, so the police know it if you are pulled over, and they run it. This license is only valid for a year, so it must be renewed every year.
+
+The Arizona DPS maintains the website and does checks on all offenders to make sure everything is up to date.
+
+**How to Stay Off the Registry**
+
+You cannot assume that if your sentence includes no prison time that you won’t be required to register. If you have been charged with a sex crime in Arizona, the best thing you can do is to retain a skilled Phoenix sex crimes attorney. Contact Blumberg & Associates today to schedule an initial consultation. Let us evaluate your case and prepare the strongest defense possible.
