@@ -53,7 +53,6 @@ export default function FeaturedItemsSection(props) {
                         position: 'absolute',
                         left: '50%',
                         top: '50%',
-                        objectFit: 'cover',
                     }}
                 />
             )}
