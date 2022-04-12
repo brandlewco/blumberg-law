@@ -361,7 +361,8 @@
                 "altText": "Twitter",
                 "label": "Twitter",
                 "url": "https://twitter.com/bruceblumberg/",
-                "icon": "twitter"
+                "icon": "twitter",
+                "style": "primary"
             },
             {
                 "type": "Social",
