@@ -369,7 +369,8 @@
                 "altText": "Instagram",
                 "label": "Instagram",
                 "url": "https://www.instagram.com/blumbergandassociates/",
-                "icon": "instagram"
+                "icon": "instagram",
+                "style": "secondary"
             },
             {
                 "type": "Social",
