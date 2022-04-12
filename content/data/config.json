@@ -379,7 +379,7 @@
             },
             {
                 "type": "Social",
-                "label": "Facebook",
+                "label": "Link",
                 "altText": "",
                 "url": "/",
                 "icon": "facebook",
