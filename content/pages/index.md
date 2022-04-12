@@ -31,7 +31,7 @@ hero:
           - mb-0
           - mr-0
         padding:
-          - pt-24
+          - pt-28
           - pb-32
           - pr-8
           - pl-8
