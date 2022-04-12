@@ -376,6 +376,15 @@
                 "label": "Facebook",
                 "url": "https://www.facebook.com/BlumbergandAssociates/",
                 "icon": "facebook"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/",
+                "icon": "facebook",
+                "style": "link",
+                "elementId": ""
             }
         ],
         "legalLinks": [
