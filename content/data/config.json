@@ -395,11 +395,6 @@
                 "type": "Link",
                 "label": "Disclaimer\n",
                 "url": "/disclaimer"
-            },
-            {
-                "type": "Link",
-                "label": "Terms & Conditions",
-                "url": "/"
             }
         ],
         "styles": {
