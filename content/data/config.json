@@ -386,7 +386,7 @@
                 "altText": "",
                 "url": "https://www.linkedin.com/company/blumberg-&-associates/",
                 "icon": "linkedin",
-                "style": "link",
+                "style": "secondary",
                 "elementId": ""
             }
         ],
