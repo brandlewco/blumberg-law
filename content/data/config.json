@@ -377,7 +377,8 @@
                 "altText": "Facebook",
                 "label": "Facebook",
                 "url": "https://www.facebook.com/BlumbergandAssociates/",
-                "icon": "facebook"
+                "icon": "facebook",
+                "style": "primary"
             },
             {
                 "type": "Social",
