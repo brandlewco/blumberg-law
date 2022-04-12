@@ -12,9 +12,17 @@ sections:
     colors: colors-d
     variant: variant-a
     title: This in an empty page
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+    text: >
+      The information and materials on this Web site are provided for general
+      informational purposes only, and are not intended to be legal advice. We
+      attempt to provide quality information, but the law changes frequently,
+      and varies from jurisdiction to jurisdiction. The information and
+      materials provided are general in nature, and may not apply to a specific
+      factual or legal circumstance. An attorney and client relationship should
+      not be implied. Nothing on this Web site is intended to substitute for the
+      advice of an attorney; therefore, if you require legal advice, please
+      consult with a competent attorney licensed to practice in your
+      jurisdiction.
     styles:
       self:
         height: auto
