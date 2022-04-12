@@ -373,15 +373,6 @@
             },
             {
                 "type": "Social",
-                "label": "Facebook",
-                "altText": "",
-                "url": "/",
-                "icon": "facebook",
-                "style": "secondary",
-                "elementId": ""
-            },
-            {
-                "type": "Social",
                 "altText": "Facebook",
                 "label": "Facebook",
                 "url": "https://www.facebook.com/BlumbergandAssociates/",
