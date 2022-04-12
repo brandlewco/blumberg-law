@@ -26,37 +26,37 @@ fields:
     group: text-styles
     readOnly: true
     fields:
-      - type: enum
-        name: size
-        label: Font size
-        options:
-          - label: XS
-            value: xs
-          - label: SM
-            value: sm
-          - label: Base
-            value: base
-          - label: LG
-            value: lg
-          - label: XL
-            value: xl
-          - label: 2XL
-            value: 2xl
-          - label: 3XL
-            value: 3xl
-          - label: 4XL
-            value: 4xl
-          - label: 5XL
-            value: 5xl
-          - label: 6XL
-            value: 6xl
-          - label: 7XL
-            value: 7xl
-          - label: 8XL
-            value: 8xl
-          - label: 9XL
-            value: 9xl
-        default: 5xl
+            # - type: enum
+      #   name: size
+      #   label: Font size
+      #   options:
+      #     - label: XS
+      #       value: xs
+      #     - label: SM
+      #       value: sm
+      #     - label: Base
+      #       value: base
+      #     - label: LG
+      #       value: lg
+      #     - label: XL
+      #       value: xl
+      #     - label: 2XL
+      #       value: 2xl
+      #     - label: 3XL
+      #       value: 3xl
+      #     - label: 4XL
+      #       value: 4xl
+      #     - label: 5XL
+      #       value: 5xl
+      #     - label: 6XL
+      #       value: 6xl
+      #     - label: 7XL
+      #       value: 7xl
+      #     - label: 8XL
+      #       value: 8xl
+      #     - label: 9XL
+      #       value: 9xl
+        # default: 5xl
       - type: enum
         name: weight
         label: Font weight
@@ -116,37 +116,37 @@ fields:
     group: text-styles
     readOnly: true
     fields:
-      - type: enum
-        name: size
-        label: Font size
-        options:
-          - label: XS
-            value: xs
-          - label: SM
-            value: sm
-          - label: Base
-            value: base
-          - label: LG
-            value: lg
-          - label: XL
-            value: xl
-          - label: 2XL
-            value: 2xl
-          - label: 3XL
-            value: 3xl
-          - label: 4XL
-            value: 4xl
-          - label: 5XL
-            value: 5xl
-          - label: 6XL
-            value: 6xl
-          - label: 7XL
-            value: 7xl
-          - label: 8XL
-            value: 8xl
-          - label: 9XL
-            value: 9xl
-        default: 4xl
+      # - type: enum
+      #   name: size
+      #   label: Font size
+      #   options:
+      #     - label: XS
+      #       value: xs
+      #     - label: SM
+      #       value: sm
+      #     - label: Base
+      #       value: base
+      #     - label: LG
+      #       value: lg
+      #     - label: XL
+      #       value: xl
+      #     - label: 2XL
+      #       value: 2xl
+      #     - label: 3XL
+      #       value: 3xl
+      #     - label: 4XL
+      #       value: 4xl
+      #     - label: 5XL
+      #       value: 5xl
+      #     - label: 6XL
+      #       value: 6xl
+      #     - label: 7XL
+      #       value: 7xl
+      #     - label: 8XL
+      #       value: 8xl
+      #     - label: 9XL
+      #       value: 9xl
+        # default: 4xl
       - type: enum
         name: weight
         label: Font weight
@@ -206,37 +206,37 @@ fields:
     group: text-styles
     readOnly: true
     fields:
-      - type: enum
-        name: size
-        label: Font size
-        options:
-          - label: XS
-            value: xs
-          - label: SM
-            value: sm
-          - label: Base
-            value: base
-          - label: LG
-            value: lg
-          - label: XL
-            value: xl
-          - label: 2XL
-            value: 2xl
-          - label: 3XL
-            value: 3xl
-          - label: 4XL
-            value: 4xl
-          - label: 5XL
-            value: 5xl
-          - label: 6XL
-            value: 6xl
-          - label: 7XL
-            value: 7xl
-          - label: 8XL
-            value: 8xl
-          - label: 9XL
-            value: 9xl
-        default: 3xl
+            # - type: enum
+      #   name: size
+      #   label: Font size
+      #   options:
+      #     - label: XS
+      #       value: xs
+      #     - label: SM
+      #       value: sm
+      #     - label: Base
+      #       value: base
+      #     - label: LG
+      #       value: lg
+      #     - label: XL
+      #       value: xl
+      #     - label: 2XL
+      #       value: 2xl
+      #     - label: 3XL
+      #       value: 3xl
+      #     - label: 4XL
+      #       value: 4xl
+      #     - label: 5XL
+      #       value: 5xl
+      #     - label: 6XL
+      #       value: 6xl
+      #     - label: 7XL
+      #       value: 7xl
+      #     - label: 8XL
+      #       value: 8xl
+      #     - label: 9XL
+      #       value: 9xl
+        # default: 3xl
       - type: enum
         name: weight
         label: Font weight
@@ -296,37 +296,37 @@ fields:
     group: text-styles
     readOnly: true
     fields:
-      - type: enum
-        name: size
-        label: Font size
-        options:
-          - label: XS
-            value: xs
-          - label: SM
-            value: sm
-          - label: Base
-            value: base
-          - label: LG
-            value: lg
-          - label: XL
-            value: xl
-          - label: 2XL
-            value: 2xl
-          - label: 3XL
-            value: 3xl
-          - label: 4XL
-            value: 4xl
-          - label: 5XL
-            value: 5xl
-          - label: 6XL
-            value: 6xl
-          - label: 7XL
-            value: 7xl
-          - label: 8XL
-            value: 8xl
-          - label: 9XL
-            value: 9xl
-        default: 2xl
+            # - type: enum
+      #   name: size
+      #   label: Font size
+      #   options:
+      #     - label: XS
+      #       value: xs
+      #     - label: SM
+      #       value: sm
+      #     - label: Base
+      #       value: base
+      #     - label: LG
+      #       value: lg
+      #     - label: XL
+      #       value: xl
+      #     - label: 2XL
+      #       value: 2xl
+      #     - label: 3XL
+      #       value: 3xl
+      #     - label: 4XL
+      #       value: 4xl
+      #     - label: 5XL
+      #       value: 5xl
+      #     - label: 6XL
+      #       value: 6xl
+      #     - label: 7XL
+      #       value: 7xl
+      #     - label: 8XL
+      #       value: 8xl
+      #     - label: 9XL
+      #       value: 9xl
+        # default: 2xl
       - type: enum
         name: weight
         label: Font weight
@@ -386,37 +386,37 @@ fields:
     group: text-styles
     readOnly: true
     fields:
-      - type: enum
-        name: size
-        label: Font size
-        options:
-          - label: XS
-            value: xs
-          - label: SM
-            value: sm
-          - label: Base
-            value: base
-          - label: LG
-            value: lg
-          - label: XL
-            value: xl
-          - label: 2XL
-            value: 2xl
-          - label: 3XL
-            value: 3xl
-          - label: 4XL
-            value: 4xl
-          - label: 5XL
-            value: 5xl
-          - label: 6XL
-            value: 6xl
-          - label: 7XL
-            value: 7xl
-          - label: 8XL
-            value: 8xl
-          - label: 9XL
-            value: 9xl
-        default: xl
+            # - type: enum
+      #   name: size
+      #   label: Font size
+      #   options:
+      #     - label: XS
+      #       value: xs
+      #     - label: SM
+      #       value: sm
+      #     - label: Base
+      #       value: base
+      #     - label: LG
+      #       value: lg
+      #     - label: XL
+      #       value: xl
+      #     - label: 2XL
+      #       value: 2xl
+      #     - label: 3XL
+      #       value: 3xl
+      #     - label: 4XL
+      #       value: 4xl
+      #     - label: 5XL
+      #       value: 5xl
+      #     - label: 6XL
+      #       value: 6xl
+      #     - label: 7XL
+      #       value: 7xl
+      #     - label: 8XL
+      #       value: 8xl
+      #     - label: 9XL
+      #       value: 9xl
+        # default: xl
       - type: enum
         name: weight
         label: Font weight
@@ -476,37 +476,37 @@ fields:
     group: text-styles
     readOnly: true
     fields:
-      - type: enum
-        name: size
-        label: Font size
-        options:
-          - label: XS
-            value: xs
-          - label: SM
-            value: sm
-          - label: Base
-            value: base
-          - label: LG
-            value: lg
-          - label: XL
-            value: xl
-          - label: 2XL
-            value: 2xl
-          - label: 3XL
-            value: 3xl
-          - label: 4XL
-            value: 4xl
-          - label: 5XL
-            value: 5xl
-          - label: 6XL
-            value: 6xl
-          - label: 7XL
-            value: 7xl
-          - label: 8XL
-            value: 8xl
-          - label: 9XL
-            value: 9xl
-        default: lg
+            # - type: enum
+      #   name: size
+      #   label: Font size
+      #   options:
+      #     - label: XS
+      #       value: xs
+      #     - label: SM
+      #       value: sm
+      #     - label: Base
+      #       value: base
+      #     - label: LG
+      #       value: lg
+      #     - label: XL
+      #       value: xl
+      #     - label: 2XL
+      #       value: 2xl
+      #     - label: 3XL
+      #       value: 3xl
+      #     - label: 4XL
+      #       value: 4xl
+      #     - label: 5XL
+      #       value: 5xl
+      #     - label: 6XL
+      #       value: 6xl
+      #     - label: 7XL
+      #       value: 7xl
+      #     - label: 8XL
+      #       value: 8xl
+      #     - label: 9XL
+      #       value: 9xl
+        # default: lg
       - type: enum
         name: weight
         label: Font weight
@@ -714,37 +714,37 @@ fields:
     group: button-styles
     readOnly: true
     fields:
-      - type: enum
-        name: size
-        label: Font size
-        options:
-          - label: XS
-            value: xs
-          - label: SM
-            value: sm
-          - label: Base
-            value: base
-          - label: LG
-            value: lg
-          - label: XL
-            value: xl
-          - label: 2XL
-            value: 2xl
-          - label: 3XL
-            value: 3xl
-          - label: 4XL
-            value: 4xl
-          - label: 5XL
-            value: 5xl
-          - label: 6XL
-            value: 6xl
-          - label: 7XL
-            value: 7xl
-          - label: 8XL
-            value: 8xl
-          - label: 9XL
-            value: 9xl
-        default: 4xl
+            # - type: enum
+      #   name: size
+      #   label: Font size
+      #   options:
+      #     - label: XS
+      #       value: xs
+      #     - label: SM
+      #       value: sm
+      #     - label: Base
+      #       value: base
+      #     - label: LG
+      #       value: lg
+      #     - label: XL
+      #       value: xl
+      #     - label: 2XL
+      #       value: 2xl
+      #     - label: 3XL
+      #       value: 3xl
+      #     - label: 4XL
+      #       value: 4xl
+      #     - label: 5XL
+      #       value: 5xl
+      #     - label: 6XL
+      #       value: 6xl
+      #     - label: 7XL
+      #       value: 7xl
+      #     - label: 8XL
+      #       value: 8xl
+      #     - label: 9XL
+      #       value: 9xl
+        # default: 4xl
       - type: enum
         name: weight
         label: Font weight

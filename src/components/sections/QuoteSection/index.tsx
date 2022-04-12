@@ -52,10 +52,10 @@ export default function QuoteSection(props) {
                 />
             )}
             >
-            <div className={classNames('flex', 'relative', 'w-full',
-                sectionStyles.padding || 'py-12 px-4', mapStyles({ justifyContent: sectionJustifyContent }))}>
-                <div className={classNames('w-full', mapMaxWidthStyles(sectionWidth))}>{quoteContent(props)}</div>
-            </div>
+                <div className={classNames('flex', 'relative', 'w-full',
+                    sectionStyles.padding || 'py-12 px-4', mapStyles({ justifyContent: sectionJustifyContent }))}>
+                    <div className={classNames('w-full', mapMaxWidthStyles(sectionWidth))}>{quoteContent(props)}</div>
+                </div>
             </Parallax>
 
         </div>

@@ -32,7 +32,7 @@ export default function FeaturedItem(props) {
             data-sb-field-path={props['data-sb-field-path']}
         >
             {props.featuredImage && (
-                <div className="mb-6 image">
+                <div className="mb-6 image object-fill">
                     <ImageBlock {...props.featuredImage} className="inline-block" data-sb-field-path=".featuredImage" />
                 </div>
             )}

@@ -1,7 +1,15 @@
 const sourcebit = require('sourcebit');
 const sourcebitConfig = require('./sourcebit.js');
 const withBundleAnalyzer = require('@next/bundle-analyzer')({
-    enabled: process.env.ANALYZE === 'true',
+    enabled: process.env.ANALYZE === 'true'
+});
+// next.config.js
+const withOptimizedImages = require('next-optimized-images');
+
+module.exports = withOptimizedImages({
+  /* config for next-optimized-images */
+
+  // your config for other plugins or the general next.js here...
 });
 
 sourcebit.fetch(sourcebitConfig);
