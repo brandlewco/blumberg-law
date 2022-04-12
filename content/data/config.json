@@ -362,7 +362,7 @@
                 "label": "Twitter",
                 "url": "https://twitter.com/bruceblumberg/",
                 "icon": "twitter",
-                "style": "primary"
+                "style": "secondary"
             },
             {
                 "type": "Social",
