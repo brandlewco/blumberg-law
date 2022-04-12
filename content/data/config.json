@@ -401,14 +401,7 @@
                 "label": "Phoenix Family Attorney\n",
                 "altText": "",
                 "url": "/phoenix-family-attorney/",
-                "child": [
-                    {
-                        "type": "Link",
-                        "label": "Blog",
-                        "url": "/",
-                        "altText": "Blog"
-                    }
-                ],
+                "child": [],
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
