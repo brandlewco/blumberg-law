@@ -444,7 +444,8 @@
             "phoneAltText": "Phone",
             "emailAltText": "Email",
             "addressAltText": "Address",
-            "elementId": ""
+            "elementId": "",
+            "address": "3600 N 19TH AVE\nPHOENIX, AZ 85015"
         }
     },
     "defaultMetaTags": []
