@@ -403,6 +403,19 @@
                 "url": "/phoenix-family-attorney/",
             }
         ],
+        "footerLinks": [
+            {
+                "type": "Link",
+                "label": "Phoenix Criminal Attorney\n\n",
+                "url": "/phoenix-criminal-attorney/"
+            },
+            {
+                "type": "Link",
+                "label": "Phoenix Family Attorney\n",
+                "altText": "",
+                "url": "/phoenix-family-attorney/",
+            }
+        ],
         "styles": {
             "self": {
                 "width": "full",
