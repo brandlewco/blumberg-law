@@ -445,7 +445,7 @@
             "emailAltText": "Email",
             "addressAltText": "Address",
             "elementId": "",
-            "address": "3600 N 19TH AVE\n\nPHOENIX, AZ 85015"
+            "address": "3600 N 19TH AVE\n\n\nPHOENIX, AZ 85015"
         }
     },
     "defaultMetaTags": []
