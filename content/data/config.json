@@ -446,7 +446,8 @@
             "addressAltText": "Address",
             "elementId": "",
             "address": "3600 N 19TH AVE\n\nPHOENIX, AZ 85015"
-        }
+        },
+        "title": "Blumberg"
     },
     "defaultMetaTags": []
 }
