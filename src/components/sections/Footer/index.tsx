@@ -72,7 +72,7 @@ function footerVariantA(props) {
                                     </li>
                                 ))}
                             </ul>
-                            <ul className="flex flex-col items-start space-y-6 text-lg" data-sb-field-path=".primaryLinks">
+                            <ul className="flex flex-col items-start space-y-6 text-lg" data-sb-field-path=".footerLinks">
                                 {footerLinks.map((link, index) => (
                                     <li key={index}>
                                         <Action {...link} data-sb-field-path={`.${index}`} />
