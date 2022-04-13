@@ -36,36 +36,44 @@ function footerVariantA(props) {
     const primaryLinks = props.primaryLinks || [];
     const socialLinks = props.socialLinks || [];
     const legalLinks = props.legalLinks || [];
+    const footerLinks = props.footerLinks || [];
     const media = props.media.url || [];
     return (
         <>
-            {/* {(props.logo || props.title || props.text) && (
-                <div className="mb-12">
-                    <Link href="/" className="sb-footer-logo flex items-center">
-                        {props.logo && <ImageBlock {...props.logo} className={classNames('max-h-12', { 'mr-2': props.title })} data-sb-field-path=".logo" />}
-                        {props.title && (
-                            <span className="text-3xl font-medium" data-sb-field-path=".title">
-                                {props.title}
-                            </span>
-                        )}
-                    </Link>
-                    {props.text && (
-                        <Markdown
-                            options={{ forceBlock: true, forceWrapper: true }}
-                            className={classNames('sb-markdown', 'max-w-xl', { 'mt-8': props.title || props.logo })}
-                            data-sb-field-path=".text"
-                        >
-                            {props.text}
-                        </Markdown>
-                    )}
-                </div>
-            )} */}
             {(primaryLinks.length > 0 || socialLinks.length > 0 || props.contacts) && (
                 <div className="flex flex-col md:flex-row justify-between items-center">
                     {primaryLinks.length > 0 && (
                         <div className="w-full lg:w-1/2 px-8 py-8">
+                            {(props.logo || props.title || props.text) && (
+                                <div className="mb-12">
+                                    <Link href="/" className="sb-footer-logo flex items-center">
+                                        {props.logo && <ImageBlock {...props.logo} className={classNames('max-h-12', { 'mr-2': props.title })} data-sb-field-path=".logo" />}
+                                        {/* {props.title && (
+                                            <span className="text-3xl font-medium" data-sb-field-path=".title">
+                                                {props.title}
+                                            </span>
+                                        )} */}
+                                    </Link>
+                                    {props.text && (
+                                        <Markdown
+                                            options={{ forceBlock: true, forceWrapper: true }}
+                                            className={classNames('sb-markdown', 'max-w-xl', { 'mt-8': props.title || props.logo })}
+                                            data-sb-field-path=".text"
+                                        >
+                                            {props.text}
+                                        </Markdown>
+                                    )}
+                                </div>
+                            )}
                             <ul className="contact-svg flex flex-col items-start space-y-6 text-lg" data-sb-field-path=".primaryLinks">
                                 {primaryLinks.map((link, index) => (
+                                    <li key={index}>
+                                        <Action {...link} data-sb-field-path={`.${index}`} />
+                                    </li>
+                                ))}
+                            </ul>
+                            <ul className="flex flex-col items-start space-y-6 text-lg" data-sb-field-path=".primaryLinks">
+                                {footerLinks.map((link, index) => (
                                     <li key={index}>
                                         <Action {...link} data-sb-field-path={`.${index}`} />
                                     </li>
@@ -74,42 +82,42 @@ function footerVariantA(props) {
                         </div>
                     )}
                     <div className="w-full lg:w-1/2 h-full relative py-48">
-                    {props.media && <BackgroundImage {...props.media} />}
+                        {props.media && <BackgroundImage {...props.media} />}
                     </div>
                 </div>
             )}
             <div className="border-t-2 border-current flex flex-col-reverse justify-between pt-6 lg:flex-row ">
                 <div className="max-w-7xl mx-auto w-full flex flex-row justify-between">
-                {(socialLinks.length > 0 || props.contacts) && (
-                    <div className="flex flex-row justify-start">
-                        {socialLinks.length > 0 && (
-                            <ul className="flex  mx-4 mb-4" data-sb-field-path=".socialLinks">
-                                {socialLinks.map((link, index) => (
-                                    <li key={index} className="mx-4 mb-2">
-                                        <Social {...link} data-sb-field-path={`.${index}`} />
-                                    </li>
-                                ))}
-                            </ul>
-                        )}
-                        {props.contacts && <Contacts {...props.contacts} className="flex flex-wrap justify-center mx-4 mb-4" classNameItem="mx-4 mb-2" />}
-                    </div>
-                )}
-            <Markdown
-                options={{ forceInline: false, forceWrapper: true, wrapper: 'p' }}
-                className="sb-markdown text-center"
-                data-sb-field-path=".copyrightText"
-            >
-                {props.copyrightText}
-            </Markdown>
-                {legalLinks.length > 0 && (
-                    <ul className="flex flex-col mb-6 space-y-2 lg:mb-0 sm:space-y-0 sm:space-x-5 sm:flex-row" data-sb-field-path=".legalLinks">
-                        {legalLinks.map((link, index) => (
-                            <li key={index}>
-                                <Action {...link} data-sb-field-path={`.${index}`} />
-                            </li>
-                        ))}
-                    </ul>
-                )}
+                    {(socialLinks.length > 0 || props.contacts) && (
+                        <div className="flex flex-row justify-start">
+                            {socialLinks.length > 0 && (
+                                <ul className="flex  mx-4 mb-4" data-sb-field-path=".socialLinks">
+                                    {socialLinks.map((link, index) => (
+                                        <li key={index} className="mx-4 mb-2">
+                                            <Social {...link} data-sb-field-path={`.${index}`} />
+                                        </li>
+                                    ))}
+                                </ul>
+                            )}
+                            {props.contacts && <Contacts {...props.contacts} className="flex flex-wrap justify-center mx-4 mb-4" classNameItem="mx-4 mb-2" />}
+                        </div>
+                    )}
+                    <Markdown
+                        options={{ forceInline: false, forceWrapper: true, wrapper: 'p' }}
+                        className="sb-markdown text-center"
+                        data-sb-field-path=".copyrightText"
+                    >
+                        {props.copyrightText}
+                    </Markdown>
+                    {legalLinks.length > 0 && (
+                        <ul className="flex flex-col mb-6 space-y-2 lg:mb-0 sm:space-y-0 sm:space-x-5 sm:flex-row" data-sb-field-path=".legalLinks">
+                            {legalLinks.map((link, index) => (
+                                <li key={index}>
+                                    <Action {...link} data-sb-field-path={`.${index}`} />
+                                </li>
+                            ))}
+                        </ul>
+                    )}
                 </div>
             </div>
         </>
@@ -186,13 +194,13 @@ function footerVariantB(props) {
                 )}
             >
                 {props.copyrightText && (
-                <Markdown
-                    options={{ forceInline: true, forceWrapper: true, wrapper: 'p' }}
-                    className={classNames('sb-markdown', { 'mt-6 lg:mt-0': legalLinks.length > 0 })}
-                    data-sb-field-path=".copyrightText"
-                >
-                    {props.copyrightText}
-                </Markdown>
+                    <Markdown
+                        options={{ forceInline: true, forceWrapper: true, wrapper: 'p' }}
+                        className={classNames('sb-markdown', { 'mt-6 lg:mt-0': legalLinks.length > 0 })}
+                        data-sb-field-path=".copyrightText"
+                    >
+                        {props.copyrightText}
+                    </Markdown>
                 )}
                 {legalLinks.length > 0 && (
                     <ul className="flex flex-wrap justify-center" data-sb-field-path=".legalLinks">
