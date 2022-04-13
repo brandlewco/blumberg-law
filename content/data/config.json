@@ -401,21 +401,6 @@
                 "label": "Phoenix Family Attorney\n",
                 "altText": "",
                 "url": "/phoenix-family-attorney/",
-                "child": [],
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": "",
-                "styles": {
-                    "self": {
-                        "padding": [
-                            "pt-5",
-                            "pb-5",
-                            "pl-4",
-                            "pr-4"
-                        ]
-                    }
-                }
             }
         ],
         "styles": {
@@ -454,43 +439,7 @@
             "altText": "altText of the image",
             "caption": "Caption of the image",
             "elementId": ""
-        },
-        "footerLinks": [
-            {
-                "type": "Link",
-                "label": "Learn more",
-                "altText": "",
-                "url": "/",
-                "child": [
-                    {
-                        "type": "Link",
-                        "label": "Home",
-                        "url": "/",
-                        "altText": "Home"
-                    },
-                    {
-                        "type": "Link",
-                        "label": "Blog",
-                        "url": "/",
-                        "altText": "Blog"
-                    }
-                ],
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": "",
-                "styles": {
-                    "self": {
-                        "padding": [
-                            "pt-5",
-                            "pb-5",
-                            "pl-4",
-                            "pr-4"
-                        ]
-                    }
-                }
-            }
-        ]
+        }
     },
     "defaultMetaTags": []
 }
