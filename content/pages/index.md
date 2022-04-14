@@ -31,8 +31,8 @@ hero:
           - mb-0
           - mr-0
         padding:
-          - pt-24
-          - pb-32
+          - pt-28
+          - pb-36
           - pr-8
           - pl-8
         alignItems: center
