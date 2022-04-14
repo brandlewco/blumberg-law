@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.png",
+    "favicon": "/images/favicon.svg",
     "header": {
         "headerVariant": "variant-b",
         "isSticky": true,
@@ -322,7 +322,7 @@
     },
     "footer": {
         "colors": "colors-b",
-        "copyrightText": "© 2020 - 2022 Blumberg & Associates. All rights reserved. [Disclaimer](/disclaimer)\n\nWebsite by [BrandLew.co](https://www.brandlew.co)\n",
+        "copyrightText": "© 2020 - 2022 Blumberg & Associates. All rights reserved.\n\n\nWebsite by [BrandLew.co](https://www.stackbit.com/)\n",
         "primaryLinks": [
             {
                 "type": "Link",
@@ -360,60 +360,34 @@
                 "type": "Social",
                 "altText": "Twitter",
                 "label": "Twitter",
-                "url": "https://twitter.com/bruceblumberg/",
-                "icon": "twitter",
-                "style": "secondary"
+                "url": "/",
+                "icon": "twitter"
             },
             {
                 "type": "Social",
                 "altText": "Instagram",
                 "label": "Instagram",
-                "url": "https://www.instagram.com/blumbergandassociates/",
-                "icon": "instagram",
-                "style": "secondary"
+                "url": "/",
+                "icon": "instagram"
             },
             {
                 "type": "Social",
                 "altText": "Facebook",
                 "label": "Facebook",
-                "url": "https://www.facebook.com/BlumbergandAssociates/",
-                "icon": "facebook",
-                "style": "secondary"
-            },
-            {
-                "type": "Social",
-                "label": "Linkedin",
-                "altText": "",
-                "url": "https://www.linkedin.com/company/blumberg-&-associates/",
-                "icon": "linkedin",
-                "style": "secondary",
-                "elementId": ""
+                "url": "/",
+                "icon": "facebook"
             }
         ],
         "legalLinks": [
             {
                 "type": "Link",
-                "label": "Phoenix Criminal Attorney\n\n",
-                "url": "/phoenix-criminal-attorney/"
+                "label": "Privacy Policy",
+                "url": "/"
             },
             {
                 "type": "Link",
-                "label": "Phoenix Family Attorney\n",
-                "altText": "",
-                "url": "/phoenix-family-attorney/",
-            }
-        ],
-        "footerLinks": [
-            {
-                "type": "Link",
-                "label": "Phoenix Criminal Attorney\n\n",
-                "url": "/phoenix-criminal-attorney/"
-            },
-            {
-                "type": "Link",
-                "label": "Phoenix Family Attorney\n",
-                "altText": "",
-                "url": "/phoenix-family-attorney/",
+                "label": "Terms & Conditions",
+                "url": "/"
             }
         ],
         "styles": {
@@ -431,24 +405,6 @@
         "media": {
             "type": "ImageBlock",
             "url": "/images/map-blumberg-law.png",
-            "altText": "altText of the image",
-            "caption": "Caption of the image",
-            "elementId": ""
-        },
-        "contacts": {
-            "type": "ContactBlock",
-            "title": "Contact details",
-            "phoneNumber": "602-277-6180",
-            "phoneAltText": "Phone",
-            "emailAltText": "Email",
-            "addressAltText": "Address",
-            "elementId": "",
-            "address": "3600 N 19TH AVE\n\nPHOENIX, AZ 85015"
-        },
-        "title": "Blumberg",
-        "logo": {
-            "type": "ImageBlock",
-            "url": "/images/blumberg-law-logo-main.png",
             "altText": "altText of the image",
             "caption": "Caption of the image",
             "elementId": ""
