@@ -441,7 +441,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "Learn more\n",
                 "altText": "",
                 "url": "/",
                 "child": [],
