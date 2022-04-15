@@ -414,7 +414,7 @@
         "logo": {
             "type": "ImageBlock",
             "url": "/images/blumberg-law-logo-main.png",
-            "altText": "altText of the image",
+            "altText": "Blumberg & Associates",
             "caption": "Caption of the image",
             "elementId": ""
         }
