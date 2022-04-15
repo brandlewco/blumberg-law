@@ -465,14 +465,7 @@
                 "label": "Case Results\n",
                 "altText": "",
                 "url": "/",
-                "child": [
-                    {
-                        "type": "Link",
-                        "label": "Blog",
-                        "url": "/",
-                        "altText": "Blog"
-                    }
-                ],
+                "child": [],
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
