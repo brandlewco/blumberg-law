@@ -415,7 +415,8 @@
             "altText": "altText of the image",
             "caption": "Caption of the image",
             "elementId": ""
-        }
+        },
+        "title": "Blumberg & Associates"
     },
     "defaultMetaTags": []
 }
