@@ -408,6 +408,14 @@
             "altText": "altText of the image",
             "caption": "Caption of the image",
             "elementId": ""
+        },
+        "title": "Blumberg & Associates",
+        "text": "Over 30 of criminal case experiance. \n\n",
+        "logo": {
+            "type": "ImageBlock",
+            "url": "/images/blumberg-law-logo-main.png",
+            "altText": "Blumberg & Associates",
+            "elementId": ""
         }
     },
     "defaultMetaTags": []
