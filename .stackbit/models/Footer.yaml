@@ -111,6 +111,23 @@ fields:
         url: /
         altText: Documentation
   - type: list
+    name: secondaryLinks
+    label: Secondary navigation links
+    items:
+      type: model
+      models:
+        - Button
+        - Link
+    default:
+      - type: Link
+        label: Projects
+        url: /
+        altText: Projects
+      - type: Link
+        label: Documentation
+        url: /
+        altText: Documentation
+  - type: list
     name: socialLinks
     label: Social links
     items:
