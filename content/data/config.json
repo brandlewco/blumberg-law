@@ -409,13 +409,6 @@
             "caption": "Caption of the image",
             "elementId": ""
         },
-        "logo": {
-            "type": "ImageBlock",
-            "url": "https://assets.stackbit.com/components/images/default/default-image.png",
-            "altText": "altText of the image",
-            "caption": "Caption of the image",
-            "elementId": ""
-        },
         "title": "Blumberg & Associates",
         "text": "Over 30 of criminal case experiance. \n\n"
     },
