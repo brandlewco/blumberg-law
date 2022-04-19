@@ -878,4 +878,5 @@ sections:
 addTitleSuffix: false
 metaTags: []
 metaTitle: Blumberg & Associates - Phoenix Arizona Criminal Attorney
+metaDescription: 'Serving clients for over 30 years in '
 ---
