@@ -145,7 +145,7 @@ sections:
               Twitter
             altText: Bruce Blumberg Twitter
             url: 'https://twitter.com/bruceblumberg/'
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: secondary
