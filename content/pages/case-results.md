@@ -130,7 +130,7 @@ sections:
             showIcon: true
             icon: facebook
             iconPosition: left
-            style: secondary
+            style: primary
             elementId: ''
           - type: Button
             label: |
