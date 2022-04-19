@@ -145,7 +145,7 @@
             {
                 "label": "Family Law",
                 "altText": "Family Law",
-                "url": "/phoenix-family-attorney/family-law/",
+                "url": "/phoenix-family-attorney",
                 "child": [
                     {
                         "label": "Child Custody & Parenting Time",
