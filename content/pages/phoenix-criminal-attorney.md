@@ -11,7 +11,7 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |
-      Child Pornography
+      Criminal Defense
     actions:
       - type: Button
         label: |
@@ -84,7 +84,7 @@ sidebar:
   - type: FeaturedItemsSection
     colors: colors-d
     backgroundSize: full
-    title: |+
+    title: |
       #### CHOOSE A PRACTICE AREA **TO LEARN MORE**
     items:
       - type: FeaturedItem
