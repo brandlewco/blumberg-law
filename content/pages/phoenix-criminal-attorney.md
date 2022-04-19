@@ -114,7 +114,6 @@ sections:
     subtitle: Featured Testimonials section example
     colors: colors-b
     posts:
-      - content/pages/testimonials/brent-wayne.md
       - content/pages/testimonials/jg-hori.md
       - content/pages/testimonials/david-k-le-lievre-jr.md
       - content/pages/testimonials/zane-hill.md
