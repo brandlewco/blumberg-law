@@ -147,7 +147,7 @@ sections:
             url: 'https://twitter.com/bruceblumberg/'
             showIcon: true
             icon: twitter
-            iconPosition: right
+            iconPosition: left
             style: secondary
             elementId: ''
           - type: Button
