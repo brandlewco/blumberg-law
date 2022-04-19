@@ -28,7 +28,7 @@
             {
                 "type": "Link",
                 "label": "Criminal Defense",
-                "url": "/phoenix-criminal-attorney/criminal-defense",
+                "url": "/phoenix-criminal-attorney",
                 "altText": "Criminal Defense",
                 "styles": {
                     "self": {
