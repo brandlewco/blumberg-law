@@ -141,7 +141,8 @@ sections:
             style: secondary
             iconPosition: left
           - type: Button
-            label: Learn more
+            label: |
+              Twitter
             altText: ''
             url: /
             showIcon: false
