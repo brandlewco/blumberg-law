@@ -84,7 +84,7 @@ sidebar:
     colors: colors-f
     backgroundSize: full
     title: |
-      #### CHOOSE A PRACTICE AREA **TO LEARN MORE**
+      ##### CHOOSE A PRACTICE AREA TO LEARN MORE
     items:
       - type: FeaturedItem
         actions:

@@ -16,7 +16,7 @@ hero:
       - type: Button
         label: |
           Child Pornography Criminal Representation
-        url: 'https://www.stackbit.com/'
+        url: '/contact-us/'
         style: primary
         iconPosition: right
         icon: arrowRight
@@ -85,7 +85,7 @@ sidebar:
     colors: colors-d
     backgroundSize: full
     title: |+
-      #### CHOOSE A PRACTICE AREA **TO LEARN MORE**
+      ##### CHOOSE A PRACTICE AREA TO LEARN MORE
     items:
       - type: FeaturedItem
         actions:

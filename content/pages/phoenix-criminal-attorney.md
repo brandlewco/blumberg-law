@@ -11,12 +11,12 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |
-      Criminal Defense
+      Child Pornography
     actions:
       - type: Button
         label: |
-          Criminal Defense Representation
-        url: /contact-us/
+          Child Pornography Criminal Representation
+        url: '/contact-us/'
         style: primary
         iconPosition: right
         icon: arrowRight
@@ -56,104 +56,9 @@ sections:
     colors: colors-a
     variant: variant-a
     title: |+
-      Phoenix Criminal Attorney
+      Phoenix Child Pornography Attorney
 
-    text: >
-      When you are arrested and charged with a criminal offense, the
-      consequences you face can be severe. Depending on the charges, you could
-      be looking at expensive fines, months in jail or years in prison. In
-      addition to criminal penalties, you could lose your driver’s license or a
-      professional license, and your ability to get or keep a good job. Persons
-      convicted of crimes in Arizona soon find out how that conviction impacts
-      every area of their life, from where they can live and work to their
-      reputation in the neighborhood, community and even their relationships
-      with friends and families. You owe it to yourself and your loved ones to
-      take any criminal charge seriously and secure the best legal
-      representation you can get, contact our experienced Phoenix criminal
-      attorney today.
-
-
-      ## PREPARING TO MEET WITH A CRIMINAL DEFENSE ATTORNEY
-
-
-      **Finding a Criminal Lawyer**
-
-
-      Your best chance at a favorable outcome in your criminal case is being
-      represented by an attorney who has extensive experience in representing
-      people in circumstances similar to yours. There are a lot of criminal
-      defense lawyers in practice, and not all of them will be suitable to your
-      needs. In order to find the best attorney for you, here are few things to
-      consider in your search:
-
-
-      *   Find out as best you can what percentage of an attorney’s caseload
-      mirrors your kind of case. Certain types of crimes may require a more
-      specialized attorney. For example, you may want to find an attorney that
-      deals primarily with drug offenses, white collar crime, or juvenile
-      justice.
-
-
-      *   Ask for personal references from the attorney. While these may not be
-      completely objective, talking to another of the attorney’s clients may
-      give you a better sense as to whether a lawyer is a good fit for you.
-
-
-      *   Figure out the attorney’s rates. Some lawyers will ask for a flat fee
-      up front, while others will work on an hourly basis. A lawyer with a great
-      reputation in a certain area will likely charge more. Depending on the
-      severity of the crime and what’s at stake, you may decide it is worth it
-      to pay the extra money.
-
-
-      **Your First Meeting**
-
-
-      When meeting with a lawyer for the first time, try and present him or her
-      with as much information as possible. Here are some things to remember:
-
-      Bring any and all documentation you have pertaining to your arrest. This
-      might include:
-
-
-      *   Warrants or police documentation of items seized
-
-
-      *   Charging documents
-
-
-      *   Bail papers
-
-
-      *   Dates and times of future appearances
-
-
-      *   A police report, if you can get one
-
-
-      *   Your driver’s license or ID
-
-
-      *   Any records of prior arrests or convictions
-
-
-      Being involved in the criminal justice system can be very scary for the
-      average person. Finding a Phoenix criminal defense attorney that you trust
-      and then arming him or her with as much information about your case as
-      possible is the best thing you can do to make your case go smoothly.
-
-
-      ## MAKE YOUR FIRST CALL BE TO BLUMBERG & ASSOCIATES AFTER A PHOENIX ARREST
-
-
-      Before you phone your family or talk to the police, make your first call
-      be to an experienced and successful Phoenix criminal attorney who can
-      advise you of your rights and immediately take charge to help you get the
-      best result after an arrest for any misdemeanor or felony offense. In
-      Arizona, call Blumberg & Associates in Phoenix for advice and
-      representation from a Board-Certified Specialist in criminal law who has
-      helped thousands of clients in situations like yours. Call 602-277-6180,
-      or contact us online.
+    text: "In Arizona, the possession or distribution of child porn is called sexual exploitation of a minor. It is a serious charge, subject to a prison sentence of 10 to 24 years for each image knowingly possessed. If you are under investigation for or have been charged with possession or distribution of child pornography, our\_**Phoenix child pornography attorneys**\_offer a free initial consultation to evaluate your case.\n\nIn Arizona, a person can be charged with sexual exploitation of a minor for:\n\n*   Recording, filming, photographing, developing or duplicating any visual depiction in which a minor (under 18 years of age) is engaged in exploitive exhibition or other sexual conduct\n\n*   Distributing, transporting, exhibiting, receiving, selling, purchasing, electronically transmitting, possessing or exchanging such images\n\nThe federal government has made the prosecution of child pornography cases a priority under the “Protect Act”, which means you could be charged in state or federal court. Both state and federal prosecutors consider the prosecution of child pornography a priority and are not looking to make these charges probation eligible matters.\n\nPossession of child pornography is a registration offense under Arizona’s sex offender registration law. Possession of child pornography can also lead to the loss of your parental rights under a civil action by Arizona Child Protective Services.\n\n## DEFENSES IN A CHILD PORNOGRAPHY CASE\n\nDefenses in a child pornography case include:\n\n*   Police did not have a valid warrant for seizing computer evidence.\n\n*   Other people had access to your computer.\n\n*   The images were in your temporary cache or unallocated space. Accidental viewing of child pornography is not a crime if you did not do anything with the images, such as saving or distributing them.\n\n*   The images are not real children. Possession of virtual child pornography is not a crime.\n\n## FREE ATTORNEY CONSULTATION\n\nIf you are under investigation for or have been charged with knowingly viewing, possessing or manufacturing child pornography in Arizona, please contact a lawyer at Blumberg & Associates in Phoenix as soon as possible. The sooner you contact a defense attorney, the more your attorney can do to protect your rights and your future.\n"
     styles:
       self:
         height: auto
@@ -179,8 +84,8 @@ sidebar:
   - type: FeaturedItemsSection
     colors: colors-d
     backgroundSize: full
-    title: |
-      #### CHOOSE A PRACTICE AREA **TO LEARN MORE**
+    title: |+
+      ##### CHOOSE A PRACTICE AREA TO LEARN MORE
     items:
       - type: FeaturedItem
         actions:
