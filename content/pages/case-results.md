@@ -154,7 +154,7 @@ sections:
           - type: Button
             label: |
               Instagram
-            altText: ''
+            altText: Bruce Blumberg Instagram
             url: /
             showIcon: true
             icon: instagram
