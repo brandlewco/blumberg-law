@@ -117,6 +117,7 @@ sections:
       - content/pages/testimonials/yaser-awad.md
       - content/pages/testimonials/brent-wayne.md
       - content/pages/testimonials/danielle-chodrick.md
+      - content/pages/testimonials/jg-hori.md
     name: ''
     showDate: false
     showExcerpt: false
