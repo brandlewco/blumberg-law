@@ -661,7 +661,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/blumberg-handcuffs.jpg
-      altText: altText of the image
+      altText: Handcuffs
       caption: Caption of the image
       elementId: ''
   - elementId: ''
