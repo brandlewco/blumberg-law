@@ -137,7 +137,7 @@ sections:
               LinkedIn
             showIcon: true
             icon: linkedin
-            url: /
+            url: 'https://www.linkedin.com/company/blumberg-&-associates/'
             style: secondary
             iconPosition: left
             altText: Bruce Blumberg LinkedIn
