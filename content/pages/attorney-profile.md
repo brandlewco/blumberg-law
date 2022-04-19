@@ -114,37 +114,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: QuoteSection
-    colors: colors-b
-    quote: |
-      "A quote of interest from Bruce that highlights his experience"
-    name: ''
-    title: ''
-    backgroundImage:
-      type: BackgroundImage
-      url: /images/background-arizona-desert.png
-      backgroundSize: cover
-      backgroundPosition: center
-      opacity: 70
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-32
-          - pb-32
-          - pl-8
-          - pr-8
-        justifyContent: center
-      quote:
-        textAlign: left
-      name:
-        textAlign: left
-      title:
-        textAlign: left
   - type: FeaturedTestimonialsSection
     elementId: ''
     showAuthor: false
@@ -152,7 +121,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/bruce-blumberg-arizona-lawyer-testimonials.jpg
+      url: /images/portrait-testimonials-placeholder.png
       altText: Hero section image
     styles:
       self:
