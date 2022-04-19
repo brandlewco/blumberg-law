@@ -1,6 +1,5 @@
 import * as React from 'react';
 import Markdown from 'markdown-to-jsx';
-import { isMobile } from "react-device-detect";
 
 import classNames from 'classnames';
 import Link from '../Link';
