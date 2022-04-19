@@ -58,7 +58,7 @@ sections:
     title: |+
       Phoenix Criminal Attorney
 
-    text: >+
+    text: >
       When you are arrested and charged with a criminal offense, the
       consequences you face can be severe. Depending on the charges, you could
       be looking at expensive fines, months in jail or years in prison. In
@@ -73,7 +73,7 @@ sections:
       attorney today.
 
 
-      PREPARING TO MEET WITH A CRIMINAL DEFENSE ATTORNEY
+      ## PREPARING TO MEET WITH A CRIMINAL DEFENSE ATTORNEY
 
 
       **Finding a Criminal Lawyer**
@@ -154,7 +154,6 @@ sections:
       representation from a Board-Certified Specialist in criminal law who has
       helped thousands of clients in situations like yours. Call 602-277-6180,
       or contact us online.
-
     styles:
       self:
         height: auto
