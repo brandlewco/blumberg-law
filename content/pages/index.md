@@ -359,7 +359,7 @@ sections:
         label: |
           Contact Blumberg & Associates
         altText: ''
-        url: /
+        url: /contact-us
         showIcon: false
         icon: arrowRight
         iconPosition: right
