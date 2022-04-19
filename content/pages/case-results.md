@@ -116,7 +116,7 @@ sections:
     colors: colors-d
     elementId: ''
     title: |
-      **Connect with Bruce.**
+      Connect with Bruce.
     backgroundSize: full
     subtitle: ''
     items:
