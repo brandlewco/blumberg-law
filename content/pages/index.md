@@ -620,7 +620,7 @@ sections:
     actions:
       - type: Button
         label: |
-          See All Testimonials
+          Read More Testimonials
         altText: ''
         url: /testimonials
         showIcon: true
