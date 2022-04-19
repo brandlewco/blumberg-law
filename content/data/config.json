@@ -399,7 +399,7 @@
         ],
         "styles": {
             "self": {
-                "width": "full",
+                "width": "wide",
                 "padding": [
                     "pt-0",
                     "pb-8",
