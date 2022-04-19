@@ -583,7 +583,8 @@ sections:
         textAlign: left
     type: TextSection
     actions:
-      - label: Learn more
+      - label: |
+          Attorney Profile
         altText: ''
         url: /
         showIcon: true
