@@ -62,7 +62,7 @@ sections:
       type: FormBlock
       elementId: contact-form
       action: /.netlify/functions/submission_created
-      destination: ''
+      destination: hello@brandlew.co
       fields:
         - type: TextFormControl
           name: First
