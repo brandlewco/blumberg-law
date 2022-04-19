@@ -877,4 +877,5 @@ sections:
         textAlign: left
 addTitleSuffix: true
 metaTags: []
+metaTitle: Bruce Blumber
 ---
