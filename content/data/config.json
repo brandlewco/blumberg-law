@@ -368,7 +368,8 @@
                 "altText": "Instagram",
                 "label": "Instagram",
                 "url": "/",
-                "icon": "instagram"
+                "icon": "instagram",
+                "style": "primary"
             },
             {
                 "type": "Social",
