@@ -471,7 +471,7 @@
                 "type": "Link",
                 "label": "Case Results",
                 "altText": "",
-                "url": "/cases/",
+                "url": "/case-results/",
                 "child": [],
                 "showIcon": false,
                 "icon": "arrowRight",
