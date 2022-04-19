@@ -113,7 +113,7 @@ sections:
     showReadMoreLink: false
     readMoreLinkLabel: See All Testimonials
   - type: FeaturedItemsSection
-    colors: colors-e
+    colors: colors-d
     elementId: ''
     title: |
       **Connect with Bruce.**
