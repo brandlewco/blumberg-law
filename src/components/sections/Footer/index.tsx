@@ -61,7 +61,7 @@ function footerVariantA(props) {
                 )}
             </div>
             <div className="border-t-2 border-current flex justify-between pt-6 flex-col">
-                <div className="max-w-7xl mx-auto w-full flex flex-row items-start justify-center gap-8">
+                <div className="max-w-7xl mx-auto w-full flex flex-row items-start justify-between gap-8">
                     <div>{(props.logo || props.title || props.text) && (
                         <div className="mb-12">
                             <Link href="/" className="sb-footer-logo flex items-center">
