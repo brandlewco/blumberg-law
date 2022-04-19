@@ -16,7 +16,8 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
-    title: Testimonials
+    title: |
+      Case Results
     subtitle: Real People. Real Cases.
     actions: []
     styles:
