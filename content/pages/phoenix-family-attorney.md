@@ -15,7 +15,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Phoenix Criminal Defense Representation
+          Phoenix Family Attorney Representation
         url: /contact-us/
         style: primary
         iconPosition: right
