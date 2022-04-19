@@ -295,7 +295,16 @@
 
     /* testimonials */
     .sb-component-testimonial-feed-section article {
-        @apply border-complementary-alt border-b-4 border-t-0;
+        &:last-child {
+            @apply border-0
+        }
+        @apply border-b-4 border-t-0;
+    }
+    .sb-component-testimonial-feed-section.colors-a article {
+        @apply border-gray-200
+    }
+    .sb-component-testimonial-feed-section.colors-b article {
+        @apply border-white
     }
     .quote {
         @apply relative;
@@ -470,7 +479,7 @@
         }
         .sb-component-button-secondary,
         .sb-component-social-secondary {
-            @apply border-on-light text-on-light hover:bg-primary hover:border-primary hover:text-primary;
+            @apply border-on-light text-on-light hover:bg-primary hover:border-primary hover:text-white;
         }
         .sb-card {
             @apply bg-complementary text-on-light;

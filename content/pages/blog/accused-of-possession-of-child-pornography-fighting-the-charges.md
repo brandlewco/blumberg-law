@@ -19,6 +19,7 @@ media:
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-qkxt493m4.json
 ---
 
 Possession of or the transmission of child pornography is a serious crime in Arizona, and is a heavily punished Felony nationwide, sometimes resulting in life imprisonment. Being such a serious crime, it is of utmost imperative to contact a criminal defense attorney immediately. If you suspect you have been wrongly accused with possession of or transmission of child pornography, or are wondering what your legal options are, it is of time-sensitive importance to contact an attorney as soon as possible. Child pornography accusations can drastically and dramatically alter someone’s life, as such is best resolved sooner and with expert advice.
