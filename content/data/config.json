@@ -358,6 +358,14 @@
         "socialLinks": [
             {
                 "type": "Social",
+                "altText": "Facebook",
+                "label": "Facebook",
+                "url": "https://www.facebook.com/BlumbergandAssociates/",
+                "icon": "facebook",
+                "style": "primary"
+            },
+            {
+                "type": "Social",
                 "altText": "Twitter",
                 "label": "Twitter",
                 "url": "https://twitter.com/bruceblumberg/",
@@ -370,14 +378,6 @@
                 "label": "Instagram",
                 "url": "https://www.instagram.com/blumbergandassociates/",
                 "icon": "instagram",
-                "style": "primary"
-            },
-            {
-                "type": "Social",
-                "altText": "Facebook",
-                "label": "Facebook",
-                "url": "https://www.facebook.com/BlumbergandAssociates/",
-                "icon": "facebook",
                 "style": "primary"
             }
         ],
