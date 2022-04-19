@@ -660,7 +660,7 @@ sections:
       - content/pages/testimonials/danielle-chodrick.md
     media:
       type: ImageBlock
-      url: /images/portrait-testimonials-placeholder.png
+      url: /images/blumberg-handcuffs.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
