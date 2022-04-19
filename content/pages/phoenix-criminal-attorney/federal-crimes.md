@@ -81,7 +81,7 @@ sections:
         textAlign: left
 sidebar:
   - type: FeaturedItemsSection
-    colors: colors-a
+    colors: colors-d
     items:
       - type: FeaturedItem
         actions:
