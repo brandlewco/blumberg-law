@@ -16,7 +16,7 @@ hero:
       - type: Button
         label: |
           Child Pornography Criminal Representation
-        url: '/contact-us/'
+        url: /contact-us/
         style: primary
         iconPosition: right
         icon: arrowRight
@@ -80,11 +80,53 @@ sections:
         textAlign: left
       text:
         textAlign: left
+  - type: FeaturedTestimonialsSection
+    elementId: ''
+    showAuthor: false
+    variant: variant-b
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/hero.webp
+      altText: Hero section image
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: left
+    title: Testimonials
+    subtitle: Featured Testimonials section example
+    colors: colors-b
+    posts:
+      - content/pages/testimonials/yaser-awad.md
+      - content/pages/testimonials/brent-wayne.md
+      - content/pages/testimonials/danielle-chodrick.md
+    name: ''
+    showDate: false
+    showExcerpt: false
+    showReadMoreLink: false
+    readMoreLinkLabel: See All Testimonials
 sidebar:
   - type: FeaturedItemsSection
     colors: colors-d
     backgroundSize: full
-    title: |+
+    title: |
       ##### CHOOSE A PRACTICE AREA TO LEARN MORE
     items:
       - type: FeaturedItem
