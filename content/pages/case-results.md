@@ -138,7 +138,7 @@ sections:
             showIcon: true
             icon: linkedin
             url: 'https://www.linkedin.com/company/blumberg-&-associates/'
-            style: secondary
+            style: primary
             iconPosition: left
             altText: Bruce Blumberg LinkedIn
           - type: Button
