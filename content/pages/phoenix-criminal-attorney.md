@@ -114,12 +114,12 @@ sections:
     subtitle: Featured Testimonials section example
     colors: colors-b
     posts:
-      - content/pages/testimonials/yaser-awad.md
       - content/pages/testimonials/brent-wayne.md
       - content/pages/testimonials/danielle-chodrick.md
       - content/pages/testimonials/jg-hori.md
       - content/pages/testimonials/david-k-le-lievre-jr.md
       - content/pages/testimonials/zane-hill.md
+      - content/pages/testimonials/yaser-awad.md
     name: ''
     showDate: false
     showExcerpt: false
