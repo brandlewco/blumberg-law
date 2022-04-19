@@ -5,9 +5,7 @@ addTitleSuffix: true
 metaTags: []
 title: Client accused of first degree murder. Six purported eye-witnesses.
 colors: colors-d
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: Not Guilty after 20 minute jury deliberation.
 bottomSections: []
 metaDescription: null
 socialImage: null
