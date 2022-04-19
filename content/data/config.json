@@ -381,7 +381,7 @@
         "legalLinks": [
             {
                 "type": "Link",
-                "label": "Privacy Policy",
+                "label": "Privacy Policy\n",
                 "url": "/"
             }
         ],
