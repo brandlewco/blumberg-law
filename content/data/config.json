@@ -375,7 +375,8 @@
                 "altText": "Facebook",
                 "label": "Facebook",
                 "url": "/",
-                "icon": "facebook"
+                "icon": "facebook",
+                "style": "primary"
             }
         ],
         "legalLinks": [
