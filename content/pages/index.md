@@ -64,9 +64,10 @@ sections:
 
           Experience.
         text: >
-          Bruce Blumberg has handled more than 100 jury trials including 5
-          murder trials, and innumerable bench trials for clients charged with
-          felonies and misdemeanors.
+          Bruce Blumberg has handled nearly 100 jury trials, including winning
+          "not guilty" vertics in 6 murder trials. Bruce has also represented in
+          innumerable bench trials for clients charged with felonies and
+          misdemeanors.
         actions: []
         styles:
           self:
