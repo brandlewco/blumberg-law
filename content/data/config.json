@@ -408,7 +408,7 @@
                 ]
             }
         },
-        "variant": "variant-a",
+        "variant": "variant-b",
         "media": {
             "type": "ImageBlock",
             "url": "/images/map-blumberg-law.png",
