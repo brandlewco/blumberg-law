@@ -376,7 +376,7 @@
                 "label": "Facebook",
                 "url": "/",
                 "icon": "facebook",
-                "style": "secondary"
+                "style": "primary"
             }
         ],
         "legalLinks": [
