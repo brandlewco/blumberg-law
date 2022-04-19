@@ -111,7 +111,7 @@ sections:
       actions:
         justifyContent: left
     title: Testimonials
-    subtitle: Featured Testimonials section example
+    subtitle: Criminal Defense Clients
     colors: colors-b
     posts:
       - content/pages/testimonials/jg-hori.md
