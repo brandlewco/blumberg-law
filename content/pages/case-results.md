@@ -124,14 +124,6 @@ sections:
         actions:
           - type: Button
             label: |
-              LinkedIn
-            showIcon: true
-            icon: linkedin
-            url: /
-            style: secondary
-            iconPosition: left
-          - type: Button
-            label: |
               Facebook
             altText: ''
             url: /
@@ -140,6 +132,14 @@ sections:
             iconPosition: left
             style: secondary
             elementId: ''
+          - type: Button
+            label: |
+              LinkedIn
+            showIcon: true
+            icon: linkedin
+            url: /
+            style: secondary
+            iconPosition: left
           - type: Button
             label: |
               Instagram
