@@ -877,5 +877,5 @@ sections:
         textAlign: left
 addTitleSuffix: true
 metaTags: []
-metaTitle: Bruce Blumber
+metaTitle: Blumberg & Associates - Phoenix Criminal Attorney
 ---
