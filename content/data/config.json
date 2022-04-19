@@ -5,7 +5,7 @@
         "headerVariant": "variant-b",
         "isSticky": true,
         "primaryColors": "colors-b",
-        "secondaryColors": "colors-d",
+        "secondaryColors": "colors-b",
         "title": "Blumberg & Associates",
         "isTitleVisible": false,
         "primaryLinks": [
@@ -416,7 +416,72 @@
             "url": "/images/blumberg-law-logo-main.png",
             "altText": "Blumberg & Associates",
             "elementId": ""
-        }
+        },
+        "secondaryLinks": [
+            {
+                "type": "Link",
+                "label": "Criminal Defense\n",
+                "altText": "",
+                "url": "/",
+                "child": [],
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-5",
+                            "pb-5",
+                            "pl-4",
+                            "pr-4"
+                        ]
+                    }
+                }
+            },
+            {
+                "type": "Link",
+                "label": "Family Law\n",
+                "altText": "",
+                "url": "/",
+                "child": [],
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-5",
+                            "pb-5",
+                            "pl-4",
+                            "pr-4"
+                        ]
+                    }
+                }
+            },
+            {
+                "type": "Link",
+                "label": "Case Results\n",
+                "altText": "",
+                "url": "/",
+                "child": [],
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-5",
+                            "pb-5",
+                            "pl-4",
+                            "pr-4"
+                        ]
+                    }
+                }
+            }
+        ]
     },
     "defaultMetaTags": []
 }

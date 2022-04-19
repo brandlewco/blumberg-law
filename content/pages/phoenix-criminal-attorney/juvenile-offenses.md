@@ -16,7 +16,7 @@ hero:
       - type: Button
         label: |
           Get Representation for Juvenile Offenses
-        url: /contact
+        url: /contact-us
         style: primary
         iconPosition: right
         icon: arrowRight

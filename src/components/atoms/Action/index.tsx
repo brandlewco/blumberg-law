@@ -1,5 +1,6 @@
 import * as React from 'react';
 import Markdown from 'markdown-to-jsx';
+import { isMobile } from "react-device-detect";
 
 import classNames from 'classnames';
 import Link from '../Link';
@@ -73,6 +74,7 @@ const iconMap = {
     whiteCollarCrime: WhiteCollarCrime,
 };
 
+
 export default function Action(props) {
     const { type, label, altText, url, showIcon } = props;
     const icon = props.icon || 'arrowLeft';
@@ -91,7 +93,6 @@ export default function Action(props) {
     const style = props.style || defaultStyle;
     const cssClasses = props.className || null;
     const cssId = props.elementId || null;
-
     return (
         <Link
             href={url}
@@ -104,7 +105,7 @@ export default function Action(props) {
             data-sb-field-path={annotations.join(' ').trim()}
         >
             <Markdown
-                options={{ }}
+                options={{}}
                 className={"markdown"} data-sb-field-path=".label">
                 {label}
             </Markdown>

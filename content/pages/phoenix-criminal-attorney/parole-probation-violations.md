@@ -16,7 +16,7 @@ hero:
       - type: Button
         label: |
           Drug Crime Representation
-        url: /contact
+        url: /contact-us
         style: primary
         iconPosition: right
         icon: arrowRight

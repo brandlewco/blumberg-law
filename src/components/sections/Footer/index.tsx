@@ -61,7 +61,7 @@ function footerVariantA(props) {
                 )}
             </div>
             <div className="border-t-2 border-current flex justify-between pt-6 flex-col">
-                <div className="max-w-7xl mx-auto w-full flex flex-row justify-between">
+                <div className="max-w-7xl mx-auto w-full flex flex-row items-start justify-center gap-8">
                     <div>{(props.logo || props.title || props.text) && (
                         <div className="mb-12">
                             <Link href="/" className="sb-footer-logo flex items-center">
@@ -95,33 +95,31 @@ function footerVariantA(props) {
                                     {props.contacts && <Contacts {...props.contacts} className="flex flex-wrap justify-center mx-4 mb-4" classNameItem="mx-4 mb-2" />}
                                 </div>
                             )}
-                            {legalLinks.length > 0 && (
-                                <ul className="flex flex-col mb-6 space-y-2 lg:mb-0 sm:space-y-0 sm:space-x-5 sm:flex-row" data-sb-field-path=".legalLinks">
-                                    {legalLinks.map((link, index) => (
-                                        <li key={index}>
-                                            <Action {...link} data-sb-field-path={`.${index}`} />
-                                        </li>
-                                    ))}
-                                </ul>
-                            )}
                         </div>
                     )}
                     </div>
                     <div>
                         {secondaryLinks.length > 0 && (
-                            <div className="w-full lg:w-1/2 px-8 py-8">
-                                <ul className="contact-svg flex flex-col items-start space-y-6 text-lg" data-sb-field-path=".primaryLinks">
-                                    {secondaryLinks.map((link, index) => (
-                                        <li key={index}>
-                                            <Action {...link} data-sb-field-path={`.${index}`} />
-                                        </li>
-                                    ))}
-                                </ul>
-                            </div>
+                            <ul className="contact-svg flex flex-col items-start space-y-6 text-lg" data-sb-field-path=".primaryLinks">
+                                {secondaryLinks.map((link, index) => (
+                                    <li key={index}>
+                                        <Action {...link} data-sb-field-path={`.${index}`} />
+                                    </li>
+                                ))}
+                            </ul>
                         )}
                     </div>
                 </div>
                 <div className='max-w-7xl mx-auto w-full flex flex-col justify-between items-center'>
+                    {legalLinks.length > 0 && (
+                        <ul className="flex flex-col mb-6 space-y-2 lg:mb-0 sm:space-y-0 sm:space-x-5 sm:flex-row" data-sb-field-path=".legalLinks">
+                            {legalLinks.map((link, index) => (
+                                <li key={index}>
+                                    <Action {...link} data-sb-field-path={`.${index}`} />
+                                </li>
+                            ))}
+                        </ul>
+                    )}
                     <Markdown
                         options={{ forceInline: false, forceWrapper: true, wrapper: 'p' }}
                         className="sb-markdown text-center"
