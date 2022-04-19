@@ -877,5 +877,5 @@ sections:
         textAlign: left
 addTitleSuffix: true
 metaTags: []
-metaTitle: Blumberg & Associates - Phoenix Criminal Attorney
+metaTitle: Blumberg & Associates - Phoenix Arizona Criminal Attorney
 ---
