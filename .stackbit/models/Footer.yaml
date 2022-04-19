@@ -78,6 +78,10 @@ fields:
       phoneAltText: 'Call us'
       email: 'john@doe.com'
       emailAltText: 'Email us'
+  - type: string
+    name: embed
+    label: Embed
+    default: Google Maps embed iframe code
   - type: model
     name: media
     label: Media
