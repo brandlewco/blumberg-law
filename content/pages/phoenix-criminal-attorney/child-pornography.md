@@ -82,9 +82,9 @@ sections:
         textAlign: left
 sidebar:
   - type: FeaturedItemsSection
-    colors: colors-e
+    colors: colors-d
     backgroundSize: full
-    title: |+
+    title: |
       #### CHOOSE A PRACTICE AREA **TO LEARN MORE**
     items:
       - type: FeaturedItem
