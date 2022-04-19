@@ -16,7 +16,7 @@ hero:
       - type: Button
         label: |
           Criminal Defense Representation
-        url: 'https://www.stackbit.com/'
+        url: /contact-us/
         style: primary
         iconPosition: right
         icon: arrowRight
