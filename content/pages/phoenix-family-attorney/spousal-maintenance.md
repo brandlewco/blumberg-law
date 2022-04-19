@@ -16,7 +16,7 @@ hero:
       - type: Button
         label: |
           Spousal Maintenance Representation
-        url: /contact
+        url: /contact-us
         style: primary
         iconPosition: right
         icon: arrowRight

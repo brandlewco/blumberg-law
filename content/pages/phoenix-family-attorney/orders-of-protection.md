@@ -16,7 +16,7 @@ hero:
       - type: Button
         label: |
           Orders of Protection Representation
-        url: /contact
+        url: /contact-us
         style: primary
         iconPosition: right
         icon: arrowRight

@@ -16,7 +16,7 @@ hero:
       - type: Button
         label: |
           Get Representation for Sex Crimes
-        url: /contact
+        url: /contact-us
         style: primary
         iconPosition: right
         icon: arrowRight
