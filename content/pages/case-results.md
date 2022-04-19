@@ -16,7 +16,8 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
-    title: Testimonials
+    title: |
+      Case Results
     subtitle: Real People. Real Cases.
     actions: []
     styles:
@@ -112,10 +113,10 @@ sections:
     showReadMoreLink: false
     readMoreLinkLabel: See All Testimonials
   - type: FeaturedItemsSection
-    colors: colors-b
+    colors: colors-d
     elementId: ''
     title: |
-      **Connect with Bruce.**
+      Connect with Bruce.
     backgroundSize: full
     subtitle: ''
     items:
@@ -123,31 +124,42 @@ sections:
         actions:
           - type: Button
             label: |
-              LinkedIn
-            showIcon: true
-            icon: linkedin
-            url: /
-            style: secondary
-            iconPosition: left
-          - type: Button
-            label: |
               Facebook
-            altText: ''
-            url: /
+            altText: Bruce Blumberg Facebook
+            url: 'https://www.facebook.com/BlumbergandAssociates/'
             showIcon: true
             icon: facebook
             iconPosition: left
-            style: secondary
+            style: primary
+            elementId: ''
+          - type: Button
+            label: |
+              LinkedIn
+            showIcon: true
+            icon: linkedin
+            url: 'https://www.linkedin.com/company/blumberg-&-associates/'
+            style: primary
+            iconPosition: left
+            altText: Bruce Blumberg LinkedIn
+          - type: Button
+            label: |
+              Twitter
+            altText: Bruce Blumberg Twitter
+            url: 'https://twitter.com/bruceblumberg/'
+            showIcon: true
+            icon: twitter
+            iconPosition: left
+            style: primary
             elementId: ''
           - type: Button
             label: |
               Instagram
-            altText: ''
-            url: /
+            altText: Bruce Blumberg Instagram
+            url: 'https://www.instagram.com/blumbergandassociates/'
             showIcon: true
             icon: instagram
             iconPosition: left
-            style: secondary
+            style: primary
             elementId: ''
         styles:
           self:

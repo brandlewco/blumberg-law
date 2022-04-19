@@ -39,10 +39,10 @@ sections:
         textAlign: left
     elementId: bruce-blumberg
   - type: FeaturedItemsSection
-    colors: colors-b
+    colors: colors-d
     elementId: ''
     title: |
-      **Connect with Bruce.**
+      Connect with Bruce.
     backgroundSize: full
     subtitle: ''
     items:
@@ -50,31 +50,42 @@ sections:
         actions:
           - type: Button
             label: |
-              LinkedIn
-            showIcon: true
-            icon: linkedin
-            url: /
-            style: secondary
-            iconPosition: left
-          - type: Button
-            label: |
               Facebook
-            altText: ''
-            url: /
+            altText: Bruce Blumberg Facebook
+            url: 'https://www.facebook.com/BlumbergandAssociates/'
             showIcon: true
             icon: facebook
             iconPosition: left
-            style: secondary
+            style: primary
+            elementId: ''
+          - type: Button
+            label: |
+              LinkedIn
+            showIcon: true
+            icon: linkedin
+            url: 'https://www.linkedin.com/company/blumberg-&-associates/'
+            style: primary
+            iconPosition: left
+            altText: Bruce Blumberg LinkedIn
+          - type: Button
+            label: |
+              Twitter
+            altText: Bruce Blumberg Twitter
+            url: 'https://twitter.com/bruceblumberg/'
+            showIcon: true
+            icon: twitter
+            iconPosition: left
+            style: primary
             elementId: ''
           - type: Button
             label: |
               Instagram
-            altText: ''
-            url: /
+            altText: Bruce Blumberg Instagram
+            url: 'https://www.instagram.com/blumbergandassociates/'
             showIcon: true
             icon: instagram
             iconPosition: left
-            style: secondary
+            style: primary
             elementId: ''
         styles:
           self:
@@ -103,37 +114,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: QuoteSection
-    colors: colors-b
-    quote: |
-      "A quote of interest from Bruce that highlights his experience"
-    name: ''
-    title: ''
-    backgroundImage:
-      type: BackgroundImage
-      url: /images/background-arizona-desert.png
-      backgroundSize: cover
-      backgroundPosition: center
-      opacity: 70
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-32
-          - pb-32
-          - pl-8
-          - pr-8
-        justifyContent: center
-      quote:
-        textAlign: left
-      name:
-        textAlign: left
-      title:
-        textAlign: left
   - type: FeaturedTestimonialsSection
     elementId: ''
     showAuthor: false
@@ -141,7 +121,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/bruce-blumberg-arizona-lawyer-testimonials.jpg
+      url: /images/portrait-testimonials-placeholder.png
       altText: Hero section image
     styles:
       self:

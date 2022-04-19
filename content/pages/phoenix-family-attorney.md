@@ -11,12 +11,12 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |
-      Child Pornography
+      Phoenix Family Attorney
     actions:
       - type: Button
         label: |
-          Child Pornography Criminal Representation
-        url: '/contact-us/'
+          Phoenix Family Attorney Representation
+        url: /contact-us/
         style: primary
         iconPosition: right
         icon: arrowRight
@@ -55,10 +55,7 @@ sections:
   - type: TextSection
     colors: colors-a
     variant: variant-a
-    title: |+
-      Phoenix Child Pornography Attorney
-
-    text: "In Arizona, the possession or distribution of child porn is called sexual exploitation of a minor. It is a serious charge, subject to a prison sentence of 10 to 24 years for each image knowingly possessed. If you are under investigation for or have been charged with possession or distribution of child pornography, our\_**Phoenix child pornography attorneys**\_offer a free initial consultation to evaluate your case.\n\nIn Arizona, a person can be charged with sexual exploitation of a minor for:\n\n*   Recording, filming, photographing, developing or duplicating any visual depiction in which a minor (under 18 years of age) is engaged in exploitive exhibition or other sexual conduct\n\n*   Distributing, transporting, exhibiting, receiving, selling, purchasing, electronically transmitting, possessing or exchanging such images\n\nThe federal government has made the prosecution of child pornography cases a priority under the “Protect Act”, which means you could be charged in state or federal court. Both state and federal prosecutors consider the prosecution of child pornography a priority and are not looking to make these charges probation eligible matters.\n\nPossession of child pornography is a registration offense under Arizona’s sex offender registration law. Possession of child pornography can also lead to the loss of your parental rights under a civil action by Arizona Child Protective Services.\n\n## DEFENSES IN A CHILD PORNOGRAPHY CASE\n\nDefenses in a child pornography case include:\n\n*   Police did not have a valid warrant for seizing computer evidence.\n\n*   Other people had access to your computer.\n\n*   The images were in your temporary cache or unallocated space. Accidental viewing of child pornography is not a crime if you did not do anything with the images, such as saving or distributing them.\n\n*   The images are not real children. Possession of virtual child pornography is not a crime.\n\n## FREE ATTORNEY CONSULTATION\n\nIf you are under investigation for or have been charged with knowingly viewing, possessing or manufacturing child pornography in Arizona, please contact a lawyer at Blumberg & Associates in Phoenix as soon as possible. The sooner you contact a defense attorney, the more your attorney can do to protect your rights and your future.\n"
+    text: "## PASSIONATE ADVOCACY IN HIGH-CONFLICT DIVORCE AND CUSTODY LITIGATION\n\nAlthough primarily a criminal defense law firm, Blumberg & Associates offers able and effective assistance in a range of Arizona family law matters. Just as in a criminal case, family law clients going through a divorce or child custody battle have a lot at stake, and they don’t want to take chances with their future or their children’s future. Bruce Blumberg uses his superior trial skills and experience to represent clients through high-conflict family law litigation. Call our\_**Phoenix family attorney**\_if you anticipate trouble in an Arizona divorce or child custody dispute and want to make sure you have strong and zealous representation from an experienced litigator dedicated to looking out for you and protecting your rights.\n\n## PROTECT YOUR RIGHTS IN AN ARIZONA DIVORCE\n\nGetting a divorce is more than just having the court legally dissolve a marriage. The judge also makes binding court orders in vital areas such as the distribution of community property, spousal maintenance, and child custody. These decisions are final and can affect you and your children for years to come.\n\nWhen a couple cannot agree on how to resolve the issues in a contested divorce, it’s up to the judge to decide vital matters such as the division of marital property and the payment of spousal support. This process involves a period of litigation, including pre-trial discovery, the gathering and organizing of evidence, and presenting that evidence and testimony to a judge during a hearing. The judge weighs the evidence as well as the strength of any legal arguments made by the attorneys. In reaching their decisions, family court judges are required by Arizona law to consider a long list of statutory factors and other relevant evidence. Count on Blumberg & Associates to analyze all appropriate factors and deliver a persuasive case with cogent legal arguments and compelling presentations that convincingly demonstrate the proper ruling on these critical matters.\n\n## PROTECT YOUR FAMILY IN A PHOENIX CHILD CUSTODY BATTLE\n\nChild custody involves both physical custody and legal custody, and when the parents can’t agree, it’s up to the judge to decide how to allocate legal decision-making authority as well as parenting time. These rights and responsibilities can be shared equally between the parents, or one parent can be given primary custody. The overarching concern of the court is to make decisions in the best interests of the child. In reaching its conclusions, the judge must consider a number of factors, including the relationship between parent and child, which parent is more likely to allow contact between the children and the other parent, and any history or evidence of domestic violence or abuse by either parent. We’ll build a strong case supported by solid evidence and persuasive legal arguments to make sure you and your children are looked after properly in any custody dispute.\n\nBlumberg & Associates also handles post-judgment matters in Maricopa County family court, including motions to modify or terminate spousal maintenance or change the custody or parenting plan. We represent parents seeking or opposing a parental relocation, as well as parties seeking or challenging enforcement of domestic relations court orders for child custody or spousal support.\n\n## GET THE HELP YOU NEED IN HIGH-CONFLICT PHOENIX FAMILY LAW\n\nEmotions run high in family law matters, and while you need a family law attorney who is as passionate about the outcome as you, you also need an attorney with the knowledge and experience to guide you through the process calmly and rationally, so that you make the best long-term decisions for yourself and your children. In Phoenix, call Blumberg & Associates for assistance.\n"
     styles:
       self:
         height: auto
@@ -80,11 +77,54 @@ sections:
         textAlign: left
       text:
         textAlign: left
+  - type: FeaturedTestimonialsSection
+    elementId: ''
+    showAuthor: false
+    variant: variant-b
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/blumberg-lawsuit.jpg
+      altText: Hero section image
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: left
+    title: Testimonials
+    subtitle: Family Law Clients
+    colors: colors-b
+    posts:
+      - content/pages/testimonials/jg-hori.md
+      - content/pages/testimonials/david-k-le-lievre-jr.md
+      - content/pages/testimonials/zane-hill.md
+      - content/pages/testimonials/yaser-awad.md
+    name: ''
+    showDate: false
+    showExcerpt: false
+    showReadMoreLink: false
+    readMoreLinkLabel: See All Testimonials
 sidebar:
   - type: FeaturedItemsSection
     colors: colors-d
     backgroundSize: full
-    title: |+
+    title: |
       ##### CHOOSE A PRACTICE AREA TO LEARN MORE
     items:
       - type: FeaturedItem
@@ -93,64 +133,57 @@ sidebar:
             label: |
               Child Custody & Parenting Time
             altText: ''
-            altText: ''
             showIcon: true
             icon: arrowRight
-            url: https://www.azblumberglaw.com/phoenix-family-attorney/child-custody-parenting-time/
+            url: /phoenix-family-attorney/child-custody-parenting-time/
             style: primary
           - type: Button
             label: |
               Divorce
             altText: ''
-            altText: ''
             showIcon: true
             icon: arrowRight
-            url: https://www.azblumberglaw.com/phoenix-family-attorney/divorce/
+            url: /phoenix-family-attorney/divorce/
             style: primary
           - type: Button
             label: |
               Modifications & Enforcements
             altText: ''
-            altText: ''
             showIcon: true
             icon: arrowRight
-            url: https://www.azblumberglaw.com/phoenix-family-attorney/modifications-enforcements/
+            url: /phoenix-family-attorney/modifications-enforcements/
             style: primary
           - type: Button
             label: |
               Orders of Protection
             altText: ''
-            altText: ''
             showIcon: true
             icon: arrowRight
-            url: https://www.azblumberglaw.com/phoenix-family-attorney/orders-of-protection/
+            url: /phoenix-family-attorney/orders-of-protection/
             style: primary
           - type: Button
             label: |
               Paternity
             altText: ''
-            altText: ''
             showIcon: true
             icon: arrowRight
-            url: https://www.azblumberglaw.com/phoenix-family-attorney/paternity/
+            url: /phoenix-family-attorney/paternity/
             style: primary
           - type: Button
             label: |
               Spousal Maintenance
             altText: ''
-            altText: ''
             showIcon: true
             icon: arrowRight
-            url: https://www.azblumberglaw.com/phoenix-family-attorney/spousal-maintenance/
+            url: /phoenix-family-attorney/spousal-maintenance/
             style: primary
           - type: Button
             label: |
               Temporary Orders
             altText: ''
-            altText: ''
             showIcon: true
             icon: arrowRight
-            url: https://www.azblumberglaw.com/phoenix-family-attorney/temporary-orders/
+            url: /phoenix-family-attorney/temporary-orders/
             style: primary
         styles:
           self:

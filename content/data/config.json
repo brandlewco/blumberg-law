@@ -322,7 +322,7 @@
     },
     "footer": {
         "colors": "colors-b",
-        "copyrightText": "© 2020 - 2022 Blumberg & Associates. All rights reserved.\n\n\nWebsite by [BrandLew.co](https://www.stackbit.com/)\n",
+        "copyrightText": "© 2020 - 2022 Blumberg & Associates. All rights reserved.\n\nWebsite by [BrandLew.co](https://www.brandlew.co/)\n",
         "primaryLinks": [
             {
                 "type": "Link",
@@ -337,7 +337,7 @@
                 "type": "Link",
                 "label": "3600 N 19TH AVE\n\nPHOENIX, AZ 85015\n",
                 "altText": "",
-                "url": "/",
+                "url": "https://g.page/PhoenixCriminalAttorney?share",
                 "child": [],
                 "showIcon": true,
                 "icon": "map",
@@ -358,26 +358,35 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
+                "altText": "Bruce Blumberg Facebook",
+                "label": "Facebook",
+                "url": "https://www.facebook.com/BlumbergandAssociates/",
+                "icon": "facebook",
+                "style": "primary"
+            },
+            {
+                "type": "Social",
+                "label": "LikedIn",
+                "altText": "Bruce Blumberg LikedIn",
+                "url": "https://www.linkedin.com/company/blumberg-&-associates/",
+                "icon": "linkedin",
+                "style": "primary",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
+                "altText": "Bruce Blumberg Twitter",
                 "label": "Twitter",
-                "url": "/",
+                "url": "https://twitter.com/bruceblumberg/",
                 "icon": "twitter",
                 "style": "primary"
             },
             {
                 "type": "Social",
-                "altText": "Instagram",
+                "altText": "Bruce Blumberg Instagram",
                 "label": "Instagram",
-                "url": "/",
+                "url": "https://www.instagram.com/blumbergandassociates/",
                 "icon": "instagram",
-                "style": "primary"
-            },
-            {
-                "type": "Social",
-                "altText": "Facebook",
-                "label": "Facebook",
-                "url": "/",
-                "icon": "facebook",
                 "style": "primary"
             }
         ],
@@ -418,9 +427,9 @@
         "secondaryLinks": [
             {
                 "type": "Link",
-                "label": "Criminal Defense\n",
+                "label": "Criminal Defense",
                 "altText": "",
-                "url": "/",
+                "url": "/phoenix-criminal-attorney/",
                 "child": [],
                 "showIcon": false,
                 "icon": "arrowRight",
@@ -460,9 +469,9 @@
             },
             {
                 "type": "Link",
-                "label": "Case Results\n",
+                "label": "Case Results",
                 "altText": "",
-                "url": "/",
+                "url": "/case-results/",
                 "child": [],
                 "showIcon": false,
                 "icon": "arrowRight",
