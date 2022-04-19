@@ -125,7 +125,7 @@ sections:
           - type: Button
             label: |
               Facebook
-            altText: ''
+            altText: Bruce Blumberg Facebook
             url: /
             showIcon: true
             icon: facebook
