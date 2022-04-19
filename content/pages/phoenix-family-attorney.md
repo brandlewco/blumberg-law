@@ -108,7 +108,7 @@ sections:
       actions:
         justifyContent: left
     title: Testimonials
-    subtitle: Criminal Defense Clients
+    subtitle: Family Law Clients
     colors: colors-b
     posts:
       - content/pages/testimonials/jg-hori.md
