@@ -37,7 +37,13 @@ function footerVariantA(props) {
     const secondaryLinks = props.secondaryLinks || [];
     const socialLinks = props.socialLinks || [];
     const legalLinks = props.legalLinks || [];
+    const embedIframe = props.embed || [];
     const media = props.media.url || [];
+    class Iframe extends React.Component {
+        render() {
+            return <div dangerouslySetInnerHTML={{ __html: "<iframe src='" + embedIframe + "' />" }} />;
+        }
+    }
     return (
         <>
             <div className={classNames(props.colors)}>
@@ -55,7 +61,7 @@ function footerVariantA(props) {
                             </div>
                         )}
                         <div className="w-full lg:w-2/3 h-full relative py-48 my-12">
-                            {props.media && <BackgroundImage {...props.media} />}
+                            {embedIframe ? <Iframe /> : props.media && <BackgroundImage {...props.media} />}
                         </div>
                     </div>
                 )}
