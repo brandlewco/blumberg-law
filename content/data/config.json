@@ -462,7 +462,7 @@
                 "type": "Link",
                 "label": "Case Results",
                 "altText": "",
-                "url": "/c",
+                "url": "/cases",
                 "child": [],
                 "showIcon": false,
                 "icon": "arrowRight",
