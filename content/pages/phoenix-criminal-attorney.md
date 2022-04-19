@@ -16,7 +16,7 @@ hero:
       - type: Button
         label: |
           Child Pornography Criminal Representation
-        url: 'https://www.stackbit.com/'
+        url: /contact-us/
         style: primary
         iconPosition: right
         icon: arrowRight
@@ -80,52 +80,346 @@ sections:
         textAlign: left
       text:
         textAlign: left
+  - type: FeaturedTestimonialsSection
+    elementId: ''
+    showAuthor: false
+    variant: variant-b
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/blumberg-hero-mockup.jpg
+      altText: Hero section image
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: left
+    title: Testimonials
+    subtitle: Criminal Defense Clients
+    colors: colors-b
+    posts:
+      - content/pages/testimonials/jg-hori.md
+      - content/pages/testimonials/david-k-le-lievre-jr.md
+      - content/pages/testimonials/zane-hill.md
+      - content/pages/testimonials/yaser-awad.md
+    name: ''
+    showDate: false
+    showExcerpt: false
+    showReadMoreLink: false
+    readMoreLinkLabel: See All Testimonials
 sidebar:
   - type: FeaturedItemsSection
-    colors: colors-e
+    colors: colors-d
     backgroundSize: full
-    title: |+
-      #### CHOOSE A PRACTICE AREA **TO LEARN MORE**
+    title: |
+      ##### CHOOSE A PRACTICE AREA TO LEARN MORE
     items:
       - type: FeaturedItem
         actions:
           - type: Button
             label: |
+              Accounting & Tax Fraud
+            altText: ''
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/accounting-tax-fraud/
+            style: primary
+          - type: Button
+            label: |
+              Bank Fraud
+            altText: ''
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/bank-fraud/
+            style: primary
+          - type: Button
+            label: |
+              Child Molestation
+            altText: ''
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/child-molestation/
+            style: primary
+          - type: Button
+            label: |
+              Child Pornography
+            altText: ''
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/child-pornography/
+            style: primary
+          - type: Button
+            label: |
+              Children Crimes
+            altText: ''
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/crimes-against-children/
+            style: primary
+          - type: Button
+            label: |
+              Computer & Internet Fraud
+            altText: ''
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/computer-internet-fraud/
+            style: primary
+          - type: Button
+            label: |
+              Corporate Fraud
+            altText: ''
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/corporate-fraud/
+            style: primary
+          - type: Button
+            label: |
+              Criminal Appeals
+            altText: ''
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/criminal-appeals/
+            style: primary
+          - type: Button
+            label: |
+              Dangerous Offenses
+            altText: ''
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/dangerous-offenses/
+            style: primary
+          - type: Button
+            label: |
+              Date & Spousal Rape
+            altText: ''
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/date-spousal-rape/
+            style: primary
+          - type: Button
+            label: |
+              Domestic Violence
+            altText: ''
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/domestic-violence/
+            style: primary
+          - type: Button
+            label: |
+              Drug Crimes
+            altText: ''
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/drug-crimes/
+            style: primary
+          - type: Button
+            label: |
+              Drug Possession
+            altText: ''
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/drug-possession/
+            style: primary
+          - type: Button
+            label: |
+              DUI
+            altText: ''
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/dui/
+            style: primary
+          - type: Button
+            label: |
+              Embezzlement
+            altText: ''
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/embezzlement/
+            style: primary
+          - type: Button
+            label: |
               Federal Crimes
+            altText: ''
             showIcon: true
             icon: arrowRight
             url: /phoenix-criminal-attorney/federal-crimes/
             style: primary
           - type: Button
             label: |
-              Sex Crimes
+              Federal Drug Crimes
             altText: ''
-            url: /phoenix-criminal-attorney/sex-crimes/
             showIcon: true
             icon: arrowRight
-            iconPosition: right
+            url: /phoenix-criminal-attorney/federal-drug-crimes/
             style: primary
-            elementId: ''
+          - type: Button
+            label: |
+              Health Care Fraud
+            altText: ''
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/health-care-fraud/
+            style: primary
+          - type: Button
+            label: |
+              Homicide
+            altText: ''
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/homicide/
+            style: primary
+          - type: Button
+            label: |
+              Juvenile Crimes
+            altText: ''
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/juvenile-offenses/
+            style: primary
+          - type: Button
+            label: |
+              Mail & Wire Fraud
+            altText: ''
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/mail-wire-fraud/
+            style: primary
+          - type: Button
+            label: |
+              Mandatory Sentencing
+            altText: ''
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/mandatory-sentencing-scheme/
+            style: primary
+          - type: Button
+            label: |
+              Marijuana Charges
+            altText: ''
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/marijuana/
+            style: primary
+          - type: Button
+            label: |
+              Meth Charges
+            altText: ''
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/meth/
+            style: primary
+          - type: Button
+            label: |
+              Money Laundering
+            altText: ''
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/money-laundering/
+            style: primary
+          - type: Button
+            label: |
+              Mortgage Fraud
+            altText: ''
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/mortgage-fraud/
+            style: primary
+          - type: Button
+            label: |
+              Parole & Probation Violations
+            altText: ''
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/parole-probation-violations/
+            style: primary
+          - type: Button
+            label: |
+              Prostitution
+            altText: ''
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/prostitution/
+            style: primary
+          - type: Button
+            label: |
+              Search & Seizure
+            altText: ''
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/search-seizure-issues/
+            style: primary
+          - type: Button
+            label: |
+              Sex Offender Registration
+            altText: ''
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/sex-offender-registration/
+            style: primary
+          - type: Button
+            label: |
+              Sexual Assault
+            altText: ''
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/sexual-assault/
+            style: primary
+          - type: Button
+            label: |
+              Sex Crimes
+            altText: ''
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/sex-crimes/
+            style: primary
+          - type: Button
+            label: |
+              State Drug Crimes
+            altText: ''
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/state-drug-crimes/
+            style: primary
+          - type: Button
+            label: |
+              Traffic Offenses
+            altText: ''
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/traffic-offenses/
+            style: primary
           - type: Button
             label: |
               Violent Crimes
             altText: ''
-            url: /phoenix-criminal-attorney/violent-crimes/
             showIcon: true
             icon: arrowRight
-            iconPosition: right
+            url: /phoenix-criminal-attorney/violent-crimes/
             style: primary
-            elementId: ''
           - type: Button
             label: |
-              White Collar Crimes
+              White Collar Crime
             altText: ''
-            url: /phoenix-criminal-attorney/white-collar-crimes/
             showIcon: true
             icon: arrowRight
-            iconPosition: right
+            url: /phoenix-criminal-attorney/white-collar-crimes/
             style: primary
-            elementId: ''
         styles:
           self:
             textAlign: left

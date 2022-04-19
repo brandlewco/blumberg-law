@@ -60,7 +60,7 @@
                         "media": null,
                         "backgroundImage": {
                             "type": "BackgroundImage",
-                            "url": "/images/hero.webp",
+                            "url": "/images/blumberg-hero-mockup.jpg",
                             "backgroundSize": "cover",
                             "backgroundPosition": "top",
                             "opacity": 100

@@ -61,7 +61,7 @@ fields:
             style: secondary
         media:
           type: ImageBlock
-          url: /images/hero.webp
+          url: /images/blumberg-hero-mockup.jpg
           altText: Image alt text
         styles:
           self:

@@ -58,7 +58,7 @@ fields:
       - VideoBlock
     default:
       type: ImageBlock
-      url: /images/hero.webp
+      url: /images/blumberg-hero-mockup.jpg
       altText: Hero section image
   - type: style
     name: styles
