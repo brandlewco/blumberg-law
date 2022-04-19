@@ -28,7 +28,7 @@
             {
                 "type": "Link",
                 "label": "Criminal Defense",
-                "url": "/phoenix-criminal-attorney/criminal-defense",
+                "url": "/phoenix-criminal-attorney",
                 "altText": "Criminal Defense",
                 "styles": {
                     "self": {
@@ -145,7 +145,7 @@
             {
                 "label": "Family Law",
                 "altText": "Family Law",
-                "url": "/phoenix-family-attorney/family-law/",
+                "url": "/phoenix-family-attorney",
                 "child": [
                     {
                         "label": "Child Custody & Parenting Time",
@@ -361,33 +361,31 @@
                 "altText": "Twitter",
                 "label": "Twitter",
                 "url": "/",
-                "icon": "twitter"
+                "icon": "twitter",
+                "style": "primary"
             },
             {
                 "type": "Social",
                 "altText": "Instagram",
                 "label": "Instagram",
                 "url": "/",
-                "icon": "instagram"
+                "icon": "instagram",
+                "style": "primary"
             },
             {
                 "type": "Social",
                 "altText": "Facebook",
                 "label": "Facebook",
                 "url": "/",
-                "icon": "facebook"
+                "icon": "facebook",
+                "style": "primary"
             }
         ],
         "legalLinks": [
             {
                 "type": "Link",
-                "label": "Privacy Policy",
-                "url": "/"
-            },
-            {
-                "type": "Link",
-                "label": "Terms & Conditions",
-                "url": "/"
+                "label": "Disclaimer\n",
+                "url": "/disclaimer"
             }
         ],
         "styles": {

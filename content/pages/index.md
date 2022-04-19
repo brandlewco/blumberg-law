@@ -343,7 +343,7 @@ sections:
           - mr-0
         padding:
           - pt-16
-          - pb-8
+          - pb-16
           - pl-8
           - pr-8
         justifyContent: center
@@ -354,6 +354,17 @@ sections:
       text:
         textAlign: left
     type: TextSection
+    actions:
+      - type: Button
+        label: |
+          Contact Blumberg & Associates
+        altText: ''
+        url: /contact-us
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
   - colors: colors-d
     elementId: hero-awards
     title: Top Rated Criminal Defense Attorney.
@@ -583,9 +594,10 @@ sections:
         textAlign: left
     type: TextSection
     actions:
-      - label: Learn more
+      - label: |
+          Attorney Profile
         altText: ''
-        url: /
+        url: /attorney-profile
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -608,7 +620,7 @@ sections:
     actions:
       - type: Button
         label: |
-          See All Testimonials
+          Read More Testimonials
         altText: ''
         url: /testimonials
         showIcon: true
@@ -662,7 +674,7 @@ sections:
       type: FormBlock
       elementId: contact-form
       action: /.netlify/functions/submission_created
-      destination: ''
+      destination: hello@brandlew.co
       fields:
         - type: TextFormControl
           name: First
