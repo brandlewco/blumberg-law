@@ -140,6 +140,7 @@ sections:
             url: /
             style: secondary
             iconPosition: left
+            altText: 'Bruce Blumberg '
           - type: Button
             label: |
               Twitter
