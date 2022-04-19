@@ -143,7 +143,7 @@ sections:
           - type: Button
             label: |
               Twitter
-            altText: ''
+            altText: Bruce Blumberg Twitter
             url: /
             showIcon: false
             icon: arrowRight
