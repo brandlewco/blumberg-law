@@ -148,7 +148,7 @@ sections:
             showIcon: true
             icon: twitter
             iconPosition: left
-            style: secondary
+            style: primary
             elementId: ''
           - type: Button
             label: |
