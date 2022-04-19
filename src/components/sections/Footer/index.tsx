@@ -1,9 +1,11 @@
 import * as React from 'react';
 import Markdown from 'markdown-to-jsx';
 import classNames from 'classnames';
+import { useEffect } from 'react';
 
 import { Social, Action, Link, BackgroundImage } from '../../atoms';
 import ImageBlock from '../../molecules/ImageBlock';
+
 
 export default function Footer(props) {
     const colors = props.colors || 'colors-d';
@@ -19,7 +21,9 @@ export default function Footer(props) {
             </div>
         </footer>
     );
+
 }
+
 
 function footerVariants(props) {
     const variant = props.variant || 'variant-a';
@@ -39,9 +43,10 @@ function footerVariantA(props) {
     const legalLinks = props.legalLinks || [];
     const embedIframe = props.embed || [];
     const media = props.media.url || [];
+
     class Iframe extends React.Component {
         render() {
-            return <div dangerouslySetInnerHTML={{ __html: "<iframe src='" + embedIframe + "' />" }} />;
+            return <div dangerouslySetInnerHTML={{ __html: embedIframe }} />;
         }
     }
     return (
