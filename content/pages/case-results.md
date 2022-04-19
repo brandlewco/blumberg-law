@@ -155,7 +155,7 @@ sections:
             label: |
               Instagram
             altText: Bruce Blumberg Instagram
-            url: /
+            url: 'https://www.instagram.com/blumbergandassociates/'
             showIcon: true
             icon: instagram
             iconPosition: left
