@@ -354,6 +354,16 @@ sections:
       text:
         textAlign: left
     type: TextSection
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
   - colors: colors-d
     elementId: hero-awards
     title: Top Rated Criminal Defense Attorney.
