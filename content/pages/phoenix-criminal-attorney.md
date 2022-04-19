@@ -15,7 +15,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Child Pornography Criminal Representation
+          Criminal Defense Representation
         url: 'https://www.stackbit.com/'
         style: primary
         iconPosition: right
