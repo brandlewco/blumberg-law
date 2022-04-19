@@ -366,6 +366,15 @@
             },
             {
                 "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/",
+                "icon": "facebook",
+                "style": "link",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
                 "altText": "Twitter",
                 "label": "Twitter",
                 "url": "https://twitter.com/bruceblumberg/",
