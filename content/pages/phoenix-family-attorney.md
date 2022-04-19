@@ -96,7 +96,7 @@ sidebar:
             altText: ''
             showIcon: true
             icon: arrowRight
-            url: https://www.azblumberglaw.com/phoenix-family-attorney/child-custody-parenting-time/
+            url: /phoenix-family-attorney/child-custody-parenting-time/
             style: primary
           - type: Button
             label: |
@@ -105,7 +105,7 @@ sidebar:
             altText: ''
             showIcon: true
             icon: arrowRight
-            url: https://www.azblumberglaw.com/phoenix-family-attorney/divorce/
+            url: /phoenix-family-attorney/divorce/
             style: primary
           - type: Button
             label: |
@@ -114,7 +114,7 @@ sidebar:
             altText: ''
             showIcon: true
             icon: arrowRight
-            url: https://www.azblumberglaw.com/phoenix-family-attorney/modifications-enforcements/
+            url: /phoenix-family-attorney/modifications-enforcements/
             style: primary
           - type: Button
             label: |
@@ -123,7 +123,7 @@ sidebar:
             altText: ''
             showIcon: true
             icon: arrowRight
-            url: https://www.azblumberglaw.com/phoenix-family-attorney/orders-of-protection/
+            url: /phoenix-family-attorney/orders-of-protection/
             style: primary
           - type: Button
             label: |
@@ -132,7 +132,7 @@ sidebar:
             altText: ''
             showIcon: true
             icon: arrowRight
-            url: https://www.azblumberglaw.com/phoenix-family-attorney/paternity/
+            url: /phoenix-family-attorney/paternity/
             style: primary
           - type: Button
             label: |
@@ -141,7 +141,7 @@ sidebar:
             altText: ''
             showIcon: true
             icon: arrowRight
-            url: https://www.azblumberglaw.com/phoenix-family-attorney/spousal-maintenance/
+            url: /phoenix-family-attorney/spousal-maintenance/
             style: primary
           - type: Button
             label: |
@@ -150,7 +150,7 @@ sidebar:
             altText: ''
             showIcon: true
             icon: arrowRight
-            url: https://www.azblumberglaw.com/phoenix-family-attorney/temporary-orders/
+            url: /phoenix-family-attorney/temporary-orders/
             style: primary
         styles:
           self:
