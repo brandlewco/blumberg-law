@@ -586,7 +586,7 @@ sections:
       - label: |
           Attorney Profile
         altText: ''
-        url: attorney-profile/
+        url: /attorney-profile
         showIcon: true
         icon: arrowRight
         iconPosition: right
