@@ -126,7 +126,7 @@ sections:
             label: |
               Facebook
             altText: Bruce Blumberg Facebook
-            url: /
+            url: 'https://www.facebook.com/BlumbergandAssociates/'
             showIcon: true
             icon: facebook
             iconPosition: left
