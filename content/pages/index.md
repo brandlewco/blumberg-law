@@ -356,7 +356,8 @@ sections:
     type: TextSection
     actions:
       - type: Button
-        label: Learn more
+        label: |
+          Contact Blumberg & Associates
         altText: ''
         url: /
         showIcon: false
