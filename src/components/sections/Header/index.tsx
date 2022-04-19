@@ -10,6 +10,7 @@ import { Link, Action } from '../../atoms';
 import ImageBlock from '../../molecules/ImageBlock';
 import CloseIcon from '../../svgs/close';
 import MenuIcon from '../../svgs/menu';
+import { loadGetInitialProps } from 'next/dist/shared/lib/utils';
 
 // console.log("is mobile:", isMobile)
 export default function Header(props) {
@@ -152,12 +153,12 @@ function listOfLinks(links, inMobileMenu = false) {
         return (
             <>
                 {linkChild.length > 0 && (
-                    <li key={index} data-key={index} data-url={isMobile ? "true" : "false"} className={classNames('dropdown', 'relative', 'block', 'lg:py-12')}
+                    <li key={index} data-key={index} className={classNames('dropdown', 'relative', 'block', 'lg:py-12')}
                         onMouseEnter={() => setIsMenuOpen(true)}
                         onMouseLeave={() => setIsMenuOpen(false)}
                         onMouseDown={() => setIsMenuOpen(toggle = !toggle)}
                     >
-                        <Action {...link} url={isMobile ? "#" : link.url} style="link" showIcon="true" icon="menuDown" className="w-full flex flex-row justify-between border-b-2 lg:border-0 border-solid border-secondary " data-sb-field-path={`.${index}`} />
+                        <Action label={link.label} altText={link.altText} url={isMobile ? "#" : link.url} style="link" showIcon="true" icon="menuDown" className="w-full flex flex-row justify-between border-b-2 lg:border-0 border-solid border-secondary " data-sb-field-path={`.${index}`} />
                         <ul className={classNames(secondaryColors, 'transition-all', 'lg:absolute', 'top-full', 'flex', 'flex-col', 'whitespace-nowrap', 'px-4', 'pt-4', 'shadow-lg', isMenuOpen ? 'block' : 'hidden')} data-sb-field-path=".primaryLinks">
                             {linkChild.map((link, index) => (
                                 <li key={index} data-key={index} className="pb-4">
