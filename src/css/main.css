@@ -470,7 +470,7 @@
         }
         .sb-component-button-secondary,
         .sb-component-social-secondary {
-            @apply border-on-light text-on-light hover:bg-primary hover:border-primary hover:text-primary;
+            @apply border-on-light text-on-light hover:bg-primary hover:border-primary hover:text-white;
         }
         .sb-card {
             @apply bg-complementary text-on-light;

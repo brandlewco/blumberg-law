@@ -65,7 +65,7 @@ function footerVariantA(props) {
                                 </ul>
                             </div>
                         )}
-                        <div className="w-full lg:w-2/3 h-full relative py-48 my-12">
+                        <div className="w-full lg:w-2/3 h-full relative py-12">
                             {embedIframe ? <Iframe /> : props.media && <BackgroundImage {...props.media} />}
                         </div>
                     </div>
