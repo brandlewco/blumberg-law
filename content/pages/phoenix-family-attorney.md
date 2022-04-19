@@ -84,7 +84,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/blumberg-hero-mockup.jpg
+      url: /images/blumberg-lawsuit.jpg
       altText: Hero section image
     styles:
       self:
