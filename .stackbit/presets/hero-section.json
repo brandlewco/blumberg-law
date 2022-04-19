@@ -107,7 +107,7 @@
                 "backgroundSize": "inset",
                 "backgroundImage": {
                     "type": "ImageBlock",
-                    "url": "/images/hero.webp",
+                    "url": "/images/blumberg-hero-mockup.jpg",
                     "backgroundSize": "cover",
                     "backgroundPosition": "center",
                     "opacity": 100
