@@ -360,7 +360,7 @@ sections:
           Contact Blumberg & Associates
         altText: ''
         url: /contact-us
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
