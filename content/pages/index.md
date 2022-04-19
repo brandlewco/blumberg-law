@@ -346,7 +346,7 @@ sections:
           - pt-16
           - pb-16
           - pl-4
-          - pr-8
+          - pr-4
         justifyContent: center
       title:
         textAlign: left
