@@ -112,7 +112,8 @@ sections:
         title: Successfully Represented Thousands of Clients.
         text: >
           Contact us today to schedule a consultation with our knowledgeable
-          legal team.
+          legal team. Choosing a lawyer with experience makes all the
+          difference.
         actions: []
         styles:
           self:
