@@ -1,7 +1,9 @@
 ---
 layout: PageLayout
 metaTitle: null
-metaDescription: 'Call or contact us using our online form for a confidential case evaluation. '
+metaDescription: >-
+  Call or contact us using our online contact form for a confidential case
+  evaluation. 
 addTitleSuffix: true
 socialImage: null
 metaTags: []
