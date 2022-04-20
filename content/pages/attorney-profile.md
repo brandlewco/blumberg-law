@@ -1,7 +1,6 @@
 ---
 layout: PageLayout
 metaTitle: Bruce Blumberg Attorney Profile | Blumberg & Associates
-metaDescription: Bruce Blumberg | Blumberg & Associates
 addTitleSuffix: true
 socialImage: null
 metaTags: []
