@@ -1,7 +1,7 @@
 ---
 layout: PageLayout
 metaTitle: null
-metaDescription: null
+metaDescription: Please give us a call or contact us via email using our contact form.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
