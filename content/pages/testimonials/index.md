@@ -82,6 +82,6 @@ topSections:
         textAlign: left
 metaTitle: Real Client Testimonials | Blumberg & Associates
 metaDescription: >-
-  Read our client testimonials and see why our criminal law experiance  
-  Blumberg & Associates
+  Read our client testimonials and see why our criminal law experience makes us
+  the    Blumberg & Associates
 ---
