@@ -8,7 +8,7 @@ title: >-
   aggravated assault, dangerous offenses by pointing a loaded weapon at the
   friends of his ex-lover.
 colors: colors-d
-excerpt: Not Guilty
+excerpt: Client found not guilty on all counts.
 bottomSections: []
 metaDescription: null
 socialImage: null
