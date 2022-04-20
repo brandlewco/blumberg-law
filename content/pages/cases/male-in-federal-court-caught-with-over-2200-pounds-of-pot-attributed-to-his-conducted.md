@@ -7,7 +7,7 @@ title: >-
   Male in federal court caught with over 2200 pounds of pot attributed to his
   conducted.
 colors: colors-d
-excerpt: Not Guilty
+excerpt: Only 18 months in jail.
 bottomSections: []
 metaDescription: null
 socialImage: null
