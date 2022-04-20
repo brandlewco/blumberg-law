@@ -1,6 +1,6 @@
 ---
 layout: PageLayout
-metaTitle: null
+metaTitle: Phoenix Violent Crimes Attorney
 metaDescription: >-
   Phoenix violent crime attorney Bruce Blumberg helps people charged with
   assault, aggravated assault, sexual assault & other violent crimes in Arizona.
