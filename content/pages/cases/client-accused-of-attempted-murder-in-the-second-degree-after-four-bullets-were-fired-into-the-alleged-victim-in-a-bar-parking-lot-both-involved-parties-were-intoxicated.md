@@ -8,7 +8,7 @@ title: >-
   were fired into the alleged victim in a bar parking lot. Both involved parties
   were intoxicated.
 colors: colors-d
-excerpt: Not Guilty
+excerpt: First Trial – Hung Jury; Second Trial – Not Guilty
 bottomSections: []
 metaDescription: null
 socialImage: null
