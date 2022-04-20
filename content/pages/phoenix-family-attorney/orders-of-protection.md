@@ -1,7 +1,9 @@
 ---
 layout: PageLayout
 metaTitle: null
-metaDescription: null
+metaDescription: >-
+  Our Phoenix orders of protection attorneys understand that you and your family
+  are facing a very difficult time, contact us today for assistance.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
