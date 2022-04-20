@@ -1,7 +1,9 @@
 ---
 layout: PageLayout
 metaTitle: Phoenix Drug Crime Attorney
-metaDescription: null
+metaDescription: >-
+  Phoenix drug crime attorney Bruce Blumberg defends people charged with federal
+  & Arizona drug crimes like possession, drug trafficking, marijuana & meth.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
