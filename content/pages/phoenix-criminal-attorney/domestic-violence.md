@@ -1,7 +1,9 @@
 ---
 layout: PageLayout
 metaTitle: Phoenix Domestic Violence Attorney
-metaDescription: null
+metaDescription: >-
+  Our Phoenix domestic violence attorneys routinely handle cases related to
+  violent crimes, assault, battery, kidnapping, sex crimes, and stalking.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
