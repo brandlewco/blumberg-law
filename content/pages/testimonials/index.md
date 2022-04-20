@@ -80,6 +80,6 @@ topSections:
         textAlign: left
       text:
         textAlign: left
-metaTitle: Blumberg Testimonials
+metaTitle: Testimonials | Blumberg & Associates
 metaDescription: View our client testimonials and contact Blumberg & Associates anytime.
 ---
