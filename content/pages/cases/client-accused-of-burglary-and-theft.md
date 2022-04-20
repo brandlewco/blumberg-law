@@ -5,7 +5,7 @@ addTitleSuffix: true
 metaTags: []
 title: Client accused of burglary and theft.
 colors: colors-d
-excerpt: Not Guilty
+excerpt: Burglary – Not Guilty; Charges reduced to misdemeanor theft.
 bottomSections: []
 metaDescription: null
 socialImage: null
