@@ -1,6 +1,6 @@
 ---
 layout: PageLayout
-metaTitle: null
+metaTitle: Bruce Blumberg | Blumberg & Associates
 metaDescription: Bruce Blumberg | Blumberg & Associates
 addTitleSuffix: true
 socialImage: null
