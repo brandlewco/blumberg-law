@@ -8,7 +8,7 @@ title: >-
   smaller man in the face causing substantial damage, including breaking of the
   orbital floor.
 colors: colors-d
-excerpt: Not Guilty
+excerpt: Charges reduced – Misdemeanor Assault
 bottomSections: []
 metaDescription: null
 socialImage: null
