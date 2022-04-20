@@ -1,6 +1,6 @@
 ---
 layout: PageLayout
-metaTitle: null
+metaTitle: Phoenix Criminal Appeals Attorney
 metaDescription: >-
   If you have reason to believe you did not receive a fair trial, contact the
   criminal appeals attorneys at Blumberg & Associates today to schedule an
