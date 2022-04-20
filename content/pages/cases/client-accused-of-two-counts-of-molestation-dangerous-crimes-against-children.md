@@ -8,7 +8,10 @@ title: >-
   children, carrying minimum sentence of ten years and maximum sentence of
   twenty-four years, flat, with no early release.
 colors: colors-d
-excerpt: Not Guilty
+excerpt: >-
+  Client negotiated plea of assault, class open-end (lightest kind of felony)
+  with opportunity to have matter designated a misdemeanor upon successful
+  completion of probation.
 bottomSections: []
 metaDescription: null
 socialImage: null
