@@ -8,7 +8,7 @@ title: >-
   bullets into the alleged victim in a bar parking lot. Both parties were
   intoxicated.
 colors: colors-d
-excerpt: Not Guilty
+excerpt: First trial ended in hung jury. Second trial not guilty.
 bottomSections: []
 metaDescription: null
 socialImage: null
