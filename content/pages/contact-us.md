@@ -1,7 +1,7 @@
 ---
 layout: PageLayout
 metaTitle: null
-metaDescription: Please give us a call or contact us via email using our contact form.
+metaDescription: 'Call or contact us using our online form to '
 addTitleSuffix: true
 socialImage: null
 metaTags: []
