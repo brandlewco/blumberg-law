@@ -197,4 +197,8 @@ sections:
       - content/pages/cases/charged-19-counts-sexual-conduct-with-minor.md
       - content/pages/cases/accused-multiple-accounts-sexual-misconduct.md
       - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
+metaDescription: >-
+  Bruce Blumberg is the founder and principal attorney at Blumberg & Associates,
+  serving clients throughout Phoenix and statewide in the areas of criminal
+  defense and family law.
 ---
