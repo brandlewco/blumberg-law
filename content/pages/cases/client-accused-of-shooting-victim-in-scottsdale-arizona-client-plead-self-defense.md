@@ -8,7 +8,7 @@ title: >-
   self-defense, after being attacked by alleged victim and alleged victim’s
   brother.
 colors: colors-d
-excerpt: Not Guilty
+excerpt: ' Not Guilty'
 bottomSections: []
 metaDescription: null
 socialImage: null
