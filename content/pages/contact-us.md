@@ -1,6 +1,6 @@
 ---
 layout: PageLayout
-metaTitle: null
+metaTitle: Contact Bruce Blumberg | Blumberg & Associates
 metaDescription: >-
   Call or contact us using our online contact form for a confidential case
   evaluation to talk to a lawyer who will fight for you.
