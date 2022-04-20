@@ -883,5 +883,5 @@ metaTitle: 'Blumberg & Associates - Phoenix, Arizona Criminal Law Attorney'
 metaDescription: >-
   Serving clients for over 30 years in Criminal Defense & Family law cases. With
   nearly 100 jury trials, Bruce has had innumerable wins in felony and
-  misdemeanor charges.
+  misdemeanor charges
 ---
