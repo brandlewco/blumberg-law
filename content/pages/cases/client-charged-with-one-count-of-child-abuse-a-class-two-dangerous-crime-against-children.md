@@ -8,7 +8,7 @@ title: >-
   against children, carrying minimum sentence of ten and maximum of twenty-four
   flat years in prison with no early release.
 colors: colors-d
-excerpt: Not Guilty
+excerpt: 'Following extensive motion practice, client pleads to misdemeanor.'
 bottomSections: []
 metaDescription: null
 socialImage: null
