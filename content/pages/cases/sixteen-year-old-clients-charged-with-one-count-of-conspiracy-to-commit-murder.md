@@ -8,7 +8,9 @@ title: >-
   which carries a mandatory penalty of twenty-five flat years in prison with no
   early release.
 colors: colors-d
-excerpt: Not Guilty
+excerpt: >-
+  Following extensive discovery and negotiations, client entered a plea to a
+  misdemeanor.
 bottomSections: []
 metaDescription: null
 socialImage: null
