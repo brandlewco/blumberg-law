@@ -880,5 +880,5 @@ sections:
 addTitleSuffix: false
 metaTags: []
 metaTitle: 'Blumberg & Associates - Phoenix, Arizona Criminal Law Attorney'
-metaDescription: Serving clients for over 30 years in Criminal Defense & Family law cases
+metaDescription: 'Serving clients for over 30 years in Criminal Defense & Family law cases. '
 ---
