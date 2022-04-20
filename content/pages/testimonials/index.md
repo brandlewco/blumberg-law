@@ -83,5 +83,6 @@ topSections:
 metaTitle: Real Client Testimonials | Blumberg & Associates
 metaDescription: >-
   Read our client testimonials and see why over 30 years of criminal law
-  experience mattersBlumberg & Associates
+  experience matters when you're in the fight of your life. Blumberg &
+  Associates
 ---
