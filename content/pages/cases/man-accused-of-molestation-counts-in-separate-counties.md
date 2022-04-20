@@ -5,7 +5,7 @@ addTitleSuffix: true
 metaTags: []
 title: Man accused of molestation counts in separate counties.
 colors: colors-d
-excerpt: Not Guilty
+excerpt: 'Negotiated pleas of probation, concurrent in both counties.'
 bottomSections: []
 metaDescription: null
 socialImage: null
