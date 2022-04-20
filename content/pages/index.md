@@ -531,7 +531,7 @@ sections:
         label: |
           See More Case Results
         altText: ''
-        url: /
+        url: /case-results
         showIcon: false
         icon: arrowRight
         iconPosition: right
