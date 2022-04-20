@@ -528,7 +528,8 @@ sections:
     variant: variant-b
     actions:
       - type: Button
-        label: Learn more
+        label: |
+          See More Case Results
         altText: ''
         url: /
         showIcon: false
