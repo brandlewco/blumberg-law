@@ -158,7 +158,7 @@ sections:
       text:
         textAlign: left
   - type: FeaturedItemsSection
-    colors: colors-e
+    colors: colors-d
     elementId: ''
     title: |
       Connect with Bruce.
