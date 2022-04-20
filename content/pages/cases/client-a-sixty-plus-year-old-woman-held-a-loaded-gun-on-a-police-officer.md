@@ -8,7 +8,7 @@ title: >-
   civilian clothes, purportedly returning property to her home which had been
   the subject of an earlier search warrant.
 colors: colors-d
-excerpt: Not Guilty
+excerpt: 'Following extensive discovery and negotiations, case dismissed with prejudice.'
 bottomSections: []
 metaDescription: null
 socialImage: null
