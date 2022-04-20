@@ -1,7 +1,9 @@
 ---
 layout: PageLayout
 metaTitle: null
-metaDescription: null
+metaDescription: >-
+  Phoenix sex crimes attorney Bruce Blumberg defends people charged with sexual
+  assault, rape, prostitution, solicitation, pornography & other sex crimes.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
