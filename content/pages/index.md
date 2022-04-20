@@ -532,7 +532,7 @@ sections:
           See More Case Results
         altText: ''
         url: /case-results
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
