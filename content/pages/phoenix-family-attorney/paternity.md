@@ -1,6 +1,6 @@
 ---
 layout: PageLayout
-metaTitle: null
+metaTitle: Phoenix Paternity Attorney
 metaDescription: >-
   At Blumberg & Associates, our Phoenix paternity attorneys provide our clients
   with strategic advocacy and counsel in paternity cases and paternity disputes.
