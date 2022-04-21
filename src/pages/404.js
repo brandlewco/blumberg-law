@@ -1,11 +1,11 @@
-import React from 'react';
-import { sourcebitDataClient } from 'sourcebit-target-next';
-import { withRemoteDataUpdates } from 'sourcebit-target-next/with-remote-data-updates';
-import { Page } from './[[...slug]]';
-
-export async function getStaticProps({ params }) {
-    const props = await sourcebitDataClient.getStaticPropsForPageAtPath('/404');
-    return { props };
+export default function Custom404() {
+    return (
+        <div className="my-12 max-w-screen-lg mx-auto">
+            <h1>404</h1>
+            <h2 className="my-6">The page you are looking for can not be found</h2>
+            <a className="underline" href="/">
+                Go to the homepage >
+            </a>
+        </div>
+    );
 }
-
-export default withRemoteDataUpdates(Page);
