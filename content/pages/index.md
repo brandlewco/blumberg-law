@@ -89,8 +89,8 @@ sections:
           In The Courtroom.
         text: >
           We have won acquittals in more than 25 serious felony cases, more than
-          many attorneys have even tried. Have our experiance on your side for
-          your day in court. 
+          many attorneys have even tried.  Having our experiance on your side
+          for your day in court makes all the difference.
         actions: []
         styles:
           self:
@@ -113,8 +113,7 @@ sections:
         title: Successfully Represented Thousands of Clients.
         text: >
           Contact us today to schedule a consultation with our knowledgeable
-          legal team. Choosing a lawyer with experience makes all the
-          difference.
+          legal team. 
         actions: []
         styles:
           self:
@@ -562,12 +561,18 @@ sections:
     subtitle: ''
     colors: colors-d
     posts:
-      - content/pages/cases/accused-multiple-accounts-sexual-misconduct.md
-      - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
-      - content/pages/cases/accused-multiple-accounts-sexual-misconduct.md
-      - content/pages/cases/accused-or-child-abuse-by-causing-bruises.md
-      - content/pages/cases/charged-19-counts-sexual-conduct-with-minor.md
-      - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
+      - >-
+        content/pages/cases/client-accused-of-child-abuse-by-breaking-childs-arm-and-causing-spiral-fracture.md
+      - >-
+        content/pages/cases/sixteen-year-old-clients-charged-with-one-count-of-conspiracy-to-commit-murder.md
+      - >-
+        content/pages/cases/client-involved-in-a-love-triangle-client-accused-of-five-counts-of-aggravated-assault-dangerous-offenses.md
+      - >-
+        content/pages/cases/client-traveling-northbound-on-i-17-stopped-in-yavapai-county-with-136-pounds-of-marijuana-packed-into-the-truck.md
+      - >-
+        content/pages/cases/client-accused-of-attempted-murder-in-the-second-degree-after-four-bullets-were-fired-into-the-alleged-victim-in-a-bar-parking-lot-both-involved-parties-were-intoxicated.md
+      - >-
+        content/pages/cases/minor-accused-of-aggravated-assault-dangerous-offense-by-holding-a-gun-on-officers-conducting-a-search-warrant-at-mother's-apartment..md
   - elementId: ''
     colors: colors-b
     variant: variant-b

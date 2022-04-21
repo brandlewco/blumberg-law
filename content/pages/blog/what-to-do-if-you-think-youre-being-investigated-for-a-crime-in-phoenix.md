@@ -19,6 +19,7 @@ media:
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-qkxt493m4.json
 ---
 
 If you believe you are under investigation for a crime, it’s imperative to be proactive and contact a skilled [Phoenix criminal attorney](https://www.azblumberglaw.com/phoenix-criminal-attorney/) right away. Obviously, most people will assume that is what any criminal defense attorney will tell you. However, there are numerous reasons why retaining an attorney early on is a better strategy.

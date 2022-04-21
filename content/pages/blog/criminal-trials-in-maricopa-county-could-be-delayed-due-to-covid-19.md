@@ -9,16 +9,17 @@ date: '2020-05-21'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/maricopa-country-trials-covd-19.jpg
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-qkxt493m4.json
 ---
 
 There’s no denying that the current pandemic is affecting every aspect of our lives, and the legal system is no exception. The courts are making changes to how cases are handled to help reduce the spread of the virus. For some, this could be good news as some criminal trials are being delayed. According to an AZ Central news report, the Maricopa County Attorney’s Office is reducing the number of people it’s charging with crimes for now.

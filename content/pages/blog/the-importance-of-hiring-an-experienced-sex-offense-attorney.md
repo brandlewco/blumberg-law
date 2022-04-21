@@ -9,16 +9,17 @@ date: '2020-06-10'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/hire-experianced-sex-offense-attorney.jpg
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-qkxt493m4.json
 ---
 
 In Phoenix Arizona, if you’re charged with a sex offense you’ve got a very rough road ahead. One must understand that jurors come in to these types of cases with preconceived notions about sex crimes and it’s up to a skilled criminal defense attorney to point out to the jurors what their duties and obligations are regarding our Constitution, and that they would want those same principles imparted to their loved ones and their neighbors.

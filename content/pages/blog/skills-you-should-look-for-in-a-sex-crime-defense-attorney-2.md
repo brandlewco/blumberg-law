@@ -9,16 +9,17 @@ date: '2020-05-20'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-qkxt493m4.json
 ---
 
 Anybody charged with a crime has the right to be presumed innocent until proven guilty. When it comes to sex crimes, however, the court of public opinion is often eager to pronounce an accused person guilty before a court has had a chance to reach its verdict. Sex crimes are extremely serious, not just because they can result in extremely long prison sentences, but because just being charged with a sex crime is often enough to significantly harm one’s public reputation. If you are facing charges related to a sex crime, you risk far more than prison time. Your job, housing, and relations with friends and family could also be at stake, which is why you need to look for a [Phoenix sex crime lawyer](https://www.azblumberglaw.com/phoenix-criminal-attorney/sex-crimes/) who has the skills necessary to represent you.

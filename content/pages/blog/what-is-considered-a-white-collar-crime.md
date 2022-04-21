@@ -9,16 +9,17 @@ date: '2020-05-28'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/what-is-white-collar-crime.jpg
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-qkxt493m4.json
 ---
 
 Fraud is one of the most common types of white-collar crimes, but it is not the only one. There are a variety of criminal offenses that can be classified as white-collar crimes, including those that involve embezzlement, conspiracy, extortion, and computer crimes.

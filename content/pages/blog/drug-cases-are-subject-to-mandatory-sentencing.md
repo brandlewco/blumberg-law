@@ -9,16 +9,17 @@ date: '2020-06-03'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/drug-cases-subject-to-mandatory-sentencing.jpg
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-qkxt493m4.json
 ---
 
 Most drug cases don’t involve jury trials because ultimately the police discover a person holding a substantial amount of drugs and there’s not usually a way around the associated charges.
