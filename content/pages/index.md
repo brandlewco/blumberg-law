@@ -88,9 +88,8 @@ sections:
 
           In The Courtroom.
         text: >
-          We have won acquittals in more than 25 serious felony cases, more than
-          many attorneys have even tried. Have our experiance on your side for
-          your day in court. 
+          Bruce Blumberg has won more trials than most lawyers have even tried. 
+          Have our experiance on your side for your day in court.
         actions: []
         styles:
           self:
