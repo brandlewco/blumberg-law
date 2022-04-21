@@ -678,39 +678,6 @@ sections:
       elementId: ''
   - type: TextSection
     elementId: ''
-    colors: colors-d
-    variant: variant-a
-    subtitle: ''
-    text: >
-      Please do not include any confidential or sensitive information in a
-      contact form, text message, or voicemail. This contact form sends
-      information by non-encrypted email, which is not secure. Submitting a
-      contact form, sending a text message, making a phone call, or leaving a
-      voicemail does not create an attorney-client relationship.
-    actions: []
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-4
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-  - type: TextSection
-    elementId: ''
     colors: colors-a
     variant: variant-a
     subtitle: ''
