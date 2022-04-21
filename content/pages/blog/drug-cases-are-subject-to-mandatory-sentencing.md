@@ -19,6 +19,7 @@ media:
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-qkxt493m4.json
 ---
 
 Most drug cases don’t involve jury trials because ultimately the police discover a person holding a substantial amount of drugs and there’s not usually a way around the associated charges.
