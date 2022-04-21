@@ -19,6 +19,7 @@ media:
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-qkxt493m4.json
 ---
 
 When a defendant faces charges in a dangerous crime, prosecutors will utilize the allegation to their advantage.
