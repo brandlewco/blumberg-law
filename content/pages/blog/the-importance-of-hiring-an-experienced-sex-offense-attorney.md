@@ -9,7 +9,7 @@ date: '2020-06-10'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/gavel-placeholder.jpg
+  url: /images/hire-experianced-sex-offense-attorney.jpg
   altText: Post thumbnail image
   caption: ''
 media:
