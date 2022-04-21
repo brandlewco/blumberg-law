@@ -9,16 +9,17 @@ date: '2020-07-15'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-qkxt493m4.json
 ---
 
 In Arizona, there are over 20 different offenses that could land you on the Arizona Sex Offender Registry. A sex crime conviction is something that will follow you for the rest of your life. If you are facing charges of a sex offense in Arizona, you must contact an experienced [Phoenix sex crimes attorney](https://www.azblumberglaw.com/phoenix-criminal-attorney/sex-crimes/) right away.
