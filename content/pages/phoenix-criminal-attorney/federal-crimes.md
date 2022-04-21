@@ -1,11 +1,14 @@
 ---
 layout: PageLayout
-metaTitle: null
-metaDescription: null
+metaTitle: Phoenix Federal Crimes Attorney
+metaDescription: >-
+  Phoenix federal crime attorney Bruce Blumberg defends people charged with
+  federal offenses in Arizona, including sex crimes, drug crime & white-collar
+  crime.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Drug Crimes
+title: Federal Crimes
 hero:
   - type: HeroSection
     elementId: homepage-hero-1

@@ -47,8 +47,8 @@ fields:
     default: colors-d
   - type: string
     name: excerpt
-    label: Excerpt
-    default: Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer condimentum dignissim justo vel faucibus.
+    label: Result
+    default: Not Guilty
   - type: list
     name: bottomSections
     label: Sections

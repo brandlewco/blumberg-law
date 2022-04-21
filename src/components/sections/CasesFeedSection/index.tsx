@@ -48,7 +48,7 @@ export default function CasesFeedSection(props) {
             }}
         >
             <div className={classNames('flex', 'w-full', mapStyles({ justifyContent: sectionJustifyContent }))}>
-                <div className={classNames('w-full', mapMaxWidthStyles(sectionWidth))}>
+                <div className={classNames('w-full flex flex-wrap justify-between items-center', mapMaxWidthStyles(sectionWidth))}>
                     {props.title && (
                         <h2 className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
                             {props.title}
@@ -184,55 +184,55 @@ function postsVariantB(props, emblaRef, emblaApi) {
     }, [emblaApi])
     return (
         <>
-        <div
-            className={classNames('embla', {
-                'mt-12': props.title || props.subtitle || (props.actions || []).length > 0
-            })}
-            {...(props.annotatePosts ? { 'data-sb-field-path': '.posts' } : null)}
-            ref={emblaRef}
-        >
-        <div className="embla__container">
-            {posts.map((post, index) => (
-                <article key={index} className="embla__slide_mobile lg:embla__slide overflow-hidden" data-sb-object-id={post.__metadata?.id}>
-                    <div className="sb-card flex flex-col min-h-full">
-                        {post.featuredImage && (
-                            <Link href={getPageUrlPath(post)} className="block h-0 w-full pt-2/3 relative overflow-hidden">
-                                <ImageBlock
-                                    {...post.featuredImage}
-                                    className="absolute left-0 top-0 h-full w-full object-cover transition-transform duration-500 hover:scale-105"
-                                    data-sb-field-path="featuredImage"
-                                />
-                            </Link>
-                        )}
-                        <div className="flex flex-col flex-grow">
-                            <div className="flex-grow px-4 pt-6 pb-6 sm:px-6">
-                                <h3 className="text-2xl">
-                                    <Link href={getPageUrlPath(post)} data-sb-field-path="title">
-                                        {post.title}
+            <div
+                className={classNames('embla', {
+                    'mt-12': props.title || props.subtitle || (props.actions || []).length > 0
+                })}
+                {...(props.annotatePosts ? { 'data-sb-field-path': '.posts' } : null)}
+                ref={emblaRef}
+            >
+                <div className="embla__container">
+                    {posts.map((post, index) => (
+                        <article key={index} className="embla__slide_mobile lg:embla__slide overflow-hidden" data-sb-object-id={post.__metadata?.id}>
+                            <div className="sb-card flex flex-col min-h-full">
+                                {post.featuredImage && (
+                                    <Link href={getPageUrlPath(post)} className="block h-0 w-full pt-2/3 relative overflow-hidden">
+                                        <ImageBlock
+                                            {...post.featuredImage}
+                                            className="absolute left-0 top-0 h-full w-full object-cover transition-transform duration-500 hover:scale-105"
+                                            data-sb-field-path="featuredImage"
+                                        />
                                     </Link>
-                                </h3>
-                                <PostAttribution showAuthor={props.showAuthor} post={post} className="mt-2" />
-                            </div>
-                            {props.showExcerpt && post.excerpt && (
-                                    <div className="text-2xl font-bold flex flex-row justify-start items-start bg-primary text-white mt-4 px-4 pt-6 pb-6 sm:px-6 " data-sb-field-path="excerpt">
-                                        <span className='text-secondary pr-4'>X</span> {post.excerpt}
-                                    </div>
                                 )}
+                                <div className="flex flex-col flex-grow">
+                                    <div className="flex-grow px-4 pt-6 pb-6 sm:px-6">
+                                        <h3 className="text-2xl">
+                                            <Link href={getPageUrlPath(post)} data-sb-field-path="title">
+                                                {post.title}
+                                            </Link>
+                                        </h3>
+                                        <PostAttribution showAuthor={props.showAuthor} post={post} className="mt-2" />
+                                    </div>
+                                    {props.showExcerpt && post.excerpt && (
+                                        <div className="text-2xl font-bold flex flex-row justify-start items-start bg-primary text-white mt-4 px-4 pt-6 pb-6 sm:px-6 " data-sb-field-path="excerpt">
+                                            <span className='text-secondary pr-4'>X</span> {post.excerpt}
+                                        </div>
+                                    )}
 
-                        </div>
-                    </div>
-                </article>
-            ))}
-        </div>
-        </div>
-        <div className="hidden lg:block embla__nav">
-        <button className="embla__prev" onClick={scrollPrev}>
-        <ArrowLeftCircle className="fill-current h-10 w-10" />
-        </button>
-        <button className="embla__next" onClick={scrollNext}>
-        <ArrowRightCircle className="fill-current h-10 w-10" />
-        </button>
-        </div>
+                                </div>
+                            </div>
+                        </article>
+                    ))}
+                </div>
+            </div>
+            <div className="hidden lg:block embla__nav">
+                <button className="embla__prev" onClick={scrollPrev}>
+                    <ArrowLeftCircle className="fill-current h-10 w-10" />
+                </button>
+                <button className="embla__next" onClick={scrollNext}>
+                    <ArrowRightCircle className="fill-current h-10 w-10" />
+                </button>
+            </div>
         </>
     );
 }

@@ -89,7 +89,8 @@ sections:
           In The Courtroom.
         text: >
           We have won acquittals in more than 25 serious felony cases, more than
-          many attorneys have even tried.
+          many attorneys have even tried. Have our experiance on your side for
+          your day in court. 
         actions: []
         styles:
           self:
@@ -112,7 +113,8 @@ sections:
         title: Successfully Represented Thousands of Clients.
         text: >
           Contact us today to schedule a consultation with our knowledgeable
-          legal team.
+          legal team. Choosing a lawyer with experience makes all the
+          difference.
         actions: []
         styles:
           self:
@@ -524,7 +526,17 @@ sections:
     showReadMoreLink: false
     readMoreLinkLabel: See All Cases
     variant: variant-b
-    actions: []
+    actions:
+      - type: Button
+        label: |
+          See More Case Results
+        altText: ''
+        url: /case-results
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     styles:
       self:
         height: auto
@@ -550,11 +562,11 @@ sections:
     subtitle: ''
     colors: colors-d
     posts:
+      - content/pages/cases/accused-multiple-accounts-sexual-misconduct.md
       - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
       - content/pages/cases/accused-multiple-accounts-sexual-misconduct.md
       - content/pages/cases/accused-or-child-abuse-by-causing-bruises.md
       - content/pages/cases/charged-19-counts-sexual-conduct-with-minor.md
-      - content/pages/cases/accused-multiple-accounts-sexual-misconduct.md
       - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
   - elementId: ''
     colors: colors-b
@@ -875,6 +887,11 @@ sections:
         textAlign: left
       text:
         textAlign: left
-addTitleSuffix: true
+addTitleSuffix: false
 metaTags: []
+metaTitle: 'Blumberg & Associates - Criminal Law Attorney | Phoenix, Arizona'
+metaDescription: >-
+  Serving clients for over 30 years in Criminal Defense & Family law cases. With
+  nearly 100 jury trials, Bruce has won innumerable bench trials for clients
+  charges with felonies and misdemeanors. 
 ---

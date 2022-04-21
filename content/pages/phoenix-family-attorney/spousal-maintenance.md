@@ -1,7 +1,9 @@
 ---
 layout: PageLayout
-metaTitle: null
-metaDescription: null
+metaTitle: Phoenix Spousal Maintenance Attorney
+metaDescription: >-
+  In need of legal assistance regarding spousal maintenance? Our experienced
+  team will take every step necessary to protect your rights. Contact us today!
 addTitleSuffix: true
 socialImage: null
 metaTags: []

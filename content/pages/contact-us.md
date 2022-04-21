@@ -1,8 +1,10 @@
 ---
 layout: PageLayout
-metaTitle: null
-metaDescription: null
-addTitleSuffix: true
+metaTitle: Contact Bruce Blumberg | Blumberg & Associates
+metaDescription: >-
+  Call or contact us using our online contact form for a confidential case
+  evaluation to talk to a lawyer who will fight for you.
+addTitleSuffix: false
 socialImage: null
 metaTags: []
 title: contact
@@ -156,7 +158,7 @@ sections:
       text:
         textAlign: left
   - type: FeaturedItemsSection
-    colors: colors-e
+    colors: colors-d
     elementId: ''
     title: |
       Connect with Bruce.
@@ -167,31 +169,42 @@ sections:
         actions:
           - type: Button
             label: |
-              LinkedIn
-            showIcon: true
-            icon: linkedin
-            url: /
-            style: secondary
-            iconPosition: left
-          - type: Button
-            label: |
               Facebook
-            altText: ''
-            url: /
+            altText: Bruce Blumberg Facebook
+            url: 'https://www.facebook.com/BlumbergandAssociates/'
             showIcon: true
             icon: facebook
             iconPosition: left
-            style: secondary
+            style: primary
+            elementId: ''
+          - type: Button
+            label: |
+              LinkedIn
+            showIcon: true
+            icon: linkedin
+            url: 'https://www.linkedin.com/company/blumberg-&-associates/'
+            style: primary
+            iconPosition: left
+            altText: Bruce Blumberg LinkedIn
+          - type: Button
+            label: |
+              Twitter
+            altText: Bruce Blumberg Twitter
+            url: 'https://twitter.com/bruceblumberg/'
+            showIcon: true
+            icon: twitter
+            iconPosition: left
+            style: primary
             elementId: ''
           - type: Button
             label: |
               Instagram
-            altText: ''
-            url: /
+            altText: Bruce Blumberg Instagram
+            url: 'https://www.instagram.com/blumbergandassociates/'
             showIcon: true
             icon: instagram
             iconPosition: left
-            style: secondary
+            style: primary
             elementId: ''
         styles:
           self:

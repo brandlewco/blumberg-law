@@ -1,7 +1,10 @@
 ---
 layout: PageLayout
-metaTitle: null
-metaDescription: null
+metaTitle: Phoenix Child Pornography Attorney
+metaDescription: >-
+  If you are under investigation for or have been charged with possession or
+  distribution of child pornography, contact our Phoenix child pornography
+  attorneys.
 addTitleSuffix: true
 socialImage: null
 metaTags: []

@@ -80,5 +80,8 @@ topSections:
         textAlign: left
       text:
         textAlign: left
-metaTitle: Blumberg Testimonials
+metaTitle: Real Client Testimonials | Blumberg & Associates
+metaDescription: >-
+  Read our client testimonials and see why over 30 years of criminal law
+  experience makes a difference. 
 ---

@@ -8,7 +8,7 @@ import { getComponent } from '../../components-registry';
 import getPageUrlPath from '../../../utils/get-page-url-path';
 import Link from '../../atoms/Link';
 
-export default function  CasesLayout(props) {
+export default function CasesLayout(props) {
     const { page, site } = props;
     const BaseLayout = getBaseLayoutComponent(page.baseLayout, site.baseLayout);
     const colors = page.colors || 'colors-d';
@@ -22,8 +22,17 @@ export default function  CasesLayout(props) {
                 <article className={classNames(colors, 'px-4', 'sm:px-8', 'py-14', 'lg:py-20')}>
                     <div className="max-w-7xl mx-auto">
                         {/* {page.media && <div className="w-full mb-8 sm:mb-12">{postMedia(page.media)}</div>} */}
-                        <header className="max-w-5xl mx-auto mb-12 text-left">
-                            {page.title && <h1 data-sb-field-path="title">{page.title}</h1>}
+                        <header className="max-w-5xl mx-auto mb-12 text-left colors-d">
+                            {page.title &&
+                                <div className="px-8 py-12">
+                                    <h1 data-sb-field-path="title">{page.title}</h1>
+                                </div>
+                            }
+                            {page.excerpt &&
+                                <div className="px-8 py-12 bg-primary">
+                                    <h2 className="text-white" data-sb-field-path="excerpt"><span className='text-secondary pr-4'>X</span><span className="text-white">{page.excerpt}</span></h2>
+                                </div>
+                            }
                             <div className="text-lg mt-6">
                                 <PostAttribution post={page} />
                             </div>
