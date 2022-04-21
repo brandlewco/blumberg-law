@@ -88,9 +88,9 @@ sections:
 
           In The Courtroom.
         text: >
-          Bruce Blumberg has won more trials than most lawyers have even tried. 
-          Having experiance on your side for your day in court makes all the
-          difference. 
+          We have won acquittals in more than 25 serious felony cases, more than
+          many attorneys have even tried.  Having our experiance on your side
+          for your day in court makes all the difference.
         actions: []
         styles:
           self:
