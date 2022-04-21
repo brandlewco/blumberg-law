@@ -17,7 +17,7 @@ hero:
     actions:
       - type: Button
         label: Confidential Case Evaluation
-        url: 'https://www.stackbit.com/'
+        url: /contact-us/
         style: primary
         iconPosition: right
         icon: arrowRight
