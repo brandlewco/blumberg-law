@@ -2,9 +2,8 @@
 layout: PageLayout
 metaTitle: Phoenix Mail & Wire Fraud Attorney
 metaDescription: >-
-  If you are under investigation for or have been charged with possession or
-  distribution of child pornography, contact our Phoenix child pornography
-  attorneys.
+  If you are under investigation for or have been charged with mail or wire
+  fraud in Arizona, contact our Phoenix mail & wire fraud attorneys.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
