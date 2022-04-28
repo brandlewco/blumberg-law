@@ -12,8 +12,9 @@ hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: |
-      Domestic Violence
+    title: |+
+      Phoenix Domestic Violence Attorney
+
     actions:
       - type: Button
         label: |
