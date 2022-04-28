@@ -18,7 +18,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Child Pornography Criminal Representation
+          Search & Seizure Representation
         url: /contact-us
         style: primary
         iconPosition: right
