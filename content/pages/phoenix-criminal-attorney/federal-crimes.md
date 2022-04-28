@@ -154,7 +154,7 @@ sidebar:
     title: |+
       #### CHOOSE A PRACTICE AREA
 
-      #### **TO LEARN MORE**
+      #### TO LEARN MORE
 
 footer:
   - type: FeaturedCasesSection
