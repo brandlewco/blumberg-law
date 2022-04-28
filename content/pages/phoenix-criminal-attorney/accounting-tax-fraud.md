@@ -13,8 +13,9 @@ hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: |
-      Child Pornography
+    title: |+
+      Phoenix Accounting & Tax Fraud Attorney
+
     actions:
       - type: Button
         label: |
