@@ -57,8 +57,6 @@ sections:
   - type: TextSection
     colors: colors-a
     variant: variant-a
-    title: |
-      Phoenix Divorce Attorney
     text: >
       Filing for divorce in Arizona can seriously impact your life. Your
       financial security, children, and stability are at stake. Beyond the legal
