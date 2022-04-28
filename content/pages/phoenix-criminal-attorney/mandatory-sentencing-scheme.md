@@ -19,7 +19,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Child Pornography Criminal Representation
+          Mandatory Sentencing Representation
         url: /contact-us
         style: primary
         iconPosition: right
