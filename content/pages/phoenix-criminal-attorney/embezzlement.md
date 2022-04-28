@@ -2,9 +2,8 @@
 layout: PageLayout
 metaTitle: Phoenix Child Pornography Attorney
 metaDescription: >-
-  If you are under investigation for or have been charged with possession or
-  distribution of child pornography, contact our Phoenix child pornography
-  attorneys.
+  If you are under investigation for or have been charged with embezzlement in
+  Arizona, contact the Phoenix embezzlement attorneys at Blumberg & Associates.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
