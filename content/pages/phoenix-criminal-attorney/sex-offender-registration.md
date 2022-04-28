@@ -19,7 +19,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Child Pornography Criminal Representation
+          Sex Offender Representation
         url: /contact-us
         style: primary
         iconPosition: right
