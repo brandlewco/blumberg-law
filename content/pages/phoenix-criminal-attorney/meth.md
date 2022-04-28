@@ -1,23 +1,23 @@
 ---
 layout: PageLayout
-metaTitle: Phoenix Modifications & Enforcements Attorney
+metaTitle: Phoenix Meth Attorney
 metaDescription: >-
-  For more information about modifications, please contact our Phoenix
-  modifications & enforcements attorney for a consultation.
+  Our Phoenix drug defense attorneys have helped numerous clients beat drug
+  charges related to methamphetamine.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Modifications & Enforcements
+title: Meth Charges
 hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
     title: |
-      Phoenix Modifications & Enforcements Attorney
+      Phoenix Meth Attorney
     actions:
       - type: Button
         label: |
-          Modifications & Enforcements Representation
+          Meth Crimes Representation
         url: /contact-us
         style: primary
         iconPosition: right
@@ -57,7 +57,7 @@ sections:
   - type: TextSection
     colors: colors-a
     variant: variant-a
-    text: "Even after a divorce, child custody, or parenting time dispute is finalized, there may come a time when you need additional legal support to address enforcement issues or to modify the original order. If you need assistance with enforcement or you feel that a change of circumstances warrants a modification in the original order, it is important to consult with a family law attorney who can protect your rights. At Blumberg & Associates, our\_**Phoenix modifications and enforcements attorneys**\_have extensive experience in representing clients seeking a modification. We can also represent clients who want to challenge or defend against a modification to an original order.\n\nYour rights and interests are at stake. When you need assistance with the enforcement of an order or are seeking to obtain or defend against a modification, we can protect your rights.\n\nYou may be seeking a modification to an original child custody order. The court is willing to grant a modification when there is a change in circumstances that makes the original order unfeasible or impractical. For more information about modifications, please contact us for a consultation.\n\n## ENFORCEMENT OF BROKEN AGREEMENTS OR ORDERS\n\nAfter an original order is finalized, some parties are faced with the additional burden of seeing that the order is enforced. Our family law lawyers are committed to protecting our clients’ rights and interests long after an order is finalized. We represent clients in the ongoing issues related to children and are there for you as your life changes. Contact us for more information about modifications or support.\n\nContact Blumberg & Associates\_for a consultation with an experienced Phoenix, Arizona, family law attorney.\n"
+    text: "## PROVIDING DRUG DEFENSE FOR CLIENTS THROUGHOUT ARIZONA\n\nBlumberg & Associates is a distinguished Arizona criminal defense law firm representing clients charged with drug crimes related to methamphetamine. Our\_**Phoenix meth attorneys**\_routinely represent people charged with drug crimes from throughout Arizona including Maricopa County, Yavapai County, Coconino County, Pinal County, and the cities of Phoenix, Mesa, Peoria, Tempe, Prescott, Tucson, Flagstaff, and Scottsdale.\n\n## ARIZONA METHAMPHETAMINE ATTORNEYS\n\nAs the war on drugs has minimally limited the supply of some major narcotics such as cocaine and heroin, use of home grown drugs such as methamphetamine and marijuana have increased. In the last few years, people arrested for methamphetamine use, possession, manufacture, and distribution have increased dramatically. As legislators have become aware of the increasing methamphetamine problem, and the ease with which methamphetamine ingredients can be accessed, they have increased the penalties associated with methamphetamine.\n\nThe possession of less than ten grams of methamphetamine is a class two felony and can result in a mandatory prison sentence of five to fifteen “flat,” or calendar years, with no early release. Whenever possible, our Arizona methamphetamine drug defense lawyers strive to negotiate plea agreements in meth cases. Most of our clients charged with use or possession are not sentenced to prison.\nFor more information about drug offenses and some of our recent case results, please visit our Drug Offense PracticeCenter and Recent Results page.\n\n## CONTACT OUR DRUG DEFENSE ATTORNEYS\n\nOur Arizona drug defense attorneys have helped numerous clients beat drug charges related to methamphetamine. Often overzealous police and federal officials perform illegal searches and violate people’s Fourth Amendment rights. If you have been charged with a drug offense related to methamphetamine, please contact Blumberg & Associates. When your future is on the line, you need an Arizona drug defense law firm where skill and experience are more than just a slogan.\n"
     styles:
       self:
         height: auto

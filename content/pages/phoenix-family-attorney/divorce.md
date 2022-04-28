@@ -13,7 +13,7 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |
-      Divorce
+      Phoenix Divorce Attorney
     actions:
       - type: Button
         label: |
@@ -57,8 +57,6 @@ sections:
   - type: TextSection
     colors: colors-a
     variant: variant-a
-    title: |
-      Phoenix Divorce Attorney
     text: >
       Filing for divorce in Arizona can seriously impact your life. Your
       financial security, children, and stability are at stake. Beyond the legal
@@ -71,34 +69,19 @@ sections:
       ## THE FIVE STAGES OF GRIEF ARE:
 
 
-      **First Stage:**
+      *   **First Stage:** Denial and Isolation;
 
 
-      *   Denial and Isolation;
+      *   **Second Stage:** Anger;
 
 
-      **Second Stage:**
+      *   **Third Stage:** Bargaining;
 
 
-      *   Anger;
+      *   **Fourth Stage:**  Depression; and
 
 
-      **Third Stage:**
-
-
-      *   Bargaining;
-
-
-      **Fourth Stage:**
-
-
-      *   Depression; and
-
-
-      **Fifth Stage:**
-
-
-      *   Acceptance.
+      *   **Fifth Stage:** Acceptance.
 
 
       If true, this process would have a direct effect on the ability of the

@@ -1,23 +1,23 @@
 ---
 layout: PageLayout
-metaTitle: Phoenix Modifications & Enforcements Attorney
+metaTitle: Phoenix DUI Attorney
 metaDescription: >-
-  For more information about modifications, please contact our Phoenix
-  modifications & enforcements attorney for a consultation.
+  Our Phoenix DUI attorneys have successfully handled hundreds of drunk driving
+  cases, contact us today.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Modifications & Enforcements
+title: DUI
 hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
     title: |
-      Phoenix Modifications & Enforcements Attorney
+      Phoenix DUI Attorney
     actions:
       - type: Button
         label: |
-          Modifications & Enforcements Representation
+          DUI Representation
         url: /contact-us
         style: primary
         iconPosition: right
@@ -57,7 +57,7 @@ sections:
   - type: TextSection
     colors: colors-a
     variant: variant-a
-    text: "Even after a divorce, child custody, or parenting time dispute is finalized, there may come a time when you need additional legal support to address enforcement issues or to modify the original order. If you need assistance with enforcement or you feel that a change of circumstances warrants a modification in the original order, it is important to consult with a family law attorney who can protect your rights. At Blumberg & Associates, our\_**Phoenix modifications and enforcements attorneys**\_have extensive experience in representing clients seeking a modification. We can also represent clients who want to challenge or defend against a modification to an original order.\n\nYour rights and interests are at stake. When you need assistance with the enforcement of an order or are seeking to obtain or defend against a modification, we can protect your rights.\n\nYou may be seeking a modification to an original child custody order. The court is willing to grant a modification when there is a change in circumstances that makes the original order unfeasible or impractical. For more information about modifications, please contact us for a consultation.\n\n## ENFORCEMENT OF BROKEN AGREEMENTS OR ORDERS\n\nAfter an original order is finalized, some parties are faced with the additional burden of seeing that the order is enforced. Our family law lawyers are committed to protecting our clients’ rights and interests long after an order is finalized. We represent clients in the ongoing issues related to children and are there for you as your life changes. Contact us for more information about modifications or support.\n\nContact Blumberg & Associates\_for a consultation with an experienced Phoenix, Arizona, family law attorney.\n"
+    text: "If you have been arrested and charged with a driving under the influence (DUI) contact Blumberg & Associates quickly immediately. Our experienced Arizona DUI attorney can explain your rights and help you avoid the harshest penalties associated with a drunk driving conviction.\n\nAt Blumberg & Associates, our primary goal in every DUI case we handle is to protect our clients’ rights to own and operate a motor vehicle and to keep them out of jail. Our\_**Phoenix DUI attorneys**\_have successfully handled hundreds of drunk driving cases. Our first course of action in most of our DUI cases is to challenge the stop. Even if you are drunk you have a Fourth Amendment right that prevents unreasonable search and seizure. Therefore the arresting officer must have cause to stop your vehicle.\n\nOur DUI attorneys also work to ensure your rights are protected with respect to your driving privileges in the state of Arizona.\n\n## CONSEQUENCES OF AN ARIZONA DRUNK DRIVING CONVICTION\n\nIn recent years, fines and jail time have increased for people convicted of DUI. Even being charged with a driving under the influence can result in a suspension or restriction of your driving privilege. If you are arrested and have a blood alcohol concentration (BAC) of .08 or more, your driver’s license must be surrendered immediately. If you refuse to take a BAC test, your license will be suspended for twelve months. All of this occurs prior to a drunk driving conviction.\n\nIf you are convicted of an Arizona DUI and your blood alcohol concentration is .08 to .149 the consequences include:\n\n### First Offense\n\n*   Up to six months in jail\n\n*   A fine up to $2,500\n\n*   Court ordered substance abuse counseling\n\n*   Community Service\n\n*   10 days in jail (9 are eligible to be suspended)\n\n### Second Offense\n\n*   Up to six months in jail\n\n*   Drivers license Revocation\n\n*   A fine up to $2,500\n\n*   Court ordered substance abuse counseling\n\n*   Community Service\n\n*   Ignition Interlock Device\n\nIf you are convicted of a DUI in Arizona and your blood alcohol concentration is above .15, know as an Extreme DUI, the consequences include:\n\n### First Offense\n\n*   Up to six months in jail\n\n*   Minimum 30 days license suspension\n\n*   A fine up to $2,500\n\n*   A $250 assessment to the Driving Under the Influence Abatement Fund\n\n*   Court ordered substance abuse counseling\n\n*   Community Service\n\n*   Ignition Interlock Device\n\n### Second Offense\n\n*   Up to six months in jail\n\n*   Revocation of license\n\n*   A fine up to $2,500\n\n*   $250 assessment to the Driving Under the Influence Abatement Fund\n\n*   Court ordered substance abuse counseling\n\n*   Community Service\n\n*   Ignition Interlock Device\n\n## CONTACT OUR PHOENIX DUI DEFENSE ATTORNEYS\n\nOur Phoenix DUI defense attorneys regularly represent clients from throughout Maricopa County including the cities of Phoenix, Tempe, and Scottsdale who are charged with driving under the influence, extreme DUI, and aggravated driving under the influence. If you have been charged with a drunk driving offense, please contact Blumberg & Associates.\n"
     styles:
       self:
         height: auto

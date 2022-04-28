@@ -1,23 +1,24 @@
 ---
 layout: PageLayout
-metaTitle: Phoenix Modifications & Enforcements Attorney
+metaTitle: Phoenix Computer & Internet Fraud Attorney
 metaDescription: >-
-  For more information about modifications, please contact our Phoenix
-  modifications & enforcements attorney for a consultation.
+  If you are under investigation for or have been charged with computer or
+  Internet fraud in Arizona, call our Phoenix computer & internet fraud
+  attorneys.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Modifications & Enforcements
+title: Computer & Internet Fraud
 hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
     title: |
-      Phoenix Modifications & Enforcements Attorney
+      Phoenix Computer & Internet Fraud Attorney
     actions:
       - type: Button
         label: |
-          Modifications & Enforcements Representation
+          Computer & Internet Fraud Representation
         url: /contact-us
         style: primary
         iconPosition: right
@@ -57,7 +58,7 @@ sections:
   - type: TextSection
     colors: colors-a
     variant: variant-a
-    text: "Even after a divorce, child custody, or parenting time dispute is finalized, there may come a time when you need additional legal support to address enforcement issues or to modify the original order. If you need assistance with enforcement or you feel that a change of circumstances warrants a modification in the original order, it is important to consult with a family law attorney who can protect your rights. At Blumberg & Associates, our\_**Phoenix modifications and enforcements attorneys**\_have extensive experience in representing clients seeking a modification. We can also represent clients who want to challenge or defend against a modification to an original order.\n\nYour rights and interests are at stake. When you need assistance with the enforcement of an order or are seeking to obtain or defend against a modification, we can protect your rights.\n\nYou may be seeking a modification to an original child custody order. The court is willing to grant a modification when there is a change in circumstances that makes the original order unfeasible or impractical. For more information about modifications, please contact us for a consultation.\n\n## ENFORCEMENT OF BROKEN AGREEMENTS OR ORDERS\n\nAfter an original order is finalized, some parties are faced with the additional burden of seeing that the order is enforced. Our family law lawyers are committed to protecting our clients’ rights and interests long after an order is finalized. We represent clients in the ongoing issues related to children and are there for you as your life changes. Contact us for more information about modifications or support.\n\nContact Blumberg & Associates\_for a consultation with an experienced Phoenix, Arizona, family law attorney.\n"
+    text: "From shopping to banking to paying bills, an increasing number of financial transactions involve the Internet and computers. With the growth of the Internet has come growth in\nInternet crimes. If you are under investigation for or have been charged with computer or Internet fraud in Arizona, call the\_**Phoenix computer and internet fraud attorneys**\_at Blumberg & Associates for a free initial consultation to discuss your case.\n\nIdentity theft is one form of computer and Internet crime. It can involve hacking into computer files or simply using the Internet to use bank account and credit card information that was fraudulently obtained. Identity theft can also be done by phishing, which is an attempt to acquire usernames, passwords, credit card numbers and other financial information by masquerading as a bank or other trustworthy entity.\n\nTo collect evidence in an identify theft or other Internet fraud case, prosecutors will often obtain search warrants and seize computer equipment from people’s homes or offices. However, just because evidence is contained on your computer does not mean that you put it there. Just as in a drug possession case, prosecutors must show that the incriminating evidence was under your dominion and control. A computer can be used by multiple people and prosecutors must link the evidence to you.\n\nIn many cases of identify theft, defendants need money due to a drug addiction. While drug addition is not a defense, it can be use to mitigate punishment, especially if the defendant voluntarily participates in a drug treatment program.\n\n## FREE ATTORNEY CONSULTATION\n\nThe sooner you contact a defense lawyer in an Internet or identify theft case, the more your lawyer can do to protect your rights and your future. Our defense lawyers frequently negotiate with state and federal authorities throughout Arizona, including the U.S. Attorney’s Office, the Department of Justice (DOJ) and the Federal Bureau of Investigation (FBI). In many cases, we have successfully persuaded prosecutors not to charge our clients or to file reduced charges.\n"
     styles:
       self:
         height: auto

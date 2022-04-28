@@ -1,23 +1,23 @@
 ---
 layout: PageLayout
-metaTitle: Phoenix Modifications & Enforcements Attorney
+metaTitle: Phoenix State Drug Crimes Attorney
 metaDescription: >-
-  For more information about modifications, please contact our Phoenix
-  modifications & enforcements attorney for a consultation.
+  If you are facing drug crimes in Arizona, contact Phoenix state drug crimes
+  defense attorneys at Blumberg & Associates.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Modifications & Enforcements
+title: State Drug Crimes
 hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
     title: |
-      Phoenix Modifications & Enforcements Attorney
+      Phoenix State Drug Crimes Attorney
     actions:
       - type: Button
         label: |
-          Modifications & Enforcements Representation
+          State Drug Crimes Representation
         url: /contact-us
         style: primary
         iconPosition: right
@@ -57,7 +57,7 @@ sections:
   - type: TextSection
     colors: colors-a
     variant: variant-a
-    text: "Even after a divorce, child custody, or parenting time dispute is finalized, there may come a time when you need additional legal support to address enforcement issues or to modify the original order. If you need assistance with enforcement or you feel that a change of circumstances warrants a modification in the original order, it is important to consult with a family law attorney who can protect your rights. At Blumberg & Associates, our\_**Phoenix modifications and enforcements attorneys**\_have extensive experience in representing clients seeking a modification. We can also represent clients who want to challenge or defend against a modification to an original order.\n\nYour rights and interests are at stake. When you need assistance with the enforcement of an order or are seeking to obtain or defend against a modification, we can protect your rights.\n\nYou may be seeking a modification to an original child custody order. The court is willing to grant a modification when there is a change in circumstances that makes the original order unfeasible or impractical. For more information about modifications, please contact us for a consultation.\n\n## ENFORCEMENT OF BROKEN AGREEMENTS OR ORDERS\n\nAfter an original order is finalized, some parties are faced with the additional burden of seeing that the order is enforced. Our family law lawyers are committed to protecting our clients’ rights and interests long after an order is finalized. We represent clients in the ongoing issues related to children and are there for you as your life changes. Contact us for more information about modifications or support.\n\nContact Blumberg & Associates\_for a consultation with an experienced Phoenix, Arizona, family law attorney.\n"
+    text: "Sentencing in drug crimes cases depends on a number of issues: the kinds of drugs involved, whether violence or weapons were used, the quantity of drugs, whether the defendant has a criminal record, and other factors as well. Under Arizona state law, sentencing guidelines govern penalties for certain kinds of drug crimes. Typically, a judge can determine whether to apply the minimum penalty or the maximum. That’s why it’s essential to work with an experienced\_**Phoenix state drug crimes attorney**\_who understands how prosecutors and judges think and what can be done to convince the court to reduce the sentence against you.\n\nAt Blumberg & Associates, our lawyers have over 30 years of experience in defending people charged with drug crimes. For more information regarding our practice and how we can help you, contact drug crimes defense attorneys at Blumberg & Associates today.\n\n## DRUG CLASSIFICATIONS AND THE CONTROLLED SUBSTANCES ACT\n\nLike other states, Arizona’s drug laws are based in part on the federal Controlled Substances Act (CSA). Under the CSA, drugs are divided according to the following schedule:\n\n*   Schedule I – drugs that have a high potential for abuse and are not used for accepted medical purposes. Drugs such as LSD, heroin, and marijuana fall into this category.\n\n*   Schedule II – drugs that are used for medical purposes but are addictive and subject to a high incidence of abuse. Methadone, cocaine, PCP, and methamphetamine are Schedule II drugs.\n\n*   Schedule III – drugs that have an accepted medical use, a moderate level of dependency, but are less subject to abuse than Schedule II drugs. Codeine is one example of a Schedule III drug.\n\n*   Schedule IV – drugs that are used for medical purposes but are not considered as addictive or subject to abuse as Schedule III drugs. Prescription medications like Xanax, Ativan, and Valium are classified as Schedule IV drugs.\n\n*   Schedule V – drugs that include drugs contained in over-the-counter medication that pose little – if any – risk for dependency or abuse.\n\n## ARIZONA STATE PENALTIES FOR DRUG CRIMES\n\nIn general, Arizona penalties in drug crime cases take into consideration the schedule of drug(s) involved and the circumstances surrounding a case. Were firearms involved? If drugs were found in your car, was a minor in the car with you? In drug trafficking and possession cases, what was the quantity of drugs involved? Here, penalties could include prison time and a heavy fine. If the amount of drugs involved is over a threshold amount, State prosecutors will likely seek a mandatory prison term. Crimes involving the transportation, sale, or distribution of drugs are class-two offenses and carry anywhere from 4 to 10 years in prison upon conviction.\n\n## FIRST-TIME MARIJUANA OFFENDERS AND ARIZONA DIVERSION PROGRAMS\n\nIn first-time drug possession cases involving a small amount of marijuana, adults are eligible to participate in a deferred prosecution program. If you don’t have any prior drug or violent felony convictions, you may be able to have the drug charges dropped after the successful completion of a Treatment Assessment Screening Center (TASC) program. After you have completed your treatment, the TASC will recommend the charges against you be dropped and your record will be expunged.\n\nFor more information regarding drug sentencing in Arizona and how we can help you, contact drug crimes defense attorneys at Blumberg & Associates today.\n"
     styles:
       self:
         height: auto

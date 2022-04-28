@@ -1,23 +1,23 @@
 ---
 layout: PageLayout
-metaTitle: Phoenix Modifications & Enforcements Attorney
+metaTitle: Phoenix Search & Seizure Attorney
 metaDescription: >-
-  For more information about modifications, please contact our Phoenix
-  modifications & enforcements attorney for a consultation.
+  The actions of police officers and investigators can affect the outcome of a
+  trial, contact our experienced Phoenix search & seizure attorneys today.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Modifications & Enforcements
+title: Search & Seizure Issues
 hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
     title: |
-      Phoenix Modifications & Enforcements Attorney
+      Phoenix Search & Seizure Attorney
     actions:
       - type: Button
         label: |
-          Modifications & Enforcements Representation
+          Search & Seizure Representation
         url: /contact-us
         style: primary
         iconPosition: right
@@ -57,7 +57,7 @@ sections:
   - type: TextSection
     colors: colors-a
     variant: variant-a
-    text: "Even after a divorce, child custody, or parenting time dispute is finalized, there may come a time when you need additional legal support to address enforcement issues or to modify the original order. If you need assistance with enforcement or you feel that a change of circumstances warrants a modification in the original order, it is important to consult with a family law attorney who can protect your rights. At Blumberg & Associates, our\_**Phoenix modifications and enforcements attorneys**\_have extensive experience in representing clients seeking a modification. We can also represent clients who want to challenge or defend against a modification to an original order.\n\nYour rights and interests are at stake. When you need assistance with the enforcement of an order or are seeking to obtain or defend against a modification, we can protect your rights.\n\nYou may be seeking a modification to an original child custody order. The court is willing to grant a modification when there is a change in circumstances that makes the original order unfeasible or impractical. For more information about modifications, please contact us for a consultation.\n\n## ENFORCEMENT OF BROKEN AGREEMENTS OR ORDERS\n\nAfter an original order is finalized, some parties are faced with the additional burden of seeing that the order is enforced. Our family law lawyers are committed to protecting our clients’ rights and interests long after an order is finalized. We represent clients in the ongoing issues related to children and are there for you as your life changes. Contact us for more information about modifications or support.\n\nContact Blumberg & Associates\_for a consultation with an experienced Phoenix, Arizona, family law attorney.\n"
+    text: "The actions of police officers and investigators can affect the outcome of a trial. Failure to follow proper procedures, conduct constitutional searches, or properly execute a search warrant can require dismissal of charges. Due to the doctrine of the “fruit of the poisonous tree,” any evidence found or seized during an unconstitutional search must be excluded at trial – although there are circumstances where the court has held otherwise. Understanding basic facts surrounding issues of search and seizure may help you and your attorney in formulating your defense strategy or asking the court to dismiss the charges against you.\n\nThe information provided below is a general overview of certain key issues that often arise in drug crime cases, though they apply to other kinds of crime as well. For more information regarding our practice and how we can help you, contact our\_**Phoenix search and seizure attorneys**\_at Blumberg & Associates today.\n\n## CAR STOPS AND CAR SEARCHES\n\nPolice can pull a car over for traffic violations and if an officer has reasonable suspicion a car is involved in illegal activity. Once a car is pulled over, an officer can ask a driver for permission to search the car. The driver can choose to grant or deny permission. If an officer smells marijuana or alcohol, he can then search a car, regardless whether the driver grants him permission to do so. If there is no immediate evidence of alcohol or drug use, an officer does not have the right to search a car, and anything found during an illegal search will likely be excluded as evidence against you if you are arrested.\n\nHowever, an officer can conduct a car search if he sees something in plain sight – a beer can, bong, “roach,”or gun – indicative of criminal activity. In cases where an officer is denied permission to search a car, he can impound the car, and may obtain a search warrant, and search it later.\n\n## SEARCHES OF HOMES AND SEIZURE OF PROPERTY\n\nIn general, the police can only enter your home under three conditions: 1.) if you invite them in; 2.) if they see something in your house from the sidewalk or front porch that gives them probable cause to enter; and 3.) if they have a valid search warrant signed by a judge. If you invite the police into your home and they see or hear something they believe indicates criminal activity, they have probable cause to investigate further. If you don’t invite them in they cannot enter your home and conduct a search. If they peer over or around you and see something like a gun, bong, or someone nursing a fresh wound, they may enter to investigate further.\n\nIf the police have a valid search warrant, they can search only those areas indicated, and seize only those items specified in the warrant itself. If a search warrant covers your entire house, police can only search in areas that are reasonable to look in. For example, if a search warrant is for stolen plasma TVs, the police cannot search your medicine cabinet or tackle box for the simple reason that a plasma TV can’t fit in these places.\n\n## SEARCHES OF YOUR PERSON\n\nPolice can search you if they have a reason to believe you have been involved in criminal activity. In general, however, they can only search those areas that are under your immediate control. If, for example, they believe you are in possession of drugs and you have a backpack on or are carrying a purse, they can search them since they are under your immediate control. Alternatively, if you are at a bar and the police search you for drugs, they can’t take you to your car in the parking lot or take you back to your home to search it as well.\n\n## CONTACT CRIMINAL DEFENSE ATTORNEYS AT BLUMBERG & ASSOCIATES TODAY\n\nThe war on crime has ignited a war on rights. Police departments across the nation have been emboldened by new drug laws, the Patriot Act, and recent Supreme Court rulings interpreting the Constitution. If you’ve been arrested after a search of your person or property, contact criminal defense attorneys at Blumberg & Associates today to discuss your case and learn how we can help you.\n"
     styles:
       self:
         height: auto

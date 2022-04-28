@@ -1,23 +1,24 @@
 ---
 layout: PageLayout
-metaTitle: Phoenix Modifications & Enforcements Attorney
+metaTitle: Phoenix Homicide Attorney
 metaDescription: >-
-  For more information about modifications, please contact our Phoenix
-  modifications & enforcements attorney for a consultation.
+  Phoenix homicide defense attorney Bruce Blumberg can help put together a not
+  guilty case for your homicide arrest in Arizona, especially violent murder
+  cases.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Modifications & Enforcements
+title: Homicide
 hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
     title: |
-      Phoenix Modifications & Enforcements Attorney
+      Phoenix Homicide Attorney
     actions:
       - type: Button
         label: |
-          Modifications & Enforcements Representation
+          Homicide Representation
         url: /contact-us
         style: primary
         iconPosition: right
@@ -57,7 +58,7 @@ sections:
   - type: TextSection
     colors: colors-a
     variant: variant-a
-    text: "Even after a divorce, child custody, or parenting time dispute is finalized, there may come a time when you need additional legal support to address enforcement issues or to modify the original order. If you need assistance with enforcement or you feel that a change of circumstances warrants a modification in the original order, it is important to consult with a family law attorney who can protect your rights. At Blumberg & Associates, our\_**Phoenix modifications and enforcements attorneys**\_have extensive experience in representing clients seeking a modification. We can also represent clients who want to challenge or defend against a modification to an original order.\n\nYour rights and interests are at stake. When you need assistance with the enforcement of an order or are seeking to obtain or defend against a modification, we can protect your rights.\n\nYou may be seeking a modification to an original child custody order. The court is willing to grant a modification when there is a change in circumstances that makes the original order unfeasible or impractical. For more information about modifications, please contact us for a consultation.\n\n## ENFORCEMENT OF BROKEN AGREEMENTS OR ORDERS\n\nAfter an original order is finalized, some parties are faced with the additional burden of seeing that the order is enforced. Our family law lawyers are committed to protecting our clients’ rights and interests long after an order is finalized. We represent clients in the ongoing issues related to children and are there for you as your life changes. Contact us for more information about modifications or support.\n\nContact Blumberg & Associates\_for a consultation with an experienced Phoenix, Arizona, family law attorney.\n"
+    text: "## HANDLING HOMICIDE DEFENSE CASES FROM ACROSS THE STATE OF ARIZONA\n\nBlumberg & Associates is one of the leading criminal defense law firms in the state of Arizona. Our\_**Phoenix homicide attorneys**\_are committed to using their knowledge, skill, and experience to secure the best possible results for our clients. Bruce Blumberg has a distinguished record in homicide cases; having won acquittals in numerous major felony cases including five first degree murder trials.\n\n### ARIZONA MURDER AND MANSLAUGHTER DEFENSE ATTORNEY\n\nPeople can be charged with homicide for an intentional killing, such as murder, manslaughter arising out of reckless conduct, or for a death that resulted from a negligent act. If you are charged with homicide in the state of Arizona, you could face life in prison or even the death penalty. With the rest of your life on the line it is imperative that you have an attorney experienced in handling Arizona murder and manslaughter cases. Our recent results attest to the outcomes of some of our latest cases.\n\n### ARIZONA CAPITAL MURDER CASES\n\nIn Arizona people charged with first degree murder cases often face the death penalty. However, due to recent changes in the law, judges can no longer impose death sentences. Juries must find that there were aggravating circumstances before a judge imposes a death sentence.\n\n*   Do not take chances with your criminal defense attorney!\n\n*   Choose a criminal defense lawyer who has extensive capital-case experience, knows the judges and the prosecutors.\n\n*   Choose a criminal defense attorney who has tried and won murder cases.\n\nOur Arizona capital murder attorneys have significant experience in jury trials and are renowned for their presentation of evidence and closing arguments, the last words a jury hears before deciding our client’s fate.\n\n### AUTOMOBILE-RELATED DEATH AND AUTOMOBILE HOMICIDE\n\nOur lawyers defend clients accused of causing a death due to reckless or negligent driving, speeding, or driving under the influence of alcohol or drugs, including those charged with the crimes of:\n\n*   Vehicular Homicide\n\n*   Automobile Negligence related to Drugs or Alcohol\n\n*   2nd Degree Murder\n\n*   Manslaughter\n\n*   Negligent Homicide\n\n### CONTACT OUR ARIZONA HOMICIDE ATTORNEYS\n\nOur Arizona murder and manslaughter defense attorneys represent clients throughout Arizona, including Maricopa County, Yavapai County, Coconino County, Pinal County, and the cities of Phoenix, Mesa, Peoria, Tempe, Scottsdale, Prescott, Tucson, and Flagstaff.\n\nIf you have been charged with (or are under investigation for) murder or manslaughter, please contact Blumberg & Associates. When your future is on the line, you need an Arizona criminal defense law firm where skill and experience are more than just a slogan.\n"
     styles:
       self:
         height: auto

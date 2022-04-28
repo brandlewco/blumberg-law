@@ -1,23 +1,23 @@
 ---
 layout: PageLayout
-metaTitle: Phoenix Modifications & Enforcements Attorney
+metaTitle: Phoenix Corporate Fraud Attorney
 metaDescription: >-
-  For more information about modifications, please contact our Phoenix
-  modifications & enforcements attorney for a consultation.
+  The sooner you contact one of our Phoenix corporate fraud attorneys, the more
+  we can do to protect your rights and your future.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Modifications & Enforcements
+title: Corporate Fraud
 hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
     title: |
-      Phoenix Modifications & Enforcements Attorney
+      Phoenix Corporate Fraud Attorney
     actions:
       - type: Button
         label: |
-          Modifications & Enforcements Representation
+          Corporate Fraud Representation
         url: /contact-us
         style: primary
         iconPosition: right
@@ -57,7 +57,7 @@ sections:
   - type: TextSection
     colors: colors-a
     variant: variant-a
-    text: "Even after a divorce, child custody, or parenting time dispute is finalized, there may come a time when you need additional legal support to address enforcement issues or to modify the original order. If you need assistance with enforcement or you feel that a change of circumstances warrants a modification in the original order, it is important to consult with a family law attorney who can protect your rights. At Blumberg & Associates, our\_**Phoenix modifications and enforcements attorneys**\_have extensive experience in representing clients seeking a modification. We can also represent clients who want to challenge or defend against a modification to an original order.\n\nYour rights and interests are at stake. When you need assistance with the enforcement of an order or are seeking to obtain or defend against a modification, we can protect your rights.\n\nYou may be seeking a modification to an original child custody order. The court is willing to grant a modification when there is a change in circumstances that makes the original order unfeasible or impractical. For more information about modifications, please contact us for a consultation.\n\n## ENFORCEMENT OF BROKEN AGREEMENTS OR ORDERS\n\nAfter an original order is finalized, some parties are faced with the additional burden of seeing that the order is enforced. Our family law lawyers are committed to protecting our clients’ rights and interests long after an order is finalized. We represent clients in the ongoing issues related to children and are there for you as your life changes. Contact us for more information about modifications or support.\n\nContact Blumberg & Associates\_for a consultation with an experienced Phoenix, Arizona, family law attorney.\n"
+    text: "A corporate entity is a shield that can be used for legal and illegal purposes. If you have been charged with corporate fraud, the government will allege that you used a corporate entity as a shield to conceal illegal activities and protect yourself from liability. It is the job of your defense lawyer to make sure that the government, which is not a benign organization, does not trample on your rights.\n\nAt the law firm of Blumberg & Associates, our\_**Phoenix corporate fraud attorneys**\_have represented everyone from small limited liability corporations to large enterprises involving multiple corporate shells. Examples of criminal activities the government may allege against corporate officers include:\n\n*   Misuse of corporate credit\n\n*   Money laundering through a corporate entity such as an LLC, S-corporation, C-corporation or other business organization\n\n*   Engaging in fraud through a corporate entity\n\n*   Making illegal financial disclosures or misrepresentations\n\n*   Obtaining fraudulent loans or financing\n\n*   Embezzlement\n\nAs with other criminal charges, being charged with corporate fraud does not mean that you are guilty. One defense in these cases is to assert that you used the corporate shield legally under Arizona state law. Prosecutors must prove that you knew or should have known that the activity was fraudulent.\n\n## FREE ATTORNEY CONSULTATION\n\nIf you are under investigation for or have been charged with corporate fraud, please contact a Phoenix lawyer at Blumberg & Associates as soon as possible. The sooner you contact one of our lawyers, the more we can do to protect your rights and your future. In many cases, we have successfully persuaded prosecutors not to charge our clients or to file reduced charges.\n"
     styles:
       self:
         height: auto

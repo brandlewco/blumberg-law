@@ -1,23 +1,24 @@
 ---
 layout: PageLayout
-metaTitle: Phoenix Modifications & Enforcements Attorney
+metaTitle: Phoenix Embezzlement Attorney
 metaDescription: >-
-  For more information about modifications, please contact our Phoenix
-  modifications & enforcements attorney for a consultation.
+  If you are under investigation for or have been charged with embezzlement in
+  Arizona, contact the Phoenix embezzlement attorneys at Blumberg & Associates.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Modifications & Enforcements
+title: Embezzlement
 hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: |
-      Phoenix Modifications & Enforcements Attorney
+    title: |+
+      Phoenix Embezzlement Attorney
+
     actions:
       - type: Button
         label: |
-          Modifications & Enforcements Representation
+          Embezzlement Representation
         url: /contact-us
         style: primary
         iconPosition: right
@@ -57,7 +58,7 @@ sections:
   - type: TextSection
     colors: colors-a
     variant: variant-a
-    text: "Even after a divorce, child custody, or parenting time dispute is finalized, there may come a time when you need additional legal support to address enforcement issues or to modify the original order. If you need assistance with enforcement or you feel that a change of circumstances warrants a modification in the original order, it is important to consult with a family law attorney who can protect your rights. At Blumberg & Associates, our\_**Phoenix modifications and enforcements attorneys**\_have extensive experience in representing clients seeking a modification. We can also represent clients who want to challenge or defend against a modification to an original order.\n\nYour rights and interests are at stake. When you need assistance with the enforcement of an order or are seeking to obtain or defend against a modification, we can protect your rights.\n\nYou may be seeking a modification to an original child custody order. The court is willing to grant a modification when there is a change in circumstances that makes the original order unfeasible or impractical. For more information about modifications, please contact us for a consultation.\n\n## ENFORCEMENT OF BROKEN AGREEMENTS OR ORDERS\n\nAfter an original order is finalized, some parties are faced with the additional burden of seeing that the order is enforced. Our family law lawyers are committed to protecting our clients’ rights and interests long after an order is finalized. We represent clients in the ongoing issues related to children and are there for you as your life changes. Contact us for more information about modifications or support.\n\nContact Blumberg & Associates\_for a consultation with an experienced Phoenix, Arizona, family law attorney.\n"
+    text: "Embezzlement charges can range from misusing corporate credit cards and forging checks to committing employee theft and making fraudulent payments to vendors. If you are under investigation for or have been charged with embezzlement in Arizona, contact the\_**Phoenix embezzlement attorneys**\_at Blumberg & Associates for a free initial consultation to discuss your case.\n\nEmbezzlement charges often involve accounting practices. Our firm defended a woman who was charged with four counts of forging checks for a total of $40,000 in cash over two or three years. According to our client, she was authorized by her boss to write the checks and gave him the cash. Our defense attorneys attacked the state’s charges by presenting our client as an honest employee who was engaging in work she was thought was legitimate and by questioning the credibility of her boss, who had a track record for untruthfulness. Our client was found not guilty of all charges except one “lesser-included” count of theft, which we are currently appealing. In a similar case, our firm was able to get the charges against another bookkeeper dismissed.\n\nEmbezzlement charges can allege activities over a long period of time, resulting in a large amount of money being involved. Since the penalties in an embezzlement case are linked to the amount of money taken, the potential penalties can be disastrous. In Maricopa County, you face at least one year flat in county jail. For repetitive crimes and for two or more two charges on the same occasion, the Arizona legislature has instituted mandatory sentencing with mandatory prison time.\n\n## FREE ATTORNEY CONSULTATION\n\nYou may find out you are under investigation for employee theft or embezzlement long before you are charged. The sooner you contact a Phoenix defense attorney Blumberg & Associates, the more we can do to protect your rights and your future.\n"
     styles:
       self:
         height: auto

@@ -1,23 +1,25 @@
 ---
 layout: PageLayout
-metaTitle: Phoenix Modifications & Enforcements Attorney
+metaTitle: Phoenix Child Pornography Attorney
 metaDescription: >-
-  For more information about modifications, please contact our Phoenix
-  modifications & enforcements attorney for a consultation.
+  If you are under investigation for or have been charged with possession or
+  distribution of child pornography, contact our Phoenix child pornography
+  attorneys.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Modifications & Enforcements
+title: Date & Spousal Rape
 hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: |
-      Phoenix Modifications & Enforcements Attorney
+    title: |+
+      Phoenix Date & Spousal Rape Attorney
+
     actions:
       - type: Button
         label: |
-          Modifications & Enforcements Representation
+          Date & Spousal Rape Representation
         url: /contact-us
         style: primary
         iconPosition: right
@@ -57,7 +59,7 @@ sections:
   - type: TextSection
     colors: colors-a
     variant: variant-a
-    text: "Even after a divorce, child custody, or parenting time dispute is finalized, there may come a time when you need additional legal support to address enforcement issues or to modify the original order. If you need assistance with enforcement or you feel that a change of circumstances warrants a modification in the original order, it is important to consult with a family law attorney who can protect your rights. At Blumberg & Associates, our\_**Phoenix modifications and enforcements attorneys**\_have extensive experience in representing clients seeking a modification. We can also represent clients who want to challenge or defend against a modification to an original order.\n\nYour rights and interests are at stake. When you need assistance with the enforcement of an order or are seeking to obtain or defend against a modification, we can protect your rights.\n\nYou may be seeking a modification to an original child custody order. The court is willing to grant a modification when there is a change in circumstances that makes the original order unfeasible or impractical. For more information about modifications, please contact us for a consultation.\n\n## ENFORCEMENT OF BROKEN AGREEMENTS OR ORDERS\n\nAfter an original order is finalized, some parties are faced with the additional burden of seeing that the order is enforced. Our family law lawyers are committed to protecting our clients’ rights and interests long after an order is finalized. We represent clients in the ongoing issues related to children and are there for you as your life changes. Contact us for more information about modifications or support.\n\nContact Blumberg & Associates\_for a consultation with an experienced Phoenix, Arizona, family law attorney.\n"
+    text: "Sexual assault cases are difficult cases both for the prosecution and the defense. Often, the credibility of the two parties is the deciding factor. This may also occur in a case where the accused claims the sexual contact was “consensual.” If you are under investigation for or have been charged with date rape, spousal rape, statutory rape or any other type of rape, our lawyers offer a free initial consultation to evaluate your case.\n\nRape is a serious charge, subject to a prison sentence of 5 to 14 years with no opportunity for early release or parole. If a date rape drug (Rohypnol or GHB) is used, the penalty is increased by three years. While spousal rape used to be a lesser crime in Arizona, today it is treated the same as any other form of rape. All rape charges are registration offenses under Arizona’s sex offender registration law.\n\nIf you have been charged with rape, it is important for you not to say anything to investigators before you have talked to a lawyer and prepared a defense. It is vital for your lawyer to understand the rules of evidence in rape cases. Rape cases have special rules called “rape shield laws,” which are designed to protect the accuser. It is important that you hire an experienced attorney who understands how to, when possible, enter into evidence the accuser’s past sexual conduct. This evidence can only be entered through a “Pope Motion” and “Pope Hearing.” At the “Pope hearing” the judge will determine what relevance, if any, the accuser’s past sexual experience has to the case at bar, and then will determine to what extent this evidence is admissible at trial. It is of the utmost importance that you hire an experienced\_**Phoenix date and spousal rape attorney**\_who understands the intricacies of the rape laws.\n\n## DEFENSES IN RAPE CASES\n\nThere are two main defenses in a rape case:\n\n*   The sexual assault did not happen\n\n*   The sex was consensual\n\nConsent to sexual conduct with a minor over 14, but under 18, or statutory rape is only a defense if the accused did not know the age of the victim or could not reasonably known. Consent is not a defense in cases of statutory rape where the alleged victim was impaired by drugs or alcohol.\n\nA common misperception in rape cases is that the sexual history of a victim is admissible in evidence. However, unless that sexual history is relevant, such as a dating history with the defendant, it would be inadmissible.\n\n## FREE ATTORNEY CONSULTATION\n\nIf you are under investigation for or have been charged with date rape, spousal rape or any other rape charge, please contact a lawyer at Blumberg & Associates in Phoenix as soon as possible. The sooner you contact a defense attorney, the more your attorney can do to protect your rights and your future.\n"
     styles:
       self:
         height: auto

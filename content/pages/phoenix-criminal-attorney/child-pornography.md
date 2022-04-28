@@ -14,12 +14,12 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |
-      Child Pornography
+      Phoenix Child Pornography Attorney
     actions:
       - type: Button
         label: |
-          Child Pornography Criminal Representation
-        url: 'https://www.stackbit.com/'
+          Child Pornography Representation
+        url: /contact-us
         style: primary
         iconPosition: right
         icon: arrowRight
@@ -58,9 +58,6 @@ sections:
   - type: TextSection
     colors: colors-a
     variant: variant-a
-    title: |+
-      Phoenix Child Pornography Attorney
-
     text: "In Arizona, the possession or distribution of child porn is called sexual exploitation of a minor. It is a serious charge, subject to a prison sentence of 10 to 24 years for each image knowingly possessed. If you are under investigation for or have been charged with possession or distribution of child pornography, our\_**Phoenix child pornography attorneys**\_offer a free initial consultation to evaluate your case.\n\nIn Arizona, a person can be charged with sexual exploitation of a minor for:\n\n*   Recording, filming, photographing, developing or duplicating any visual depiction in which a minor (under 18 years of age) is engaged in exploitive exhibition or other sexual conduct\n\n*   Distributing, transporting, exhibiting, receiving, selling, purchasing, electronically transmitting, possessing or exchanging such images\n\nThe federal government has made the prosecution of child pornography cases a priority under the “Protect Act”, which means you could be charged in state or federal court. Both state and federal prosecutors consider the prosecution of child pornography a priority and are not looking to make these charges probation eligible matters.\n\nPossession of child pornography is a registration offense under Arizona’s sex offender registration law. Possession of child pornography can also lead to the loss of your parental rights under a civil action by Arizona Child Protective Services.\n\n## DEFENSES IN A CHILD PORNOGRAPHY CASE\n\nDefenses in a child pornography case include:\n\n*   Police did not have a valid warrant for seizing computer evidence.\n\n*   Other people had access to your computer.\n\n*   The images were in your temporary cache or unallocated space. Accidental viewing of child pornography is not a crime if you did not do anything with the images, such as saving or distributing them.\n\n*   The images are not real children. Possession of virtual child pornography is not a crime.\n\n## FREE ATTORNEY CONSULTATION\n\nIf you are under investigation for or have been charged with knowingly viewing, possessing or manufacturing child pornography in Arizona, please contact a lawyer at Blumberg & Associates in Phoenix as soon as possible. The sooner you contact a defense attorney, the more your attorney can do to protect your rights and your future.\n"
     styles:
       self:

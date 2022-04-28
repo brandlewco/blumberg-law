@@ -1,23 +1,25 @@
 ---
 layout: PageLayout
-metaTitle: Phoenix Modifications & Enforcements Attorney
+metaTitle: Phoenix Dangerous Offenses Attorney
 metaDescription: >-
-  For more information about modifications, please contact our Phoenix
-  modifications & enforcements attorney for a consultation.
+  Our Phoenix criminal attorneys routinely handle a wide variety of violent
+  crime cases involving aggravated assault, armed robbery, kidnapping, and bank
+  robbery.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Modifications & Enforcements
+title: Dangerous Offenses
 hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: |
-      Phoenix Modifications & Enforcements Attorney
+    title: |+
+      Phoenix Dangerous Offenses Attorney
+
     actions:
       - type: Button
         label: |
-          Modifications & Enforcements Representation
+          Dangerous Offenses Representation
         url: /contact-us
         style: primary
         iconPosition: right
@@ -57,7 +59,7 @@ sections:
   - type: TextSection
     colors: colors-a
     variant: variant-a
-    text: "Even after a divorce, child custody, or parenting time dispute is finalized, there may come a time when you need additional legal support to address enforcement issues or to modify the original order. If you need assistance with enforcement or you feel that a change of circumstances warrants a modification in the original order, it is important to consult with a family law attorney who can protect your rights. At Blumberg & Associates, our\_**Phoenix modifications and enforcements attorneys**\_have extensive experience in representing clients seeking a modification. We can also represent clients who want to challenge or defend against a modification to an original order.\n\nYour rights and interests are at stake. When you need assistance with the enforcement of an order or are seeking to obtain or defend against a modification, we can protect your rights.\n\nYou may be seeking a modification to an original child custody order. The court is willing to grant a modification when there is a change in circumstances that makes the original order unfeasible or impractical. For more information about modifications, please contact us for a consultation.\n\n## ENFORCEMENT OF BROKEN AGREEMENTS OR ORDERS\n\nAfter an original order is finalized, some parties are faced with the additional burden of seeing that the order is enforced. Our family law lawyers are committed to protecting our clients’ rights and interests long after an order is finalized. We represent clients in the ongoing issues related to children and are there for you as your life changes. Contact us for more information about modifications or support.\n\nContact Blumberg & Associates\_for a consultation with an experienced Phoenix, Arizona, family law attorney.\n"
+    text: "Blumberg & Associates is one of the leading criminal defense law firms in the state of Arizona. Our\_**Phoenix criminal defense attorneys**\_routinely handle a wide variety of violent crime cases involving aggravated assault, armed robbery, kidnapping, and bank robbery.\n\n## ARIZONA VIOLENT CRIME ATTORNEYS\n\nA wide array of crimes are considered violent crimes. Blumberg & Associates is an Arizona criminal defense law firm committed to defending people charged with violent crimes such as assault, sexual assault, armed robbery, kidnapping, car jacking, drive-by shooting, attempted murder, and burglary. These crimes are elevated to dangerous offenses when a deadly weapon or a dangerous instrument is shown or used while the crime is being committed.\n\n## ARIZONA DANGEROUS OFFENSE ATTORNEYS\n\nIn Arizona, most violent crimes can be elevated to a dangerous offense if the person charged showed a weapon or a dangerous instrument while the crime was being committed. The weapon does not have to be used, perhaps only exhibited or displayed in the assault, robbery, or kidnapping for dangerous offense charges to be filed.\n\nDangerous criminal offenses carry mandatory prison sentences of five to fifteen years for first time offenders. At Blumberg & Associates, we work to reduce charges in dangerous criminal offense cases so that our clients are probation eligible. While we negotiate to lessen the charges, our attorneys are skilled trial lawyers.\n\n## CONTACT OUR PHOENIX DANGEROUS OFFENSES ATTORNEYS\n\nOur Arizona dangerous offense attorneys regularly represent clients throughout the state of Arizona, including Maricopa County, Yavapai County, Coconino County, Pinal County, and the cities of Phoenix, Mesa, Glendale, Tempe, Peoria, Scottsdale, Prescott, Tucson, and Flagstaff. If you have been charged with a dangerous offense and need an attorney to represent you, please contact Blumberg & Associates. When your future is on the line, you need an Arizona law firm where skill and experience are more than just a slogan.\n"
     styles:
       self:
         height: auto

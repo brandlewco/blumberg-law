@@ -1,23 +1,23 @@
 ---
 layout: PageLayout
-metaTitle: Phoenix Modifications & Enforcements Attorney
+metaTitle: Phoenix Sexual Assault Attorney
 metaDescription: >-
-  For more information about modifications, please contact our Phoenix
-  modifications & enforcements attorney for a consultation.
+  Our Phoenix sexual assault attorneys have significant experience representing
+  people charged with rape in the state of Arizona.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Modifications & Enforcements
+title: Sexual Assault
 hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
     title: |
-      Phoenix Modifications & Enforcements Attorney
+      Phoenix Sexual Assault Attorney
     actions:
       - type: Button
         label: |
-          Modifications & Enforcements Representation
+          Sexual Assault Representation
         url: /contact-us
         style: primary
         iconPosition: right
@@ -57,7 +57,7 @@ sections:
   - type: TextSection
     colors: colors-a
     variant: variant-a
-    text: "Even after a divorce, child custody, or parenting time dispute is finalized, there may come a time when you need additional legal support to address enforcement issues or to modify the original order. If you need assistance with enforcement or you feel that a change of circumstances warrants a modification in the original order, it is important to consult with a family law attorney who can protect your rights. At Blumberg & Associates, our\_**Phoenix modifications and enforcements attorneys**\_have extensive experience in representing clients seeking a modification. We can also represent clients who want to challenge or defend against a modification to an original order.\n\nYour rights and interests are at stake. When you need assistance with the enforcement of an order or are seeking to obtain or defend against a modification, we can protect your rights.\n\nYou may be seeking a modification to an original child custody order. The court is willing to grant a modification when there is a change in circumstances that makes the original order unfeasible or impractical. For more information about modifications, please contact us for a consultation.\n\n## ENFORCEMENT OF BROKEN AGREEMENTS OR ORDERS\n\nAfter an original order is finalized, some parties are faced with the additional burden of seeing that the order is enforced. Our family law lawyers are committed to protecting our clients’ rights and interests long after an order is finalized. We represent clients in the ongoing issues related to children and are there for you as your life changes. Contact us for more information about modifications or support.\n\nContact Blumberg & Associates\_for a consultation with an experienced Phoenix, Arizona, family law attorney.\n"
+    text: "Blumberg & Associates is an experienced Arizona criminal defense law firm. Our\_**Phoenix sexual assault attorneys**\_have significant experience representing people charged with rape in the state of Arizona. We represent clients from Maricopa County, Yavapai County, Coconino County, and Pinal County, as well as the cities of Phoenix, Mesa, Peoria, Tempe, Scottsdale, Prescott, Tucson, and Flagstaff.\n\n## EXPERIENCED SEXUAL ASSAULT REPRESENTATION\n\nSexual assault cases are difficult for both the defense and the prosecution. Often these cases come down to a “he said, she said” situation where the credibility of the two parties is the final determinant. A common misperception in rape cases is that the sexual history of a victim is admissible in evidence. Unless it is somehow relevant to the case, it is not. An example of relevant sexual history would be the victim’s sexual history involving the defendant. Whereas the victim’s sexual relationships with other people would not ordinarily be relevant.\n\nOur Arizona sexual assault lawyers have significant experience handling and winning cases involving claims of non-consensual sex. We have handled cases related to rape, date rape, Rohypnol or GHB, sexual conduct with a minor (under 18 but over 14 years of age), and cases where claims of intoxication or drugs made a person mentally or physically incapable of consenting to sex. Sentences for individuals convicted of sexual assault range from probation to prison terms that can exceed fourteen years.\n\n## SEXUAL ASSAULT SENTENCING\n\nSex crimes that do not involve children can be charged as either misdemeanor or felony offenses depending on the charge. However, Arizona’s mandatory sentencing laws require that anyone convicted of a felony sexual assault receive a five to fourteen year prison sentence for a first offense. Whether you are convicted of a sex crime requiring prison or allowing for probation, the state of Arizona requires lifetime probation and registration as a sex offender along with full sex offender terms, including a sex offender treatment program.\n\nFor more information about sex offenses and some recent case, please visit our Sex Offenses Practice Center and Recent Results page\n\n## CONTACT OUR SEXUAL ASSAULT DEFENSE ATTORNEYS\n\nIf you have been charged with sexual assault or rape, please contact Blumberg & Associates. When your future is on the line, you need an Arizona sexual offense law firm where skill and experience are more than just a slogan.\n"
     styles:
       self:
         height: auto

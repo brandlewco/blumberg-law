@@ -1,23 +1,24 @@
 ---
 layout: PageLayout
-metaTitle: Phoenix Modifications & Enforcements Attorney
+metaTitle: Phoenix Sex Offender Registration Attorney
 metaDescription: >-
-  For more information about modifications, please contact our Phoenix
-  modifications & enforcements attorney for a consultation.
+  Our Phoenix sex crime attorneys will handle all post judgment issues related
+  to your sex crime case, including sex offender registration.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Modifications & Enforcements
+title: Sex Offender Registration
 hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: |
-      Phoenix Modifications & Enforcements Attorney
+    title: |+
+      Phoenix Sex Offender Registration Attorney
+
     actions:
       - type: Button
         label: |
-          Modifications & Enforcements Representation
+          Sex Offender Representation
         url: /contact-us
         style: primary
         iconPosition: right
@@ -57,7 +58,7 @@ sections:
   - type: TextSection
     colors: colors-a
     variant: variant-a
-    text: "Even after a divorce, child custody, or parenting time dispute is finalized, there may come a time when you need additional legal support to address enforcement issues or to modify the original order. If you need assistance with enforcement or you feel that a change of circumstances warrants a modification in the original order, it is important to consult with a family law attorney who can protect your rights. At Blumberg & Associates, our\_**Phoenix modifications and enforcements attorneys**\_have extensive experience in representing clients seeking a modification. We can also represent clients who want to challenge or defend against a modification to an original order.\n\nYour rights and interests are at stake. When you need assistance with the enforcement of an order or are seeking to obtain or defend against a modification, we can protect your rights.\n\nYou may be seeking a modification to an original child custody order. The court is willing to grant a modification when there is a change in circumstances that makes the original order unfeasible or impractical. For more information about modifications, please contact us for a consultation.\n\n## ENFORCEMENT OF BROKEN AGREEMENTS OR ORDERS\n\nAfter an original order is finalized, some parties are faced with the additional burden of seeing that the order is enforced. Our family law lawyers are committed to protecting our clients’ rights and interests long after an order is finalized. We represent clients in the ongoing issues related to children and are there for you as your life changes. Contact us for more information about modifications or support.\n\nContact Blumberg & Associates\_for a consultation with an experienced Phoenix, Arizona, family law attorney.\n"
+    text: "Even if you are offered probation for a sex offense in Arizona, you could still end up being forced to register as a sex offender for the rest of your life. At the law firm of Blumberg & Associates, our\_**Phoenix sex offender registration attorneys**\_offer a free initial consultation to explain how sex offender registration works and how it would apply to your case.\n\nIf you have been charged with a sex crime, you should never attempt to resolve your case without considering the ramifications of sex offender registration. Arizona requires all adult sex offenders to register with the Arizona Department of Public Safety (DPS) and local law enforcement agencies following the resolution of their criminal cases. Many people who plead guilty to sex crimes and receive relatively mild punishments are blindsided by Arizona’s requirement for lifetime sex offender registration and treatment. Failure to register is a crime subject to imprisonment.\n\nThere are three levels of sex offender registration in Arizona, based on risk levels to people in the community. Information about people on the registry is easily searchable by name, location and type of offense on a Web site maintained by the Arizona DPS. If you are forced to register, you will be tagged as a sex offender for the rest of your life. Every time you move, you will have to notify local police who, in turn, will notify your neighbors about you and the sex crime you committed.\n\nThe lawyers at Blumberg & Associates will handle all post judgment issues related to your sex crime case, including sex offender registration. Our goal will be to resolve your case in such a way that you will not be forced to register as a sex offender.\n\n## FREE ATTORNEY CONSULTATION\n\nIf you are concerned about the implication of sex offender registration in Arizona, please contact a lawyer at Blumberg & Associates in Phoenix as soon as possible. The sooner you contact a defense attorney, the more your attorney can do to protect your rights and your future.\n\n18 U.S.C. § 2250 Failure to Register\n"
     styles:
       self:
         height: auto

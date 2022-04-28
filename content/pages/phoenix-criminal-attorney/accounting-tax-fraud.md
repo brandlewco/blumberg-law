@@ -1,23 +1,25 @@
 ---
 layout: PageLayout
-metaTitle: Phoenix Modifications & Enforcements Attorney
+metaTitle: Phoenix Accounting & Tax Fraud Attorney
 metaDescription: >-
-  For more information about modifications, please contact our Phoenix
-  modifications & enforcements attorney for a consultation.
+  content="Our Phoenix accounting and tax fraud defense attorneys frequently
+  negotiate with state and federal authorities throughout Arizona, contact us
+  today.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Modifications & Enforcements
+title: Accounting & Tax Fraud
 hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: |
-      Phoenix Modifications & Enforcements Attorney
+    title: |+
+      Phoenix Accounting & Tax Fraud Attorney
+
     actions:
       - type: Button
         label: |
-          Modifications & Enforcements Representation
+          Accounting & Tax Fraud Representation
         url: /contact-us
         style: primary
         iconPosition: right
@@ -57,7 +59,7 @@ sections:
   - type: TextSection
     colors: colors-a
     variant: variant-a
-    text: "Even after a divorce, child custody, or parenting time dispute is finalized, there may come a time when you need additional legal support to address enforcement issues or to modify the original order. If you need assistance with enforcement or you feel that a change of circumstances warrants a modification in the original order, it is important to consult with a family law attorney who can protect your rights. At Blumberg & Associates, our\_**Phoenix modifications and enforcements attorneys**\_have extensive experience in representing clients seeking a modification. We can also represent clients who want to challenge or defend against a modification to an original order.\n\nYour rights and interests are at stake. When you need assistance with the enforcement of an order or are seeking to obtain or defend against a modification, we can protect your rights.\n\nYou may be seeking a modification to an original child custody order. The court is willing to grant a modification when there is a change in circumstances that makes the original order unfeasible or impractical. For more information about modifications, please contact us for a consultation.\n\n## ENFORCEMENT OF BROKEN AGREEMENTS OR ORDERS\n\nAfter an original order is finalized, some parties are faced with the additional burden of seeing that the order is enforced. Our family law lawyers are committed to protecting our clients’ rights and interests long after an order is finalized. We represent clients in the ongoing issues related to children and are there for you as your life changes. Contact us for more information about modifications or support.\n\nContact Blumberg & Associates\_for a consultation with an experienced Phoenix, Arizona, family law attorney.\n"
+    text: "Accounting and tax fraud cases can go from small to large. At the law firm of Blumberg & Associates in Phoenix, Arizona, we have represented everyone from bookkeepers who faced charges of theft, embezzlement and forgery to a telemarketer whose case involved multiple charges and millions of pages of documents in evidence.\n\nThe charges in accounting fraud cases can vary widely, depending on whether you are charged in Arizona state court or in federal court. Small cases are often charged as theft in state court. Larger cases are often charged in federal court and may include additional charges such as money laundering, mail or wire fraud, or even racketeering. Tax fraud (also known as tax evasion) can be charged in either state or federal court, depending on whether the fraud involved the Internal Revenue Service or Arizona tax authorities.\n\nThe penalties in accounting and tax fraud cases are potentially disastrous. In Maricopa County, you face up to a year in county jail even on a charge. For repetitive crimes and for two or more two charges on the same occasion, the Arizona legislature has instituted mandatory sentencing with mandatory prison time. Anyone facing federal fraud charges faces the daunting prospect of federal sentencing guidelines and mandatory minimum sentences. Any\_\\*Phoenix criminal conviction\_\\*will result in a lifelong criminal record and make it much harder for you to find a job.\n\nYour character and past contributions to the community can be a valuable tool to challenge the state’s evidence regarding your intent to commit a crime in a white collar case. At the same time, if you have events in your background that would hurt your case, such as unindicted acts, it is important for your lawyer to keep that evidence out of court.\_**Phoenix accounting and tax fraud attorney**\_Bruce Blumberg has a thorough knowledge of Arizona and federal evidentiary law, including how character evidence can be used by you in your defense and against you by the prosecution.\n\n## FREE ATTORNEY CONSULTATION\n\nIf you are under investigation for or have been charged with accounting or tax fraud, please contact a lawyer at Blumberg & Associates as soon as possible. The sooner you contact a defense attorney, the more your attorney can do to protect your rights and your future.\nOur accounting and tax fraud defense lawyers frequently negotiate with state and federal authorities throughout Arizona, including the Federal Bureau of Investigation (FBI) and the IRS. In many cases, we have successfully persuaded prosecutors not to charge our clients or to file reduced charges.\n"
     styles:
       self:
         height: auto

@@ -1,23 +1,24 @@
 ---
 layout: PageLayout
-metaTitle: Phoenix Modifications & Enforcements Attorney
+metaTitle: Phoenix Health Care Fraud Attorney
 metaDescription: >-
-  For more information about modifications, please contact our Phoenix
-  modifications & enforcements attorney for a consultation.
+  Our Phoenix health care fraud attorneys were successful in dismissing
+  additional counts and negotiating a favorable plea bargains.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Modifications & Enforcements
+title: Health Care Fraud
 hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: |
-      Phoenix Modifications & Enforcements Attorney
+    title: |+
+      Phoenix Health Care Fraud Attorney
+
     actions:
       - type: Button
         label: |
-          Modifications & Enforcements Representation
+          Health Care Fraud Representation
         url: /contact-us
         style: primary
         iconPosition: right
@@ -57,7 +58,10 @@ sections:
   - type: TextSection
     colors: colors-a
     variant: variant-a
-    text: "Even after a divorce, child custody, or parenting time dispute is finalized, there may come a time when you need additional legal support to address enforcement issues or to modify the original order. If you need assistance with enforcement or you feel that a change of circumstances warrants a modification in the original order, it is important to consult with a family law attorney who can protect your rights. At Blumberg & Associates, our\_**Phoenix modifications and enforcements attorneys**\_have extensive experience in representing clients seeking a modification. We can also represent clients who want to challenge or defend against a modification to an original order.\n\nYour rights and interests are at stake. When you need assistance with the enforcement of an order or are seeking to obtain or defend against a modification, we can protect your rights.\n\nYou may be seeking a modification to an original child custody order. The court is willing to grant a modification when there is a change in circumstances that makes the original order unfeasible or impractical. For more information about modifications, please contact us for a consultation.\n\n## ENFORCEMENT OF BROKEN AGREEMENTS OR ORDERS\n\nAfter an original order is finalized, some parties are faced with the additional burden of seeing that the order is enforced. Our family law lawyers are committed to protecting our clients’ rights and interests long after an order is finalized. We represent clients in the ongoing issues related to children and are there for you as your life changes. Contact us for more information about modifications or support.\n\nContact Blumberg & Associates\_for a consultation with an experienced Phoenix, Arizona, family law attorney.\n"
+    title: |+
+      Phoenix Child Pornography Attorney
+
+    text: "The people most commonly charged with Medicare or Medicaid fraud are doctors, nurses, medical assistants and business managers of clinics, hospitals, assisted living facilities and nursing homes. Since the penalties in a fraud case are linked to the amount of money allegedly taken, the potential penalties can be very serious when our health care system is involved. If you are under investigation for or have been charged with health care fraud in Arizona, call the\_**Phoenix healthcare fraud attorneys**\_at Blumberg & Associates for a free initial consultation to discuss your case.\n\nIn Arizona, health care fraud charges typically allege that you have submitted fraudulent bills to insurance companies, Medicare or AHCCCS. However, simply being charged with health care fraud does not mean that you are guilty. Prosecutors must prove that you knew or should have known that the billing activity was fraudulent. If the state has strong evidence against you, our lawyers will shift the focus of your defense to minimizing the penalties. A good criminal defense lawyer will always minimize your exposure to harsh charges and sentences.\n\nOur firm defended a nurse and two doctors who along with had formed a corporation to bill the government for health services that were alleged not to have existed. As with many white collar crime cases, our clients faced mandatory sentences that would have resulted in lengthy prison sentences. However, our lawyers were successful in dismissing additional counts and negotiating a favorable plea bargains.\n\n## FREE ATTORNEY CONSULTATION\n\nYou may find out you are under investigation for health care fraud long before you are charged. The sooner you contact a Phoenix healthcare fraud attorney at Blumberg & Associates\_, the more we can do to protect your rights and your future. In many cases, we have successfully persuaded prosecutors not to charge our clients or to file reduced charges.\n"
     styles:
       self:
         height: auto

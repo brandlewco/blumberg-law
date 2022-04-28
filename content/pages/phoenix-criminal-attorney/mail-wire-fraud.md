@@ -1,23 +1,23 @@
 ---
 layout: PageLayout
-metaTitle: Phoenix Modifications & Enforcements Attorney
+metaTitle: Phoenix Mail & Wire Fraud Attorney
 metaDescription: >-
-  For more information about modifications, please contact our Phoenix
-  modifications & enforcements attorney for a consultation.
+  If you are under investigation for or have been charged with mail or wire
+  fraud in Arizona, contact our Phoenix mail & wire fraud attorneys.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Modifications & Enforcements
+title: Mail Wire Fraud
 hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
     title: |
-      Phoenix Modifications & Enforcements Attorney
+      Phoenix Mail & Wire Fraud Attorney
     actions:
       - type: Button
         label: |
-          Modifications & Enforcements Representation
+          Mail & Wire Fraud Representation
         url: /contact-us
         style: primary
         iconPosition: right
@@ -57,7 +57,7 @@ sections:
   - type: TextSection
     colors: colors-a
     variant: variant-a
-    text: "Even after a divorce, child custody, or parenting time dispute is finalized, there may come a time when you need additional legal support to address enforcement issues or to modify the original order. If you need assistance with enforcement or you feel that a change of circumstances warrants a modification in the original order, it is important to consult with a family law attorney who can protect your rights. At Blumberg & Associates, our\_**Phoenix modifications and enforcements attorneys**\_have extensive experience in representing clients seeking a modification. We can also represent clients who want to challenge or defend against a modification to an original order.\n\nYour rights and interests are at stake. When you need assistance with the enforcement of an order or are seeking to obtain or defend against a modification, we can protect your rights.\n\nYou may be seeking a modification to an original child custody order. The court is willing to grant a modification when there is a change in circumstances that makes the original order unfeasible or impractical. For more information about modifications, please contact us for a consultation.\n\n## ENFORCEMENT OF BROKEN AGREEMENTS OR ORDERS\n\nAfter an original order is finalized, some parties are faced with the additional burden of seeing that the order is enforced. Our family law lawyers are committed to protecting our clients’ rights and interests long after an order is finalized. We represent clients in the ongoing issues related to children and are there for you as your life changes. Contact us for more information about modifications or support.\n\nContact Blumberg & Associates\_for a consultation with an experienced Phoenix, Arizona, family law attorney.\n"
+    text: "Like money laundering, wire fraud and mail fraud are catch-all criminal charges that usually accompany other charges such as drug trafficking or theft. The basic allegation is that you used the U.S. mail, a telephone, a facsimile or another electronic transmission device in the commission of a crime. The charges need to be taken very seriously.\n\nIf you are under investigation for or have been charged with mail or wire fraud in Arizona, contact the\_**Phoenix mail and wire fraud attorneys**\_at Blumberg & Associates for a free initial consultation to discuss your case.\n\nThis charge is often applied to drug dealers who send controlled substances such as cocaine and marijuana through the mail. Federal postal inspectors are sworn officers who can obtain a search warrant to open a suspicious package, inspect the contents, repackage the contents and deliver the package. Even people who are marginally involved in the criminal activity can be charged with wire or mail fraud if they pick up packages on behalf of another person.\n\nTelemarketers and investors can be charged with wire or mail fraud if their marketing practices are alleged to be fraudulent. Mail and wire fraud can refer to any activity that illegally attempts to gain money using the mail, telephone or wire transmission.\n\n## FREE ATTORNEY CONSULTATION\n\nYou may find out you are under investigation for wire or mail fraud long before you are charged. The sooner you contact\_our\_Phoenix mail and wire fraud attorneys at Blumberg & Associates, the more we can do to protect your rights. Our defense lawyers frequently negotiate with the state and federal authorities throughout Arizona, including the Federal Bureau of Investigation (FBI) and the U.S. Postal Service. In many cases, we have successfully persuaded prosecutors not to charge our clients or to file reduced charges.\n"
     styles:
       self:
         height: auto

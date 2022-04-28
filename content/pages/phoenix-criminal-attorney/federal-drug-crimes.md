@@ -1,23 +1,23 @@
 ---
 layout: PageLayout
-metaTitle: Phoenix Modifications & Enforcements Attorney
+metaTitle: Phoenix Federal Drug Crime Attorney
 metaDescription: >-
-  For more information about modifications, please contact our Phoenix
-  modifications & enforcements attorney for a consultation.
+  Contact an aggressive Phoenix federal drug charge attorney with hundreds of
+  not guilty verdicts for drug trafficking, drug possession and drug dealing.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Modifications & Enforcements
+title: Federal Drug Crimes
 hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
     title: |
-      Phoenix Modifications & Enforcements Attorney
+      Phoenix Federal Drug Crime Attorney
     actions:
       - type: Button
         label: |
-          Modifications & Enforcements Representation
+          Federal Drug Crime Representation
         url: /contact-us
         style: primary
         iconPosition: right
@@ -57,7 +57,7 @@ sections:
   - type: TextSection
     colors: colors-a
     variant: variant-a
-    text: "Even after a divorce, child custody, or parenting time dispute is finalized, there may come a time when you need additional legal support to address enforcement issues or to modify the original order. If you need assistance with enforcement or you feel that a change of circumstances warrants a modification in the original order, it is important to consult with a family law attorney who can protect your rights. At Blumberg & Associates, our\_**Phoenix modifications and enforcements attorneys**\_have extensive experience in representing clients seeking a modification. We can also represent clients who want to challenge or defend against a modification to an original order.\n\nYour rights and interests are at stake. When you need assistance with the enforcement of an order or are seeking to obtain or defend against a modification, we can protect your rights.\n\nYou may be seeking a modification to an original child custody order. The court is willing to grant a modification when there is a change in circumstances that makes the original order unfeasible or impractical. For more information about modifications, please contact us for a consultation.\n\n## ENFORCEMENT OF BROKEN AGREEMENTS OR ORDERS\n\nAfter an original order is finalized, some parties are faced with the additional burden of seeing that the order is enforced. Our family law lawyers are committed to protecting our clients’ rights and interests long after an order is finalized. We represent clients in the ongoing issues related to children and are there for you as your life changes. Contact us for more information about modifications or support.\n\nContact Blumberg & Associates\_for a consultation with an experienced Phoenix, Arizona, family law attorney.\n"
+    text: "Due to the so-called “war on drugs,” Congress has passed a number of “get tough” laws that have resulted in harsher penalties for federal drug crimes. In some instances, these laws created mandatory minimum sentences for certain kinds of drug crimes. Additionally, the federal criminal court system has its own unique set of procedures and rules that govern everything from discovery, grand jury testimony, conspiracy charges, the way investigations are conducted, and sentencing procedures. That’s why its essential to have an experienced**\_Phoenix federal drug crimes attorney**\_represent and advise you if you’ve been arrested on federal drug crime charges. At Blumberg & Associates, we’ve dedicated our practice exclusively to criminal defense work at both the state and federal level.\n\nOur attorneys are intimately familiar with the federal criminal justice system. We understand how to prepare and defend federal drug crimes cases and how to work with prosecutors during the sentencing phase of a trial. To schedule an appointment and learn how we can help you, contact the law office of Blumberg & Associates today.\n\n## FEDERAL DRUG CRIMES PENALTIES\n\nAt the federal level, sentencing for drug trafficking takes into account: the kind of drugs involved (see drug schedule in state sentencing cases), your criminal record, and whether any weapons, injuries, or deaths were involved. Prison sentences for large amounts of drugs range anywhere from 5 to 40 years, depending on the kind of drugs smuggled and whether it is your first or second offense. If a death or injury is involved, prison sentences range from 20 years to life, even if it’s your first drug trafficking offense.\n\nIn addition to prison, those convicted of drug trafficking could lose their property through criminal forfeiture and fined anywhere from $250,000 to as much as $20 million.\n\n## BLAKEY, BOOKER AND MANDATORY MINIMUM SENTENCING\n\nIn the past, certain drug crimes carried mandatory minimum sentences which left little, if any, discretion to judges when sentencing a defendant. However, after Blakey v. Washington and Booker v United States, judges are no longer required to impose mandatory minimums. Instead, mandatory minimums are now guidelines judges can take into consideration before imposing a sentence on a defendant.\n\n## THE IMPORTANCE OF A GOOD DEFENSE LAWYER\n\nDue to Blakey and Booker, judges now have discretion when it comes to federal drug crimes sentencing. An experienced attorney who understands how prosecutors and judges think can prepare and present important information that may convince the court to reduce your sentence. Our attorneys work with psychologists, counselors, medical experts, and others in explaining how our client ended up making the decisions he or she did that led to their drug activity: evidence of job loss, illness, a history of being abused, lack of opportunity, or neglect may convince the court to reduce your sentence.\n\nWe believe people deserve a second chance, and help in turning their lives around. While we cannot guarantee results, we can ensure you that we will use every opportunity and legal means available to reduce the sentence, or charges against you. To schedule a confidential consultation to discuss your case, contact federal drug crimes attorneys at Blumberg & Associates today.\n"
     styles:
       self:
         height: auto
