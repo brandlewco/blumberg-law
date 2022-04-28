@@ -2,9 +2,8 @@
 layout: PageLayout
 metaTitle: Phoenix Child Pornography Attorney
 metaDescription: >-
-  If you are under investigation for or have been charged with possession or
-  distribution of child pornography, contact our Phoenix child pornography
-  attorneys.
+  The actions of police officers and investigators can affect the outcome of a
+  trial, contact our experienced Phoenix search & seizure attorneys today.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
