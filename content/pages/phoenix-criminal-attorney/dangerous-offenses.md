@@ -2,9 +2,9 @@
 layout: PageLayout
 metaTitle: Phoenix Dangerous Offenses Attorney
 metaDescription: >-
-  If you are under investigation for or have been charged with possession or
-  distribution of child pornography, contact our Phoenix child pornography
-  attorneys.
+  Our Phoenix criminal attorneys routinely handle a wide variety of violent
+  crime cases involving aggravated assault, armed robbery, kidnapping, and bank
+  robbery.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
