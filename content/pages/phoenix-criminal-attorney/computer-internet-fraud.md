@@ -8,7 +8,7 @@ metaDescription: >-
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Crimes Against Children
+title: Computer & Internet Fraud
 hero:
   - type: HeroSection
     elementId: homepage-hero-1
@@ -19,7 +19,7 @@ hero:
       - type: Button
         label: |
           Child Pornography Criminal Representation
-        url: '/contact-us'
+        url: /contact-us
         style: primary
         iconPosition: right
         icon: arrowRight
