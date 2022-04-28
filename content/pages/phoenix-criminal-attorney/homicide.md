@@ -1,6 +1,6 @@
 ---
 layout: PageLayout
-metaTitle: Phoenix Child Pornography Attorney
+metaTitle: Phoenix Homicide Attorney
 metaDescription: >-
   Phoenix homicide defense attorney Bruce Blumberg can help put together a not
   guilty case for your homicide arrest in Arizona, especially violent murder
