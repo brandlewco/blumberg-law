@@ -1,7 +1,9 @@
 ---
 layout: PageLayout
 metaTitle: null
-metaDescription: null
+metaDescription: >-
+  If you have been charged with prostitution or sex solicitation, our Phoenix
+  prostitution attorneys offer a free initial consultation.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
