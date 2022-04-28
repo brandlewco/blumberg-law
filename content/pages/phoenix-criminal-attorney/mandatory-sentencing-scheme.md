@@ -2,9 +2,8 @@
 layout: PageLayout
 metaTitle: Phoenix Mandatory Sentencing Attorney
 metaDescription: >-
-  If you are under investigation for or have been charged with possession or
-  distribution of child pornography, contact our Phoenix child pornography
-  attorneys.
+  Phoenix criminal defense attorney exposes Arizona mandatory sentencing laws
+  used in child porn cases, dangerous crimes in Arizona and sex crimes.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
