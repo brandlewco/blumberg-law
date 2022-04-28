@@ -2,9 +2,8 @@
 layout: PageLayout
 metaTitle: Phoenix Child Pornography Attorney
 metaDescription: >-
-  If you are under investigation for or have been charged with possession or
-  distribution of child pornography, contact our Phoenix child pornography
-  attorneys.
+  Phoenix money laundering attorney, Bruce Blumberg can help defend any state or
+  federal money laundering cases if arrested in Phoenix for money laundering.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
