@@ -2,9 +2,8 @@
 layout: PageLayout
 metaTitle: Phoenix DUI Attorney
 metaDescription: >-
-  If you are under investigation for or have been charged with possession or
-  distribution of child pornography, contact our Phoenix child pornography
-  attorneys.
+  Our Phoenix DUI attorneys have successfully handled hundreds of drunk driving
+  cases, contact us today.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
