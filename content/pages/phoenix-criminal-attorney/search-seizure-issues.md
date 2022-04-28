@@ -1,6 +1,6 @@
 ---
 layout: PageLayout
-metaTitle: Phoenix Child Pornography Attorney
+metaTitle: Phoenix Search & Seizure Attorney
 metaDescription: >-
   The actions of police officers and investigators can affect the outcome of a
   trial, contact our experienced Phoenix search & seizure attorneys today.
