@@ -2,9 +2,9 @@
 layout: PageLayout
 metaTitle: Phoenix Child Molestation Attorney
 metaDescription: >-
-  If you are under investigation for or have been charged with possession or
-  distribution of child pornography, contact our Phoenix child pornography
-  attorneys.
+  If you are under investigation for or have been charged with child molestation
+  in Arizona, contact a Phoenix child molestation attorney at Blumberg &
+  Associates.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
