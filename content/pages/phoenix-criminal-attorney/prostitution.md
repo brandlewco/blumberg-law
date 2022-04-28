@@ -15,7 +15,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Get Representation for Prostitution
+          Prostitution Representation
         url: /contact-us
         style: primary
         iconPosition: right
