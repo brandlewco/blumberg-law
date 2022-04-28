@@ -57,9 +57,6 @@ sections:
   - type: TextSection
     colors: colors-a
     variant: variant-a
-    title: |+
-      Phoenix Child Pornography Attorney
-
     text: "A corporate entity is a shield that can be used for legal and illegal purposes. If you have been charged with corporate fraud, the government will allege that you used a corporate entity as a shield to conceal illegal activities and protect yourself from liability. It is the job of your defense lawyer to make sure that the government, which is not a benign organization, does not trample on your rights.\n\nAt the law firm of Blumberg & Associates, our\_**Phoenix corporate fraud attorneys**\_have represented everyone from small limited liability corporations to large enterprises involving multiple corporate shells. Examples of criminal activities the government may allege against corporate officers include:\n\n*   Misuse of corporate credit\n\n*   Money laundering through a corporate entity such as an LLC, S-corporation, C-corporation or other business organization\n\n*   Engaging in fraud through a corporate entity\n\n*   Making illegal financial disclosures or misrepresentations\n\n*   Obtaining fraudulent loans or financing\n\n*   Embezzlement\n\nAs with other criminal charges, being charged with corporate fraud does not mean that you are guilty. One defense in these cases is to assert that you used the corporate shield legally under Arizona state law. Prosecutors must prove that you knew or should have known that the activity was fraudulent.\n\n## FREE ATTORNEY CONSULTATION\n\nIf you are under investigation for or have been charged with corporate fraud, please contact a Phoenix lawyer at Blumberg & Associates as soon as possible. The sooner you contact one of our lawyers, the more we can do to protect your rights and your future. In many cases, we have successfully persuaded prosecutors not to charge our clients or to file reduced charges.\n"
     styles:
       self:
