@@ -12,8 +12,9 @@ hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: |
-      Violent Crimes
+    title: |+
+      Phoenix Violent Crimes Attorney
+
     actions:
       - type: Button
         label: |
