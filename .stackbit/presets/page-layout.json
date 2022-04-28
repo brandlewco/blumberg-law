@@ -158,7 +158,7 @@
                         "type": "TextSection",
                         "colors": "colors-e",
                         "variant": "variant-a",
-                        "text": "## [Follow us on Instagram](https://www.stackbit.com/)",
+                        "text": "## [Follow us on Instagram](/contact-us)",
                         "styles": {
                             "self": {
                                 "height": "auto",
@@ -188,7 +188,7 @@
                             {
                                 "type": "Button",
                                 "label": "Join adventure",
-                                "url": "https://www.stackbit.com/",
+                                "url": "/contact-us",
                                 "style": "secondary",
                                 "showIcon": true,
                                 "icon": "arrowRight",

@@ -8,7 +8,7 @@ metaDescription: >-
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Child Pornography
+title: Search & Seizure Issues
 hero:
   - type: HeroSection
     elementId: homepage-hero-1

@@ -8,7 +8,7 @@ metaDescription: >-
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Child Pornography
+title: Sex Offender Registration
 hero:
   - type: HeroSection
     elementId: homepage-hero-1
