@@ -12,8 +12,9 @@ hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: |
-      Parole & Probation Violations
+    title: |+
+      Phoenix Parole & Probation Violations Attorney
+
     actions:
       - type: Button
         label: |
