@@ -14,7 +14,7 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |
-      Child Pornography
+      Phoenix Computer & Internet Fraud Attorney
     actions:
       - type: Button
         label: |
