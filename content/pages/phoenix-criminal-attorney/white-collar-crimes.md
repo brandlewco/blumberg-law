@@ -13,7 +13,7 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |
-      White Collar Crimes
+      Phoenix White Collar Crime Attorney
     actions:
       - type: Button
         label: |
