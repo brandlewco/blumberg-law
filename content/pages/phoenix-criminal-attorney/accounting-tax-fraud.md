@@ -2,9 +2,9 @@
 layout: PageLayout
 metaTitle: Phoenix Accounting & Tax Fraud Attorney
 metaDescription: >-
-  If you are under investigation for or have been charged with possession or
-  distribution of child pornography, contact our Phoenix child pornography
-  attorneys.
+  content="Our Phoenix accounting and tax fraud defense attorneys frequently
+  negotiate with state and federal authorities throughout Arizona, contact us
+  today.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
