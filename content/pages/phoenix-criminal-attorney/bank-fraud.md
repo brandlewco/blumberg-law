@@ -2,9 +2,8 @@
 layout: PageLayout
 metaTitle: Phoenix Child Pornography Attorney
 metaDescription: >-
-  If you are under investigation for or have been charged with possession or
-  distribution of child pornography, contact our Phoenix child pornography
-  attorneys.
+  Phoenix bank fraud attorney, Bruce Blumberg has received hundreds of not
+  guilty fraud verdicts and can help your white collar defense case.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
