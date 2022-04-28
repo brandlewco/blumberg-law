@@ -2,9 +2,8 @@
 layout: PageLayout
 metaTitle: Phoenix Child Pornography Attorney
 metaDescription: >-
-  If you are under investigation for or have been charged with possession or
-  distribution of child pornography, contact our Phoenix child pornography
-  attorneys.
+  The sooner you contact one of our Phoenix corporate fraud attorneys, the more
+  we can do to protect your rights and your future.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
