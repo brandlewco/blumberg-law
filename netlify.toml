@@ -7,8 +7,6 @@
 package = "@netlify/plugin-sitemap"
 
   [plugins.inputs]
-  buildDir = "public"
   exclude = [
-    # By Glob pattern
     'cases/**.md'
   ]
