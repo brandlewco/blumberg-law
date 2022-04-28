@@ -69,19 +69,19 @@ sections:
       ## THE FIVE STAGES OF GRIEF ARE:
 
 
-      *   **First Stage: **Denial and Isolation;
+      *   \*\*First Stage: \*\* Denial and Isolation;
 
 
-      *   **Second Stage: **Anger;
+      *   \*\*Second Stage: \*\* Anger;
 
 
-      *   **Third Stage: **Bargaining;
+      *   \*\*Third Stage: \*\* Bargaining;
 
 
-      *   **Fourth Stage: **Depression; and
+      *   \*\*Fourth Stage: \*\* Depression; and
 
 
-      *   **Fifth Stage: **Acceptance.
+      *   \*\*Fifth Stage: \*\* Acceptance.
 
 
       If true, this process would have a direct effect on the ability of the
