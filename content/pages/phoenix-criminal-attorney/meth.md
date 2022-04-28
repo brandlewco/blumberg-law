@@ -2,9 +2,8 @@
 layout: PageLayout
 metaTitle: Phoenix Child Pornography Attorney
 metaDescription: >-
-  If you are under investigation for or have been charged with possession or
-  distribution of child pornography, contact our Phoenix child pornography
-  attorneys.
+  Our Phoenix drug defense attorneys have helped numerous clients beat drug
+  charges related to methamphetamine.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
