@@ -2,9 +2,8 @@
 layout: PageLayout
 metaTitle: Phoenix Child Pornography Attorney
 metaDescription: >-
-  If you are under investigation for or have been charged with possession or
-  distribution of child pornography, contact our Phoenix child pornography
-  attorneys.
+  Our Phoenix sex crime attorneys will handle all post judgment issues related
+  to your sex crime case, including sex offender registration.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
