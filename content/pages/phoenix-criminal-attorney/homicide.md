@@ -2,9 +2,9 @@
 layout: PageLayout
 metaTitle: Phoenix Child Pornography Attorney
 metaDescription: >-
-  If you are under investigation for or have been charged with possession or
-  distribution of child pornography, contact our Phoenix child pornography
-  attorneys.
+  Phoenix homicide defense attorney Bruce Blumberg can help put together a not
+  guilty case for your homicide arrest in Arizona, especially violent murder
+  cases.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
