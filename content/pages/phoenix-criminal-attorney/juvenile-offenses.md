@@ -17,7 +17,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Get Representation for Juvenile Offenses
+          Juvenile Crime Representation
         url: /contact-us
         style: primary
         iconPosition: right
