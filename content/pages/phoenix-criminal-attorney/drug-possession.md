@@ -1,6 +1,6 @@
 ---
 layout: PageLayout
-metaTitle: Phoenix Child Pornography Attorney
+metaTitle: Phoenix Drug Possession Attorney
 metaDescription: >-
   Our Phoenix drug possession attorney provides aggressive criminal defense of
   marijuana possession, meth, cocaine and drug trafficking.
