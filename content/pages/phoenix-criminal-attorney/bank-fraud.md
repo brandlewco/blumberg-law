@@ -1,6 +1,6 @@
 ---
 layout: PageLayout
-metaTitle: Phoenix Child Pornography Attorney
+metaTitle: Phoenix Bank Fraud Attorney
 metaDescription: >-
   Phoenix bank fraud attorney, Bruce Blumberg has received hundreds of not
   guilty fraud verdicts and can help your white collar defense case.
