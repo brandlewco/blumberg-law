@@ -18,7 +18,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Get Representation for Criminal Appeals
+          Criminal Appeals Representation
         url: /contact-us
         style: primary
         iconPosition: right
