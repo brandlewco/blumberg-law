@@ -1,6 +1,6 @@
 ---
 layout: PageLayout
-metaTitle: Phoenix Child Pornography Attorney
+metaTitle: Phoenix Embezzlement Attorney
 metaDescription: >-
   If you are under investigation for or have been charged with embezzlement in
   Arizona, contact the Phoenix embezzlement attorneys at Blumberg & Associates.
