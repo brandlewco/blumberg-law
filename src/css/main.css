@@ -369,6 +369,19 @@
         @apply w-16 mr-4 !important;
     }
 
+    .google-maps {
+        position: relative;
+        padding-bottom: 75%;
+        height: 0;
+        overflow: hidden;
+      }
+      .google-maps iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100% !important;
+        height: 100% !important;
+      }
     /* Buttons */
     .sb-component-button {
         @apply border-2 inline-flex items-center justify-center no-underline text-center transition duration-200 ease-in rounded-full;
