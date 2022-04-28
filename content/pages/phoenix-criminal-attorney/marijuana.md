@@ -1,6 +1,6 @@
 ---
 layout: PageLayout
-metaTitle: Phoenix Child Pornography Attorney
+metaTitle: Phoenix Marijuana Attorney
 metaDescription: >-
   Blumberg & Associates is a distinguished Arizona criminal defense law firm
   representing clients charged with drug crimes related to marijuana.
