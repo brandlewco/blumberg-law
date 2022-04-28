@@ -17,7 +17,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Drug Crime Representation
+          Drug Crimes Representation
         url: /contact-us
         style: primary
         iconPosition: right
