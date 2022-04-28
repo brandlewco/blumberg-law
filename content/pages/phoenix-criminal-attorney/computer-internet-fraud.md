@@ -2,8 +2,8 @@
 layout: PageLayout
 metaTitle: Phoenix Computer & Internet Fraud Attorney
 metaDescription: >-
-  If you are under investigation for or have been charged with possession or
-  distribution of child pornography, contact our Phoenix child pornography
+  If you are under investigation for or have been charged with computer or
+  Internet fraud in Arizona, call our Phoenix computer & internet fraud
   attorneys.
 addTitleSuffix: true
 socialImage: null
