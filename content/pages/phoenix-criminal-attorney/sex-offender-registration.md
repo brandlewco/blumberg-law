@@ -1,6 +1,6 @@
 ---
 layout: PageLayout
-metaTitle: Phoenix Child Pornography Attorney
+metaTitle: Phoenix Sex Offender Registration Attorney
 metaDescription: >-
   Our Phoenix sex crime attorneys will handle all post judgment issues related
   to your sex crime case, including sex offender registration.
