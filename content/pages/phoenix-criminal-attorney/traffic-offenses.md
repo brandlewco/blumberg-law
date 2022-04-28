@@ -1,6 +1,6 @@
 ---
 layout: PageLayout
-metaTitle: Phoenix Child Pornography Attorney
+metaTitle: Phoenix Traffic Offense Attorney
 metaDescription: >-
   At Blumberg & Associates, we take Arizona traffic violations seriously,
   contact our experienced Phoenix traffic offense attorneys today.
