@@ -14,12 +14,12 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |
-      Child Pornography
+      Phoenix Meth Attorney
     actions:
       - type: Button
         label: |
           Child Pornography Criminal Representation
-        url: '/contact-us'
+        url: /contact-us
         style: primary
         iconPosition: right
         icon: arrowRight
