@@ -18,7 +18,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Get Domestic Violence Representation
+          Domestic Violence Representation
         url: /contact-us
         style: primary
         iconPosition: right
