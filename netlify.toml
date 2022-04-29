@@ -10,5 +10,5 @@ package = "@netlify/plugin-sitemap"
   exclude = [
     './404/index.html',
     './not-found/index.html',
-    './cases/**/**.html'
+    './cases/**/index.html'
   ]
