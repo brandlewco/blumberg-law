@@ -59,7 +59,7 @@ export default function HeroSection(props) {
                         bgSize === 'full' ? mapStyles({ justifyContent: sectionJustifyContent }) : null
                     )}
                 >
-                    <div className={classNames('w-full', bgSize === 'full' ? mapMaxWidthStyles(sectionWidth) : null)}>
+                    <div className={classNames('w-full', 'z-30', bgSize === 'full' ? mapMaxWidthStyles(sectionWidth) : null)}>
                         <div
                             className={classNames(
                                 'flex',
