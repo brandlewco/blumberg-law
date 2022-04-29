@@ -8,7 +8,7 @@ package = "@netlify/plugin-sitemap"
 
   [plugins.inputs]
   exclude = [
-    '404.html',
-    'not-found.html',
-    'cases/**.html'
+    './404/index.html',
+    './not-found/index.html',
+    './cases/**/index.html'
   ]
