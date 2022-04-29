@@ -46,7 +46,7 @@ function footerVariantA(props) {
 
     class Iframe extends React.Component {
         render() {
-            return <div dangerouslySetInnerHTML={{ __html: embedIframe }} />;
+            return <div className="iframe" dangerouslySetInnerHTML={{ __html: embedIframe }} />;
         }
     }
     return (
@@ -71,10 +71,10 @@ function footerVariantA(props) {
                     </div>
                 )}
             </div>
-            <div className="border-t-2 border-current flex justify-between pt-6 flex-col">
-                <div className="max-w-7xl mx-auto w-full flex flex-row items-start justify-between gap-8">
+            <div className="border-t-2 border-current flex justify-between pt-6 flex-col gap-4">
+                <div className="max-w-7xl mx-auto w-full flex flex-col md:flex-row items-start justify-between px-4 mx:px-0">
                     <div>{(props.logo || props.title || props.text) && (
-                        <div className="mb-12">
+                        <div className="mb-6">
                             <Link href="/" className="sb-footer-logo flex items-center">
                                 {props.logo && <ImageBlock {...props.logo} className={classNames('max-h-12', { 'mr-2': props.title })} data-sb-field-path=".logo" />}
                                 {/* {props.title && (
@@ -111,7 +111,7 @@ function footerVariantA(props) {
                     </div>
                     <div>
                         {secondaryLinks.length > 0 && (
-                            <ul className="contact-svg flex flex-col items-start space-y-6 text-lg" data-sb-field-path=".primaryLinks">
+                            <ul className="contact-svg flex flex-col items-start space-y-1 text-lg" data-sb-field-path=".primaryLinks">
                                 {secondaryLinks.map((link, index) => (
                                     <li key={index}>
                                         <Action {...link} data-sb-field-path={`.${index}`} />
@@ -121,7 +121,7 @@ function footerVariantA(props) {
                         )}
                     </div>
                 </div>
-                <div className='max-w-7xl mx-auto w-full flex flex-col justify-between items-center'>
+                <div className='max-w-7xl mx-auto w-full flex flex-col justify-between items-start md:items-center  px-4 mx:px-0'>
                     {legalLinks.length > 0 && (
                         <ul className="flex flex-col mb-6 space-y-2 lg:mb-0 sm:space-y-0 sm:space-x-5 sm:flex-row" data-sb-field-path=".legalLinks">
                             {legalLinks.map((link, index) => (
@@ -133,7 +133,7 @@ function footerVariantA(props) {
                     )}
                     <Markdown
                         options={{ forceInline: false, forceWrapper: true, wrapper: 'p' }}
-                        className="sb-markdown text-center"
+                        className="sb-markdown text-center flex flex-col items-start md:items-center"
                         data-sb-field-path=".copyrightText"
                     >
                         {props.copyrightText}
@@ -206,7 +206,7 @@ function footerVariantB(props) {
                     'border-current',
                     'flex',
                     'flex-col-reverse',
-                    'items-center',
+                    'md:items-center',
                     'pt-8',
                     'lg:flex-row',
                     'lg:items-start',

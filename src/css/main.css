@@ -369,13 +369,13 @@
         @apply w-16 mr-4 !important;
     }
 
-    .google-maps {
+    footer .iframe{
         position: relative;
         padding-bottom: 75%;
         height: 0;
         overflow: hidden;
       }
-      .google-maps iframe {
+      footer .iframe iframe {
         position: absolute;
         top: 0;
         left: 0;
