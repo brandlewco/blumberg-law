@@ -343,7 +343,7 @@
                 "showIcon": true,
                 "icon": "map",
                 "iconPosition": "left",
-                "elementId": "",
+                "elementId": "footer-address",
                 "styles": {
                     "self": {
                         "padding": [
