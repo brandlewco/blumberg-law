@@ -9,16 +9,17 @@ date: '2016-07-14'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-qkxt493m4.json
 ---
 
 Family law attorneys are your resource for a number of highly personal events in your life. Examples of family law services include adoption, child support, divorce, guardianship, marriage and more. At [Blumberg & Associates](https://azblumbergfamilylaw.com/attorney-bruce-e-blumberg-reviews/), we understand the family law attorney selection is one that you don’t take lightly. Here are some key elements we recommend looking for to ensure you find a quality attorney who can meet your needs.
