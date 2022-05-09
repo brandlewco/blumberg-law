@@ -9,16 +9,17 @@ date: '2020-05-13'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-qkxt493m4.json
 ---
 
 White collar crimes are commonly associated with business and stock market fraud, but there are a number of other types of criminal offenses that fall under the mantle of white collar crimes. Most white collar crimes are federal offenses, which must be taken seriously. If you have been arrested for a federal crime in Arizona, you need to speak with an experienced [Phoenix white collar crime attorney](https://www.azblumberglaw.com/phoenix-criminal-attorney/white-collar-crimes/) right away.
