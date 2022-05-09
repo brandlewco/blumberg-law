@@ -46,7 +46,7 @@ Now is the time to file defense motions to amend release conditions. However, th
 
 **Contact a Phoenix Criminal Attorney**
 
-It’s more important than ever that you retain an experienced Phoenix criminal defense attorney if you are arrested or in jail pending trial. The effects of COVID-19 will continue to affect the court system for an unknown amount of time. Retaining an attorney can help prepare the best defense possible and help get your charges dismissed or reduced. If you need assistance, contact the [Phoenix criminal attorneys](https://www.azblumberglaw.com/phoenix-criminal-attorney/) at Blumberg & Associates today to schedule an initial consultation.
+It’s more important than ever that you retain an experienced Phoenix criminal defense attorney if you are arrested or in jail pending trial. The effects of COVID-19 will continue to affect the court system for an unknown amount of time. Retaining an attorney can help prepare the best defense possible and help get your charges dismissed or reduced. If you need assistance, contact the [Phoenix criminal attorneys](https://azblumberglaw.com/phoenix-criminal-attorney/) at Blumberg & Associates today to schedule an initial consultation.
 
 Resource:
 

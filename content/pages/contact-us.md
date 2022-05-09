@@ -34,7 +34,7 @@ hero:
         icon: arrowRight
         iconPosition: left
         style: secondary
-        elementId: ''
+        elementId: contact-call-us
     styles:
       self:
         height: auto
@@ -57,106 +57,6 @@ hero:
       text:
         textAlign: left
 sections:
-  - elementId: ''
-    colors: colors-a
-    backgroundSize: full
-    form:
-      type: FormBlock
-      elementId: contact-form
-      action: /.netlify/functions/submission_created
-      destination: hello@brandlew.co
-      fields:
-        - type: TextFormControl
-          name: First
-          label: First Name
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          hideLabel: true
-        - name: last-name
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - type: EmailFormControl
-          name: email
-          label: Email
-          placeholder: Your email
-          isRequired: 'true'
-          width: 1/2
-          hideLabel: true
-        - name: phone-number
-          label: Phone Number
-          hideLabel: true
-          placeholder: Phone Number
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: description
-          label: Description
-          hideLabel: true
-          placeholder: Please describe your case.
-          isRequired: false
-          width: full
-          type: TextareaFormControl
-      submitLabel: Send Message
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-16
-          - pb-8
-          - pl-8
-          - pr-8
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-    type: ContactSection
-  - type: TextSection
-    elementId: ''
-    colors: colors-a
-    variant: variant-a
-    subtitle: ''
-    text: >
-      Please do not include any confidential or sensitive information in a
-      contact form, text message, or voicemail. The contact form sends
-      information by non-encrypted email, which is not secure. Submitting a
-      contact form, sending a text message, making a phone call, or leaving a
-      voicemail does not create an attorney-client relationship.
-    actions: []
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-0
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
   - type: FeaturedItemsSection
     colors: colors-d
     elementId: ''

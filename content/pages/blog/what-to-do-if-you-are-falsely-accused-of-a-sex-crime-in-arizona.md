@@ -9,19 +9,20 @@ date: '2014-08-29'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-qkxt493m4.json
 ---
 
-It isn’t unusual for someone to be falsely accused of a [sex crime](https://www.azblumberglaw.com/phoenix-criminal-attorney/sex-crimes/) in today’s society. A child caught in a divorce and angry at one parent might lash out by falsely accusing the other parent. An angry spouse involved in a contentious child custody suit might accuse the other spouse of sexual abuse to keep custody of the child. Whatever the circumstances, the first step is in understanding that this is an extremely serious accusation. The consequences can be life shattering. Possible outcomes include:
+It isn’t unusual for someone to be falsely accused of a [sex crime](https://azblumberglaw.com/phoenix-criminal-attorney/sex-crimes/) in today’s society. A child caught in a divorce and angry at one parent might lash out by falsely accusing the other parent. An angry spouse involved in a contentious child custody suit might accuse the other spouse of sexual abuse to keep custody of the child. Whatever the circumstances, the first step is in understanding that this is an extremely serious accusation. The consequences can be life shattering. Possible outcomes include:
 
 - Time in jail or prison
 

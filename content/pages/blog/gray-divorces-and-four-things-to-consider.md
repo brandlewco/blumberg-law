@@ -9,16 +9,17 @@ date: '2017-11-30'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-qkxt493m4.json
 ---
 
 Despite the fact that divorce is becoming less popular nationwide, there is one type of divorce that is on the rise: the so-called “gray divorce.” This term, dedicated to couples over the age of 50 who choose to divorce, is en-vogue amongst baby boomers, as divorces for couples in this demographic are up more than 100 percent since the 1990s. That’s a startling increase for an age group that is traditionally thought to have cleared many of the hurdles that lead to divorce.

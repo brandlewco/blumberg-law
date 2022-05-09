@@ -38,6 +38,6 @@ Thankfully for him, neither he nor his girlfriend made any incriminating stateme
 
 A criminal defense attorney can obtain deals for the client through a couple of motions to suppress evidence, and in this case, the defendant received probation and no jail time.
 
-[Drug crimes](https://www.azblumberglaw.com/phoenix-criminal-attorney/drug-crimes/) in Phoenix, Arizona or Maricopa County now deals with laws regarding methamphetamine that require a mandatory prison sentence. Methamphetamine is obviously a scourge and a horrible problem, but defendants still deserve fair trials.  People still get caught up in situations where they might be innocent of the charges being faced.
+[Drug crimes](https://azblumberglaw.com/phoenix-criminal-attorney/drug-crimes/) in Phoenix, Arizona or Maricopa County now deals with laws regarding methamphetamine that require a mandatory prison sentence. Methamphetamine is obviously a scourge and a horrible problem, but defendants still deserve fair trials.  People still get caught up in situations where they might be innocent of the charges being faced.
 
 That’s where the attorney helps to achieve the best possible fair outcome.

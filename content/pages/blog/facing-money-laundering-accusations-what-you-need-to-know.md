@@ -44,7 +44,7 @@ Asking your attorney about lack of intent may be useful and determining whether 
 
 **Accused of Money Laundering? Call Our Office as Soon as Possible**
 
-Money laundering is no simple crime. It is punished by state, federally, and in some cases by both. Money laundering also risks being put into question and being connected to other crimes, which can only worsen sentences and bring about additional charges. It is very important to get the legal assistance you need right away, as time is of the essence. At Blumberg & Associates, our [Phoenix white collar crime attorneys](https://www.azblumberglaw.com/phoenix-criminal-attorney/white-collar-crimes/) are ready to assist with any questions or concerns you might have regarding the matter. Please do not hesitate to call our office at 602-277-6180 today.
+Money laundering is no simple crime. It is punished by state, federally, and in some cases by both. Money laundering also risks being put into question and being connected to other crimes, which can only worsen sentences and bring about additional charges. It is very important to get the legal assistance you need right away, as time is of the essence. At Blumberg & Associates, our [Phoenix white collar crime attorneys](https://azblumberglaw.com/phoenix-criminal-attorney/white-collar-crimes/) are ready to assist with any questions or concerns you might have regarding the matter. Please do not hesitate to call our office at 602-277-6180 today.
 
 Resources:
 

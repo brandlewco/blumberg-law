@@ -44,7 +44,7 @@ Call the Right Attorneys for Criminal Defense
 
 Possession of child pornography is a serious offense, and is heavily fined and punished if convicted. If you have been wrongfully accused of possessing or transmitting child pornography, it is critically important to get hold of the right legal team right away. Accusations and convictions regarding sexual offenses can and do often dramatically change one’s life and future, so having the right help and advice will go a long way.
 
-With vast criminal defense experience, our [Phoenix criminal attorneys](https://www.azblumberglaw.com/phoenix-criminal-attorney/) at Blumberg & Associates understand how stressful these accusations can be. We are here to help you restore your title or get the best defense possible. To schedule a free consultation with us, please do not hesitate in contacting our team of attorneys at (602) 277-6180 today.
+With vast criminal defense experience, our [Phoenix criminal attorneys](https://azblumberglaw.com/phoenix-criminal-attorney/) at Blumberg & Associates understand how stressful these accusations can be. We are here to help you restore your title or get the best defense possible. To schedule a free consultation with us, please do not hesitate in contacting our team of attorneys at (602) 277-6180 today.
 
 Resources:
 

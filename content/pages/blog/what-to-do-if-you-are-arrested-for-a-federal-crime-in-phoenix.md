@@ -9,19 +9,20 @@ date: '2020-04-14'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-qkxt493m4.json
 ---
 
-Do not make the mistake of assuming federal charges are the same as a state crime. Nor are they prosecuted in the same way. If you have been arrested and charged with a federal crime, you need to contact an experienced [Phoenix federal crimes attorney](https://www.azblumberglaw.com/phoenix-criminal-attorney/federal-crimes/) right away.
+Do not make the mistake of assuming federal charges are the same as a state crime. Nor are they prosecuted in the same way. If you have been arrested and charged with a federal crime, you need to contact an experienced [Phoenix federal crimes attorney](https://azblumberglaw.com/phoenix-criminal-attorney/federal-crimes/) right away.
 
 With federal crimes, the government has a lot more resources at their disposal. This means these cases need to be taken very seriously as the government will push hard for a conviction. These are typically high-pressure, high-stress cases. They may  try to intimidate you. Depending on the crime, agencies may utilize undercover operations, wiretaps, and stings. In many federal cases, the US Attorney’s office has a good deal of evidence and a very strong case ready to go before you are even arrested and charged.
 

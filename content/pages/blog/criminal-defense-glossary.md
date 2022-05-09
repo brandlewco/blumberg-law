@@ -9,16 +9,17 @@ date: '2014-10-30'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-qkxt493m4.json
 ---
 
 The law is a language unto itself. In modern times, we refer to the language of courtrooms, pleadings, and laws as “legalese.” This term is no more than a playful characterization of legal jargon. And while it may take several years of law school to truly ascertain the technical meanings of judicial terms, the following is a glossary of the more common ones:
@@ -41,4 +42,4 @@ The law is a language unto itself. In modern times, we refer to the language of 
 
 **“Class 6 Open” (Undesignated):** In Arizona, defendants can receive a “Class 6 Open” or “Class 6 Undesignated” felony. This is the aim and goal for defendants who may have serious charges but no prior felony convictions on their record. A class 6 open refers to a class 6 felony which can become a misdemeanor upon successful completion of probation. In effect, a defendant can earn a misdemeanor if they comply with all the terms of their probation for the allotted probationary term.
 
-[Contact](https://www.azblumberglaw.com/contact-us/) the [Phoenix criminal defense lawyers](https://www.azblumberglaw.com/phoenix-criminal-attorney/) at Blumberg & Associates today!
+[Contact](https://azblumberglaw.com/contact-us/) the [Phoenix criminal defense lawyers](https://azblumberglaw.com/phoenix-criminal-attorney/) at Blumberg & Associates today!

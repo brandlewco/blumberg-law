@@ -24,7 +24,7 @@ author: content/data/team/person-qkxt493m4.json
 
 Fraud is one of the most common types of white-collar crimes, but it is not the only one. There are a variety of criminal offenses that can be classified as white-collar crimes, including those that involve embezzlement, conspiracy, extortion, and computer crimes.
 
-If you are being charged with a white-collar crime in Arizona, it’s imperative that you take the charges seriously. White-collar crimes are typically federal offenses, which means there is often a mandatory minimum prison sentence. If you are facing criminal charges for a white-collar crime in Arizona, you need a skilled [Phoenix white collar crime attorney](https://www.azblumberglaw.com/phoenix-criminal-attorney/white-collar-crimes/) on your side.
+If you are being charged with a white-collar crime in Arizona, it’s imperative that you take the charges seriously. White-collar crimes are typically federal offenses, which means there is often a mandatory minimum prison sentence. If you are facing criminal charges for a white-collar crime in Arizona, you need a skilled [Phoenix white collar crime attorney](https://azblumberglaw.com/phoenix-criminal-attorney/white-collar-crimes/) on your side.
 
 **Defining White-Collar Crime**
 

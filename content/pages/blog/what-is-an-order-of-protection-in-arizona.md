@@ -9,19 +9,20 @@ date: '2014-08-28'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-qkxt493m4.json
 ---
 
-An [order of protection](https://www.azblumberglaw.com/phoenix-family-attorney/orders-of-protection/) is issued by the court to limit the behavior of someone who harms or threatens to harm you.  You may apply for an order of protection if the defendant is connected to you in an intimate manner. For instance, the defendant must be your spouse or former spouse, roommate or former roommate, father or mother of your child or unborn child, a person you were formerly involved with on a romantic or sexual basis, a family member such as a parent, grandparent, brother, sister, etc. or your spouse’s family member.
+An [order of protection](https://azblumberglaw.com/phoenix-family-attorney/orders-of-protection/) is issued by the court to limit the behavior of someone who harms or threatens to harm you.  You may apply for an order of protection if the defendant is connected to you in an intimate manner. For instance, the defendant must be your spouse or former spouse, roommate or former roommate, father or mother of your child or unborn child, a person you were formerly involved with on a romantic or sexual basis, a family member such as a parent, grandparent, brother, sister, etc. or your spouse’s family member.
 
 In order to apply for an order of protection, the defendant has either committed or is about to commit any of the following:
 
@@ -61,4 +62,4 @@ This offers broader protection than a domestic violence protection order. The ab
 
 If the abuser or harasser violates the order or protection, you can call the police. The offender may be arrested or charged with violating the court order.
 
-An [Phoenix Sex Crimes Lawyer](https://www.azblumberglaw.com/phoenix-criminal-attorney/sex-crimes/) with years of experience in this area of law can be a great help in filing for orders of protection.
+An [Phoenix Sex Crimes Lawyer](https://azblumberglaw.com/phoenix-criminal-attorney/sex-crimes/) with years of experience in this area of law can be a great help in filing for orders of protection.

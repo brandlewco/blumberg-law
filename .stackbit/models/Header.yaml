@@ -115,15 +115,6 @@ fields:
       models:
         - Button
         - Link
-    default:
-      - type: Link
-        label: Home
-        url: /
-        altText: Home
-      - type: Link
-        label: Blog
-        url: /
-        altText: Blog
   - type: list
     name: secondaryLinks
     label: Secondary links

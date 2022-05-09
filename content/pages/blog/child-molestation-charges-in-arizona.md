@@ -9,19 +9,20 @@ date: '2020-03-19'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-qkxt493m4.json
 ---
 
-Any sex-related offense involving a minor is something you need to take very seriously in Arizona. Child molestation is when someone knowingly touches or causes someone to touch another person under 15 years of age on their genitalia. This also includes touching over the clothes. If you or a loved one has been charged with child molestation in Arizona, you need to speak with a [Phoenix child molestation attorney](https://www.azblumberglaw.com/phoenix-criminal-attorney/child-molestation/) right away.
+Any sex-related offense involving a minor is something you need to take very seriously in Arizona. Child molestation is when someone knowingly touches or causes someone to touch another person under 15 years of age on their genitalia. This also includes touching over the clothes. If you or a loved one has been charged with child molestation in Arizona, you need to speak with a [Phoenix child molestation attorney](https://azblumberglaw.com/phoenix-criminal-attorney/child-molestation/) right away.
 
 **Child Molestation A.R.S. §13-1410**
 

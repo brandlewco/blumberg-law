@@ -228,6 +228,27 @@
                 "type": "Link"
             },
             {
+                "type": "Link",
+                "label": "Case Results",
+                "altText": "",
+                "url": "/case-results",
+                "child": [],
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-5",
+                            "pb-5",
+                            "pl-4",
+                            "pr-4"
+                        ]
+                    }
+                }
+            },
+            {
                 "label": "Testimonials",
                 "altText": "Testimonials",
                 "url": "/testimonials",
@@ -331,7 +352,8 @@
                 "altText": "home",
                 "showIcon": true,
                 "iconPosition": "left",
-                "icon": "phone"
+                "icon": "phone",
+                "elementId": "footer-call-us"
             },
             {
                 "type": "Link",
@@ -342,7 +364,7 @@
                 "showIcon": true,
                 "icon": "map",
                 "iconPosition": "left",
-                "elementId": "",
+                "elementId": "footer-address",
                 "styles": {
                     "self": {
                         "padding": [

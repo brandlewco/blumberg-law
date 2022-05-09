@@ -9,19 +9,20 @@ date: '2014-08-28'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-qkxt493m4.json
 ---
 
-Divorce or dissolution of marriage is the process necessary to legally end a marriage. [Divorce ](https://www.azblumberglaw.com/phoenix-family-attorney/divorce/)proceedings may take into account how assets, property and debt may be split, as well as how the custody of children will be handled.
+Divorce or dissolution of marriage is the process necessary to legally end a marriage. [Divorce ](https://azblumberglaw.com/phoenix-family-attorney/divorce/)proceedings may take into account how assets, property and debt may be split, as well as how the custody of children will be handled.
 
 **Where do I get a divorce?**
 

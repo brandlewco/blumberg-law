@@ -42,7 +42,7 @@ If you have been accused, the steps are simple. Remain calm and composed to take
 
 ### **Have You Been Accused of Soliciting for Prostitution? Call Us Today**
 
-Being accused of soliciting for prostitution is no light accusation. There are so many weights carried to soliciting for prostitution, and it is important to act immediately. These accusations weigh on personal life, and even potentially the professional life depending on the nature of the accusations. Take a deep breath, and relax — rest assured you have options. At Blumberg & Associates, our [Phoenix criminal attorneys](https://www.azblumberglaw.com/phoenix-criminal-attorney/) are ready to help guide and advise the proper direction to take following prostitution solicitation accusations. If you have any questions or concerns, have confidence calling our staff at (602) 277-6180 today.
+Being accused of soliciting for prostitution is no light accusation. There are so many weights carried to soliciting for prostitution, and it is important to act immediately. These accusations weigh on personal life, and even potentially the professional life depending on the nature of the accusations. Take a deep breath, and relax — rest assured you have options. At Blumberg & Associates, our [Phoenix criminal attorneys](https://azblumberglaw.com/phoenix-criminal-attorney/) are ready to help guide and advise the proper direction to take following prostitution solicitation accusations. If you have any questions or concerns, have confidence calling our staff at (602) 277-6180 today.
 
 Resource:
 
