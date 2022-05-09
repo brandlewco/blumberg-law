@@ -9,16 +9,17 @@ date: '2017-11-20'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-qkxt493m4.json
 ---
 
 Sometimes the best way to deal with divorce is to spot the warning signs before you’re faced with a decision to end your marriage. Below we’ll review five of the top trends or traits that are frequently found in divorcing couples. If you fit these categories is doesn’t mean your relationship is destined to fail, but you should be aware of the trends.
