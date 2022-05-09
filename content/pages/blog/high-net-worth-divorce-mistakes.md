@@ -9,16 +9,17 @@ date: '2017-10-30'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-qkxt493m4.json
 ---
 
 Divorces are often painful for anybody and can be one of life’s most challenging chapters. If you’re going through a divorce here are seven mistakes divorcing couples often make when the financial and emotional stakes are highest.
