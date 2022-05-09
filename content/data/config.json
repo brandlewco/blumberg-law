@@ -252,7 +252,7 @@
                 "type": "Link",
                 "label": "Case Results",
                 "altText": "",
-                "url": "/",
+                "url": "/case-results",
                 "child": [],
                 "showIcon": false,
                 "icon": "arrowRight",
