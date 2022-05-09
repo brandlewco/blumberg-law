@@ -9,16 +9,17 @@ date: '2016-10-18'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-qkxt493m4.json
 ---
 
 Divorce and separations can be incredibly difficult for children, but the extent to which it affects their happiness and quality of life is in large part dependent on the behavior of parents. There are things you can do to improve your chances of obtaining the child custody outcome that’s in your children’s best interest while promoting a healthy relationship with your ex to minimize the anxiety and stress experienced by your kids during this emotional process.
