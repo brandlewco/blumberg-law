@@ -228,27 +228,6 @@
                 "type": "Link"
             },
             {
-                "label": "Testimonials",
-                "altText": "Testimonials",
-                "url": "/testimonials",
-                "child": [],
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": "",
-                "styles": {
-                    "self": {
-                        "padding": [
-                            "pt-0",
-                            "pb-0",
-                            "pl-4",
-                            "pr-4"
-                        ]
-                    }
-                },
-                "type": "Link"
-            },
-            {
                 "type": "Link",
                 "label": "Case Results",
                 "altText": "",
@@ -268,6 +247,27 @@
                         ]
                     }
                 }
+            },
+            {
+                "label": "Testimonials",
+                "altText": "Testimonials",
+                "url": "/testimonials",
+                "child": [],
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-0",
+                            "pb-0",
+                            "pl-4",
+                            "pr-4"
+                        ]
+                    }
+                },
+                "type": "Link"
             },
             {
                 "label": "Blog",
