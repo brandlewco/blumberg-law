@@ -9,16 +9,17 @@ date: '2020-04-14'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-qkxt493m4.json
 ---
 
 Do not make the mistake of assuming federal charges are the same as a state crime. Nor are they prosecuted in the same way. If you have been arrested and charged with a federal crime, you need to contact an experienced [Phoenix federal crimes attorney](https://www.azblumberglaw.com/phoenix-criminal-attorney/federal-crimes/) right away.
