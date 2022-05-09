@@ -34,7 +34,7 @@ hero:
         icon: arrowRight
         iconPosition: left
         style: secondary
-        elementId: ''
+        elementId: contact-call-us
     styles:
       self:
         height: auto
