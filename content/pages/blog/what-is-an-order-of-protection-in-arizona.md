@@ -9,16 +9,17 @@ date: '2014-08-28'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-qkxt493m4.json
 ---
 
 An [order of protection](https://www.azblumberglaw.com/phoenix-family-attorney/orders-of-protection/) is issued by the court to limit the behavior of someone who harms or threatens to harm you.  You may apply for an order of protection if the defendant is connected to you in an intimate manner. For instance, the defendant must be your spouse or former spouse, roommate or former roommate, father or mother of your child or unborn child, a person you were formerly involved with on a romantic or sexual basis, a family member such as a parent, grandparent, brother, sister, etc. or your spouse’s family member.
