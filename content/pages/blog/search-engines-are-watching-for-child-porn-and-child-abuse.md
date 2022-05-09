@@ -9,16 +9,17 @@ date: '2014-08-28'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-qkxt493m4.json
 ---
 
 Only a few years ago, search engines like Google, Bing, Internet Explorer and others remained neutral on the issue of [child porn](https://www.azblumberglaw.com/phoenix-criminal-attorney/child-pornography/) and child abuse, not really taking an active hand in blocking it. Google had previously gone as far as creating a database where law enforcement, charities, organizations and citizens could add details or locations of abuse imagery, which it would then hide or remove from search results. But in the last year, all the big search engines have changed their approach to child abuse, child porn and other [sex crimes](https://www.azblumberglaw.com/phoenix-criminal-attorney/sex-crimes/) crimes because they hope to help make a difference in fighting these crimes. In particular, Google and the other search engines now block illegal content, both online and in their email programming.
