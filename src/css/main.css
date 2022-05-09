@@ -381,7 +381,7 @@
 
     footer .iframe{
         position: relative;
-        padding-bottom: 75%;
+        padding-bottom: 50%;
         height: 0;
         overflow: hidden;
       }
