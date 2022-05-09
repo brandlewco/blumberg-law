@@ -9,16 +9,17 @@ date: '2020-04-07'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-qkxt493m4.json
 ---
 
 If you lose a criminal case, it’s understandable that you will want to appeal the conviction. However, not all cases will be successful on appeal. In order to prevail on appeal for a criminal conviction, you would need to show the appellate court that you did not receive a fair trial. If you are considering filing an appeal in Arizona, you need an experienced [Phoenix criminal appeals attorney](https://www.azblumberglaw.com/phoenix-criminal-attorney/criminal-appeals/) to assist.
