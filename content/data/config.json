@@ -331,7 +331,8 @@
                 "altText": "home",
                 "showIcon": true,
                 "iconPosition": "left",
-                "icon": "phone"
+                "icon": "phone",
+                "elementId": "footer-call-us"
             },
             {
                 "type": "Link",
