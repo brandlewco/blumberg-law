@@ -9,16 +9,17 @@ date: '2014-10-30'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post thumbnail image
   caption: ''
 media:
   type: ImageBlock
-  url: '/images/gavel-placeholder.jpg'
+  url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/person-qkxt493m4.json
 ---
 
 The law is a language unto itself. In modern times, we refer to the language of courtrooms, pleadings, and laws as “legalese.” This term is no more than a playful characterization of legal jargon. And while it may take several years of law school to truly ascertain the technical meanings of judicial terms, the following is a glossary of the more common ones:
