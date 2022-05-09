@@ -22,7 +22,7 @@ socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
 
-Violating your probation can be a serious offense in Arizona. If you are on probation and you violate the terms, it could land you in jail or even prison depending on whether your original or new charge was a felony. If you don’t want to find yourself behind bars, it’s imperative to retain an experienced [Phoenix parole & probation violation attorney](https://www.azblumberglaw.com/phoenix-criminal-attorney/parole-probation-violations/) right away.
+Violating your probation can be a serious offense in Arizona. If you are on probation and you violate the terms, it could land you in jail or even prison depending on whether your original or new charge was a felony. If you don’t want to find yourself behind bars, it’s imperative to retain an experienced [Phoenix parole & probation violation attorney](https://azblumberglaw.com/phoenix-criminal-attorney/parole-probation-violations/) right away.
 
 At Blumberg & Associates, we help clients with their probation and parole violations. Our goal is to help mitigate the consequences and keep you from facing significant time in jail or prison. Because your freedom is at stake, you need an attorney who specializes in handling these types of matters.
 

@@ -22,7 +22,7 @@ socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
 
-Being accused of a sex crime typically comes with a great deal of stigma, even if the person is later acquitted or the charges are dropped. Many people do not understand that there is a huge difference between being charged with a crime and being convicted. If you or a loved one have been charged with a sex crime in Arizona, it’s important to contact an experienced [Phoenix sex crimes attorney](https://www.azblumberglaw.com/phoenix-criminal-attorney/sex-crimes/) who can help.
+Being accused of a sex crime typically comes with a great deal of stigma, even if the person is later acquitted or the charges are dropped. Many people do not understand that there is a huge difference between being charged with a crime and being convicted. If you or a loved one have been charged with a sex crime in Arizona, it’s important to contact an experienced [Phoenix sex crimes attorney](https://azblumberglaw.com/phoenix-criminal-attorney/sex-crimes/) who can help.
 
 **Sex Crimes Can Be Misdemeanors or Felonies**
 

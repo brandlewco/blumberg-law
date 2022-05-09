@@ -40,7 +40,7 @@ Committing fraud whether intentionally or unintentionally, from borrower or by l
 
 **Accused of Mortgage Fraud? Contact Our Offices Today**
 
-Regardless of the nature of mortgage fraud accusations, the stress comes all the same. Facing the notions of fraud related penalties and punishments is enough to get anyone understandably worked up. Thankfully, there is a long history in understanding these cases which attorneys are experienced in. At Blumberg & Associates, our [Phoenix criminal attorneys](https://www.azblumberglaw.com/phoenix-criminal-attorney/) understand the stress entangled with such accusations, and we care to help you every step of the way. For any questions or concerns regarding mortgage fraud, rest assured in contacting our team at (602) 277-6180 today.
+Regardless of the nature of mortgage fraud accusations, the stress comes all the same. Facing the notions of fraud related penalties and punishments is enough to get anyone understandably worked up. Thankfully, there is a long history in understanding these cases which attorneys are experienced in. At Blumberg & Associates, our [Phoenix criminal attorneys](https://azblumberglaw.com/phoenix-criminal-attorney/) understand the stress entangled with such accusations, and we care to help you every step of the way. For any questions or concerns regarding mortgage fraud, rest assured in contacting our team at (602) 277-6180 today.
 
 Resources:
 

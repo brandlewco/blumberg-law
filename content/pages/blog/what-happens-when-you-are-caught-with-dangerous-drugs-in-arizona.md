@@ -70,7 +70,7 @@ In Arizona, the lower the classification, the more serious the punishment is. Ad
 
 Have You Been Charged With a Dangerous Drug Crime?
 
-Dangerous drug crimes in Arizona are not taken lightly. If you have been charged with a dangerous drug crime, it is central that you consult a skilled [Phoenix criminal attorney](https://www.azblumberglaw.com/phoenix-criminal-attorney/) at Blumberg & Associates. To discuss your options and schedule a free consultation with us, please do not hesitate to contact us at (602) 277-6180 today.
+Dangerous drug crimes in Arizona are not taken lightly. If you have been charged with a dangerous drug crime, it is central that you consult a skilled [Phoenix criminal attorney](https://azblumberglaw.com/phoenix-criminal-attorney/) at Blumberg & Associates. To discuss your options and schedule a free consultation with us, please do not hesitate to contact us at (602) 277-6180 today.
 
 Resource:
 

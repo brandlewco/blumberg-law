@@ -34,7 +34,7 @@ A criminal defense attorney must also focus on “mitigation” and teach the ju
 
 **Honest, Experience, Dedicated Defense Attorney**
 
-We don’t always have the answer that comforts our clients and so I think you have to prepare them and their families very carefully when cases involve [sex crimes](https://www.azblumberglaw.com/phoenix-criminal-attorney/sex-crimes/) because it’s very similar to going to your doctor with a tumor inside and knowing that it’s cancerous.
+We don’t always have the answer that comforts our clients and so I think you have to prepare them and their families very carefully when cases involve [sex crimes](https://azblumberglaw.com/phoenix-criminal-attorney/sex-crimes/) because it’s very similar to going to your doctor with a tumor inside and knowing that it’s cancerous.
 
 Saying, “Hey doc, can you get the whole thing? Can you make it so I can live through this?”  The doctor is not going to say, “Oh don’t worry about it, I’ll take care of you. I’m going to make it so that you live through this.”
 

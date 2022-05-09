@@ -40,7 +40,7 @@ In 2009, a man faced 13 felony charges after impersonating a highly-decorated Ma
 
 **Enlist the Help of a Qualified Attorney Today **
 
-Don’t face any criminal charges without the help of a skilled [Phoenix criminal attorney](https://www.azblumberglaw.com/phoenix-criminal-attorney/). If you need assistance with your case, reach out to us today at Blumberg & Associates for a consultation.
+Don’t face any criminal charges without the help of a skilled [Phoenix criminal attorney](https://azblumberglaw.com/phoenix-criminal-attorney/). If you need assistance with your case, reach out to us today at Blumberg & Associates for a consultation.
 
 Resource:
 

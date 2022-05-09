@@ -22,7 +22,7 @@ socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
 
-Being arrested and charged for assault with a deadly weapon or dangerous instrument is a very serious matter in Arizona. A conviction can result in significant penalties, which can include a mandatory severe prison sentence, hefty fines, and lifelong consequences once you are released. It’s imperative that you contact an experienced [Phoenix criminal attorney](https://www.azblumberglaw.com/phoenix-criminal-attorney/) right away if you are facing deadly weapons charges in Arizona.
+Being arrested and charged for assault with a deadly weapon or dangerous instrument is a very serious matter in Arizona. A conviction can result in significant penalties, which can include a mandatory severe prison sentence, hefty fines, and lifelong consequences once you are released. It’s imperative that you contact an experienced [Phoenix criminal attorney](https://azblumberglaw.com/phoenix-criminal-attorney/) right away if you are facing deadly weapons charges in Arizona.
 
 Here’s what you need to know about how Arizona law classifies deadly weapons to help you better understand the charges you are facing.
 
@@ -74,4 +74,4 @@ These are just a few of the potential defenses that may be available in your cas
 
 If you need assistance with a deadly weapons charge in Arizona, let our experienced Phoenix criminal defense team help. Contact Blumberg & Associates today to schedule an initial consultation.
 
-<https://www.azblumberglaw.com/what-to-do-if-you-think-youre-being-investigated-for-a-crime-in-phoenix/>
+<https://azblumberglaw.com/what-to-do-if-you-think-youre-being-investigated-for-a-crime-in-phoenix/>

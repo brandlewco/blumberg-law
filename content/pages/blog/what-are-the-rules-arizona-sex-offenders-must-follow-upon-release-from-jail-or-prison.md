@@ -24,7 +24,7 @@ socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
 
-After a [sex offender](https://www.azblumberglaw.com/phoenix-criminal-attorney/sex-offender-registration/) is released from jail or prison, he or she may remain under supervision (probation) depending on the nature of the crime. If the offender is under supervision, he or she must register with the country sheriff’s office in the community he or she is relocating to within 72 hours of release. Sex offenders may be supervised in their day-to-day activities in order to protect their victims, vulnerable people and the general public. Sex offenders have other rules and regulations to follow.
+After a [sex offender](https://azblumberglaw.com/phoenix-criminal-attorney/sex-offender-registration/) is released from jail or prison, he or she may remain under supervision (probation) depending on the nature of the crime. If the offender is under supervision, he or she must register with the country sheriff’s office in the community he or she is relocating to within 72 hours of release. Sex offenders may be supervised in their day-to-day activities in order to protect their victims, vulnerable people and the general public. Sex offenders have other rules and regulations to follow.
 
 **Here are some of the rules and regulations sex offender must abide by:**
 

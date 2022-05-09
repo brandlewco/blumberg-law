@@ -64,4 +64,4 @@ Although these disputes are still commonly known among the public under the umbr
 
 Our family law attorneys at Blumberg & Associates have extensive experience with child custody disputes and divorce proceedings. We have helped many people going through what you’re going through, and we’ve seen firsthand the heartache and loss of control parents feel in these situations. Our attorneys are compassionate and empathetic, and will provide both the support and knowledgeable guidance you’ll want during this difficult time.
 
-[Contact us today ](https://www.azblumberglaw.com/contact-us/)to request a free child custody consultation.
+[Contact us today ](https://azblumberglaw.com/contact-us/)to request a free child custody consultation.
