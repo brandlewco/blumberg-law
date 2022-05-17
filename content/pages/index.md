@@ -5,12 +5,13 @@ hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: |-
+    title: |+
       <h1>
       <span>Bruce Blumberg </span>
       <span>Family Law & </span>
-      <span>Criminal Defense Attorney</span>
+      <span>Criminal Defense Attorney.</span>
       </h1>
+
     subtitle: '**With Over 30 Years of Legal Experience In Phoenix.**'
     actions:
       - type: Button
