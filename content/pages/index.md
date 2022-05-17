@@ -10,7 +10,7 @@ hero:
       Lawyer<span></h1>
 
 
-      <h2 class="text-secondary text-2xl">With Over 30 Years of Law Experiance
+      <h2 class="text-secondary text-4xl">With Over 30 Years of Law Experiance
       In Phoenix, Az.</h2>
 
     subtitle: >-
