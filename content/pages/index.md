@@ -9,8 +9,8 @@ hero:
       <h1 class="flex flex-col"><span>Bruce Blumberg</span><span>Family Law
       &</span> <span>Criminal Defense Attorney<span></h1>
 
-      <h2 class="text-secondary text-4xl py-4">With Over 30 Years of Legal
-      Experiance In Phoenix.</h2>
+      <h2 class="text-4xl py-4"><strong>With Over 30 Years of Legal Experiance
+      In Phoenix.</strong></h2>
 
     subtitle: >-
       If you have been charged with a criminal offense in the state of Arizona,
