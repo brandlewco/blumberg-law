@@ -6,7 +6,9 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |+
-      # Family Law & Criminal Defense Lawyer
+      # Family Law
+
+      # Criminal Defense Lawyer
 
       ## **With Over 30 Years of Experiance In Phoenix, Az.**
 
