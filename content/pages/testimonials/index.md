@@ -59,7 +59,7 @@ topSections:
     title: |+
       # Testimonials
 
-    subtitle: Real People. Real Cases.
+    subtitle: Read what our clients are saying.
     actions: []
     styles:
       self:
