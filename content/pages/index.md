@@ -671,7 +671,7 @@ sections:
         justifyContent: left
     title: |+
       <h2>
-      <span>Read Testimonials From </span>
+      <span>Read Testimonials From Our</span>
       <strong>Real Cases & Real Clients.</strong>
       </h2>
 
