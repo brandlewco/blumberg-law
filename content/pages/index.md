@@ -62,7 +62,6 @@ sections:
       - type: FeaturedItem
         title: |-
           Extensive Trial
-
           Experience.
         text: >
           Bruce Blumberg has handled nearly 100 jury trials, including winning
