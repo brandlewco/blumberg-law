@@ -154,10 +154,12 @@ sections:
     type: FeaturedItemsSection
   - colors: colors-b
     elementId: hero-button-grid
-    title: |
-      **Phoenix’s Leading**
+    title: |+
+      <h2 class="flex flex-col">
+      <span>Phoenix’s Leading</span>
+      <span class="text-secondary">Criminal Defense Attorney.</span>
+      </h2>
 
-      Criminal Defense Attorney.
     subtitle: Choose A Practice Area To Learn How We Can Help You.
     items:
       - type: FeaturedItem
