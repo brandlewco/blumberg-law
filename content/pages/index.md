@@ -5,12 +5,11 @@ hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: |
-      # Bruce Blumberg
+    title: |+
+      # Family Law & Criminal Defense Lawyer
 
-      # Criminal Defense Lawyer
+      ## With Over 30 Years of Experiance In Phoenix, Az.
 
-      ## With Over 30 Years of Experiance
     subtitle: >-
       If you have been charged with a criminal offense in the state of Arizona,
       you deserve representation better than that of the prosecution.
