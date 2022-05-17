@@ -5,11 +5,12 @@ hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: |+
-      # Bruce Blumberg
-      # Family Law &
-      # Criminal Defense Attorney
-
+    title: |-
+      <h1>
+      <span>Bruce Blumberg </span>
+      <span>Family Law & </span>
+      <span>Criminal Defense Attorney</span>
+      </h1>
     subtitle: '**With Over 30 Years of Legal Experience In Phoenix.**'
     actions:
       - type: Button
@@ -300,8 +301,8 @@ sections:
     colors: colors-a
     variant: variant-a
     title: >
-      ## A lawyer with the **skills and experience** you need when facing the
-      fight of your life.
+      ## A lawyer with the skills and experience you need when facing the fight
+      of your life.
     subtitle: ''
     text: >+
       <div class="flex flex-col lg:flex-row justify-between items-start gap-12
@@ -668,11 +669,12 @@ sections:
         textAlign: left
       actions:
         justifyContent: left
-    title: |
-      <h2 class="flex flex-col">
-      <span>Read What</span>
-      <strong>Our Clients Are Saying</strong>
+    title: |+
+      <h2>
+      <span>Read Testimonials From </span>
+      <strong>Our Real Clients</strong>
       </h2>
+
     colors: colors-b
     posts:
       - content/pages/testimonials/yaser-awad.md
