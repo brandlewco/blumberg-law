@@ -12,8 +12,9 @@ hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: |
-      Phoenix Criminal Attorney
+    title: |+
+      # Phoenix Criminal Attorney
+
     actions:
       - type: Button
         label: |
