@@ -13,9 +13,6 @@ hero:
     subtitle: >-
       <h2 class="text-4xl py-4"><strong>With Over 30 Years of Legal Experience
       In Phoenix.</strong></h2>
-
-      If you have been charged with a criminal offense in the state of Arizona,
-      you deserve representation better than that of the prosecution.
     actions:
       - type: Button
         label: Confidential Case Evaluation
