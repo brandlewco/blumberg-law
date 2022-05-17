@@ -9,12 +9,8 @@ hero:
       <h1 class="flex flex-col"><span>Bruce Blumberg</span><span>Family Law
       &</span> <span>Criminal Defense Attorney<span></h1>
 
-      <h2 class="text-4xl py-4"><strong>With Over 30 Years of Legal Experiance
-      In Phoenix.</strong></h2>
 
-    subtitle: >-
-      If you have been charged with a criminal offense in the state of Arizona,
-      you deserve representation better than that of the prosecution.
+    subtitle: '**With Over 30 Years of Legal Experience In Phoenix.**'
     actions:
       - type: Button
         label: Confidential Case Evaluation
@@ -54,6 +50,9 @@ hero:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
+    text: >
+      If you have been charged with a criminal offense in the state of Arizona,
+      you deserve representation better than that of the prosecution.
 sections:
   - colors: colors-a
     elementId: hero-features
