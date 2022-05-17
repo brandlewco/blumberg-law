@@ -5,13 +5,14 @@ hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: >
+    title: >+
       <h1 class="flex flex-col">Family Law & <span>Criminal Defense
       Lawyer<span></h1>
 
 
-      <h2 class="text-secondary">With Over 30 Years of Experiance In Phoenix,
-      Az.</h2>
+      <h2 class="text-secondary text-2xl">With Over 30 Years of Law Experiance
+      In Phoenix, Az.</h2>
+
     subtitle: >-
       If you have been charged with a criminal offense in the state of Arizona,
       you deserve representation better than that of the prosecution.
