@@ -10,9 +10,7 @@ hero:
       &</span> <span>Criminal Defense Attorney<span></h1>
 
 
-    subtitle: >-
-      <h2 class="text-4xl py-4"><strong>With Over 30 Years of Legal Experience
-      In Phoenix.
+    subtitle: With Over 30 Years of Legal Experience In Phoenix.
     actions:
       - type: Button
         label: Confidential Case Evaluation
