@@ -159,7 +159,7 @@ sections:
       <span>Phoenix’s Leading</span>
       <span class="text-secondary">Criminal Defense Attorney.</span>
       </h3>
-    subtitle: Choose A Practice Area To Learn How We Can Help You.
+    subtitle: Choose A Law Practice Area To Learn How We Can Help You.
     items:
       - type: FeaturedItem
         actions:
