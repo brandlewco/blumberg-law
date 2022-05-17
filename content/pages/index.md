@@ -672,7 +672,7 @@ sections:
     title: |+
       <h2>
       <span>Read Testimonials From </span>
-      <strong>Our Real Clients</strong>
+      <strong>Real Cases & Real Clients.</strong>
       </h2>
 
     colors: colors-b
