@@ -155,7 +155,7 @@ sections:
   - colors: colors-b
     elementId: hero-button-grid
     title: |+
-      <h2 class="flex flex-col">
+      <h3 class="flex flex-col">
       <span>Phoenix’s Leading</span>
       <span class="text-secondary">Criminal Defense Attorney.</span>
       </h2>
