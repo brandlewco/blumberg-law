@@ -6,9 +6,8 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: >+
-      <h1 class="flex flex-col"><span class="text-5xl">Bruce
-      Blumberg</span><span>Family Law &</span> <span>Criminal Defense
-      Lawyer<span></h1>
+      <h1 class="flex flex-col"><span>Bruce Blumberg</span><span>Family Law
+      &</span> <span>Criminal Defense Lawyer<span></h1>
 
 
       <h2 class="text-secondary text-4xl">With Over 30 Years of Law Experiance
