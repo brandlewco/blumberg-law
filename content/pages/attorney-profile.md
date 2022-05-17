@@ -143,7 +143,9 @@ sections:
         textAlign: left
       actions:
         justifyContent: left
-    title: Testimonials
+    title: |+
+      ## Testimonials
+
     colors: colors-b
     posts:
       - content/pages/testimonials/jg-hori.md
