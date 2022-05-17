@@ -690,7 +690,7 @@ sections:
     variant: variant-a
     subtitle: ''
     text: >
-      ## Domestic Violence
+      ### Domestic Violence
 
 
       As a criminal law specialist who also handles an array of high-conflict
@@ -713,9 +713,7 @@ sections:
       found guilty of domestic violence.
 
 
-
-
-      ## Juvenile Offenses
+      ### Juvenile Offenses
 
 
       The goal of the juvenile justice system is rehabilitation, not punishment.
@@ -735,9 +733,7 @@ sections:
       criminal offense or status offense in Phoenix or surrounding areas.
 
 
-
-
-      ## Probation Violations
+      ### Probation Violations
 
 
       Getting sentenced to a period of probation is an alternative to
