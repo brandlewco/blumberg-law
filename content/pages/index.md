@@ -87,7 +87,7 @@ sections:
           In The Courtroom.
         text: >
           We have won acquittals in more than 25 serious felony cases, more than
-          many attorneys have even tried.  Having our experiance on your side
+          many attorneys have even tried.  Having our experience on your side
           for your day in court makes all the difference.
         actions: []
         styles:
@@ -111,7 +111,7 @@ sections:
         title: Successfully Represented Thousands of Clients.
         text: >
           Contact us today to schedule a consultation with our knowledgeable
-          legal team. 
+          legal team.
         actions: []
         styles:
           self:
@@ -154,9 +154,9 @@ sections:
   - colors: colors-b
     elementId: hero-button-grid
     title: |+
-      <h3 class="flex flex-col">
+      <h3>
       <span>Phoenix’s Leading</span>
-      <strong>Criminal Defense Attorney.</strong>
+      <strong>Criminal Defense Lawyer.</strong>
       </h3>
 
     subtitle: Choose A Law Practice Area To Learn How We Can Help You.
@@ -790,5 +790,5 @@ metaTitle: 'Blumberg & Associates - Criminal Law Attorney | Phoenix, Arizona'
 metaDescription: >-
   Serving clients for over 30 years in Criminal Defense & Family law cases. With
   nearly 100 jury trials, Bruce has won innumerable bench trials for clients
-  charges with felonies and misdemeanors. 
+  charges with felonies and misdemeanors.
 ---
