@@ -10,7 +10,7 @@ hero:
       Lawyer<span></h1>
 
 
-      <h2> With Over 30 Years of Experiance In Phoenix, Az.</h2>
+      **<h2> With Over 30 Years of Experiance In Phoenix, Az.</h2>**
 
     subtitle: >-
       If you have been charged with a criminal offense in the state of Arizona,
