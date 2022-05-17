@@ -669,9 +669,10 @@ sections:
       actions:
         justifyContent: left
     title: |
-      Read What
-
-      **Our Clients Are Saying**
+      <h2 class="flex flex-col">
+      <span>Read What</span>
+      <strong>Our Clients Are Saying</strong>
+      </h2>
     colors: colors-b
     posts:
       - content/pages/testimonials/yaser-awad.md
