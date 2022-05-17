@@ -13,8 +13,8 @@ hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: |
-      Phoenix White Collar Crime Attorney
+    title: |+
+      #Phoenix White Collar Crime Attorney
     actions:
       - type: Button
         label: |

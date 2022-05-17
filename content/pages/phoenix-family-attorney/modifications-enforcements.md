@@ -12,8 +12,8 @@ hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: |
-      Phoenix Modifications & Enforcements Attorney
+    title: |+
+      #Phoenix Modifications & Enforcements Attorney
     actions:
       - type: Button
         label: |

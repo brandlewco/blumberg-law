@@ -5,7 +5,7 @@ hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: |-
+    title: |+
       <h1>
       <span>Bruce Blumberg </span>
       <span>Family Law & </span>

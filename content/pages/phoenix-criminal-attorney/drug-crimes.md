@@ -12,8 +12,8 @@ hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: |
-      Phoenix Drug Crimes Attorney
+    title: |+
+      #Phoenix Drug Crimes Attorney
     actions:
       - type: Button
         label: |

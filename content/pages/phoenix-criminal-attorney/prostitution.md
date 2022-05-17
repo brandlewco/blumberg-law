@@ -12,8 +12,8 @@ hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: |
-      Phoenix Prostitution Attorney
+    title: |+
+      #Phoenix Prostitution Attorney
     actions:
       - type: Button
         label: |

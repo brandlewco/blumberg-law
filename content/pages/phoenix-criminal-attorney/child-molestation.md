@@ -13,8 +13,8 @@ hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: |
-      Phoenix Child Molestation Attorney
+    title: |+
+      #Phoenix Child Molestation Attorney
     actions:
       - type: Button
         label: |

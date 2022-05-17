@@ -12,8 +12,8 @@ hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: |
-      Phoenix Divorce Attorney
+    title: |+
+      #Phoenix Divorce Attorney
     actions:
       - type: Button
         label: |

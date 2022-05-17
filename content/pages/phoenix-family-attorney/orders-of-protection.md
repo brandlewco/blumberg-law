@@ -12,8 +12,8 @@ hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: |
-      Phoenix Orders of Protection Attorney
+    title: |+
+      #Phoenix Orders of Protection Attorney
     actions:
       - type: Button
         label: |

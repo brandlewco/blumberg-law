@@ -12,8 +12,8 @@ hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: |
-      Phoenix Juvenile Crime Attorney
+    title: |+
+      #Phoenix Juvenile Crime Attorney
     actions:
       - type: Button
         label: |
