@@ -6,9 +6,9 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |+
-      # Bruce Blumberg 
-      Family Law & 
-      Criminal Defense Attorney
+      # Bruce Blumberg
+      # Family Law &
+      # Criminal Defense Attorney
 
     subtitle: '**With Over 30 Years of Legal Experience In Phoenix.**'
     actions:
