@@ -8,7 +8,7 @@ hero:
     title: |+
       # Family Law & Criminal Defense Lawyer
 
-      ## With Over 30 Years of Experiance In Phoenix, Az.
+      ## **With Over 30 Years of Experiance In Phoenix, Az.**
 
     subtitle: >-
       If you have been charged with a criminal offense in the state of Arizona,
