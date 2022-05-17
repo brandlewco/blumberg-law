@@ -18,8 +18,9 @@ hero:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
-    title: |
-      Contact us today for a confidential case evaluation.
+    title: |+
+      # Contact us today for a confidential case evaluation.
+
     subtitle: ''
     text: >
       Get dedicated, experienced, and proven legal representation in Phoenix,
