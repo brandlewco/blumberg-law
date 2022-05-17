@@ -5,14 +5,12 @@ hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: >+
-      \<h1 class="flex flex-col">\<span>Bruce Blumberg\</span>\<span>Family Law
-      &\</span> \<span>Criminal Defense Attorney\<span>\</h1>
-
+    title: >
+      <h1 class="flex flex-col"><span>Bruce Blumberg</span><span>Family Law
+      &</span> <span>Criminal Defense Attorney<span></h1>
 
       <h2 class="text-secondary text-4xl">With Over 30 Years of Law Experiance
       In Phoenix, Az.</h2>
-
     subtitle: >-
       If you have been charged with a criminal offense in the state of Arizona,
       you deserve representation better than that of the prosecution.
