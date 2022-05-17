@@ -37,11 +37,10 @@ export default function FeaturedItem(props) {
                 </div>
             )}
             {props.title && (
-                <Markdown
-                    options={{ forceWrapper: true, wrapper: 'h3' }}
+                <h3
                     className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
                     {props.title}
-                </Markdown>
+                </h3>
             )}
             {props.subtitle && (
                 <p

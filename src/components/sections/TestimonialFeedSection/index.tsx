@@ -54,7 +54,6 @@ export default function TestimonialFeedSection(props) {
                         <div className='w-full'>
                             {props.title && (
                                 <Markdown
-                                    options={{ forceWrapper: true, wrapper: 'h2' }}
                                     className={classNames('h1', styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
                                     {props.title}
                                 </Markdown>

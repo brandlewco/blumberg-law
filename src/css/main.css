@@ -241,6 +241,8 @@
         }
     }
 
+
+
     #homepage-hero-1 .absolute {
         background-position: 80%;
         @apply  xl:bg-center;
@@ -252,7 +254,7 @@
     }
 
     #homepage-hero-1 div.max-w-7xl > div {
-        @apply xl:w-1/2 w-full;
+        @apply xl:w-2/3 w-full;
     }
     /* #homepage-hero-1 .absolute {
         @apply

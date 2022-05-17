@@ -61,7 +61,6 @@ export default function FeaturedItemsSection(props) {
                 <div className={classNames('w-full', mapMaxWidthStyles(sectionWidth))}>
                     {props.title && (
                         <Markdown
-                        options={{ forceWrapper: true, wrapper: 'h2' }}
                         className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
                         {props.title}
                         </Markdown>

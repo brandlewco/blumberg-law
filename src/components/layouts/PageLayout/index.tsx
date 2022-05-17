@@ -16,11 +16,11 @@ export default function PageLayout(props) {
     return (
         <BaseLayout page={page} site={site}>
             <main id="main" className="sb-layout sb-page-layout">
-                {page.title && (
+                {/* {page.title && (
                     <h1 className="sr-only" data-sb-field-path="title">
                         {page.title}
                     </h1>
-                )}
+                )} */}
                 {hero.length > 0 && (
                     <div className="w-full" data-sb-field-path="hero">
                         {hero.map((section, index) => {
