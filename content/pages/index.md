@@ -9,7 +9,7 @@ hero:
       <h1 class="flex flex-col"><span>Bruce Blumberg</span><span>Family Law
       &</span> <span>Criminal Defense Attorney<span></h1>
 
-      <h2 class="text-secondary text-4xl py-4">With Over 30 Years of Law
+      <h2 class="text-secondary text-4xl py-4">With Over 30 Years of Legal
       Experiance In Phoenix, Az.</h2>
 
     subtitle: >-
