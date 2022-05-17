@@ -6,7 +6,7 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: >+
-      <h1 class="flex flex-col"><span class="text-secondary text-5xl">Bruce
+      <h1 class="flex flex-col"><span class="text-5xl">Bruce
       Blumberg</span><span>Family Law &</span> <span>Criminal Defense
       Lawyer<span></h1>
 
