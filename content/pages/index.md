@@ -85,7 +85,6 @@ sections:
       - type: FeaturedItem
         title: |-
           Proven Track Record
-
           In The Courtroom.
         text: >
           We have won acquittals in more than 25 serious felony cases, more than
