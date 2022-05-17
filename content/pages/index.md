@@ -7,8 +7,8 @@ hero:
     colors: colors-b
     title: |+
       <h1 class="flex flex-col">
-      <span>Bruce Blumberg</span>
-      <span>Family Law &</span>
+      <span>Bruce Blumberg </span>
+      <span>Family Law & </span>
       <span>Criminal Defense Attorney</span>
       </h1>
 
