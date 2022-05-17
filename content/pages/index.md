@@ -12,7 +12,7 @@ hero:
 
     subtitle: >-
       <h2 class="text-4xl py-4"><strong>With Over 30 Years of Legal Experience
-      In Phoenix.</strong></h2>
+      In Phoenix.
     actions:
       - type: Button
         label: Confidential Case Evaluation
