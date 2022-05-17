@@ -156,7 +156,7 @@ sections:
     elementId: hero-button-grid
     title: |+
       <h3 class="flex flex-col">
-      <span>Phoenix’s Leading</span>
+      <span>Phoenix’s Leading </span>
       <strong>Criminal Defense Attorney.</strong>
       </h3>
 
