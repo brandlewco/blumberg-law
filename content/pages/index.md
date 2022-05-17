@@ -6,11 +6,11 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |
-      **More Than 30 Years**
+      # Bruce Blumberg
 
-      Of Legal Experience
+      # Criminal Defense Lawyer
 
-      In Phoenix, Arizona.
+      ## With Over 30 Years of Experiance
     subtitle: >-
       If you have been charged with a criminal offense in the state of Arizona,
       you deserve representation better than that of the prosecution.
