@@ -10,7 +10,7 @@ hero:
       &</span> <span>Criminal Defense Attorney<span></h1>
 
       <h2 class="text-secondary text-4xl py-4">With Over 30 Years of Legal
-      Experiance In Phoenix, Az.</h2>
+      Experiance In Phoenix.</h2>
 
     subtitle: >-
       If you have been charged with a criminal offense in the state of Arizona,
