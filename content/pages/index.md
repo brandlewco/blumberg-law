@@ -7,7 +7,7 @@ hero:
     colors: colors-b
     title: |+
       <h1>
-      <span>More than 30 years </span>
+      <span>More than <strong>30 years</strong> </span>
       <span>Of Criminal Defense Experience</span>
       <span>In Phoenix, Arizona.</span>
       </h1>
