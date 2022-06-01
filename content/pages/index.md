@@ -54,9 +54,6 @@ hero:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
-    text: >
-      If you have been charged with a criminal offense in the state of Arizona,
-      you deserve representation better than that of the prosecution.
 sections:
   - colors: colors-a
     elementId: hero-features
