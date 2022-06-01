@@ -737,8 +737,8 @@ sections:
       incarceration that, for many people, amounts to an excellent outcome in
       their criminal case. However, if during the probation period you commit
       any criminal offense or otherwise break the terms of your probation, the
-      jail sentence which had been suspended or deferred can be rapidly imposed,
-      without the benefit of a full trial. It is important to be aware of this
+      jail sentence which had been suspended or deferred can be imposed, without
+      the benefit of a full trial. It is important to be aware of this
       possibility before you plead guilty to an offense in order to get
       probation. Talk to your attorney about whether a plea or trial is in your
       best interests.
