@@ -436,8 +436,6 @@ sections:
 
       *   Corporate Fraud
 
-      *   Criminal Appeals
-
       *   Dangerous Offenses
 
       *   Date & Spousal Rape
@@ -447,8 +445,6 @@ sections:
       *   Drug Crimes
 
       *   Drug Possession
-
-      *   DUI
 
       *   Embezzlement
 
