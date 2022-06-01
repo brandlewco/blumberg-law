@@ -157,7 +157,7 @@ sections:
     title: |+
       <h3>
       <span>Phoenix’s Leading</span>
-      <strong>Criminal Defense Lawyer.</strong>
+      <strong>Criminal Defense Attorney.</strong>
       </h3>
 
     subtitle: Choose A Law Practice Area To Learn How We Can Help You.
