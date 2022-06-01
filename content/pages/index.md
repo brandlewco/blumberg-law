@@ -7,9 +7,9 @@ hero:
     colors: colors-b
     title: |+
       <h1>
-      <span>Bruce Blumberg </span>
-      <span>Family Law & </span>
-      <span>Criminal Defense Attorney.</span>
+      <span>More than 30 years </span>
+      <span>Of Criminal Defense Experience</span>
+      <span>In Phoenix, Arizona.</span>
       </h1>
 
     subtitle: '**With Over 30 Years of Legal Experience In Phoenix.**'
