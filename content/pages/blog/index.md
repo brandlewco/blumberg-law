@@ -31,8 +31,12 @@ topSections:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
-    title: Arizona Legal Insights Blog
-    subtitle: 'Recent rulings from Arizona courts, and how to keep yourself protected.'
+    title: |+
+      # Arizona Legal Insights Blog
+
+    subtitle: >-
+      Learn about recent rulings from Arizona courts, new laws in Arizona, and
+      how to keep yourself protected.
     actions: []
     styles:
       self:

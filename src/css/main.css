@@ -19,13 +19,13 @@
         line-height: 1 !important;
     }
     h1, .h1 {
-        @apply text-4xl md:text-6xl
+        @apply text-4xl md:text-6xl flex flex-col;
     }
     h2 {
-        @apply text-3xl md:text-5xl
+        @apply text-3xl md:text-5xl flex flex-col;
     }
     h3 {
-        @apply text-2xl md:text-4xl
+        @apply text-2xl md:text-4xl flex flex-col;
     }
     h4 {
         @apply text-2xl md:text-3xl
@@ -241,6 +241,8 @@
         }
     }
 
+
+
     #homepage-hero-1 .absolute {
         background-position: 80%;
         @apply  xl:bg-center;
@@ -252,7 +254,7 @@
     }
 
     #homepage-hero-1 div.max-w-7xl > div {
-        @apply xl:w-1/2 w-full;
+        @apply xl:w-2/3 w-full;
     }
     /* #homepage-hero-1 .absolute {
         @apply

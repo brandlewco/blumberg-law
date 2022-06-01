@@ -357,7 +357,7 @@
             },
             {
                 "type": "Link",
-                "label": "**Our Office:**\n\n3600 N 19TH AVE\n\nPHOENIX, AZ 85003\n",
+                "label": "**Our Office:**\n\n3600 N 19TH AVE\n\nPHOENIX, AZ 85015\n",
                 "altText": "",
                 "url": "https://g.page/r/Cfo6l1OQy2exEAE",
                 "child": [],
@@ -439,7 +439,7 @@
             "elementId": ""
         },
         "title": "Blumberg & Associates",
-        "text": "Over 30 of criminal case experiance. \n\n",
+        "text": "Over 30 of criminal case experience. \n\n",
         "logo": {
             "type": "ImageBlock",
             "url": "/images/blumberg-black.png",

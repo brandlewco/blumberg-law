@@ -104,7 +104,7 @@ function heroBody(props) {
         <div>
             {props.title && (
                 <Markdown
-                    options={{ forceWrapper: true, wrapper: 'h2' }}
+                    options={{ forceBlock: true}}
                     className={classNames('h1', styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
                     {props.title}
                 </Markdown>
@@ -112,7 +112,7 @@ function heroBody(props) {
             {props.subtitle && (
                 <Markdown
                     options={{ forceWrapper: true, forceBlock: true }}
-                    className={classNames('text-xl', 'sm:text-2xl', styles.subtitle ? mapStyles(styles.subtitle) : null, { 'mt-4': props.title })}
+                    className={classNames('text-xl', 'sm:text-2xl', 'markdown', styles.subtitle ? mapStyles(styles.subtitle) : null, { 'mt-4': props.title })}
                     data-sb-field-path=".subtitle"
                 >
                     {props.subtitle}

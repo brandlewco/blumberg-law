@@ -56,8 +56,10 @@ topSections:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
-    title: Testimonials
-    subtitle: Real People. Real Cases.
+    title: |+
+      # Testimonials
+
+    subtitle: Read what our clients are saying.
     actions: []
     styles:
       self:

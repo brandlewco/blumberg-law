@@ -5,15 +5,16 @@ hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: |
-      **More Than 30 Years**
+    title: |+
+      <h1>
+      <span>More than <strong>30 years</strong> of</span>
+      <span>Criminal Defense &</span>
+      <span>Family Law Experience.</span>
+      </h1>
 
-      Of Legal Experience
-
-      In Phoenix, Arizona.
     subtitle: >-
       If you have been charged with a criminal offense in the state of Arizona,
-      you deserve representation better than that of the prosecution.
+      you deserve representation better than that of the prosecution. 
     actions:
       - type: Button
         label: Confidential Case Evaluation
@@ -61,7 +62,6 @@ sections:
       - type: FeaturedItem
         title: |-
           Extensive Trial
-
           Experience.
         text: >
           Bruce Blumberg has handled nearly 100 jury trials, including winning
@@ -85,11 +85,10 @@ sections:
       - type: FeaturedItem
         title: |-
           Proven Track Record
-
           In The Courtroom.
         text: >
           We have won acquittals in more than 25 serious felony cases, more than
-          many attorneys have even tried.  Having our experiance on your side
+          many attorneys have even tried.  Having our experience on your side
           for your day in court makes all the difference.
         actions: []
         styles:
@@ -113,7 +112,7 @@ sections:
         title: Successfully Represented Thousands of Clients.
         text: >
           Contact us today to schedule a consultation with our knowledgeable
-          legal team. 
+          legal team.
         actions: []
         styles:
           self:
@@ -155,11 +154,13 @@ sections:
     type: FeaturedItemsSection
   - colors: colors-b
     elementId: hero-button-grid
-    title: |
-      **Phoenix’s Leading**
+    title: |+
+      <h3>
+      <span>Phoenix’s Leading</span>
+      <strong>Criminal Defense Attorney.</strong>
+      </h3>
 
-      Criminal Defense Attorney.
-    subtitle: Choose A Practice Area To Learn How We Can Help You.
+    subtitle: Choose A Law Practice Area To Learn How We Can Help You.
     items:
       - type: FeaturedItem
         actions:
@@ -284,7 +285,7 @@ sections:
           - pr-8
         justifyContent: center
       title:
-        textAlign: left
+        textAlign: center
       subtitle:
         textAlign: left
       actions:
@@ -300,7 +301,7 @@ sections:
     colors: colors-a
     variant: variant-a
     title: >
-      A lawyer with the **skills and experience** you need when facing the fight
+      ## A lawyer with the skills and experience you need when facing the fight
       of your life.
     subtitle: ''
     text: >+
@@ -309,7 +310,7 @@ sections:
 
       <div>At Blumberg & Associates, you’ll find the representation you need to
       get the best outcome available in your Arizona criminal law matter. We
-      believe every person accused of a crime deserves fair treatment and
+      believe every person accused of a crime deserves fair treatment and an
       effective defense by a skilled and knowledgeable criminal defense lawyer.
       Phoenix criminal attorney Bruce Blumberg is a Board-Certified Criminal Law
       Specialist with over 30 years of experience practicing criminal law in
@@ -435,8 +436,6 @@ sections:
 
       *   Corporate Fraud
 
-      *   Criminal Appeals
-
       *   Dangerous Offenses
 
       *   Date & Spousal Rape
@@ -446,8 +445,6 @@ sections:
       *   Drug Crimes
 
       *   Drug Possession
-
-      *   DUI
 
       *   Embezzlement
 
@@ -572,12 +569,13 @@ sections:
       - >-
         content/pages/cases/client-accused-of-attempted-murder-in-the-second-degree-after-four-bullets-were-fired-into-the-alleged-victim-in-a-bar-parking-lot-both-involved-parties-were-intoxicated.md
       - >-
-        content/pages/cases/minor-accused-of-aggravated-assault-dangerous-offense-by-holding-a-gun-on-officers-conducting-a-search-warrant-at-mother's-apartment..md
+        content/pages/cases/minor-accused-of-aggravated-assault-dangerous-offense-by-holding-a-gun-on-officers-conducting-a-search-warrant-at-mother's-apartment.md
   - elementId: ''
     colors: colors-b
     variant: variant-b
-    title: |
-      Contact An **Experienced** Phoenix Criminal Attorney Today
+    title: |+
+      ## Contact An **Experienced** Phoenix Criminal Attorney Today
+
     text: >
       At Blumberg & Associates, we apply our knowledge, skills, experience and
       dedication toward achieving a favorable result in your criminal case. We
@@ -586,9 +584,9 @@ sections:
       probation, diversion or some other desirable outcome. If your case can’t
       be resolved pre-trial, you are in the hands of one of Arizona’s most
       experienced and successful criminal law trial litigators. Whether facing a
-      judge or jury trial, Blumberg & Associates is devoted to obtaining an
-      acquittal or not guilty verdict or helping you avoid mandatory sentences
-      and the most serious consequences of a criminal conviction in Arizona.
+      judge or jury trial, Blumberg & Associates is devoted to obtaining a not
+      guilty verdict and helping you avoid mandatory sentences, and the most
+      serious consequences of a criminal conviction in Arizona.
     styles:
       self:
         height: auto
@@ -667,10 +665,12 @@ sections:
         textAlign: left
       actions:
         justifyContent: left
-    title: |
-      Read What
+    title: |+
+      <h2>
+      <span>Read Testimonials From Our </span>
+      <strong>Real Cases & Real Clients.</strong>
+      </h2>
 
-      **Our Clients Are Saying**
     colors: colors-b
     posts:
       - content/pages/testimonials/yaser-awad.md
@@ -687,7 +687,7 @@ sections:
     variant: variant-a
     subtitle: ''
     text: >
-      ## Domestic Violence
+      ### Domestic Violence
 
 
       As a criminal law specialist who also handles an array of high-conflict
@@ -710,9 +710,7 @@ sections:
       found guilty of domestic violence.
 
 
-
-
-      ## Juvenile Offenses
+      ### Juvenile Offenses
 
 
       The goal of the juvenile justice system is rehabilitation, not punishment.
@@ -732,17 +730,15 @@ sections:
       criminal offense or status offense in Phoenix or surrounding areas.
 
 
-
-
-      ## Probation Violations
+      ### Probation Violations
 
 
       Getting sentenced to a period of probation is an alternative to
       incarceration that, for many people, amounts to an excellent outcome in
       their criminal case. However, if during the probation period you commit
       any criminal offense or otherwise break the terms of your probation, the
-      jail sentence which had been suspended or deferred can be rapidly imposed,
-      without the benefit of a full trial. It is important to be aware of this
+      jail sentence which had been suspended or deferred can be imposed, without
+      the benefit of a full trial. It is important to be aware of this
       possibility before you plead guilty to an offense in order to get
       probation. Talk to your attorney about whether a plea or trial is in your
       best interests.
@@ -792,5 +788,5 @@ metaTitle: 'Blumberg & Associates - Criminal Law Attorney | Phoenix, Arizona'
 metaDescription: >-
   Serving clients for over 30 years in Criminal Defense & Family law cases. With
   nearly 100 jury trials, Bruce has won innumerable bench trials for clients
-  charges with felonies and misdemeanors. 
+  charges with felonies and misdemeanors.
 ---
