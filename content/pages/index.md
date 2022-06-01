@@ -5,15 +5,14 @@ hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: |+
+    title: |
       <h1>
       <span>More than <strong>30 years</strong> of</span>
       <span>Criminal Defense &</span>
 
-      \<span>Family Law Experience\</span
+      \<span>Family Law Experience\</span>
       \<span>In Phoenix, Arizona.\</span>
       \</h1>
-
     subtitle: '**With Over 30 Years of Legal Experience In Phoenix.**'
     actions:
       - type: Button
