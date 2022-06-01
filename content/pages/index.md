@@ -310,7 +310,7 @@ sections:
 
       <div>At Blumberg & Associates, you’ll find the representation you need to
       get the best outcome available in your Arizona criminal law matter. We
-      believe every person accused of a crime deserves fair treatment and
+      believe every person accused of a crime deserves fair treatment and an
       effective defense by a skilled and knowledgeable criminal defense lawyer.
       Phoenix criminal attorney Bruce Blumberg is a Board-Certified Criminal Law
       Specialist with over 30 years of experience practicing criminal law in
