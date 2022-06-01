@@ -7,10 +7,12 @@ hero:
     colors: colors-b
     title: |+
       <h1>
-      <span>More than <strong>30 years</strong> </span>
-      <span>Of Criminal Defense Experience</span>
-      <span>In Phoenix, Arizona.</span>
-      </h1>
+      <span>More than <strong>30 years</strong> of</span>
+      <span>Criminal Defense &</span>
+
+      \<span>Family Law Experience\</span
+      \<span>In Phoenix, Arizona.\</span>
+      \</h1>
 
     subtitle: '**With Over 30 Years of Legal Experience In Phoenix.**'
     actions:
