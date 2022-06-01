@@ -8,7 +8,7 @@ hero:
     title: |
       <h1>
       <span>More than <strong>30 years</strong> of</span>
-      <span>Criminal Defense &</span>
+      <span>Criminal Defense & </span>
 
       \<span>Family Law Experience\</span>
       \<span>In Phoenix, Arizona.\</span>
