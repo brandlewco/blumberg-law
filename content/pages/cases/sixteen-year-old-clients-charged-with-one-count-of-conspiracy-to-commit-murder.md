@@ -3,7 +3,7 @@ layout: CasesLayout
 addTitleSuffix: true
 metaTags: []
 title: >-
-  Sixteen-year-old clients charged with one count of conspiracy to commit murder
+  Sixteen-year-old client charged with one count of conspiracy to commit murder
   which carries a mandatory penalty of twenty-five flat years in prison with no
   early release.
 colors: colors-d
