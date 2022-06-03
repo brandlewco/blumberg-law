@@ -12,8 +12,8 @@ hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: |
-      Phoenix Traffic Offense Attorney
+    title: |+
+      # Phoenix Traffic Offense Attorney
     actions:
       - type: Button
         label: |

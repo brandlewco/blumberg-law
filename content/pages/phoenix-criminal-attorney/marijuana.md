@@ -12,8 +12,8 @@ hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: |
-      Phoenix Marijuana Attorney
+    title: |+
+      # Phoenix Marijuana Attorney
     actions:
       - type: Button
         label: |

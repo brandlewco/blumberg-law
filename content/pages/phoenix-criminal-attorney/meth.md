@@ -12,8 +12,8 @@ hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: |
-      Phoenix Meth Attorney
+    title: |+
+      # Phoenix Meth Attorney
     actions:
       - type: Button
         label: |

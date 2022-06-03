@@ -12,8 +12,8 @@ hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: |
-      Phoenix Sex Crimes Attorney
+    title: |+
+      # Phoenix Sex Crimes Attorney
     actions:
       - type: Button
         label: |

@@ -12,8 +12,8 @@ hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: |
-      Phoenix Family Attorney
+    title: |+
+      #Phoenix Family Attorney
     actions:
       - type: Button
         label: |

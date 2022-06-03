@@ -12,8 +12,8 @@ hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: |
-      Phoenix Federal Drug Crime Attorney
+    title: |+
+      # Phoenix Federal Drug Crime Attorney
     actions:
       - type: Button
         label: |

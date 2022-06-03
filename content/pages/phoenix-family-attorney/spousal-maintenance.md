@@ -12,8 +12,8 @@ hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: |
-      Phoenix Spousal Maintenance Attorney
+    title: |+
+      #Phoenix Spousal Maintenance Attorney
     actions:
       - type: Button
         label: |

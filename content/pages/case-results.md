@@ -117,8 +117,8 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-d
     elementId: ''
-    title: |
-      Connect with Bruce.
+    title: |+
+      ### Connect with Bruce.
     backgroundSize: full
     subtitle: ''
     items:

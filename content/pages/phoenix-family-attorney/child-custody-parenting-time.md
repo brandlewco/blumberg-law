@@ -13,8 +13,8 @@ hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: |
-      Phoenix Child Custody & Parenting Time Attorney
+    title: |+
+      #Phoenix Child Custody & Parenting Time Attorney
     actions:
       - type: Button
         label: |
