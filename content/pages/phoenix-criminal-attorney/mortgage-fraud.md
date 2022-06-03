@@ -13,7 +13,7 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |+
-      #Phoenix Mortgage Fraud Attorney
+      # Phoenix Mortgage Fraud Attorney
     actions:
       - type: Button
         label: |

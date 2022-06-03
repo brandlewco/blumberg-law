@@ -13,7 +13,7 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |+
-      #Phoenix DUI Attorney
+      # Phoenix DUI Attorney
     actions:
       - type: Button
         label: |

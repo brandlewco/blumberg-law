@@ -12,8 +12,7 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |+
-
-      Phoenix Domestic Violence Attorney
+      # Phoenix Domestic Violence Attorney
 
     actions:
       - type: Button

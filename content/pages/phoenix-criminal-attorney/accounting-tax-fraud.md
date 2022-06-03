@@ -2,7 +2,7 @@
 layout: PageLayout
 metaTitle: Phoenix Accounting & Tax Fraud Attorney
 metaDescription: >-
-  content="Our Phoenix accounting and tax fraud defense attorneys frequently
+  Our Phoenix accounting and tax fraud defense attorneys frequently
   negotiate with state and federal authorities throughout Arizona, contact us
   today.
 addTitleSuffix: true
@@ -14,8 +14,7 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |+
-
-      Phoenix Accounting & Tax Fraud Attorney
+      # Phoenix Accounting & Tax Fraud Attorney
 
     actions:
       - type: Button

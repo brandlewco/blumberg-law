@@ -13,7 +13,7 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |+
-      #Phoenix Money Laundering Attorney
+      # Phoenix Money Laundering Attorney
     actions:
       - type: Button
         label: |

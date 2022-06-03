@@ -13,8 +13,7 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |+
-
-      Phoenix Embezzlement Attorney
+      # Phoenix Embezzlement Attorney
 
     actions:
       - type: Button

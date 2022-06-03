@@ -14,7 +14,7 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |+
-      #Phoenix Homicide Attorney
+      # Phoenix Homicide Attorney
     actions:
       - type: Button
         label: |

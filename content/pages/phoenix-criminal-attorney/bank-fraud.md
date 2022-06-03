@@ -13,8 +13,7 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |+
-
-      Phoenix Bank Fraud Attorney
+      # Phoenix Bank Fraud Attorney
 
     actions:
       - type: Button

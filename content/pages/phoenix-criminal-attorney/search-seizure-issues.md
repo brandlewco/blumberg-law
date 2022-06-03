@@ -13,7 +13,7 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |+
-      #Phoenix Search & Seizure Attorney
+      # Phoenix Search & Seizure Attorney
     actions:
       - type: Button
         label: |

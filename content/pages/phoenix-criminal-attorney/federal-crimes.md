@@ -14,7 +14,7 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |+
-      #Phoenix Federal Crimes Attorney
+      # Phoenix Federal Crimes Attorney
     actions:
       - type: Button
         label: |

@@ -13,7 +13,7 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |+
-      #Phoenix Corporate Fraud Attorney
+      # Phoenix Corporate Fraud Attorney
     actions:
       - type: Button
         label: |

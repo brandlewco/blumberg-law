@@ -13,7 +13,7 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |+
-      #Phoenix Mail & Wire Fraud Attorney
+      # Phoenix Mail & Wire Fraud Attorney
     actions:
       - type: Button
         label: |

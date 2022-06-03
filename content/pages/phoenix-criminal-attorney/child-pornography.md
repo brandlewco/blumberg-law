@@ -14,7 +14,7 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |+
-      #Phoenix Child Pornography Attorney
+      # Phoenix Child Pornography Attorney
     actions:
       - type: Button
         label: |

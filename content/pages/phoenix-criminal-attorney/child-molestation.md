@@ -14,7 +14,7 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |+
-      #Phoenix Child Molestation Attorney
+      # Phoenix Child Molestation Attorney
     actions:
       - type: Button
         label: |

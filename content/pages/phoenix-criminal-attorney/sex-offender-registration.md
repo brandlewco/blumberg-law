@@ -13,8 +13,7 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |+
-
-      Phoenix Sex Offender Registration Attorney
+      # Phoenix Sex Offender Registration Attorney
 
     actions:
       - type: Button

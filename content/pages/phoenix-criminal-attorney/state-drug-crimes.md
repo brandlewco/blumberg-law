@@ -13,7 +13,7 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |+
-      #Phoenix State Drug Crimes Attorney
+      # Phoenix State Drug Crimes Attorney
     actions:
       - type: Button
         label: |

@@ -41,7 +41,6 @@ sections:
     elementId: ''
     title: |+
       ### Connect with Bruce.
-
     backgroundSize: full
     subtitle: ''
     items:

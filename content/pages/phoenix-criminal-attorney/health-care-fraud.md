@@ -13,8 +13,7 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |+
-
-      Phoenix Health Care Fraud Attorney
+      # Phoenix Health Care Fraud Attorney
 
     actions:
       - type: Button

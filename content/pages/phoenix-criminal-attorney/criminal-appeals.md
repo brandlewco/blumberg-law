@@ -14,7 +14,7 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |+
-      #Phoenix Criminal Appeals Attorney
+      # Phoenix Criminal Appeals Attorney
     actions:
       - type: Button
         label: |

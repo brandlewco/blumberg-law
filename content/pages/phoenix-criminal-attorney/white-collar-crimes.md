@@ -14,7 +14,7 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |+
-      #Phoenix White Collar Crime Attorney
+      # Phoenix White Collar Crime Attorney
     actions:
       - type: Button
         label: |

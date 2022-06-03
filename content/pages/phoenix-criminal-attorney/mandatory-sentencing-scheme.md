@@ -13,8 +13,7 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |+
-
-      Phoenix Mandatory Sentencing Attorney
+      # Phoenix Mandatory Sentencing Attorney
 
     actions:
       - type: Button
