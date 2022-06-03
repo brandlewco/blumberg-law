@@ -7,11 +7,14 @@ hero:
     colors: colors-b
     title: |+
       <h1>
-      <span>Bruce Blumberg </span>
-      <span>Family Law & </span>
-      <span>Criminal Defense Attorney</span>
+      <span>More than <strong>30 years</strong> of</span>
+      <span>Criminal Defense &</span>
+      <span>Family Law Experience.</span>
       </h1>
-    subtitle: '**With Over 30 Years of Legal Experience In Phoenix.**'
+
+    subtitle: >-
+      If you have been charged with a criminal offense in the state of Arizona,
+      you deserve representation better than that of the prosecution. 
     actions:
       - type: Button
         label: Confidential Case Evaluation
@@ -51,9 +54,6 @@ hero:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
-    text: >
-      If you have been charged with a criminal offense in the state of Arizona,
-      you deserve representation better than that of the prosecution.
 sections:
   - colors: colors-a
     elementId: hero-features
@@ -157,7 +157,7 @@ sections:
     title: |+
       <h3>
       <span>Phoenix’s Leading</span>
-      <strong>Criminal Defense Lawyer.</strong>
+      <strong>Criminal Defense Attorney.</strong>
       </h3>
 
     subtitle: Choose A Law Practice Area To Learn How We Can Help You.
@@ -310,7 +310,7 @@ sections:
 
       <div>At Blumberg & Associates, you’ll find the representation you need to
       get the best outcome available in your Arizona criminal law matter. We
-      believe every person accused of a crime deserves fair treatment and
+      believe every person accused of a crime deserves fair treatment and an
       effective defense by a skilled and knowledgeable criminal defense lawyer.
       Phoenix criminal attorney Bruce Blumberg is a Board-Certified Criminal Law
       Specialist with over 30 years of experience practicing criminal law in
@@ -436,8 +436,6 @@ sections:
 
       *   Corporate Fraud
 
-      *   Criminal Appeals
-
       *   Dangerous Offenses
 
       *   Date & Spousal Rape
@@ -447,8 +445,6 @@ sections:
       *   Drug Crimes
 
       *   Drug Possession
-
-      *   DUI
 
       *   Embezzlement
 
@@ -588,9 +584,9 @@ sections:
       probation, diversion or some other desirable outcome. If your case can’t
       be resolved pre-trial, you are in the hands of one of Arizona’s most
       experienced and successful criminal law trial litigators. Whether facing a
-      judge or jury trial, Blumberg & Associates is devoted to obtaining an
-      acquittal or not guilty verdict or helping you avoid mandatory sentences
-      and the most serious consequences of a criminal conviction in Arizona.
+      judge or jury trial, Blumberg & Associates is devoted to obtaining a not
+      guilty verdict and helping you avoid mandatory sentences, and the most
+      serious consequences of a criminal conviction in Arizona.
     styles:
       self:
         height: auto
@@ -741,8 +737,8 @@ sections:
       incarceration that, for many people, amounts to an excellent outcome in
       their criminal case. However, if during the probation period you commit
       any criminal offense or otherwise break the terms of your probation, the
-      jail sentence which had been suspended or deferred can be rapidly imposed,
-      without the benefit of a full trial. It is important to be aware of this
+      jail sentence which had been suspended or deferred can be imposed, without
+      the benefit of a full trial. It is important to be aware of this
       possibility before you plead guilty to an offense in order to get
       probation. Talk to your attorney about whether a plea or trial is in your
       best interests.
