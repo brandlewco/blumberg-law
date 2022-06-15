@@ -65,8 +65,7 @@ sections:
     title: |
       Contact Bruce Blumberg
     subtitle: ''
-    text: |2+
-
+    text: |2-
 
           <iframe
             id="JotFormIFrame-42726306387156"
@@ -164,7 +163,6 @@ sections:
               window.attachEvent("onmessage", handleIFrameMessage);
             }
             </script>
-
     actions: []
     styles:
       self:
