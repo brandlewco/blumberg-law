@@ -693,8 +693,8 @@ sections:
       As a criminal law specialist who also handles an array of high-conflict
       divorce, child custody and other family law matters, attorney Bruce
       Blumberg is familiar with the issues of spousal abuse, child abuse and
-      other incidents of domestic violence. We also know that allegations of
-      domestic violence can sometimes be put forward wrongly, whether due to
+      other incidents of domestic violence. We are aware that allegations of
+      domestic violence are often untrue, or highly exaggerated, whether due to
       innocent misunderstandings or a desire to gain leverage in a divorce or
       child custody dispute. The consequences of a domestic violence finding are
       swift and severe. Long before any criminal trial or conviction for abuse,
