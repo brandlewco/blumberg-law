@@ -58,38 +58,6 @@ hero:
       text:
         textAlign: left
 sections:
-  - type: TextSection
-    elementId: ''
-    colors: colors-a
-    variant: variant-a
-    title: |
-      Contact Bruce Blumberg
-    subtitle: ''
-    text: |+
-
-
-    actions: []
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
   - type: FeaturedItemsSection
     colors: colors-d
     elementId: ''
