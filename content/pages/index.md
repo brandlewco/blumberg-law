@@ -486,8 +486,6 @@ sections:
 
       *   State Drug Crimes
 
-      *   Traffic Offenses
-
       *   Violent Crimes
 
       *   White Collar Crime
