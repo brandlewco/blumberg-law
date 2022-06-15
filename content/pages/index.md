@@ -585,7 +585,7 @@ sections:
       be resolved pre-trial, you are in the hands of one of Arizona’s most
       experienced and successful criminal law trial litigators. Whether facing a
       judge or jury trial, Blumberg & Associates is devoted to obtaining a not
-      guilty verdict and helping you avoid mandatory sentences, and the most
+      guilty verdict, and helping you avoid mandatory sentences, the most
       serious consequences of a criminal conviction in Arizona.
     styles:
       self:
