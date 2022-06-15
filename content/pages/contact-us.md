@@ -62,7 +62,8 @@ sections:
     elementId: ''
     colors: colors-a
     variant: variant-a
-    title: The Section Title
+    title: |
+      Contact Bruce Blumberg
     subtitle: ''
     text: >-
       <script type="text/javascript"
