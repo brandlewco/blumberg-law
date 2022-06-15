@@ -65,23 +65,9 @@ sections:
     title: |
       Contact Bruce Blumberg
     subtitle: ''
-    text: |-
-      <iframe
-            id="JotFormIFrame-42726306387156"
-            title="Contact Page Form"
-            onload="window.parent.scrollTo(0,0)"
-            allowtransparency="true"
-            allowfullscreen="true"
-            allow="geolocation; microphone; camera"
-            src="https://form.jotform.com/42726306387156"
-            frameborder="0"
-            style="
-            min-width: 100%;
-            height:711px;
-            border:none;"
-            scrolling="no"
-          >
-          </iframe>
+    text: |+
+
+
     actions: []
     styles:
       self:
