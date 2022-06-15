@@ -390,14 +390,6 @@ sidebar:
             style: primary
           - type: Button
             label: |
-              Traffic Offenses
-            altText: ''
-            showIcon: true
-            icon: arrowRight
-            url: /phoenix-criminal-attorney/traffic-offenses/
-            style: primary
-          - type: Button
-            label: |
               Violent Crimes
             altText: ''
             showIcon: true
