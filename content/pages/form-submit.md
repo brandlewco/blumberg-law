@@ -13,8 +13,9 @@ sections:
     variant: variant-a
     title: |
       Thank you for contacting Blumberg & Associates.
-    text: |
-      We will review your form an contact you as soon as possible. 
+    text: >
+      We will review your form an contact you as soon as possible to schedule a
+      consultation.
     styles:
       self:
         height: auto
