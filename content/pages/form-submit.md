@@ -9,11 +9,11 @@ title: Thank you for submitting a form
 hero: []
 sections:
   - type: TextSection
-    colors: colors-d
+    colors: colors-a
     variant: variant-a
     title: |
       Thank you for contacting Blumberg & Associates.
-    text: >
+    text: |
       We will review your form an contact you as soon as possible. 
     styles:
       self:
