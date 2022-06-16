@@ -238,14 +238,6 @@ sidebar:
             style: primary
           - type: Button
             label: |
-              DUI
-            altText: ''
-            showIcon: true
-            icon: arrowRight
-            url: /phoenix-criminal-attorney/dui/
-            style: primary
-          - type: Button
-            label: |
               Embezzlement
             altText: ''
             showIcon: true
@@ -395,14 +387,6 @@ sidebar:
             showIcon: true
             icon: arrowRight
             url: /phoenix-criminal-attorney/state-drug-crimes/
-            style: primary
-          - type: Button
-            label: |
-              Traffic Offenses
-            altText: ''
-            showIcon: true
-            icon: arrowRight
-            url: /phoenix-criminal-attorney/traffic-offenses/
             style: primary
           - type: Button
             label: |

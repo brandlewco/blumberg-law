@@ -9,7 +9,9 @@ hero:
       <h1>
       <span>More than <strong>30 years</strong> of</span>
       <span>Criminal Defense &</span>
-      <span>Family Law Experience.</span>
+      <span>Family Law Experience</span>
+
+      <span>In Phoenix, Arizona.</span>
       </h1>
 
     subtitle: >-
@@ -65,9 +67,9 @@ sections:
           Experience.
         text: >
           Bruce Blumberg has handled nearly 100 jury trials, including winning
-          "not guilty" verdicts in 6 murder trials.Bruce has also represented
-          numerous clients charged with felonies and misdemeanors in bench
-          trials.
+          "not guilty" verdicts in 6 first-degree murder trials. Bruce has also
+          represented numerous clients charged with felonies and misdemeanors in
+          bench trials.
         actions: []
         styles:
           self:
@@ -484,8 +486,6 @@ sections:
 
       *   State Drug Crimes
 
-      *   Traffic Offenses
-
       *   Violent Crimes
 
       *   White Collar Crime
@@ -585,7 +585,7 @@ sections:
       be resolved pre-trial, you are in the hands of one of Arizona’s most
       experienced and successful criminal law trial litigators. Whether facing a
       judge or jury trial, Blumberg & Associates is devoted to obtaining a not
-      guilty verdict and helping you avoid mandatory sentences, and the most
+      guilty verdict, and helping you avoid mandatory sentences, the most
       serious consequences of a criminal conviction in Arizona.
     styles:
       self:
@@ -693,8 +693,8 @@ sections:
       As a criminal law specialist who also handles an array of high-conflict
       divorce, child custody and other family law matters, attorney Bruce
       Blumberg is familiar with the issues of spousal abuse, child abuse and
-      other incidents of domestic violence. We also know that allegations of
-      domestic violence can sometimes be put forward wrongly, whether due to
+      other incidents of domestic violence. We are aware that allegations of
+      domestic violence are often untrue, or highly exaggerated, whether due to
       innocent misunderstandings or a desire to gain leverage in a divorce or
       child custody dispute. The consequences of a domestic violence finding are
       swift and severe. Long before any criminal trial or conviction for abuse,
@@ -789,4 +789,5 @@ metaDescription: >-
   Serving clients for over 30 years in Criminal Defense & Family law cases. With
   nearly 100 jury trials, Bruce has won innumerable bench trials for clients
   charges with felonies and misdemeanors.
+socialImage: /images/blumber-hero-mockup-65b26475.jpg
 ---

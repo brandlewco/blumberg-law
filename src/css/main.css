@@ -380,6 +380,13 @@
     footer .contact-svg svg {
         @apply w-16 mr-4 !important;
     }
+    .jotform-frame {
+       /* height: 850px; */
+    }
+    .jotform-frame iframe {
+         height:711px;
+         min-height: 711px;
+    }
 
     footer .iframe{
         position: relative;
