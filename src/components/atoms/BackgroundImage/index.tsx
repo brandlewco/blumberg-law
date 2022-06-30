@@ -14,18 +14,18 @@ export default function BackgroundImage(props) {
     const backgroundImageSize = props.backgroundSize || 'cover';
     const backgroundImagePosition = props.backgroundPosition || 'center';
     return (
-        // <div
-        //     className={classNames('absolute', 'inset-0', mapStyles({ backgroundSize: backgroundImageSize }), mapStyles({ backgroundPosition: backgroundImagePosition }), cssClasses)}
-        //     style={{
-        //         backgroundImage: `url('${url}')`,
-        //         opacity: imageOpacity * 0.01
-        //     }}
-        // />
-        <Image
-        layout="fill"
-        className="object-center object-cover pointer-events-none"
-        src={url}
-        alt={title}
-      />
+        <div
+            className={classNames('absolute', 'inset-0', mapStyles({ backgroundSize: backgroundImageSize }), mapStyles({ backgroundPosition: backgroundImagePosition }), cssClasses)}
+            style={{
+                backgroundImage: `url('${url}')`,
+                opacity: imageOpacity * 0.01
+            }}
+        />
+    //     <Image
+    //     layout="fill"
+    //     className="object-center object-cover pointer-events-none"
+    //     src={url}
+    //     alt={title}
+    //   />
     );
 }
