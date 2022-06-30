@@ -166,8 +166,6 @@
         flex: 0 0 100%;
     }
 
-    embla__container
-
     .embla__slide > div {
         @apply mx-4;
     }
@@ -359,6 +357,7 @@
         overflow: hidden;
     }
 
+
     .react-parallax {
         overflow: visible !important;
     }
@@ -371,6 +370,8 @@
     .react-parallax-bgimage {
         /* @apply -ml-4 object-cover; */
     }
+
+    
 
     /* footer */
     footer a:hover:after {
@@ -607,4 +608,9 @@
             @apply hover:bg-dark hover:text-light;
         }
     }
+}
+
+.react-parallax-background-children {
+    height: 200%;
+    width: 100%;
 }

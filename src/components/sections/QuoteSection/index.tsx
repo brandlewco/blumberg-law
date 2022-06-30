@@ -6,6 +6,7 @@ import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to
 import { getDataAttrs } from '../../../utils/get-data-attrs';
 import { BackgroundImage } from '../../atoms';
 import { Parallax, Background } from "react-parallax";
+import Image from 'next/image'
 
 
 export default function QuoteSection(props) {
@@ -39,7 +40,7 @@ export default function QuoteSection(props) {
             }}
         >
             {/* {props.backgroundImage && <BackgroundImage {...props.backgroundImage} />} */}
-            <Parallax
+            {/* <Parallax
             bgImage={props.backgroundImage ? props.backgroundImage.url : null}
             strength={400}
             renderLayer={percentage => (
@@ -51,7 +52,17 @@ export default function QuoteSection(props) {
                     }}
                 />
             )}
-            >
+            > */}
+            <Parallax strength={300}>
+                {props.backgroundImage && 
+                    <Background className="custom-bg">
+                    <Image
+                        layout="fill"
+                        src={props.backgroundImage.url}
+                        alt="test"
+                        />
+                    </Background>
+                }
                 <div className={classNames('flex', 'relative', 'w-full',
                     sectionStyles.padding || 'py-12 px-4', mapStyles({ justifyContent: sectionJustifyContent }))}>
                     <div className={classNames('w-full', mapMaxWidthStyles(sectionWidth))}>{quoteContent(props)}</div>
