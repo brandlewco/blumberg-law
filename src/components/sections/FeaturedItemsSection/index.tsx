@@ -2,7 +2,7 @@ import * as React from 'react';
 import classNames from 'classnames';
 import Markdown from 'markdown-to-jsx';
 import { Parallax, Background } from "react-parallax";
-
+import Image from 'next/image'
 
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 import { getDataAttrs } from '../../../utils/get-data-attrs';
@@ -18,6 +18,7 @@ export default function FeaturedItemsSection(props) {
     const sectionHeight = styles.self?.height || 'auto';
     const sectionJustifyContent = styles.self?.justifyContent || 'center';
     const featuredItems = props.items || [];
+    const imageOpt = props.backgroundImage ? props.backgroundImage.url : null;
     return (
         <div
             id={cssId}
@@ -44,7 +45,7 @@ export default function FeaturedItemsSection(props) {
             }}
         >   
         {/* {props.backgroundImage && <BackgroundImage {...props.backgroundImage} />} */}
-        <Parallax
+        {/* <Parallax
             bgImage={props.backgroundImage ? props.backgroundImage.url : null}
             strength={400}
             renderLayer={percentage => (
@@ -56,7 +57,17 @@ export default function FeaturedItemsSection(props) {
                     }}
                 />
             )}
-        >
+        > */}
+        <Parallax strength={300}>
+        {props.backgroundImage && 
+            <Background className="custom-bg">
+            <Image
+                layout="fill"
+                src={props.backgroundImage.url}
+                alt="test"
+                />
+            </Background>
+        }
             <div className={classNames('flex', 'w-full', 'z-10', mapStyles({ justifyContent: sectionJustifyContent }), styles.self?.padding || 'py-12 px-4')}>
                 <div className={classNames('w-full', mapMaxWidthStyles(sectionWidth))}>
                     {props.title && (
