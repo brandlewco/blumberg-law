@@ -424,71 +424,71 @@ sections:
       matter in Arizona, including:
     text: |
       <ul class="columns-4">
-        <li>Accounting & Tax Fraud</li>
+        <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/accounting-tax-fraud/" alt="Phoenix Accounting & Tax Fraud Lawyer">Accounting & Tax Fraud</a></li>
 
-        <li>Bank Fraud</li>
+        <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/bank-fraud/" alt="Phoenix Bank Fraud Lawyer">Bank Fraud</a></li>
 
-        <li>Child Molestation</li>
+        <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/child-molestation/" alt="Phoenix Child Molestation Lawyer">Child Molestation</a></li>
 
-        <li>Child Pornography</li>
+        <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/child-pornography/" alt="Phoenix Child Pornography Lawyer">Child Pornography</a></li>
 
-        <li>Children Crimes</li>
+        <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/crimes-against-children/" alt="Phoenix Children Crimes Lawyer">Children Crimes</a></li>
 
-        <li>Computer & Internet Fraud</li>
+        <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/computer-internet-fraud/" alt="Phoenix Computer & Internet Fraud Lawyer">Computer & Internet Fraud</a></li>
 
-        <li>Corporate Fraud</li>
+        <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/corporate-fraud/" alt="Phoenix Corporate Fraud Lawyer">Corporate Fraud</a></li>
 
-        <li>Dangerous Offenses</li>
+        <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/dangerous-offenses/" alt="Phoenix Dangerous Offenses Lawyer">Dangerous Offenses</a></li>
 
-        <li>Date & Spousal Rape</li>
+        <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/date-spousal-rape/" alt="Phoenix Date & Spousal Rape Lawyer">Date & Spousal Rape</a></li>
 
-        <li>Domestic Violence</li>
+        <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/domestic-violence/" alt="Phoenix Domestic Violence Lawyer">Domestic Violence</a></li>
 
-        <li>Drug Crimes</li>
+        <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/drug-crimes/" alt="Phoenix Drug Crimes Lawyer">Drug Crimes</a></li>
 
-        <li>Drug Possession</li>
+        <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/drug-possession/" alt="Phoenix Drug Possession Lawyer">Drug Possession</a></li>
 
-        <li>Embezzlement</li>
+        <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/embezzlement/" alt="Phoenix Embezzlement Lawyer">Embezzlement</a></li>
 
-        <li>Federal Crimes</li>
+        <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/federal-crimes/" alt="Phoenix Federal Crimes Lawyer">Federal Crimes</a></li>
 
-        <li>Federal Drug Crimes</li>
+        <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/federal-drug-crimes/" alt="Phoenix Federal Drug Crimes Lawyer">Federal Drug Crimes</a></li>
 
-        <li>Health Care Fraud</li>
+        <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/health-care-fraud/" alt="Phoenix Health Care Fraud Lawyer">Health Care Fraud</a></li>
 
-        <li>Homicide</li>
+        <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/homicide/" alt="Phoenix Homicide Lawyer">Homicide</a></li>
 
-        <li>Juvenile Crimes</li>
+        <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/juvenile-offenses/" alt="Phoenix Juvenile Crimes Lawyer">Juvenile Crimes</a></li>
 
-        <li>Mail & Wire Fraud</li>
+        <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/mail-wire-fraud/" alt="Phoenix Mail & Wire Fraud Lawyer">Mail & Wire Fraud</a></li>
 
-        <li>Mandatory Sentencing</li>
+        <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/mandatory-sentencing-scheme/" alt="Phoenix Mandatory Sentencing Lawyer">Mandatory Sentencing</a></li>
 
-        <li>Marijuana Charges</li>
+        <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/marijuana/" alt="Phoenix Marijuana Charges Lawyer">Marijuana Charges</a></li>
 
-        <li>Meth Charges</li>
+        <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/meth/" alt="Phoenix Meth Charges Lawyer">Meth Charges</a></li>
 
-        <li>Money Laundering</li>
+        <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/money-laundering/" alt="Phoenix Money Laundering Lawyer">Money Laundering</a></li>
 
-        <li>Mortgage Fraud</li>
+        <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/mortgage-fraud/" alt="Phoenix Mortgage Fraud Lawyer">Mortgage Fraud</a></li>
 
-        <li>Parole & Probation Violations</li>
+        <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/parole-probation-violations/" alt="Phoenix Parole & Probation Violations Lawyer">Parole & Probation Violations</a></li>
 
-        <li>Prostitution</li>
+        <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/prostitution/" alt="Phoenix Prostitution Lawyer">Prostitution</a></li>
 
-        <li>Search & Seizure</li>
+        <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/search-seizure-issues/" alt="Phoenix Search & Seizure Lawyer">Search & Seizure</a></li>
 
-        <li>Sex Offender Registration</li>
+        <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/sex-offender-registration/" alt="Phoenix Sex Offender Registration Lawyer">Sex Offender Registration</a></li>
 
-        <li>Sexual Assault</li>
+        <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/sexual-assault/" alt="Phoenix Sexual Assault Lawyer">Sexual Assault</a></li>
 
-        <li>Sex Crimes</li>
+        <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/sex-crimes/" alt="Phoenix Sex Crimes Lawyer">Sex Crimes</a></li>
 
-        <li>State Drug Crimes</li>
+        <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/state-drug-crimes/" alt="Phoenix State Drug Crimes Lawyer">State Drug Crimes</a></li>
 
-        <li>Violent Crimes</li>
+        <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/violent-crimes/" alt="Phoenix Violent Crimes Lawyer">Violent Crimes</a></li>
 
-        <li>White Collar Crime</li>
+        <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/white-collar-crimes/" alt="Phoenix White Collar Crime Lawyer">White Collar Crime</a></li>
       </ul>
     styles:
       self:
