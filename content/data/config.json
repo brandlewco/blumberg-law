@@ -492,7 +492,7 @@
             {
                 "type": "Link",
                 "label": "Case Results",
-                "altText": "",
+                "altText": "Phoenix Lawyer Case Results",
                 "url": "/case-results/",
                 "child": [],
                 "showIcon": false,
