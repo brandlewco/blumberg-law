@@ -423,74 +423,39 @@ sections:
       knowledge, skills and experience to competently handle any criminal law
       matter in Arizona, including:
     text: |
-      <ul class="columns-4">
-      <li>Accounting & Tax Fraud</LI>
-
-      <LI>Bank Fraud</LI>
-
-      <LI>Child Molestation</LI>
-
-      <LI>Child Pornography</LI>
-
-      <LI>Children Crimes</LI>
-
-      <LI>Computer & Internet Fraud</LI>
-
-      <LI>Corporate Fraud</LI>
-
-      <LI>Dangerous Offenses</LI>
-
-      <LI>Date & Spousal Rape</LI>
-
-      <LI>Domestic Violence</LI>
-
-      <LI>Drug Crimes</LI>
-
-      <LI>Drug Possession</LI>
-
-      <LI>Embezzlement</LI>
-
-      <LI>Federal Crimes</LI>
-
-      <LI>Federal Drug Crimes</LI>
-
-      <LI>Health Care Fraud</LI>
-
-      <LI>Homicide</LI>
-
-      <LI>Juvenile Crimes</LI>
-
-      <LI>Mail & Wire Fraud</LI>
-
-      <LI>Mandatory Sentencing</LI>
-
-      <LI>Marijuana Charges</LI>
-
-      <LI>Meth Charges</LI>
-
-      <LI>Money Laundering</LI>
-
-      <LI>Mortgage Fraud</LI>
-
-      <LI>Parole & Probation Violations</LI>
-
-      <LI>Prostitution</LI>
-
-      <LI>Search & Seizure</LI>
-
-      <LI>Sex Offender Registration</LI>
-
-      <LI>Sexual Assault</LI>
-
-      <LI>Sex Crimes</LI>
-
-      <LI>State Drug Crimes</LI>
-
-      <LI>Violent Crimes</li>
-
-      <li>White Collar Crime</li>
-
-      </ul>
+      \<ul class="columns-4">  \<li>Accounting & Tax Fraud\</li>
+        \<li>Bank Fraud\</li>
+        \<li>Child Molestation\</li>
+        \<li>Child Pornography\</li>
+        \<li>Children Crimes\</li>
+        \<li>Computer & Internet Fraud\</li>
+        \<li>Corporate Fraud\</li>
+        \<li>Dangerous Offenses\</li>
+        \<li>Date & Spousal Rape\</li>
+        \<li>Domestic Violence\</li>
+        \<li>Drug Crimes\</li>
+        \<li>Drug Possession\</li>
+        \<li>Embezzlement\</li>
+        \<li>Federal Crimes\</li>
+        \<li>Federal Drug Crimes\</li>
+        \<li>Health Care Fraud\</li>
+        \<li>Homicide\</li>
+        \<li>Juvenile Crimes\</li>
+        \<li>Mail & Wire Fraud\</li>
+        \<li>Mandatory Sentencing\</li>
+        \<li>Marijuana Charges\</li>
+        \<li>Meth Charges\</li>
+        \<li>Money Laundering\</li>
+        \<li>Mortgage Fraud\</li>
+        \<li>Parole & Probation Violations\</li>
+        \<li>Prostitution\</li>
+        \<li>Search & Seizure\</li>
+        \<li>Sex Offender Registration\</li>
+        \<li>Sexual Assault\</li>
+        \<li>Sex Crimes\</li>
+        \<li>State Drug Crimes\</li>
+        \<li>Violent Crimes\</li>
+        \<li>White Collar Crime\</li>\</ul>
     styles:
       self:
         height: auto
