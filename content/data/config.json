@@ -493,7 +493,7 @@
                 "type": "Link",
                 "label": "Blumberg & Associates Testimonials",
                 "altText": "",
-                "url": "/",
+                "url": "/testimonials/",
                 "child": [],
                 "showIcon": false,
                 "icon": "arrowRight",
