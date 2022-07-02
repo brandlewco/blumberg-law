@@ -207,9 +207,7 @@ function postsVariantB(props, emblaRef, emblaApi) {
                                 <div className="flex flex-col flex-grow">
                                     <div className="flex-grow px-4 pt-6 pb-6 sm:px-6">
                                         <h3 className="text-2xl">
-                                            <Link href={getPageUrlPath(post)} data-sb-field-path="title">
                                                 {post.title}
-                                            </Link>
                                         </h3>
                                         <PostAttribution showAuthor={props.showAuthor} post={post} className="mt-2" />
                                     </div>
