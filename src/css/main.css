@@ -209,6 +209,9 @@
     #hero-features {
         overflow: visible !important;
     }
+    #hero-features h2{ 
+        @apply text-3xl lg:text-4xl;
+    }
     /* small only */
     @media only screen and (max-width: 768px) {
         #hero-features {
