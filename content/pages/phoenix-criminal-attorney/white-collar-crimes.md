@@ -11,7 +11,7 @@ metaTags: []
 title: White Collar Crimes
 hero:
   - type: HeroSection
-    elementId: homepage-hero-1
+    elementId:
     colors: colors-b
     title: |+
       # Phoenix White Collar Crime Attorney

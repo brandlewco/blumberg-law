@@ -10,7 +10,7 @@ metaTags: []
 title: Corporate Fraud
 hero:
   - type: HeroSection
-    elementId: homepage-hero-1
+    elementId:
     colors: colors-b
     title: |+
       # Phoenix Corporate Fraud Attorney

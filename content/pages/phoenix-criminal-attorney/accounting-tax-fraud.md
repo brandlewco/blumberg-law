@@ -11,7 +11,7 @@ metaTags: []
 title: Accounting & Tax Fraud
 hero:
   - type: HeroSection
-    elementId: homepage-hero-1
+    elementId:
     colors: colors-b
     title: |+
       # Phoenix Accounting & Tax Fraud Attorney

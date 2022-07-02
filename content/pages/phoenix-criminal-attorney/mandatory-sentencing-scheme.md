@@ -10,7 +10,7 @@ metaTags: []
 title: Mandatory Sentencing Scheme
 hero:
   - type: HeroSection
-    elementId: homepage-hero-1
+    elementId:
     colors: colors-b
     title: |+
       # Phoenix Mandatory Sentencing Attorney

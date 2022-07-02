@@ -11,7 +11,7 @@ metaTags: []
 title: Child Custody & Parenting Time
 hero:
   - type: HeroSection
-    elementId: homepage-hero-1
+    elementId:
     colors: colors-b
     title: |+
       #Phoenix Child Custody & Parenting Time Attorney

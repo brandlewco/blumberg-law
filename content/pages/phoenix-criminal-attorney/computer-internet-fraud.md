@@ -11,7 +11,7 @@ metaTags: []
 title: Computer & Internet Fraud
 hero:
   - type: HeroSection
-    elementId: homepage-hero-1
+    elementId:
     colors: colors-b
     title: |+
       # Phoenix Computer & Internet Fraud Attorney

@@ -10,7 +10,7 @@ metaTags: []
 title: Money Laundering
 hero:
   - type: HeroSection
-    elementId: homepage-hero-1
+    elementId:
     colors: colors-b
     title: |+
       # Phoenix Money Laundering Attorney

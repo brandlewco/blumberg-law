@@ -1,6 +1,5 @@
 import * as React from 'react';
 import classNames from 'classnames';
-import Image from 'next/image';
 
 export default function ImageBlock(props) {
     const { url, altText } = props;

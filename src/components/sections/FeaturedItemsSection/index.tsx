@@ -45,7 +45,7 @@ export default function FeaturedItemsSection(props) {
             }}
         >   
         {/* {props.backgroundImage && <BackgroundImage {...props.backgroundImage} />} */}
-        <Parallax
+        {/* <Parallax
             bgImage={props.backgroundImage ? props.backgroundImage.url : null}
             strength={400}
             renderLayer={percentage => (
@@ -57,8 +57,8 @@ export default function FeaturedItemsSection(props) {
                     }}
                 />
             )}
-        >
-        {/* <Parallax strength={300}>
+        > */}
+        <Parallax strength={300}>
         {props.backgroundImage && 
             <Background className="custom-bg">
             <Image
@@ -67,7 +67,7 @@ export default function FeaturedItemsSection(props) {
                 alt="test"
                 />
             </Background>
-        } */}
+        }
             <div className={classNames('flex', 'w-full', 'z-10', mapStyles({ justifyContent: sectionJustifyContent }), styles.self?.padding || 'py-12 px-4')}>
                 <div className={classNames('w-full', mapMaxWidthStyles(sectionWidth))}>
                     {props.title && (

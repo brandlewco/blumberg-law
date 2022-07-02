@@ -449,8 +449,8 @@
         "secondaryLinks": [
             {
                 "type": "Link",
-                "label": "Criminal Defense",
-                "altText": "",
+                "label": "Phoenix Criminal Defense",
+                "altText": "Phoenix Criminal Defense",
                 "url": "/phoenix-criminal-attorney/",
                 "child": [],
                 "showIcon": false,
@@ -470,9 +470,8 @@
             },
             {
                 "type": "Link",
-                "label": "Family Law\n",
-                "altText": "",
-                "url": "/",
+                "label": "Phoenix Family Law",
+                "altText": "Phoenix Family Law",
                 "child": [],
                 "showIcon": false,
                 "icon": "arrowRight",
@@ -487,12 +486,13 @@
                             "pr-4"
                         ]
                     }
-                }
+                },
+                "url": "/phoenix-family-attorney/"
             },
             {
                 "type": "Link",
-                "label": "Case Results",
-                "altText": "",
+                "label": "Blumberg & Associates Case Results",
+                "altText": "Blumberg & Associates Case Results",
                 "url": "/case-results/",
                 "child": [],
                 "showIcon": false,

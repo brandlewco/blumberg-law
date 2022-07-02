@@ -10,7 +10,7 @@ metaTags: []
 title: Parole & Probation Violations
 hero:
   - type: HeroSection
-    elementId: homepage-hero-1
+    elementId:
     colors: colors-b
     title: |+
       # Phoenix Parole & Probation Violations Attorney

@@ -10,7 +10,7 @@ metaTags: []
 title: Sexual Assault
 hero:
   - type: HeroSection
-    elementId: homepage-hero-1
+    elementId:
     colors: colors-b
     title: |+
       # Phoenix Sexual Assault Attorney

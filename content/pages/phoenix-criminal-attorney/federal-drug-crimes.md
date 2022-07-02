@@ -10,7 +10,7 @@ metaTags: []
 title: Federal Drug Crimes
 hero:
   - type: HeroSection
-    elementId: homepage-hero-1
+    elementId:
     colors: colors-b
     title: |+
       # Phoenix Federal Drug Crime Attorney

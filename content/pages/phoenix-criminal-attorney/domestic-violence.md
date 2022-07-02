@@ -9,7 +9,7 @@ metaTags: []
 title: Domestic Violence
 hero:
   - type: HeroSection
-    elementId: homepage-hero-1
+    elementId:
     colors: colors-b
     title: |+
       # Phoenix Domestic Violence Attorney

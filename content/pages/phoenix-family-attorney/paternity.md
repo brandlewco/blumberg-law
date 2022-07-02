@@ -10,7 +10,7 @@ metaTags: []
 title: Paternity
 hero:
   - type: HeroSection
-    elementId: homepage-hero-1
+    elementId:
     colors: colors-b
     title: |+
       #Phoenix Paternity Attorney

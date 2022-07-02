@@ -10,7 +10,7 @@ metaTags: []
 title: Criminal Defense
 hero:
   - type: HeroSection
-    elementId: homepage-hero-1
+    elementId:
     colors: colors-b
     title: |+
       # Phoenix Criminal Attorney

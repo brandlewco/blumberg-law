@@ -10,7 +10,7 @@ metaTags: []
 title: DUI
 hero:
   - type: HeroSection
-    elementId: homepage-hero-1
+    elementId:
     colors: colors-b
     title: |+
       # Phoenix DUI Attorney

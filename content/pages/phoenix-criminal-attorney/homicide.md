@@ -11,7 +11,7 @@ metaTags: []
 title: Homicide
 hero:
   - type: HeroSection
-    elementId: homepage-hero-1
+    elementId:
     colors: colors-b
     title: |+
       # Phoenix Homicide Attorney
