@@ -491,7 +491,7 @@
             },
             {
                 "type": "Link",
-                "label": "Bruce Blumberg's Case Results",
+                "label": "Blumberg's Case Results",
                 "altText": "Phoenix Lawyer Case Results",
                 "url": "/case-results/",
                 "child": [],
