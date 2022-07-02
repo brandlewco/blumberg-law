@@ -320,7 +320,7 @@
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
-                "elementId": "call-us-mobile"
+                "elementId": "call-us"
             }
         ],
         "styles": {
