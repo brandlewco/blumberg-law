@@ -11,7 +11,7 @@ metaTags: []
 title: Federal Crimes
 hero:
   - type: HeroSection
-    elementId: homepage-hero-1
+    elementId:
     colors: colors-b
     title: |+
       # Phoenix Federal Crimes Attorney

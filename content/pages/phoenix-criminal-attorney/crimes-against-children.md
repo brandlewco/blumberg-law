@@ -11,7 +11,7 @@ metaTags: []
 title: Crimes Against Children
 hero:
   - type: HeroSection
-    elementId: homepage-hero-1
+    elementId:
     colors: colors-b
     title: |+
       # Phoenix Children Crimes Attorney

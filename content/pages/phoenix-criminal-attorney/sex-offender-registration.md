@@ -10,7 +10,7 @@ metaTags: []
 title: Sex Offender Registration
 hero:
   - type: HeroSection
-    elementId: homepage-hero-1
+    elementId:
     colors: colors-b
     title: |+
       # Phoenix Sex Offender Registration Attorney

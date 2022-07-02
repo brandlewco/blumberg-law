@@ -10,7 +10,7 @@ metaTags: []
 title: Meth Charges
 hero:
   - type: HeroSection
-    elementId: homepage-hero-1
+    elementId:
     colors: colors-b
     title: |+
       # Phoenix Meth Attorney

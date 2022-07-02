@@ -10,7 +10,7 @@ metaTags: []
 title: Health Care Fraud
 hero:
   - type: HeroSection
-    elementId: homepage-hero-1
+    elementId:
     colors: colors-b
     title: |+
       # Phoenix Health Care Fraud Attorney

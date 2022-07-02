@@ -10,7 +10,7 @@ metaTags: []
 title: State Drug Crimes
 hero:
   - type: HeroSection
-    elementId: homepage-hero-1
+    elementId:
     colors: colors-b
     title: |+
       # Phoenix State Drug Crimes Attorney

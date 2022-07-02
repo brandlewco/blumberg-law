@@ -37,10 +37,10 @@ export default function FeaturedItem(props) {
                 </div>
             )}
             {props.title && (
-                <h3
+                <h2
                     className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
                     {props.title}
-                </h3>
+                </h2>
             )}
             {props.subtitle && (
                 <p

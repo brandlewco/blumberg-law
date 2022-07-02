@@ -11,7 +11,7 @@ metaTags: []
 title: Child Molestation
 hero:
   - type: HeroSection
-    elementId: homepage-hero-1
+    elementId:
     colors: colors-b
     title: |+
       # Phoenix Child Molestation Attorney

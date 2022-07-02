@@ -105,7 +105,7 @@ export default function Action(props) {
         >
             <Markdown
                 options={{}}
-                className={"markdown"} data-sb-field-path=".label">
+                className={"markdown whitespace-pre-wrap"} data-sb-field-path=".label">
                 {label}
             </Markdown>
             {showIcon && IconComponent && (
