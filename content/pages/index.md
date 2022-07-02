@@ -422,76 +422,75 @@ sections:
       As a Board-Certified criminal law specialist, Bruce Blumberg has the
       knowledge, skills and experience to competently handle any criminal law
       matter in Arizona, including:
-    text: |+
+    text: |
       <ul class="columns-4">
-      *   Accounting & Tax Fraud
+      <li>Accounting & Tax Fraud</LI>
 
-      *   Bank Fraud
+      <LI>Bank Fraud</LI>
 
-      *   Child Molestation
+      <LI>Child Molestation</LI>
 
-      *   Child Pornography
+      <LI>Child Pornography</LI>
 
-      *   Children Crimes
+      <LI>Children Crimes</LI>
 
-      *   Computer & Internet Fraud
+      <LI>Computer & Internet Fraud</LI>
 
-      *   Corporate Fraud
+      <LI>Corporate Fraud</LI>
 
-      *   Dangerous Offenses
+      <LI>Dangerous Offenses</LI>
 
-      *   Date & Spousal Rape
+      <LI>Date & Spousal Rape</LI>
 
-      *   Domestic Violence
+      <LI>Domestic Violence</LI>
 
-      *   Drug Crimes
+      <LI>Drug Crimes</LI>
 
-      *   Drug Possession
+      <LI>Drug Possession</LI>
 
-      *   Embezzlement
+      <LI>Embezzlement</LI>
 
-      *   Federal Crimes
+      <LI>Federal Crimes</LI>
 
-      *   Federal Drug Crimes
+      <LI>Federal Drug Crimes</LI>
 
-      *   Health Care Fraud
+      <LI>Health Care Fraud</LI>
 
-      *   Homicide
+      <LI>Homicide</LI>
 
-      *   Juvenile Crimes
+      <LI>Juvenile Crimes</LI>
 
-      *   Mail & Wire Fraud
+      <LI>Mail & Wire Fraud</LI>
 
-      *   Mandatory Sentencing
+      <LI>Mandatory Sentencing</LI>
 
-      *   Marijuana Charges
+      <LI>Marijuana Charges</LI>
 
-      *   Meth Charges
+      <LI>Meth Charges</LI>
 
-      *   Money Laundering
+      <LI>Money Laundering</LI>
 
-      *   Mortgage Fraud
+      <LI>Mortgage Fraud</LI>
 
-      *   Parole & Probation Violations
+      <LI>Parole & Probation Violations</LI>
 
-      *   Prostitution
+      <LI>Prostitution</LI>
 
-      *   Search & Seizure
+      <LI>Search & Seizure</LI>
 
-      *   Sex Offender Registration
+      <LI>Sex Offender Registration</LI>
 
-      *   Sexual Assault
+      <LI>Sexual Assault</LI>
 
-      *   Sex Crimes
+      <LI>Sex Crimes</LI>
 
-      *   State Drug Crimes
+      <LI>State Drug Crimes</LI>
 
-      *   Violent Crimes
+      <LI>Violent Crimes</li>
 
-      *   White Collar Crime
+      <li>White Collar Crime</li>
 
       </ul>
-
     styles:
       self:
         height: auto
