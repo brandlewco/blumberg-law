@@ -219,6 +219,7 @@
         }
         #homepage-hero-1 img {
             object-position: 85%;
+            object-fit: cover;
             bottom: 180px !important;
         }
     }
@@ -244,6 +245,7 @@
             @apply absolute h-2/3 bottom-0  border-l-2 border-r-2 border-solid;
         }
     }
+
 
     #homepage-hero-1 > div {
         @apply pb-4 md:pb-36 pt-72 md:pt-28  

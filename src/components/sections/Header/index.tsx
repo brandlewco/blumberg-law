@@ -162,7 +162,7 @@ function listOfLinks(links, inMobileMenu = false) {
                         <ul className={classNames(secondaryColors, 'transition-all', 'lg:absolute', 'top-full', 'flex', 'flex-col', 'whitespace-nowrap', 'px-4', 'pt-4', 'shadow-lg', isMenuOpen ? 'block' : 'hidden')} data-sb-field-path=".primaryLinks">
                             {linkChild.map((link, index) => (
                                 <li key={index} data-key={index} className="pb-4">
-                                    <Action {...link} style="link" className="w-full justify-start border-b-2 lg:border-0 border-solid border-gray" data-sb-field-path={`.${index}`} />
+                                    <Action {...link} style="link" className="min-w-max justify-start border-b-2 lg:border-0 border-solid border-gray" data-sb-field-path={`.${index}`} />
                                 </li>
                             ))}
                         </ul>
