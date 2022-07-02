@@ -492,7 +492,7 @@
             {
                 "type": "Link",
                 "label": "Blumberg & Associates Case Results",
-                "altText": "Phoenix Lawyer Case Results",
+                "altText": "Blumberg & Associates Case Results",
                 "url": "/case-results/",
                 "child": [],
                 "showIcon": false,
