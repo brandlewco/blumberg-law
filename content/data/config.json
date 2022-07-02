@@ -492,7 +492,7 @@
             {
                 "type": "Link",
                 "label": "Blumberg & Associates Testimonials",
-                "altText": "",
+                "altText": "Blumberg & Associates Testimonials",
                 "url": "/testimonials/",
                 "child": [],
                 "showIcon": false,
