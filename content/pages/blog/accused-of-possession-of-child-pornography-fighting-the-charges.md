@@ -5,7 +5,7 @@ addTitleSuffix: true
 metaTags:
   - type: MetaTag
     property: 'og:type'
-    content: ''
+    content: article
 title: Accused of Possession of Child Pornography? Fighting the Charges
 colors: colors-d
 date: '2021-01-27'
