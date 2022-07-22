@@ -6,7 +6,10 @@ metaDescription: >-
   representing clients charged with drug crimes related to marijuana.
 addTitleSuffix: true
 socialImage: null
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Marijuana
 hero:
   - type: HeroSection

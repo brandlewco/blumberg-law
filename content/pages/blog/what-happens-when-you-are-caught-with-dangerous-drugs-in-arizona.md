@@ -2,7 +2,10 @@
 layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: What Happens When You Are Caught With Dangerous Drugs in Arizona?
 colors: colors-d
 date: '2021-02-03'

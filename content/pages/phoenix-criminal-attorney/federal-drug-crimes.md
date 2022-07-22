@@ -6,7 +6,10 @@ metaDescription: >-
   not guilty verdicts for drug trafficking, drug possession and drug dealing.
 addTitleSuffix: true
 socialImage: null
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Federal Drug Crimes
 hero:
   - type: HeroSection

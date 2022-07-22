@@ -6,7 +6,10 @@ metaDescription: >-
   their families resolve criminal charges in juvenile court.
 addTitleSuffix: true
 socialImage: null
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Juvenile Offenses
 hero:
   - type: HeroSection

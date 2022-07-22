@@ -2,7 +2,10 @@
 layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: What to Know When Your Child is Arrested for a Crime in Phoenix
 colors: colors-d
 date: '2020-04-30'

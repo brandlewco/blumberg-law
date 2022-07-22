@@ -6,7 +6,10 @@ metaDescription: >-
   Arizona, contact the Phoenix embezzlement attorneys at Blumberg & Associates.
 addTitleSuffix: true
 socialImage: null
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Embezzlement
 hero:
   - type: HeroSection

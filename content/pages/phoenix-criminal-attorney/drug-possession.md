@@ -6,7 +6,10 @@ metaDescription: >-
   marijuana possession, meth, cocaine and drug trafficking.
 addTitleSuffix: true
 socialImage: null
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Drug Possession
 hero:
   - type: HeroSection

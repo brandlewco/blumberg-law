@@ -6,7 +6,10 @@ metaDescription: >-
   modifications & enforcements attorney for a consultation.
 addTitleSuffix: true
 socialImage: null
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Modifications & Enforcements
 hero:
   - type: HeroSection

@@ -2,7 +2,10 @@
 layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: What to Do if You are Arrested for a Federal Crime in Phoenix?
 colors: colors-d
 date: '2020-04-14'

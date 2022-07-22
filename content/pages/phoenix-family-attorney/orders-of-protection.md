@@ -6,7 +6,10 @@ metaDescription: >-
   are facing a very difficult time, contact us today for assistance.
 addTitleSuffix: true
 socialImage: null
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Orders of Protection
 hero:
   - type: HeroSection

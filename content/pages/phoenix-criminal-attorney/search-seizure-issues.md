@@ -6,7 +6,10 @@ metaDescription: >-
   trial, contact our experienced Phoenix search & seizure attorneys today.
 addTitleSuffix: true
 socialImage: null
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Search & Seizure Issues
 hero:
   - type: HeroSection

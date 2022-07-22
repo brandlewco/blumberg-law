@@ -2,7 +2,10 @@
 layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: >-
   What are the Rules Arizona Sex Offenders Must Follow Upon Release From Jail or
   Prison?

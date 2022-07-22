@@ -7,7 +7,10 @@ metaDescription: >-
   appointment.
 addTitleSuffix: true
 socialImage: null
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Criminal Appeals
 hero:
   - type: HeroSection

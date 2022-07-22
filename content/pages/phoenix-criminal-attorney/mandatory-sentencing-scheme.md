@@ -6,7 +6,10 @@ metaDescription: >-
   used in child porn cases, dangerous crimes in Arizona and sex crimes.
 addTitleSuffix: true
 socialImage: null
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Mandatory Sentencing Scheme
 hero:
   - type: HeroSection

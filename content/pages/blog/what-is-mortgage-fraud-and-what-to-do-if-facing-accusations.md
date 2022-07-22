@@ -2,7 +2,10 @@
 layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: 'What is Mortgage Fraud, and What to Do if Facing Accusations'
 colors: colors-d
 date: '2021-03-23'

@@ -6,7 +6,10 @@ metaDescription: >-
   defense attorneys at Blumberg & Associates.
 addTitleSuffix: true
 socialImage: null
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: State Drug Crimes
 hero:
   - type: HeroSection

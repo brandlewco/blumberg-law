@@ -6,7 +6,10 @@ metaDescription: >-
   people charged with rape in the state of Arizona.
 addTitleSuffix: true
 socialImage: null
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Sexual Assault
 hero:
   - type: HeroSection

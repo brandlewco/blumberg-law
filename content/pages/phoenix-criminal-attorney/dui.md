@@ -6,7 +6,10 @@ metaDescription: >-
   cases, contact us today.
 addTitleSuffix: true
 socialImage: null
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: DUI
 hero:
   - type: HeroSection

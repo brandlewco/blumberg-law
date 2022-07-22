@@ -2,7 +2,10 @@
 layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: >-
   Arizona Supreme Court Eliminates The Use Of “Peremptory” Challenges In Jury
   Trials

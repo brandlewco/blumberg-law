@@ -2,7 +2,10 @@
 layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Bruce Blumberg Named to 2018 Southwest Super Lawyers List
 colors: colors-d
 date: '2018-04-24'

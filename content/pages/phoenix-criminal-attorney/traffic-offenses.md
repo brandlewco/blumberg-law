@@ -6,7 +6,10 @@ metaDescription: >-
   contact our experienced Phoenix traffic offense attorneys today.
 addTitleSuffix: true
 socialImage: null
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Traffic Offenses
 hero:
   - type: HeroSection

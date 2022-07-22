@@ -2,7 +2,10 @@
 layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Accused of Soliciting for Prostitution in Arizona? Know Your Rights
 colors: colors-d
 date: '2021-03-15'

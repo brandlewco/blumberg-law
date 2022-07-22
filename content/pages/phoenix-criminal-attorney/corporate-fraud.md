@@ -6,7 +6,10 @@ metaDescription: >-
   we can do to protect your rights and your future.
 addTitleSuffix: true
 socialImage: null
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Corporate Fraud
 hero:
   - type: HeroSection

@@ -2,7 +2,10 @@
 layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: How to Ensure the Best Child Custody and Shared Parenting Outcomes
 colors: colors-d
 date: '2016-10-18'

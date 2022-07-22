@@ -6,7 +6,10 @@ metaDescription: >-
   team will take every step necessary to protect your rights. Contact us today!
 addTitleSuffix: true
 socialImage: null
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Spousal Maintenance
 hero:
   - type: HeroSection

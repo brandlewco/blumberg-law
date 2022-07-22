@@ -2,7 +2,10 @@
 layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: What Can Be Considered a Sexual Offense in Arizona?
 colors: colors-d
 date: '2020-03-09'
