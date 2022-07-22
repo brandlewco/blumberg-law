@@ -783,7 +783,7 @@ sections:
 addTitleSuffix: false
 metaTags:
   - type: MetaTag
-    property: 'og:title'
+    property: 'og:type'
     content: ''
 metaTitle: 'Blumberg & Associates - Criminal Law Attorney | Phoenix, Arizona'
 metaDescription: >-
