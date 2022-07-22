@@ -2,7 +2,10 @@
 layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 title: Accused of Possession of Child Pornography? Fighting the Charges
 colors: colors-d
 date: '2021-01-27'
