@@ -4,7 +4,7 @@ metaTitle: null
 addTitleSuffix: true
 metaTags:
   - type: MetaTag
-    property: 'og:title'
+    property: 'og:type'
     content: ''
 title: Accused of Possession of Child Pornography? Fighting the Charges
 colors: colors-d
