@@ -6,7 +6,10 @@ metaDescription: >-
   fraud in Arizona, contact our Phoenix mail & wire fraud attorneys.
 addTitleSuffix: true
 socialImage: null
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Mail Wire Fraud
 hero:
   - type: HeroSection

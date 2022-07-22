@@ -2,7 +2,10 @@
 layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Gray Divorces and Four Things to Consider
 colors: colors-d
 date: '2017-11-30'

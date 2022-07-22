@@ -7,7 +7,10 @@ metaDescription: >-
   robbery.
 addTitleSuffix: true
 socialImage: null
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Dangerous Offenses
 hero:
   - type: HeroSection

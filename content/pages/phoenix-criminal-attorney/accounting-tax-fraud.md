@@ -7,7 +7,10 @@ metaDescription: >-
   today.
 addTitleSuffix: true
 socialImage: null
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Accounting & Tax Fraud
 hero:
   - type: HeroSection

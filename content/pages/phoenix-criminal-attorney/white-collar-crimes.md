@@ -7,7 +7,10 @@ metaDescription: >-
   more.
 addTitleSuffix: true
 socialImage: null
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: White Collar Crimes
 hero:
   - type: HeroSection

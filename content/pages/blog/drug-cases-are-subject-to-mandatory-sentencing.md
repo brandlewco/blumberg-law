@@ -2,7 +2,10 @@
 layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Drug Cases are Subject to Mandatory Sentencing
 colors: colors-d
 date: '2020-06-03'

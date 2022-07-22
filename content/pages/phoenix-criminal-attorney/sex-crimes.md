@@ -6,7 +6,10 @@ metaDescription: >-
   assault, rape, prostitution, solicitation, pornography & other sex crimes.
 addTitleSuffix: true
 socialImage: null
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Sex Crimes
 hero:
   - type: HeroSection

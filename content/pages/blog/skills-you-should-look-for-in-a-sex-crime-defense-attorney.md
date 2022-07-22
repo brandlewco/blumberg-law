@@ -2,7 +2,10 @@
 layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Skills You Should Look for in a Sex Crime Defense Attorney
 colors: colors-d
 date: '2019-08-20'

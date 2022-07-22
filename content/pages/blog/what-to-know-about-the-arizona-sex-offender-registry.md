@@ -2,7 +2,10 @@
 layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: What to Know About the Arizona Sex Offender Registry
 colors: colors-d
 date: '2020-07-15'

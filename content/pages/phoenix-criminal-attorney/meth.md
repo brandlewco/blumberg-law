@@ -6,7 +6,10 @@ metaDescription: >-
   charges related to methamphetamine.
 addTitleSuffix: true
 socialImage: null
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Meth Charges
 hero:
   - type: HeroSection

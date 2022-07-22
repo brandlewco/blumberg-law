@@ -6,7 +6,10 @@ metaDescription: >-
   with Phoenix parole & probation violations.
 addTitleSuffix: true
 socialImage: null
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Parole & Probation Violations
 hero:
   - type: HeroSection

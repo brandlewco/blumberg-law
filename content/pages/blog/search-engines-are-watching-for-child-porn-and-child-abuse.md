@@ -2,7 +2,10 @@
 layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Search Engines are Watching for Child Porn and Child Abuse
 colors: colors-d
 date: '2014-08-28'

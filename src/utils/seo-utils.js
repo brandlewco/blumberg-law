@@ -1,5 +1,8 @@
 export function seoGenerateMetaTags(page, site) {
     let pageMetaTags = {};
+    let ogUrlPath = page.__metadata.urlPath;
+    let domainUrl = site.env?.URL ? site.env.URL : '';
+
 
     if (site.defaultMetaTags?.length) {
         site.defaultMetaTags.forEach((metaTag) => {
@@ -7,10 +10,15 @@ export function seoGenerateMetaTags(page, site) {
         });
     }
 
+    console.log(page.__metadata.urlPath)
+
+    // ogImage should use an absolute URL. Get the Netlify domain URL from the Netlify environment variable process.env.URL
+
     pageMetaTags = {
         ...pageMetaTags,
         ...(seoGenerateTitle(page, site) && { 'og:title': seoGenerateTitle(page, site) }),
-        ...(seoGenerateOgImage(page, site) && { 'og:image': seoGenerateOgImage(page, site) })
+        ...(seoGenerateOgImage(page, site) && { 'og:image': seoGenerateOgImage(page, site) }),
+        ...({'og:url': domainUrl + ogUrlPath }),
     };
 
     if (page.metaTags?.length) {
@@ -81,5 +89,6 @@ export function seoGenerateOgImage(page, site) {
             return ogImage;
         }
     }
+
     return null;
 }

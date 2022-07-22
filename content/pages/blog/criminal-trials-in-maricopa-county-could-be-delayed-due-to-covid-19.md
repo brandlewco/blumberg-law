@@ -2,7 +2,10 @@
 layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Criminal Trials in Maricopa County Could be Delayed Due to COVID-19
 colors: colors-d
 date: '2020-05-21'

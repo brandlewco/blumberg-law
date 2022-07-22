@@ -6,7 +6,10 @@ metaDescription: >-
   prostitution attorneys offer a free initial consultation.
 addTitleSuffix: true
 socialImage: null
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Prostitution
 hero:
   - type: HeroSection

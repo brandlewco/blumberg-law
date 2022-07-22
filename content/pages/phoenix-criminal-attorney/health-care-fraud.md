@@ -6,7 +6,10 @@ metaDescription: >-
   additional counts and negotiating a favorable plea bargains.
 addTitleSuffix: true
 socialImage: null
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Health Care Fraud
 hero:
   - type: HeroSection

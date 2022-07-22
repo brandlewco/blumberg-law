@@ -2,7 +2,10 @@
 layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: What to Do if You’ve Been Arrested for White Collar Crime in Arizona?
 colors: colors-d
 date: '2020-05-13'

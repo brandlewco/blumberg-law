@@ -6,7 +6,10 @@ metaDescription: >-
   assault, aggravated assault, sexual assault & other violent crimes in Arizona.
 addTitleSuffix: true
 socialImage: null
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Violent Crimes
 hero:
   - type: HeroSection

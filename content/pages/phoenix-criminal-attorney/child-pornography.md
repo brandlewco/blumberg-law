@@ -7,7 +7,10 @@ metaDescription: >-
   attorneys.
 addTitleSuffix: true
 socialImage: null
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Child Pornography
 hero:
   - type: HeroSection

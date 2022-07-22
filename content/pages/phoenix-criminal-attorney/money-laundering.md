@@ -6,7 +6,10 @@ metaDescription: >-
   federal money laundering cases if arrested in Phoenix for money laundering.
 addTitleSuffix: true
 socialImage: null
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Money Laundering
 hero:
   - type: HeroSection

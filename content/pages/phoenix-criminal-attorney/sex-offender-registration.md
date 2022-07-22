@@ -6,7 +6,10 @@ metaDescription: >-
   to your sex crime case, including sex offender registration.
 addTitleSuffix: true
 socialImage: null
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Sex Offender Registration
 hero:
   - type: HeroSection

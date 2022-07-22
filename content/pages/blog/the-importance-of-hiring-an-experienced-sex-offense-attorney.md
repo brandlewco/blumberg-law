@@ -2,7 +2,10 @@
 layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: The Importance of Hiring an Experienced Sex Offense Attorney
 colors: colors-d
 date: '2020-06-10'

@@ -6,7 +6,10 @@ metaDescription: >-
   with strategic advocacy and counsel in paternity cases and paternity disputes.
 addTitleSuffix: true
 socialImage: null
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Paternity
 hero:
   - type: HeroSection

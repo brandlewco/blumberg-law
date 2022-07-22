@@ -2,7 +2,10 @@
 layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: What to Do If You Think You’re Being Investigated for a Crime in Phoenix?
 colors: colors-d
 date: '2020-06-11'

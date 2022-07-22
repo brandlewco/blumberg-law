@@ -2,7 +2,10 @@
 layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Penalty For Impersonating A Member Of The Military In Arizona
 colors: colors-d
 date: '2021-07-16'

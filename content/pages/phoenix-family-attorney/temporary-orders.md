@@ -7,7 +7,10 @@ metaDescription: >-
   issues.
 addTitleSuffix: true
 socialImage: null
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: 'Temporary Ordersgit '
 hero:
   - type: HeroSection

@@ -6,7 +6,10 @@ metaDescription: >-
   guilty fraud verdicts and can help your white collar defense case.
 addTitleSuffix: true
 socialImage: null
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Bank Fraud
 hero:
   - type: HeroSection

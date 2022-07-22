@@ -6,7 +6,10 @@ metaDescription: >-
   Arizona, call the Phoenix mortgage fraud attorneys at Blumberg & Associates.
 addTitleSuffix: true
 socialImage: null
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:type'
+    content: article
 title: Mortgage Fraud
 hero:
   - type: HeroSection
