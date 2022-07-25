@@ -375,7 +375,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/award-avvo-10.png
-        altText: AVVO 10.0 Superb Top Attorney Criminal Defense
+        altText: AVVO 10.0 Superb Top Attorney Phoenix Criminal Defense
         caption: AVVO 10.0 Superb Top Attorney Criminal Defense
       - type: ImageBlock
         url: /images/award-av-preeminent.png
