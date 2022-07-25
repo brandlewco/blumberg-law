@@ -523,7 +523,7 @@ sections:
       - type: Button
         label: |
           See More Case Results
-        altText: C
+        altText: Criminal Defense & Family Law Case Results
         url: /case-results
         showIcon: true
         icon: arrowRight
