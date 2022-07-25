@@ -123,7 +123,7 @@ sections:
               - pl-4
         featuredImage:
           url: /images/icon-clients-88acd407.svg
-          altText: 'Blumberg '
+          altText: Blumberg represent
           caption: Caption of the image
           elementId: ''
           type: ImageBlock
