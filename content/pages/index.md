@@ -188,7 +188,7 @@ sections:
             url: /phoenix-criminal-attorney/sex-crimes/
             style: secondary
             iconPosition: left
-            altText: Sex Crimes Attornery
+            altText: Sex Crimes Criminal Defense Attornery
         styles:
           self:
             textAlign: left
