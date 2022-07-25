@@ -362,7 +362,7 @@ sections:
       - type: Button
         label: |
           Contact Blumberg & Associates
-        altText: Contact Bruce Blumberg & Assoc
+        altText: Contact Bruce Blumberg & Associates
         url: /contact-us
         showIcon: true
         icon: arrowRight
