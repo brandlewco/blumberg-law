@@ -379,7 +379,7 @@ sections:
         caption: AVVO 10.0 Superb Top Attorney Criminal Defense
       - type: ImageBlock
         url: /images/award-av-preeminent.png
-        altText: AV Preeminent Lawyer Ratings
+        altText: AV Preeminent Lawyer Ratings Phoenix
         caption: AV Preeminent Lawyer Ratings
       - type: ImageBlock
         url: /images/certified-specialist-state-bar-arizona.png
