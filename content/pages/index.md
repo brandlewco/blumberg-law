@@ -523,7 +523,7 @@ sections:
       - type: Button
         label: |
           See More Case Results
-        altText: ''
+        altText: C
         url: /case-results
         showIcon: true
         icon: arrowRight
