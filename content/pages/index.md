@@ -235,7 +235,7 @@ sections:
           - label: |+
               #### White Collar Crime
 
-            altText: White Collar CrimeSex Crimes Criminal Defense Attorney
+            altText: White Collar Crimes Criminal Defense Attorney
             url: /phoenix-criminal-attorney/white-collar-crimes/
             showIcon: true
             icon: whiteCollarCrime
