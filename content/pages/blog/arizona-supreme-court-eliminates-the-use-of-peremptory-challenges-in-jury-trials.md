@@ -56,7 +56,7 @@ bottomSections:
         justifyContent: flex-start
     title: Related News & Blogs
     subtitle: ''
-    colors: colors-e
+    colors: colors-a
     posts:
       - >-
         content/pages/blog/bruce-blumberg-named-to-2018-southwest-super-lawyers-list.md
