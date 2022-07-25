@@ -609,7 +609,7 @@ sections:
     actions:
       - label: |
           Attorney Profile
-        altText: ''
+        altText: Bruce Blumberg Attorney Profile
         url: /attorney-profile
         showIcon: true
         icon: arrowRight
