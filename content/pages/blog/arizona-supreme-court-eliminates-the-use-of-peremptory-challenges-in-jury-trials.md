@@ -21,7 +21,6 @@ media:
   altText: Post image
   url: /images/gavel-placeholder.jpg
 bottomSections: []
-metaDescription: null
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
