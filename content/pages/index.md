@@ -80,7 +80,7 @@ sections:
               - pr-4
         featuredImage:
           url: /images/icon-jury-d2332d6b.svg
-          altText: altText of the image
+          altText: Jury Icon
           caption: Caption of the image
           elementId: ''
           type: ImageBlock
