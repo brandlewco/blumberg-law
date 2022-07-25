@@ -7,7 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: What Happens When You Are Caught With Dangerous Drugs in Arizona?
-colors: colors-d
+colors: colors-a
 date: '2021-02-03'
 excerpt: ''
 featuredImage:

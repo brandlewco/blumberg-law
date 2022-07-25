@@ -7,7 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: How to File for Divorce in Arizona
-colors: colors-d
+colors: colors-a
 date: '2014-08-28'
 excerpt: ''
 featuredImage:

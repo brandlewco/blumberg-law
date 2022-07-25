@@ -7,7 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: Dangerous Crimes Have Serious Legal Consequences
-colors: colors-d
+colors: colors-a
 date: '2020-05-27'
 excerpt: ''
 featuredImage:

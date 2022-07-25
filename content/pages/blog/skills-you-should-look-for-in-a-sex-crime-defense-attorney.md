@@ -7,7 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: Skills You Should Look for in a Sex Crime Defense Attorney
-colors: colors-d
+colors: colors-a
 date: '2019-08-20'
 excerpt: ''
 featuredImage:

@@ -133,7 +133,7 @@
                         "showAuthor": false,
                         "showExcerpt": true,
                         "showReadMoreLink": true,
-                        "readMoreLinkLabel": "Join adventure",
+                        "readMoreLinkLabel": "Read More",
                         "posts": ["content/pages/blog/post-two.md", "content/pages/blog/post-three.md"],
                         "styles": {
                             "self": {
@@ -187,7 +187,7 @@
                         "actions": [
                             {
                                 "type": "Button",
-                                "label": "Join adventure",
+                                "label": "Read More",
                                 "url": "/contact-us",
                                 "style": "secondary",
                                 "showIcon": true,

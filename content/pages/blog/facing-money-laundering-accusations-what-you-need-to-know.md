@@ -7,7 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: Facing Money Laundering Accusations? What You Need to Know
-colors: colors-d
+colors: colors-a
 date: '2021-03-09'
 excerpt: ''
 featuredImage:

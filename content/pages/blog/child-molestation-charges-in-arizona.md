@@ -7,7 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: Child Molestation Charges in Arizona
-colors: colors-d
+colors: colors-a
 date: '2020-03-19'
 excerpt: ''
 featuredImage:

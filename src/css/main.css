@@ -41,7 +41,7 @@
 
 @layer components {
     .sb-markdown {
-        @apply leading-relaxed;
+        @apply leading-relaxed text-lg;
         a {
             @apply underline;
         }
@@ -288,6 +288,15 @@
 
     header nav {
         @apply px-4 py-3 md:px-4 md:py-0
+    }
+
+    .hero-bg {
+        @apply relative;
+    }
+
+    .hero-bg:before {
+        content: "";
+        @apply w-full h-full top-0 left-0 absolute bg-black opacity-70 z-20;
     }
 
     /* #hero-awards h2{

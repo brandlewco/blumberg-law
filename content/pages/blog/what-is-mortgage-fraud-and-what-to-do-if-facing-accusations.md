@@ -7,7 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: 'What is Mortgage Fraud, and What to Do if Facing Accusations'
-colors: colors-d
+colors: colors-a
 date: '2021-03-23'
 excerpt: ''
 featuredImage:

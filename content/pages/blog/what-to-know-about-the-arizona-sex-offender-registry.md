@@ -7,7 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: What to Know About the Arizona Sex Offender Registry
-colors: colors-d
+colors: colors-a
 date: '2020-07-15'
 excerpt: ''
 featuredImage:

@@ -7,7 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: The Importance of Hiring an Experienced Sex Offense Attorney
-colors: colors-d
+colors: colors-a
 date: '2020-06-10'
 excerpt: ''
 featuredImage:

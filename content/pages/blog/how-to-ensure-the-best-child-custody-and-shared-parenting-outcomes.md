@@ -7,7 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: How to Ensure the Best Child Custody and Shared Parenting Outcomes
-colors: colors-d
+colors: colors-a
 date: '2016-10-18'
 excerpt: ''
 featuredImage:

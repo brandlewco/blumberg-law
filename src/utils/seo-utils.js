@@ -18,7 +18,7 @@ export function seoGenerateMetaTags(page, site) {
         ...pageMetaTags,
         ...(seoGenerateTitle(page, site) && { 'og:title': seoGenerateTitle(page, site) }),
         ...(seoGenerateOgImage(page, site) && { 'og:image': seoGenerateOgImage(page, site) }),
-        ...({'og:url': domainUrl + ogUrlPath }),
+        ...({'og:url': domainUrl + ogUrlPath + "/" }),
     };
 
     if (page.metaTags?.length) {

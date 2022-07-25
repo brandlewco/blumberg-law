@@ -7,7 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: Accused of Possession of Child Pornography? Fighting the Charges
-colors: colors-d
+colors: colors-a
 date: '2021-01-27'
 excerpt: ''
 featuredImage:

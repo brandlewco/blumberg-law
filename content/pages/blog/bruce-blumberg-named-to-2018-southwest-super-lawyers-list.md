@@ -7,7 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: Bruce Blumberg Named to 2018 Southwest Super Lawyers List
-colors: colors-d
+colors: colors-a
 date: '2018-04-24'
 excerpt: ''
 featuredImage:
@@ -25,7 +25,7 @@ socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
 
-The *2018 Southwest Super Lawyers*list was released today and for the fifth time, Bruce Blumberg was recognized.
+The *2018 Southwest Super Lawyers* list was released today and for the fifth time, Bruce Blumberg was recognized.
 
 Blumberg was listed for his work as a criminal defense attorney in Arizona. Only 5 percent attorneys are selected to *Super Lawyers. *
 

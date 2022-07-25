@@ -7,7 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: What is Considered a Deadly Weapon or Dangerous Instrument in Arizona?
-colors: colors-d
+colors: colors-a
 date: '2020-07-22'
 excerpt: ''
 featuredImage:

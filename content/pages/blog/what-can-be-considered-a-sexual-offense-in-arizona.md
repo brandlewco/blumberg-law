@@ -7,7 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: What Can Be Considered a Sexual Offense in Arizona?
-colors: colors-d
+colors: colors-a
 date: '2020-03-09'
 excerpt: ''
 featuredImage:

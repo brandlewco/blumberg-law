@@ -7,7 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: What to Do if You’ve Been Arrested for White Collar Crime in Arizona?
-colors: colors-d
+colors: colors-a
 date: '2020-05-13'
 excerpt: ''
 featuredImage:

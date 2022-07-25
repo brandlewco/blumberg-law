@@ -6,7 +6,8 @@ import classNames from 'classnames';
 import { getBaseLayoutComponent } from '../../../utils/base-layout';
 import { getComponent } from '../../components-registry';
 import getPageUrlPath from '../../../utils/get-page-url-path';
-import Link from '../../atoms/Link';
+import { Link, BackgroundImage } from '../../atoms';
+
 
 export default function PostLayout(props) {
     const { page, site } = props;
@@ -19,10 +20,10 @@ export default function PostLayout(props) {
     return (
         <BaseLayout page={page} site={site}>
             <main id="main" className="sb-layout sb-post-layout">
-                <article className={classNames(colors, 'px-4', 'sm:px-8', 'py-14', 'lg:py-12')}>
-                    <div className="max-w-5xl mx-auto">
-                        {page.media && <div className="w-full">{postMedia(page.media)}</div>}
-                        <header className="max-w-5xl mx-auto my-12 text-left">
+                <article className={classNames(colors)}>
+                <header className="colors-b flex flex-col justify-center relative pt-8 pb-8 pr-4 pl-4 border-none rounded-none hero-bg">
+                        {page.media && <BackgroundImage {...page.media} />}
+                        <div className="relative z-30 max-w-7xl mx-auto py-8 md:py-20 xl:py-40 sm:px-8">
                             {page.title && <h1 data-sb-field-path="title">{page.title}</h1>}
                             <div className="text-lg mt-6">
                                 <span>
@@ -32,7 +33,10 @@ export default function PostLayout(props) {
                                 </span>
                                 <PostAttribution post={page} />
                             </div>
+                        </div>
                         </header>
+                    <div className="max-w-7xl mx-auto px-4 sm:px-8 py-14 lg:py-12">
+                        {/* {page.media && <div className="w-full">{postMedia(page.media)}</div>} */}
                         {page.markdown_content && (
                             <Markdown options={{ forceBlock: true }} className="sb-markdown max-w-5-xl mx-auto markdown-image" data-sb-field-path="markdown_content">
                                 {page.markdown_content}

@@ -7,7 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: Combating False Identifications
-colors: colors-d
+colors: colors-a
 date: '2020-01-10'
 excerpt: ''
 featuredImage:
