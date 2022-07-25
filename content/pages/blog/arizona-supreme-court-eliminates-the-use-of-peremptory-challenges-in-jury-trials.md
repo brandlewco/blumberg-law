@@ -57,7 +57,9 @@ bottomSections:
     title: Related Blogs & News
     subtitle: ''
     colors: colors-d
-    posts: []
+    posts:
+      - >-
+        content/pages/blog/criminal-trials-in-maricopa-county-could-be-delayed-due-to-covid-19.md
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 metaDescription: >-
