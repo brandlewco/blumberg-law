@@ -81,7 +81,6 @@ sections:
         featuredImage:
           url: /images/icon-jury-d2332d6b.svg
           altText: Jury Icon
-          caption: Caption of the image
           elementId: ''
           type: ImageBlock
       - type: FeaturedItem
