@@ -38,6 +38,7 @@ bottomSections:
         url: /blog
         showIcon: true
         icon: arrowRight
+        label: Latest
     styles:
       self:
         height: auto
