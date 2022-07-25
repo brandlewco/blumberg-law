@@ -35,7 +35,7 @@ bottomSections:
     actions:
       - type: Link
         label: Related Blogs & News
-        altText: See all adventures
+        altText: Related Blogs & News
         url: /blog
         showIcon: true
         icon: arrowRight
