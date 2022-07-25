@@ -172,7 +172,7 @@ sections:
             style: secondary
             iconPosition: left
             icon: drugCrime
-            altText: Sex Crimes Criminal Defense Attorney
+            altText: Drug Crimes Criminal Defense Attorney
         styles:
           self:
             textAlign: left
