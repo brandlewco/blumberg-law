@@ -59,7 +59,7 @@ bottomSections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title: Seasonal adventure
+    title: Related Blogs & News
     subtitle: ''
     colors: colors-d
     posts:
