@@ -328,7 +328,7 @@
                 "type": "Link",
                 "label": "**TEL:** 602-277-6180\n\n**FAX:** 602-889-9167\n",
                 "url": "tel:+16022776180",
-                "altText": "home",
+                "altText": "Call Bruce Blumberg",
                 "showIcon": true,
                 "iconPosition": "left",
                 "icon": "phone",
@@ -337,7 +337,7 @@
             {
                 "type": "Link",
                 "label": "**Our Office:**\n\n3600 N 19TH AVE\n\nPHOENIX, AZ 85015\n",
-                "altText": "",
+                "altText": "Blumberg & Associates Phoenix Location",
                 "url": "https://g.page/r/Cfo6l1OQy2exEAE",
                 "child": [],
                 "showIcon": true,

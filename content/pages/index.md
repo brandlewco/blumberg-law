@@ -80,8 +80,7 @@ sections:
               - pr-4
         featuredImage:
           url: /images/icon-jury-d2332d6b.svg
-          altText: altText of the image
-          caption: Caption of the image
+          altText: Blumberg jury trail icon
           elementId: ''
           type: ImageBlock
       - type: FeaturedItem
@@ -106,8 +105,7 @@ sections:
               - pr-4
         featuredImage:
           url: /images/icon-gavel-8a7d531e.svg
-          altText: altText of the image
-          caption: Caption of the image
+          altText: Blumberg courtroom track record icon
           elementId: ''
           type: ImageBlock
       - type: FeaturedItem
@@ -125,8 +123,7 @@ sections:
               - pl-4
         featuredImage:
           url: /images/icon-clients-88acd407.svg
-          altText: altText of the image
-          caption: Caption of the image
+          altText: Blumberg represented clients icon
           elementId: ''
           type: ImageBlock
     actions: []
@@ -175,6 +172,7 @@ sections:
             style: secondary
             iconPosition: left
             icon: drugCrime
+            altText: Drug Crimes Criminal Defense Attorney
         styles:
           self:
             textAlign: left
@@ -191,6 +189,7 @@ sections:
             url: /phoenix-criminal-attorney/sex-crimes/
             style: secondary
             iconPosition: left
+            altText: Sex Crimes Criminal Defense Attorney
         styles:
           self:
             textAlign: left
@@ -218,7 +217,7 @@ sections:
           - label: |+
               #### Federal Crime
 
-            altText: Federal Crime
+            altText: Federal Crimes Criminal Defense Attorney
             url: /phoenix-criminal-attorney/federal-crimes/
             showIcon: true
             icon: gavel
@@ -236,7 +235,7 @@ sections:
           - label: |+
               #### White Collar Crime
 
-            altText: White Collar Crime
+            altText: White Collar Crimes Criminal Defense Attorney
             url: /phoenix-criminal-attorney/white-collar-crimes/
             showIcon: true
             icon: whiteCollarCrime
@@ -255,7 +254,7 @@ sections:
           - label: |+
               #### Child Custody
 
-            altText: Child Custody & Parenting Time
+            altText: Child Custody & Parenting Time Family Law Attorney
             url: /phoenix-family-attorney/child-custody-parenting-time/
             showIcon: true
             icon: childCustody
@@ -363,7 +362,7 @@ sections:
       - type: Button
         label: |
           Contact Blumberg & Associates
-        altText: ''
+        altText: Contact Bruce Blumberg & Associates
         url: /contact-us
         showIcon: true
         icon: arrowRight
@@ -376,11 +375,11 @@ sections:
     images:
       - type: ImageBlock
         url: /images/award-avvo-10.png
-        altText: AVVO 10.0 Superb Top Attorney Criminal Defense
+        altText: AVVO 10.0 Superb Top Attorney Phoenix Arizona Criminal Defense
         caption: AVVO 10.0 Superb Top Attorney Criminal Defense
       - type: ImageBlock
         url: /images/award-av-preeminent.png
-        altText: AV Preeminent Lawyer Ratings
+        altText: AV Preeminent Lawyer Ratings Phoenix Arizona
         caption: AV Preeminent Lawyer Ratings
       - type: ImageBlock
         url: /images/certified-specialist-state-bar-arizona.png
@@ -388,7 +387,7 @@ sections:
         caption: State Bar Of Arizona Certified Specialist - Criminal Law
       - type: ImageBlock
         url: /images/award-super-lawyers.png
-        altText: Super Lawyers Rated
+        altText: Super Lawyers Rated Phoenix Arizona
         caption: Super Lawyers Rated
     spacing: 32
     columns: 4
@@ -524,7 +523,7 @@ sections:
       - type: Button
         label: |
           See More Case Results
-        altText: ''
+        altText: Criminal Defense & Family Law Case Results
         url: /case-results
         showIcon: true
         icon: arrowRight
@@ -610,7 +609,7 @@ sections:
     actions:
       - label: |
           Attorney Profile
-        altText: ''
+        altText: Bruce Blumberg Attorney Profile
         url: /attorney-profile
         showIcon: true
         icon: arrowRight
@@ -635,7 +634,7 @@ sections:
       - type: Button
         label: |
           Read More Testimonials
-        altText: ''
+        altText: Bruce Blumberg Testimonials
         url: /testimonials
         showIcon: true
         icon: arrowRight
