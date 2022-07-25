@@ -10,7 +10,9 @@ title: >-
   Trials
 colors: colors-a
 date: '2021-09-01'
-excerpt: ''
+excerpt: >-
+  A recent ruling by the Arizona Supreme Court eliminates the use of peremptory
+  juror challenges during trial. Learn more about this decision here.
 featuredImage:
   type: ImageBlock
   url: /images/gavel-placeholder.jpg
