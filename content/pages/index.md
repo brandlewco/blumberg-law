@@ -124,7 +124,6 @@ sections:
         featuredImage:
           url: /images/icon-clients-88acd407.svg
           altText: Blumberg represented clients icon
-          caption: Caption of the image
           elementId: ''
           type: ImageBlock
     actions: []
