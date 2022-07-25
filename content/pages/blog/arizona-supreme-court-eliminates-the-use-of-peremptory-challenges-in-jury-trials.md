@@ -34,7 +34,7 @@ bottomSections:
     variant: variant-d
     actions:
       - type: Link
-        label: Related Articles
+        label: 'Related News & '
         altText: See all adventures
         url: /blog
         showIcon: true
