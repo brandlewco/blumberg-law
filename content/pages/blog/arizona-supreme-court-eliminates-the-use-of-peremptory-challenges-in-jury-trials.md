@@ -54,7 +54,7 @@ bottomSections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title: Related Blogs & News
+    title: Related News & Blogs
     subtitle: ''
     colors: colors-d
     posts:
