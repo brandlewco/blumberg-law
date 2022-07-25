@@ -29,7 +29,7 @@ bottomSections:
     showDate: true
     showAuthor: true
     showExcerpt: false
-    showReadMoreLink: true
+    showReadMoreLink: false
     readMoreLinkLabel: Join adventure
     variant: variant-b
     actions: []
