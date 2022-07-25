@@ -57,8 +57,7 @@ bottomSections:
     title: Related Blogs & News
     subtitle: ''
     colors: colors-d
-    posts:
-      - content/pages/blog/post-one.md
+    posts: []
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 metaDescription: >-
