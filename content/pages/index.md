@@ -80,7 +80,7 @@ sections:
               - pr-4
         featuredImage:
           url: /images/icon-jury-d2332d6b.svg
-          altText: Jury Icon
+          altText: Blumberg jury trail icon
           elementId: ''
           type: ImageBlock
       - type: FeaturedItem
