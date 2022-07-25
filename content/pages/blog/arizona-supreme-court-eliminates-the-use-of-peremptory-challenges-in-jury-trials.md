@@ -60,6 +60,7 @@ bottomSections:
     posts:
       - >-
         content/pages/blog/bruce-blumberg-named-to-2018-southwest-super-lawyers-list.md
+      - content/pages/blog/things-to-look-for-in-a-family-law-attorney.md
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 metaDescription: >-
