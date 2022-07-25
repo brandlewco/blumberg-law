@@ -1,6 +1,5 @@
 ---
 layout: PostLayout
-metaTitle: null
 addTitleSuffix: true
 metaTags:
   - type: MetaTag
