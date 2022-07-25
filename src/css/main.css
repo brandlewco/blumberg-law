@@ -296,7 +296,7 @@
 
     .hero-bg:before {
         content: "";
-        @apply w-full h-full top-0 left-0 absolute bg-black opacity-30 z-20;
+        @apply w-full h-full top-0 left-0 absolute bg-black opacity-70 z-20;
     }
 
     /* #hero-awards h2{

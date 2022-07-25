@@ -23,7 +23,7 @@ export default function PostLayout(props) {
                 <article className={classNames(colors)}>
                 <header className="colors-b flex flex-col justify-center relative pt-8 pb-8 pr-4 pl-4 border-none rounded-none hero-bg">
                         {page.media && <BackgroundImage {...page.media} />}
-                        <div className="relative z-30 max-w-7xl mx-auto py-16 sm:px-8 pb-14">
+                        <div className="relative z-30 max-w-7xl mx-auto py-8 md:py-20 xl:py-40 sm:px-8">
                             {page.title && <h1 data-sb-field-path="title">{page.title}</h1>}
                             <div className="text-lg mt-6">
                                 <span>
