@@ -254,7 +254,7 @@ sections:
           - label: |+
               #### Child Custody
 
-            altText: Child Custody & Parenting Time
+            altText: Child Custody & Parenting Time Family Law Attorney
             url: /phoenix-family-attorney/child-custody-parenting-time/
             showIcon: true
             icon: childCustody
