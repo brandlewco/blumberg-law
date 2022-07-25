@@ -7,7 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: What to Do If You Think You’re Being Investigated for a Crime in Phoenix?
-colors: colors-d
+colors: colors-a
 date: '2020-06-11'
 excerpt: ''
 featuredImage:

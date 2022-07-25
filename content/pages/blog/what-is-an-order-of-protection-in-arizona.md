@@ -7,7 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: What is an Order of Protection in Arizona?
-colors: colors-d
+colors: colors-a
 date: '2014-08-28'
 excerpt: ''
 featuredImage:

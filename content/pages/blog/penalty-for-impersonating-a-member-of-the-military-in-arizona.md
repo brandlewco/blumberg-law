@@ -7,7 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: Penalty For Impersonating A Member Of The Military In Arizona
-colors: colors-d
+colors: colors-a
 date: '2021-07-16'
 excerpt: ''
 featuredImage:

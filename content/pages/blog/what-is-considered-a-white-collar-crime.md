@@ -7,7 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: What is Considered a White-Collar Crime?
-colors: colors-d
+colors: colors-a
 date: '2020-05-28'
 excerpt: ''
 featuredImage:

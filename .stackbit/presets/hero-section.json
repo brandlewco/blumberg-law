@@ -13,7 +13,7 @@
                 "actions": [
                     {
                         "type": "Button",
-                        "label": "Join adventure",
+                        "label": "Read More",
                         "showIcon": true,
                         "icon": "arrowRight",
                         "style": "primary",
@@ -62,7 +62,7 @@
                 "actions": [
                     {
                         "type": "Button",
-                        "label": "Join adventure",
+                        "label": "Read More",
                         "showIcon": true,
                         "icon": "arrowRight",
                         "style": "primary",
@@ -118,7 +118,7 @@
                 "actions": [
                     {
                         "type": "Button",
-                        "label": "Join adventure",
+                        "label": "Read More",
                         "showIcon": true,
                         "icon": "arrowRight",
                         "style": "primary",

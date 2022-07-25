@@ -12,7 +12,7 @@
                 "actions": [
                     {
                         "type": "Button",
-                        "label": "Join adventure",
+                        "label": "Read More",
                         "showIcon": true,
                         "icon": "arrowRight",
                         "style": "secondary",

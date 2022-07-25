@@ -7,7 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: Drug Cases are Subject to Mandatory Sentencing
-colors: colors-d
+colors: colors-a
 date: '2020-06-03'
 excerpt: ''
 featuredImage:

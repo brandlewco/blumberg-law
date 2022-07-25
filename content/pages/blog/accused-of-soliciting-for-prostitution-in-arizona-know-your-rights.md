@@ -7,7 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: Accused of Soliciting for Prostitution in Arizona? Know Your Rights
-colors: colors-d
+colors: colors-a
 date: '2021-03-15'
 excerpt: ''
 featuredImage:

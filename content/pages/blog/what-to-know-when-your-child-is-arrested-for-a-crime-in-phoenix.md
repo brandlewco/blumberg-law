@@ -7,7 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: What to Know When Your Child is Arrested for a Crime in Phoenix
-colors: colors-d
+colors: colors-a
 date: '2020-04-30'
 excerpt: ''
 featuredImage:

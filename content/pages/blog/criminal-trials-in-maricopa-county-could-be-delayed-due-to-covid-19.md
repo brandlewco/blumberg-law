@@ -7,7 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: Criminal Trials in Maricopa County Could be Delayed Due to COVID-19
-colors: colors-d
+colors: colors-a
 date: '2020-05-21'
 excerpt: ''
 featuredImage:

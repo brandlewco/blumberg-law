@@ -7,7 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: Search Engines are Watching for Child Porn and Child Abuse
-colors: colors-d
+colors: colors-a
 date: '2014-08-28'
 excerpt: ''
 featuredImage:

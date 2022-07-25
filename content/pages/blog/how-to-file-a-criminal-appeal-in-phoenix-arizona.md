@@ -7,7 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: 'How to File a Criminal Appeal in Phoenix, Arizona'
-colors: colors-d
+colors: colors-a
 date: '2020-04-07'
 excerpt: ''
 featuredImage:

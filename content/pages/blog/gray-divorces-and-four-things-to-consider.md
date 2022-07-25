@@ -7,7 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: Gray Divorces and Four Things to Consider
-colors: colors-d
+colors: colors-a
 date: '2017-11-30'
 excerpt: ''
 featuredImage:

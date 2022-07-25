@@ -7,7 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: Five Signs a Divorce Might Be Imminent
-colors: colors-d
+colors: colors-a
 date: '2017-11-20'
 excerpt: ''
 featuredImage:

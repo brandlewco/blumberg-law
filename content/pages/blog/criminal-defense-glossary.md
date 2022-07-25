@@ -7,7 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: Criminal Defense Glossary
-colors: colors-d
+colors: colors-a
 date: '2014-10-30'
 excerpt: ''
 featuredImage:

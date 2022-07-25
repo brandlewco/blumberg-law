@@ -7,7 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: What Happens if You Violate Your Probation in Arizona?
-colors: colors-d
+colors: colors-a
 date: '2020-05-08'
 excerpt: ''
 featuredImage:

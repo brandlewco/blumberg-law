@@ -7,7 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: Preparing for Your Child Custody Case
-colors: colors-d
+colors: colors-a
 date: '2017-12-05'
 excerpt: ''
 featuredImage:

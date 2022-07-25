@@ -7,7 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: What to do if you are Falsely Accused of a Sex Crime in Arizona
-colors: colors-d
+colors: colors-a
 date: '2014-08-29'
 excerpt: ''
 featuredImage:

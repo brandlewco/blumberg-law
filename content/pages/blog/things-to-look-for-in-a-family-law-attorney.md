@@ -7,7 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: Things to Look for In a Family Law Attorney
-colors: colors-d
+colors: colors-a
 date: '2016-07-14'
 excerpt: ''
 featuredImage:

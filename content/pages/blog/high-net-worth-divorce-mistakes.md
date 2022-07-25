@@ -7,7 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: High-Net Worth Divorce Mistakes
-colors: colors-d
+colors: colors-a
 date: '2017-10-30'
 excerpt: ''
 featuredImage:
