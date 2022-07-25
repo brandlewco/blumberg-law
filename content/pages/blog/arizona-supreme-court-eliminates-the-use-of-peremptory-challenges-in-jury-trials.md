@@ -34,7 +34,6 @@ bottomSections:
     variant: variant-d
     actions:
       - type: Link
-        label: Related Blogs & News
         altText: Related Blogs & News
         url: /blog
         showIcon: true
