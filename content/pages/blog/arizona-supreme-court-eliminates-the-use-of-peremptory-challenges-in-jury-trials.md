@@ -32,13 +32,7 @@ bottomSections:
     showReadMoreLink: true
     readMoreLinkLabel: Join adventure
     variant: variant-d
-    actions:
-      - type: Link
-        altText: Related Blogs & News
-        url: /blog
-        showIcon: true
-        icon: arrowRight
-        label: Latest
+    actions: []
     styles:
       self:
         height: auto
