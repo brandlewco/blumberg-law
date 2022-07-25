@@ -58,7 +58,6 @@ bottomSections:
     subtitle: ''
     colors: colors-d
     posts:
-      - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
