@@ -105,7 +105,7 @@ sections:
               - pr-4
         featuredImage:
           url: /images/icon-gavel-8a7d531e.svg
-          altText: Blumberg courtroom icon
+          altText: Blumberg courtroom track record icon
           elementId: ''
           type: ImageBlock
       - type: FeaturedItem
