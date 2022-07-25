@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-addTitleSuffix: true
+addTitleSuffix: false
 metaTags:
   - type: MetaTag
     property: 'og:type'
