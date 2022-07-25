@@ -27,7 +27,7 @@ bottomSections:
   - type: FeaturedPostsSection
     elementId: ''
     showDate: false
-    showAuthor: true
+    showAuthor: false
     showExcerpt: false
     showReadMoreLink: false
     readMoreLinkLabel: Join adventure
