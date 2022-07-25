@@ -105,7 +105,7 @@ sections:
               - pr-4
         featuredImage:
           url: /images/icon-gavel-8a7d531e.svg
-          altText: Courtroom Icon
+          altText: Blumberg jury trail icon
           elementId: ''
           type: ImageBlock
       - type: FeaturedItem
