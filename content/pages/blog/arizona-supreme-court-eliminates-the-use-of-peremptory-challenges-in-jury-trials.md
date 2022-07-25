@@ -31,7 +31,7 @@ bottomSections:
     showExcerpt: false
     showReadMoreLink: true
     readMoreLinkLabel: Read More
-    variant: variant-d
+    variant: variant-b
     actions: []
     styles:
       self:
