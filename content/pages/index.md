@@ -107,7 +107,6 @@ sections:
         featuredImage:
           url: /images/icon-gavel-8a7d531e.svg
           altText: Courtroom Icon
-          caption: Caption of the image
           elementId: ''
           type: ImageBlock
       - type: FeaturedItem
