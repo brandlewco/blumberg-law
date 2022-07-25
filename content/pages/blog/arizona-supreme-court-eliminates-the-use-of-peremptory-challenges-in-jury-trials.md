@@ -26,12 +26,18 @@ media:
 bottomSections:
   - type: FeaturedPostsSection
     elementId: ''
-    showDate: true
+    showDate: false
     showAuthor: false
     showExcerpt: false
+<<<<<<< HEAD
     showReadMoreLink: true
     readMoreLinkLabel: Read More
     variant: variant-d
+=======
+    showReadMoreLink: false
+    readMoreLinkLabel: Join adventure
+    variant: variant-b
+>>>>>>> d41ea21d88283faebdbc1b5922099ac24dff05dd
     actions: []
     styles:
       self:
