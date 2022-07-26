@@ -36,9 +36,9 @@ In addition, you need to consider the Stolen Valor Act of 2005. This law makes i
 
 ## Examples of Impersonating a Member of the Military
 
-In 2011, a man in Tucson was charged with seven felonies after impersonating a two-star general. He wore a uniform and managed to gain entry into Fort Huachuca Army post. Once inside, he went shopping at the fort’s commissary and purchased $62 worth of tax-free items.
+*   In 2011, a man in Tucson was charged with seven felonies after impersonating a two-star general. He wore a uniform and managed to gain entry into Fort Huachuca Army post. Once inside, he went shopping at the fort’s commissary and purchased $62 worth of tax-free items.
 
-In 2009, a man faced 13 felony charges after impersonating a highly-decorated Marine with multiple ribbons and military honors. Authorities stated that he used this false identity to get discounts on airline tickets. He also claimed that he was about to deploy to Iraq, which allowed him to postpone a court hearing for a DUI charge.
+*   In 2009, a man faced 13 felony charges after impersonating a highly-decorated Marine with multiple ribbons and military honors. Authorities stated that he used this false identity to get discounts on airline tickets. He also claimed that he was about to deploy to Iraq, which allowed him to postpone a court hearing for a DUI charge.
 
 ## Enlist the Help of a Qualified Attorney Today
 
