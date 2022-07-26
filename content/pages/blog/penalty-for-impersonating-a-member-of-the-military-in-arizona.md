@@ -19,6 +19,12 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
+media:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
 America’s war heroes are among the most venerated individuals in our society. But what happens if you try to impersonate them? In everyday language, this is sometimes referred to as “stolen valor.” It goes without saying that the general public looks down upon this behavior, but how is it viewed in the eyes of the law? Is impersonating a military officer illegal in Arizona? If so, what kinds of consequences might you face if charged with this crime?
 
