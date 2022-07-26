@@ -70,7 +70,7 @@ America’s war heroes are among the most venerated individuals in our society. 
 
 The worst-case scenario for someone who impersonates a military officer is felony fraud charges. Many people choose to impersonate members of the military in order to benefit in some way. Usually, the benefits are of a financial nature. For example, military officers often get special deals, tax benefits, and certain freedoms.
 
-In Arizona, you may be charged with criminal impersonation after impersonating a member of the military. As long as you assume someone else’s identity with the intent to defraud someone or gain access to property, you face a class 6 felony.
+In Arizona, you may be charged with criminal impersonation after impersonating a member of the military. As long as you assume someone else’s identity with the intent to defraud someone or gain access to property, you face a [class 6 felony](/blog/criminal-defense-glossary/#felony).
 
 In addition, you need to consider the Stolen Valor Act of 2005. This law makes it illegal to wear any military decorations or medals. If you falsely claim that you have received these medals, you face a prison sentence of up to six months. If you lie about receiving the Medal of Honor, you face up to 12 months in prison. The original law did not take into account intent. This meant that it didn’t matter whether you intended to defraud anyone – you would still be charged with the crime regardless. However, the law was amended in 2013, and now you can only be guilty of this crime if you intended to commit fraud.
 
