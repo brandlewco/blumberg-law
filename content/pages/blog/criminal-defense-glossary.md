@@ -17,7 +17,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: /images/gavel-placeholder.jpg
+  url: /images/criminal-defense-glossary-arizona.jpg
   altText: Criminal Defense Glossary
 bottomSections: []
 metaDescription: null
