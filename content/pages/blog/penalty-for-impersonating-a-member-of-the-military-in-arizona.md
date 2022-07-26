@@ -15,10 +15,6 @@ featuredImage:
   url: /images/arizona-impersonate-miitary-member.jpg
   altText: Impersonating a military member in Arizona
   caption: ''
-media:
-  type: ImageBlock
-  url: /images/arizona-penelty-for-impersonating-a-military-member.jpg
-  altText: Impersonating a military member in Arizona
 bottomSections: []
 metaDescription: null
 socialImage: null
