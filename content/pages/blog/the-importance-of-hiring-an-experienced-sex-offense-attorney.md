@@ -17,7 +17,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: /images/gavel-placeholder.jpg
+  url: /images/hire-experianced-sex-offense-attorney.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
