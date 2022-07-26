@@ -18,7 +18,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/arizona-arrested-for-white-collar-crime.jpg
-  altText: Post image
+  altText: White collar crime in Arizona
 bottomSections: []
 metaDescription: null
 socialImage: null
