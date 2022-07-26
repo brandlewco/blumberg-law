@@ -34,7 +34,7 @@ In Arizona, you may be charged with criminal impersonation after impersonating a
 
 In addition, you need to consider the Stolen Valor Act of 2005. This law makes it illegal to wear any military decorations or medals. If you falsely claim that you have received these medals, you face a prison sentence of up to six months. If you lie about receiving the Medal of Honor, you face up to 12 months in prison. The original law did not take into account intent. This meant that it didn’t matter whether you intended to defraud anyone – you would still be charged with the crime regardless. However, the law was amended in 2013, and now you can only be guilty of this crime if you intended to commit fraud.
 
-## Examples of Impersonating a Member of the Military
+## Examples of Impersonating a Member of the Military![](/images/impersonating-a-military-member-arizona.jpg)
 
 *   In 2011, a man in Tucson was charged with seven felonies after impersonating a two-star general. He wore a uniform and managed to gain entry into Fort Huachuca Army post. Once inside, he went shopping at the fort’s commissary and purchased $62 worth of tax-free items.
 
