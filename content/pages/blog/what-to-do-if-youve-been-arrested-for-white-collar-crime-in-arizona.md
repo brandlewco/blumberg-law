@@ -13,7 +13,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/arizona-arrested-for-white-collar-crime.jpg
-  altText: Post thumbnail image
+  altText: White collar crime in Arizona
   caption: ''
 media:
   type: ImageBlock
