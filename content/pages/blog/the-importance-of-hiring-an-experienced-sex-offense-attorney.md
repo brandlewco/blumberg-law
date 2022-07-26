@@ -12,7 +12,7 @@ date: '2020-06-10'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/hire-experienced-sex-offense-attorney.jpg
+  url: /images/hire-experianced-sex-offense-attorney.jpg
   altText: Post thumbnail image
   caption: ''
 media:
