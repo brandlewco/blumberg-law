@@ -13,7 +13,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/criminal-defense-glossary-arizona.jpg
-  altText: Post thumbnail image
+  altText: Criminal Defense Glossary
   caption: ''
 media:
   type: ImageBlock
