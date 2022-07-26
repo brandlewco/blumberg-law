@@ -18,7 +18,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/gavel-placeholder.jpg
-  altText: Post image
+  altText: Criminal Defense Glossary
 bottomSections: []
 metaDescription: null
 socialImage: null
