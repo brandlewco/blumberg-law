@@ -17,7 +17,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: /images/gavel-placeholder.jpg
+  url: /images/arizona-arrested-for-white-collar-crime.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null
