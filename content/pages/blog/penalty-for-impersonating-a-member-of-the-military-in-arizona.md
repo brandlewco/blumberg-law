@@ -12,7 +12,7 @@ date: '2021-07-16'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/arizona-penelty-for-impersonating-a-military-member.jpg
+  url: /images/arizona-impersonate-miitary-member.jpg
   altText: Impersonating a military member in Arizona
   caption: ''
 media:
