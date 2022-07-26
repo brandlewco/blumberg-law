@@ -292,6 +292,8 @@ function postsVariantC(props) {
 }
 
 function postsVariantD(props) {
+    const dateTimeAttr = dayjs(props.date).format('YYYY-MM-DD HH:mm:ss');
+    const formattedDate = dayjs(props.date).format('MMMM D, YYYY');
     const posts = props.posts || [];
     if (posts.length === 0) {
         return null;
@@ -326,15 +328,19 @@ function postsVariantD(props) {
                                     {post.title}
                                 </Link>
                             </h3>
-                            <PostAttribution showAuthor={props.showAuthor} post={post} className="mt-2" />
+                            <div className='flex flex-row justify-start items-center mt-2 gap-2'>
+                                    <time dateTime={dateTimeAttr} data-sb-field-path="date">
+                                        {formattedDate}
+                                    </time>
+                                    <PostAttribution showAuthor={props.showAuthor} post={post} /> 
+                            </div>
                             {props.showExcerpt && post.excerpt && (
-                                <p className="mt-4" data-sb-field-path="excerpt">
+                                <p className="mt-6" data-sb-field-path="excerpt">
                                     {post.excerpt}
                                 </p>
                             )}
-                            {(props.showDate || props.showReadMoreLink) && (
-                                <div className="mt-12 space-y-6">
-                                    {props.showDate && <PostDate post={post} className="mb-2" />}
+                            {(props.showReadMoreLink) && (
+                                <div className="mt-6 space-y-6">
                                     {props.showReadMoreLink && (
                                         <div>
                                             <Link
@@ -399,7 +405,7 @@ function postsVariantE(props) {
                             )}
                             {(props.showDate || props.showReadMoreLink) && (
                                 <div className="mt-12 space-y-6">
-                                    {props.showDate && <PostDate post={post} className="mb-2" />}
+                                    {/* {props.showDate && <PostDate post={post} className="mb-2" />} */}
                                     {props.showReadMoreLink && (
                                         <div>
                                             <Link
@@ -427,7 +433,8 @@ function PostDate({ post, className = '' }) {
     }
     const date = post.date;
     const dateTimeAttr = dayjs(date).format('YYYY-MM-DD HH:mm:ss');
-    const formattedDate = dayjs(date).format('MM/DD/YYYY');
+    const formattedDate = dayjs(date).format('MMMM DD, YYYY');
+    
     return (
         <div className={className ? className : null}>
             <time dateTime={dateTimeAttr} data-sb-field-path="date">
@@ -447,7 +454,7 @@ function PostAttribution({ showAuthor, post, className = '' }) {
         <div className={className ? className : null}>
             {author && (
                 <>
-                    {'By '}
+                    {' By '}
                     {author}
                 </>
             )}
