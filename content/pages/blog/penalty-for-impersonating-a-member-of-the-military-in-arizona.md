@@ -21,7 +21,7 @@ socialImage: null
 author: content/data/team/person-qkxt493m4.json
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: /images/arizona-impersonate-miitary-member.jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
