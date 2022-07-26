@@ -12,7 +12,7 @@ date: '2014-10-30'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/gavel-placeholder.jpg
+  url: /images/criminal-defense-glossary-arizona.jpg
   altText: Post thumbnail image
   caption: ''
 media:
