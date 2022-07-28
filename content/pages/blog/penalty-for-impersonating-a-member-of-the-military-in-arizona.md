@@ -10,7 +10,7 @@ title: Penalty For Impersonating A Member Of The Military In Arizona
 colors: colors-a
 date: '2021-07-16'
 excerpt: >-
-  Learn about the legal repercussions for impersonating military members in the
+  Learn about the legal repercussions for impersonating a military member in the
   state of Arizona, Including felony fraud charges.
 featuredImage:
   type: ImageBlock
