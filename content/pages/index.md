@@ -781,7 +781,7 @@ sections:
         textAlign: left
   - type: CtaSection
     elementId: ''
-    colors: colors-d
+    colors: colors-b
     backgroundSize: full
     title: Schedule Your Consultation
     text: >
