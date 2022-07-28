@@ -821,7 +821,7 @@ sections:
     title: Schedule Your Consultation
   - type: CtaSection
     elementId: ''
-    colors: colors-c
+    colors: colors-d
     backgroundSize: full
     title: Let's do this
     text: >-
