@@ -50,6 +50,6 @@ Money laundering is no simple crime. It is punished by state, federally, and in 
 
 Resources:
 
-[fincen.gov/what-money-laundering](fincen.gov/what-money-laundering)
+[www.fincen.gov/what-money-laundering](www.fincen.gov/what-money-laundering)
 
-[unodc.org/unodc/en/money-laundering/overview.html](unodc.org/unodc/en/money-laundering/overview.html)
+[www.unodc.org/unodc/en/money-laundering/overview.html](www.unodc.org/unodc/en/money-laundering/overview.html)
