@@ -794,7 +794,7 @@ sections:
         showIcon: true
         icon: arrowRight
         url: /contact-us/
-        style: secondary
+        style: primary
         altText: Contact Us
     backgroundImage: null
     styles:
