@@ -9,7 +9,9 @@ metaTags:
 title: Accused of Soliciting for Prostitution in Arizona? Know Your Rights
 colors: colors-a
 date: '2021-03-15'
-excerpt: ''
+excerpt: >-
+  Prostitution is a serious crime. Learn the legal definitions & consequences,
+  and what do if accused of soliciting in Arizona.
 featuredImage:
   type: ImageBlock
   url: /images/arizona-accused-of-soliciting-prostitution.jpg
