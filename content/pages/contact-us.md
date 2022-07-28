@@ -64,15 +64,14 @@ sections:
     backgroundSize: full
     title: Schedule Your Consultation
     text: >
-      \<p className='text-lg pb-12'>Fill out the form to get started.\</p> 
+      <p className='text-lg pb-12'>Fill out the form to get started.</p>
 
-
-      \<p className='text-sm text-gray-500 pr-4'>Please do not include any
+      <p className='text-sm text-gray-500 pr-4'>Please do not include any
       confidential or sensitive information in a contact form, text message, or
       voicemail. The contact form sends information by non-encrypted email,
       which is not secure. Submitting a contact form, sending a text message,
       making a phone call, or leaving a voicemail does not create an
-      attorney-client relationship.\</p>
+      attorney-client relationship.</p>
     form:
       type: FormBlock
       elementId: contact-form
