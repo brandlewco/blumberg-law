@@ -783,9 +783,8 @@ sections:
     elementId: ''
     colors: colors-b
     backgroundSize: full
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |2
+       Call us now, or fill out or contact from to start your confidential case evaluation today!
     actions:
       - type: Button
         label: Try it now
