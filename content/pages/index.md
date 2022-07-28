@@ -789,7 +789,8 @@ sections:
       evaluation today!
     actions:
       - type: Button
-        label: Try it now
+        label: |
+          Contact Us Today
         showIcon: true
         icon: arrowRight
         url: /
