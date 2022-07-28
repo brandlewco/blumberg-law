@@ -9,7 +9,7 @@ metaTags:
 title: Penalty For Impersonating A Member Of The Military In Arizona
 colors: colors-a
 date: '2021-07-16'
-excerpt: mpersonating a military officer illegal
+excerpt: 'Learn about the legal reporcussions for impersonating '
 featuredImage:
   type: ImageBlock
   url: /images/arizona-impersonate-miitary-member.jpg
