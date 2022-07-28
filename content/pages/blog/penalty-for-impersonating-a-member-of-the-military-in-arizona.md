@@ -9,7 +9,7 @@ metaTags:
 title: Penalty For Impersonating A Member Of The Military In Arizona
 colors: colors-a
 date: '2021-07-16'
-excerpt: Learn about the legal repercussions for impersonating member
+excerpt: 'Learn about the legal repercussions for impersonating military '
 featuredImage:
   type: ImageBlock
   url: /images/arizona-impersonate-miitary-member.jpg
