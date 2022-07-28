@@ -790,7 +790,7 @@ sections:
     actions:
       - type: Button
         label: |
-          Contact Us Today
+          Contact Us Now
         showIcon: true
         icon: arrowRight
         url: /
