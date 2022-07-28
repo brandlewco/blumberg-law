@@ -51,7 +51,7 @@ function footerVariantA(props) {
     }
     return (
         <>
-        <div className='flex flex-col md:flex-row gap-4 justify-between items-start max-w-7xl mx-auto jotform-frame sm:px-8'>
+        {/* <div className='flex flex-col md:flex-row gap-4 justify-between items-start max-w-7xl mx-auto jotform-frame sm:px-8'>
         <div className='w-full lg:w-1/3 py-12'>
             <h3 className='text-primary'>Schedule Your Consultation</h3>
             <p className='text-lg pb-12'>Fill out the form to get started.</p>
@@ -60,7 +60,7 @@ function footerVariantA(props) {
         <div className='w-full lg:w-2/3 h-full relative py-12'>
         <JotformEmbed src="https://form.jotform.com/42726306387156" />
         </div>
-        </div>
+        </div> */}
             <div className={classNames(props.colors)}>
                 {(primaryLinks.length > 0 || socialLinks.length > 0 || props.contacts) && (
                     <div className={classNames('flex flex-col md:flex-row justify-between items-center max-w-7xl mx-auto')}>

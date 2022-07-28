@@ -6,6 +6,7 @@ import { getComponent } from '../../components-registry';
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 import { getDataAttrs } from '../../../utils/get-data-attrs';
 import FormBlock from '../../molecules/FormBlock';
+import JotformEmbed from 'react-jotform-embed';
 
 export default function ContactSection(props) {
     const cssId = props.elementId || null;
@@ -70,19 +71,19 @@ export default function ContactSection(props) {
                                 }
                             )}
                         >
-                            <div className="flex-1 w-full">
+                            <div className='flex flex-col md:flex-row gap-4 justify-between items-start max-w-7xl mx-auto jotform-frame sm:px-8'>
+                            <div className='w-full lg:w-1/3 py-12'>
                                 {contactBody(props)}
-                                {props.form && (
-                                    <div className={classNames('sb-contact-section-form', { 'mt-12': props.title || props.text })}>
-                                        <FormBlock {...props.form} className="inline-block w-full" data-sb-field-path=".form" />
-                                    </div>
-                                )}
                             </div>
-                            {props.media && (
+                            <div className='w-full lg:w-2/3 h-full relative py-12'>
+                                <JotformEmbed src="https://form.jotform.com/42726306387156" />
+                            </div>
+                            </div>
+                            {/* {props.media && (
                                 <div className="flex-1 w-full">
                                     <div>{contactMedia(props.media)}</div>
                                 </div>
-                            )}
+                            )} */}
                         </div>
                     </div>
                 </div>

@@ -91,9 +91,9 @@ sections:
         justifyContent: flex-start
         flexDirection: row
       title:
-        textAlign: center
+        textAlign: left
       text:
-        textAlign: center
+        textAlign: left
 sidebar: []
 footer: []
 ---
