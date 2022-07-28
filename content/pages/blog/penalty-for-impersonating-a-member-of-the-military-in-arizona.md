@@ -1,6 +1,8 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: >-
+  Learn about the legal repercussions for impersonating a military member in the
+  state of Arizona, Including felony fraud charges.
 addTitleSuffix: true
 metaTags:
   - type: MetaTag
