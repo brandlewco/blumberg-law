@@ -92,6 +92,6 @@ Don’t face any criminal charges without the help of a skilled [Phoenix crimin
 
 Resource:
 
-[tucson.com/news/local/crime/tucson-man-faces-charges-of-impersonating-air-force-officer/article\_84d6ede2-9de0-11e0-816d-001cc4c03286.html](tucson.com/news/local/crime/tucson-man-faces-charges-of-impersonating-air-force-officer/article\_84d6ede2-9de0-11e0-816d-001cc4c03286.html)
+[www.tucson.com/news/local/crime/tucson-man-faces-charges-of-impersonating-air-force-officer/article\_84d6ede2-9de0-11e0-816d-001cc4c03286.html](www.tucson.com/news/local/crime/tucson-man-faces-charges-of-impersonating-air-force-officer/article\_84d6ede2-9de0-11e0-816d-001cc4c03286.html)
 
-[denverpost.com/2009/06/11/man-accused-of-impersonating-war-hero-in-ariz/](denverpost.com/2009/06/11/man-accused-of-impersonating-war-hero-in-ariz/)
+[www.denverpost.com/2009/06/11/man-accused-of-impersonating-war-hero-in-ariz/](www.denverpost.com/2009/06/11/man-accused-of-impersonating-war-hero-in-ariz/)
