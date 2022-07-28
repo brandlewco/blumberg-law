@@ -795,6 +795,7 @@ sections:
         icon: arrowRight
         url: /
         style: secondary
+        altText: Contact Us
     backgroundImage: null
     styles:
       self:
