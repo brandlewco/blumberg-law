@@ -9,7 +9,9 @@ metaTags:
 title: 'What is Mortgage Fraud, and What to Do if Facing Accusations'
 colors: colors-a
 date: '2021-03-23'
-excerpt: ''
+excerpt: >-
+  Improper reporting of information that influences a loan lender is crime.
+  Learn how to protect yourself, and what to do if accused of fraud.
 featuredImage:
   type: ImageBlock
   url: /images/arizona-mortgage-fraud.jpg
