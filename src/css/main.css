@@ -372,8 +372,8 @@
         @apply text-secondary;
     }
 
-    .markdown h1 strong, .markdown h2 strong, .markdown h3 strong {
-        @apply text-primary;
+    .page-blog .sb-markdown h1 strong, .page-blog .sb-markdown h2 strong, .page-blog .sb-markdown h3 strong {
+        @apply text-primary !important;
     }
 
     .dropdown svg {
