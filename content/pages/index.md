@@ -787,7 +787,8 @@ sections:
        Call us now, or fill out or contact from to start your confidential case evaluation today!
     actions:
       - type: Button
-        label: Try it now
+        label: |
+          Contact Us
         url: /
         showIcon: true
         icon: arrowRight
