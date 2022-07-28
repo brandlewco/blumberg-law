@@ -789,7 +789,7 @@ sections:
       - type: Button
         label: |
           Contact Us
-        url: /
+        url: /contact-us/
         showIcon: true
         icon: arrowRight
         style: primary
