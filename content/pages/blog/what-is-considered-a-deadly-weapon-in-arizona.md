@@ -9,7 +9,9 @@ metaTags:
 title: What is Considered a Deadly Weapon or Dangerous Instrument in Arizona?
 colors: colors-a
 date: '2020-07-22'
-excerpt: ''
+excerpt: >-
+  Handguns, rifles, knives and more... Learn what Arizona law designates as a
+  deadly weapon and the charges you may face.
 featuredImage:
   type: ImageBlock
   url: /images/arizona-deadly-weapons.jpg
