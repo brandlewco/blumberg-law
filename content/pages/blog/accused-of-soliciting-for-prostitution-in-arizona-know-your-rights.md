@@ -50,4 +50,4 @@ Being accused of soliciting for prostitution is no light accusation. There are s
 
 Resource:
 
-[azleg.gov/ars/13/03214.htm](azleg.gov/ars/13/03214.htm)
+[www.azleg.gov/ars/13/03214.htm](www.azleg.gov/ars/13/03214.htm)
