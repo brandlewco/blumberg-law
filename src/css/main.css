@@ -369,7 +369,11 @@
     h2 strong,
     h3 strong,
     .markdown strong {
-        color: #f1c02f;
+        @apply text-secondary;
+    }
+
+    .markdown h1 strong, .markdown h2 strong, .markdown h3 strong {
+        @apply text-primary;
     }
 
     .dropdown svg {
