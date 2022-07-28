@@ -793,6 +793,7 @@ sections:
         showIcon: true
         icon: arrowRight
         style: primary
+        altText: Contact Form
     backgroundImage: null
     styles:
       self:
