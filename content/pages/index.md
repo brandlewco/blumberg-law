@@ -793,7 +793,7 @@ sections:
           Contact Us Now
         showIcon: true
         icon: arrowRight
-        url: /
+        url: /contact-us/
         style: secondary
         altText: Contact Us
     backgroundImage: null
