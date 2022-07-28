@@ -11,7 +11,7 @@ colors: colors-a
 date: '2021-07-16'
 excerpt: >-
   Learn about the legal repercussions for impersonating military members in the
-  state of Arizona. You could
+  state of Arizona, Including felony fraud charges.
 featuredImage:
   type: ImageBlock
   url: /images/arizona-impersonate-miitary-member.jpg
