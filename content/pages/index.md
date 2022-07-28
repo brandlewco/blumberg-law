@@ -824,9 +824,9 @@ sections:
     colors: colors-d
     backgroundSize: full
     title: Schedule Your Consultation
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      Call us now, or fill out or contact from to start your confidential case
+      evaluation today!
     actions:
       - type: Button
         label: Try it now
