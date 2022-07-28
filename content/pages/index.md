@@ -783,7 +783,8 @@ sections:
     elementId: ''
     colors: colors-b
     backgroundSize: full
-    title: Let's do this
+    title: |2
+              <div className='w-full lg:w-2/3 h-full relative py-12'>
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
