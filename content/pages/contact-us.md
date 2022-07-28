@@ -72,33 +72,6 @@ sections:
       which is not secure. Submitting a contact form, sending a text message,
       making a phone call, or leaving a voicemail does not create an
       attorney-client relationship.</p>
-    form:
-      type: FormBlock
-      elementId: contact-form
-      action: /.netlify/functions/submission_created
-      destination: ''
-      fields:
-        - type: TextFormControl
-          name: name
-          placeholder: Your name
-          isRequired: 'true'
-          width: 1/2
-        - type: EmailFormControl
-          name: email
-          placeholder: Your email
-          isRequired: 'true'
-          width: 1/2
-        - type: TextFormControl
-          name: address
-          placeholder: Your home address
-          isRequired: 'false'
-          width: full
-        - type: CheckboxFormControl
-          name: updates
-          label: Sign me up to receive updates
-          isRequired: 'false'
-          width: full
-      submitLabel: Send Message
     media: null
     styles:
       self:
