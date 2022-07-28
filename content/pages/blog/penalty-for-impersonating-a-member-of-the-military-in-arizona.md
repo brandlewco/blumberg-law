@@ -84,7 +84,6 @@ In addition, you need to consider the Stolen Valor Act of 2005. This law makes i
 
 *   In 2009, a man faced 13 felony charges after impersonating a highly-decorated Marine with multiple ribbons and military honors. Authorities stated that he used this false identity to get discounts on airline tickets. He also claimed that he was about to deploy to Iraq, which allowed him to postpone a court hearing for a DUI charge!
 
-[](stackbit_asset_id:static:public/images/impersonating-a-military-member-arizona.jpg)
 
 ## Enlist the Help of a Qualified Attorney Today
 
