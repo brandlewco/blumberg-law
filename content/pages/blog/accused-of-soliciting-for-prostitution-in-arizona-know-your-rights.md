@@ -26,7 +26,6 @@ metaDescription: null
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
-
 Prostitution is a serious crime in the state of Arizona. Not only is it generally frowned up and held with contempt, it is also an area that can connect to much greater issues that can get one into heaps of trouble. It is of the essence to get legal advice promptly or as soon as possible if you have been accused of soliciting for prostitution. That being said, know there are defense options available to you.
 
 ### **What is Prostitution Defined as in Arizona?**
@@ -51,4 +50,4 @@ Being accused of soliciting for prostitution is no light accusation. There are s
 
 Resource:
 
-azleg.gov/ars/13/03214.htm
+[azleg.gov/ars/13/03214.htm](azleg.gov/ars/13/03214.htm)
