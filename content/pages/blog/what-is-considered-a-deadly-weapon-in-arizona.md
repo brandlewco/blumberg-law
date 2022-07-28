@@ -77,4 +77,4 @@ These are just a few of the potential defenses that may be available in your cas
 
 If you need assistance with a deadly weapons charge in Arizona, let our experienced Phoenix criminal defense team help. Contact Blumberg & Associates today to schedule an initial consultation.
 
-<https://azblumberglaw.com/what-to-do-if-you-think-youre-being-investigated-for-a-crime-in-phoenix/>
+<https://azblumberglaw.com/blog/what-to-do-if-you-think-youre-being-investigated-for-a-crime-in-phoenix/>
