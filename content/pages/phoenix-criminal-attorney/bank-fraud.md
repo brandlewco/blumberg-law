@@ -13,7 +13,7 @@ metaTags:
 title: Bank Fraud
 hero:
   - type: HeroSection
-    elementId:
+    elementId: null
     colors: colors-b
     title: |+
       # Phoenix Bank Fraud Attorney
@@ -207,14 +207,14 @@ footer:
       Call us now, or fill out or contact from to start your confidential case
       evaluation today!
     actions:
-      - type: Button
-        label: |
+      - label: |
           Contact Us Now
+        altText: Contact Us
+        url: /contact-us/
         showIcon: true
         icon: arrowRight
-        url: /contact-us/
         style: primary
-        altText: Contact Us
+        type: Button
     backgroundImage: null
     styles:
       self:
