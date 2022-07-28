@@ -48,8 +48,8 @@ Regardless of the nature of mortgage fraud accusations, the stress comes all the
 
 Resources:
 
-[azleg.gov/viewdocument/?docName=](azleg.gov/viewdocument/?docName=)
+[www.azleg.gov/viewdocument/?docName=](www.azleg.gov/viewdocument/?docName=)
 
-[azleg.gov/ars/13/02320.htm](azleg.gov/ars/13/02320.htm)
+[www.azleg.gov/ars/13/02320.htm](www.azleg.gov/ars/13/02320.htm)
 
-[fbi.gov/investigate/white-collar-crime/mortgage-fraud](fbi.gov/investigate/white-collar-crime/mortgage-fraud)
+[www.fbi.gov/investigate/white-collar-crime/mortgage-fraud](www.fbi.gov/investigate/white-collar-crime/mortgage-fraud)
