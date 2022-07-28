@@ -62,7 +62,7 @@ sections:
     elementId: ''
     colors: colors-d
     backgroundSize: full
-    title: Contact us
+    title: Schedule Your Consultation
     text: >
       \<p className='text-lg pb-12'>Fill out the form to get started.\</p> 
 
