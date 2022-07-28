@@ -7,7 +7,7 @@ metaDescription: >-
 addTitleSuffix: false
 socialImage: null
 metaTags: []
-title: contact
+title: Contact
 hero:
   - type: TextSection
     elementId: ''
