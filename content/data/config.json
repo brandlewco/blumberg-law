@@ -271,7 +271,7 @@
             {
                 "label": "Contact",
                 "altText": "Contact",
-                "url": "/contact-us",
+                "url": "/contact-us/",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
