@@ -9,7 +9,9 @@ metaTags:
 title: What is Considered a Deadly Weapon or Dangerous Instrument in Arizona?
 colors: colors-a
 date: '2020-07-22'
-excerpt: ''
+excerpt: >-
+  Handguns, rifles, knives and more... Learn what Arizona law designates as a
+  deadly weapon and the charges you may face.
 featuredImage:
   type: ImageBlock
   url: /images/arizona-deadly-weapons.jpg
@@ -24,12 +26,11 @@ metaDescription: null
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
-
 Being arrested and charged for assault with a deadly weapon or dangerous instrument is a very serious matter in Arizona. A conviction can result in significant penalties, which can include a mandatory severe prison sentence, hefty fines, and lifelong consequences once you are released. It’s imperative that you contact an experienced [Phoenix criminal attorney](https://azblumberglaw.com/phoenix-criminal-attorney/) right away if you are facing deadly weapons charges in Arizona.
 
 Here’s what you need to know about how Arizona law classifies deadly weapons to help you better understand the charges you are facing.
 
-### **What are Deadly Weapons and Dangerous Instruments?**
+### What are Deadly Weapons and Dangerous Instruments?
 
 Most people know handguns, assault rifles, knives, etc. can be declared a deadly weapon. However, those are not the only ones. The law defines a deadly weapon as anything that is designed to be lethal or could be capable of causing someone’s death. Other examples include machetes, explosives, brass knuckles, etc.
 
@@ -49,27 +50,27 @@ If you are charged with a crime involving deadly weapons, all hope is not lost. 
 
 There are two main categories of defenses in Arizona. The first involves justification defenses while the other is based on statutory and procedural laws. Examples of justification defenses include:
 
-- Duress
+*   Duress
 
-- Self-defense or justification
+*   Self-defense or justification
 
-- Defense of a third party
+*   Defense of a third party
 
-- Protection of property or home due to possible harm or threat
+*   Protection of property or home due to possible harm or threat
 
-- In response to use of deadly force against you
+*   In response to use of deadly force against you
 
 Other defenses related to procedural law include:
 
-- Violation of due process
+*   Violation of due process
 
-- Error with rules of evidence
+*   Error with rules of evidence
 
-- Violation of fourth or fifth amendment rights
+*   Violation of fourth or fifth amendment rights
 
-- Insufficient evident
+*   Insufficient evident
 
-- Prejudicial testimony
+*   Prejudicial testimony
 
 These are just a few of the potential defenses that may be available in your case. Your attorney will go over your case strategy and let you know what specific defenses they plan to raise on your behalf.\*\* \*\*
 
