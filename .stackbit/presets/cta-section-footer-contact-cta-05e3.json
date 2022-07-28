@@ -1,0 +1,66 @@
+{
+    "model": "CtaSection",
+    "presets": [
+        {
+            "label": "Footer Contact CTA",
+            "thumbnail": "images/cta-section-footer-contact-cta-05e3.png",
+            "metadata": {
+                "categories": [
+                    "Presets"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "elementId": "",
+                "colors": "colors-b",
+                "backgroundSize": "full",
+                "title": "Schedule Your Consultation",
+                "text": "Call us now, or fill out or contact from to start your confidential case evaluation today!\n",
+                "actions": [
+                    {
+                        "label": "Contact Us Now\n",
+                        "altText": "Contact Us",
+                        "url": "/contact-us/",
+                        "showIcon": true,
+                        "icon": "arrowRight",
+                        "iconPosition": null,
+                        "style": "primary",
+                        "elementId": null,
+                        "$$type": "Button"
+                    }
+                ],
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "height": "auto",
+                        "width": "narrow",
+                        "margin": [
+                            "mt-0",
+                            "mb-0",
+                            "ml-0",
+                            "mr-0"
+                        ],
+                        "padding": [
+                            "pt-28",
+                            "pb-28",
+                            "pl-4",
+                            "pr-4"
+                        ],
+                        "alignItems": "center",
+                        "justifyContent": "center",
+                        "flexDirection": "col"
+                    },
+                    "title": {
+                        "textAlign": "center"
+                    },
+                    "text": {
+                        "textAlign": "center"
+                    },
+                    "actions": {
+                        "justifyContent": "center"
+                    }
+                }
+            }
+        }
+    ]
+}
