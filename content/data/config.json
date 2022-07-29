@@ -516,7 +516,7 @@
     "defaultMetaTags": [
         {
             "type": "MetaTag",
-            "property": "og:title",
+            "property": "og:type",
             "content": ""
         }
     ],
