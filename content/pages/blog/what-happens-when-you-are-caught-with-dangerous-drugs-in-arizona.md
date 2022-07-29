@@ -76,4 +76,4 @@ Dangerous drug crimes in Arizona are not taken lightly. If you have been charged
 
 Resource:
 
-[www.cdc.gov/drugoverdose/data/statedeaths/drug-overdose-death-2014.html](www.cdc.gov/drugoverdose/data/statedeaths/drug-overdose-death-2014.html)
+[https://www.cdc.gov/drugoverdose/data/statedeaths/drug-overdose-death-2014.html](https://www.cdc.gov/drugoverdose/data/statedeaths/drug-overdose-death-2014.html)
