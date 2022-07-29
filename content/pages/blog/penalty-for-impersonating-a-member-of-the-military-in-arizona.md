@@ -84,13 +84,12 @@ In addition, you need to consider the Stolen Valor Act of 2005. This law makes i
 
 *   In 2009, a man faced 13 felony charges after impersonating a highly-decorated Marine with multiple ribbons and military honors. Authorities stated that he used this false identity to get discounts on airline tickets. He also claimed that he was about to deploy to Iraq, which allowed him to postpone a court hearing for a DUI charge!
 
-
 ## Enlist the Help of a Qualified Attorney Today
 
 Don’t face any criminal charges without the help of a skilled [Phoenix criminal attorney](https://azblumberglaw.com/phoenix-criminal-attorney/). If you need assistance with your case, reach out to us today at Blumberg & Associates for a consultation.
 
 Resource:
 
-[www.tucson.com/news/local/crime/tucson-man-faces-charges-of-impersonating-air-force-officer/article\_84d6ede2-9de0-11e0-816d-001cc4c03286.html](www.tucson.com/news/local/crime/tucson-man-faces-charges-of-impersonating-air-force-officer/article\_84d6ede2-9de0-11e0-816d-001cc4c03286.html)
+[https://www.tucson.com/news/local/crime/tucson-man-faces-charges-of-impersonating-air-force-officer/article\_84d6ede2-9de0-11e0-816d-001cc4c03286.html](https://www.tucson.com/news/local/crime/tucson-man-faces-charges-of-impersonating-air-force-officer/article\_84d6ede2-9de0-11e0-816d-001cc4c03286.html)
 
-[www.denverpost.com/2009/06/11/man-accused-of-impersonating-war-hero-in-ariz/](www.denverpost.com/2009/06/11/man-accused-of-impersonating-war-hero-in-ariz/)
+[https://www.denverpost.com/2009/06/11/man-accused-of-impersonating-war-hero-in-ariz/](https://www.denverpost.com/2009/06/11/man-accused-of-impersonating-war-hero-in-ariz/)
