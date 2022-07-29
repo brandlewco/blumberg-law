@@ -517,7 +517,7 @@
         {
             "type": "MetaTag",
             "property": "og:type",
-            "content": ""
+            "content": "website"
         }
     ],
     "titleSuffix": "Blumberg & Associates",
