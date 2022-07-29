@@ -50,6 +50,6 @@ With vast criminal defense experience, our [Phoenix criminal attorneys](https:/
 
 Resources:
 
-[www.justice.gov/criminal-ceos/child-pornography](justice.gov/criminal-ceos/child-pornography)
+[https://www.justice.gov/criminal-ceos/child-pornography](https://justice.gov/criminal-ceos/child-pornography)
 
-[www.justice.gov/criminal-ceos/citizens-guide-us-federal-law-child-pornography#:~:text=Images%20of%20child%20pornography%20are,under%2018%20years%20of%20age).](www.justice.gov/criminal-ceos/citizens-guide-us-federal-law-child-pornography#:~:text=Images%20of%20child%20pornography%20are,under%2018%20years%20of%20age\).)
+[https://www.justice.gov/criminal-ceos/citizens-guide-us-federal-law-child-pornography#:~:text=Images%20of%20child%20pornography%20are,under%2018%20years%20of%20age).](https://www.justice.gov/criminal-ceos/citizens-guide-us-federal-law-child-pornography#:~:text=Images%20of%20child%20pornography%20are,under%2018%20years%20of%20age\).)
