@@ -76,7 +76,7 @@ export default function ContactSection(props) {
                                 {contactBody(props)}
                             </div>
                             <div className='w-full lg:w-2/3 h-full relative py-12'>
-                                <JotformEmbed src="https://form.jotform.com/42726306387156" />
+                                <JotformEmbed src="https://form.jotform.com/222086441580150" />
                             </div>
                             </div>
                             {/* {props.media && (
