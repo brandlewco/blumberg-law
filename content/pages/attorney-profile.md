@@ -171,7 +171,7 @@ sections:
         label: |
           See More Case Results
         altText: ''
-        url: /
+        url: /case-results/
         showIcon: true
         icon: arrowRight
         iconPosition: right
