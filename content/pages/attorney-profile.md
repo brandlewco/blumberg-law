@@ -173,7 +173,7 @@ sections:
         altText: ''
         url: /
         showIcon: true
-        icon: gavel
+        icon: arrowRight
         iconPosition: left
         style: primary
         elementId: ''
