@@ -485,6 +485,8 @@ footer:
         content/pages/cases/sixteen-year-old-clients-charged-with-one-count-of-conspiracy-to-commit-murder.md
       - >-
         content/pages/cases/client-charged-with-aggravated-assault-a-dangerous-offense-after-punching-a-smaller-man-in-the-face.md
+      - >-
+        content/pages/cases/client-accused-of-shooting-victim-in-scottsdale-arizona-client-plead-self-defense.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
