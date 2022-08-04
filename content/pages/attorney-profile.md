@@ -174,7 +174,7 @@ sections:
         url: /
         showIcon: false
         icon: gavel
-        iconPosition: right
+        iconPosition: left
         style: primary
         elementId: ''
     styles:
