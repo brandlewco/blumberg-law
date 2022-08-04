@@ -193,7 +193,6 @@ sections:
     colors: colors-d
     posts:
       - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
-      - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
 metaDescription: >-
   Bruce Blumberg is the founder and principal attorney at Blumberg & Associates,
   serving clients throughout Phoenix and statewide in the areas of criminal
