@@ -817,6 +817,7 @@ sections:
         flexDirection: col
         borderStyle: solid
         borderWidth: 4
+        borderColor: border-complementary
       title:
         textAlign: center
       text:
