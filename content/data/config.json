@@ -471,7 +471,7 @@
             {
                 "type": "Link",
                 "label": "Bruce Blumberg Case Results",
-                "altText": "Blumberg & Associates Case Results",
+                "altText": "Bruce Blumberg & Associates Case Results",
                 "url": "/case-results/",
                 "child": [],
                 "showIcon": false,
