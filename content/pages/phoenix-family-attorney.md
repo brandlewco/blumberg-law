@@ -257,6 +257,8 @@ footer:
         content/pages/cases/client-charged-with-child-abuse-for-failing-to-protect-her-children-from-sexual-abuse-by-their-stepfather.md
       - >-
         content/pages/cases/client-accused-of-five-counts-of-aggravated-assault-dangerous-offenses-after-pointing-loaded-weapon-at-friends-of-ex-lover.md
+      - >-
+        content/pages/cases/client-accused-of-two-counts-of-molestation-dangerous-crimes-against-children.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
