@@ -815,6 +815,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: col
+        borderStyle: solid
       title:
         textAlign: center
       text:
