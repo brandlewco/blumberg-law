@@ -254,6 +254,8 @@ footer:
         content/pages/cases/client-obtained-over-dollar300k-from-a-relative-in-a-super-theft.md
       - >-
         content/pages/cases/client-involved-in-a-love-triangle-client-accused-of-five-counts-of-aggravated-assault-dangerous-offenses.md
+      - >-
+        content/pages/cases/client-charged-with-child-abuse-for-failing-to-protect-her-children-from-sexual-abuse-by-their-stepfather.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
