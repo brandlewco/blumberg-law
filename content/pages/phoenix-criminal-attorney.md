@@ -476,9 +476,7 @@ footer:
     title: Cases of Interest
     subtitle: ''
     colors: colors-d
-    posts:
-      - >-
-        content/pages/cases/client-accused-of-first-degree-murder-six-purported-eye-witnesses.md
+    posts: []
   - type: CtaSection
     elementId: ''
     colors: colors-b
