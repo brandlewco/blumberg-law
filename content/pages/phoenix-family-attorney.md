@@ -116,6 +116,7 @@ sections:
       - content/pages/testimonials/doug-eckert.md
       - content/pages/testimonials/david-k-le-lievre-jr.md
       - content/pages/testimonials/megan-mayes.md
+      - content/pages/testimonials/alan-m.md
     name: ''
     showDate: false
     showExcerpt: false
