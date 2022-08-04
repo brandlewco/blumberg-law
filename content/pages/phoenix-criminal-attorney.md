@@ -479,6 +479,8 @@ footer:
     posts:
       - >-
         content/pages/cases/client-charged-in-federal-court-with-armed-bank-robbery.md
+      - >-
+        content/pages/cases/client-accused-of-burglary-and-trafficking-in-stolen-property.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
