@@ -250,6 +250,8 @@ footer:
     colors: colors-d
     posts:
       - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
+      - >-
+        content/pages/cases/client-obtained-over-dollar300k-from-a-relative-in-a-super-theft.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
