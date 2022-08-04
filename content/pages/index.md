@@ -636,7 +636,7 @@ sections:
         label: |
           Read More Testimonials
         altText: Bruce Blumberg Testimonials
-        url: /testimonials
+        url: /testimonials/
         showIcon: true
         icon: arrowRight
         iconPosition: right
