@@ -89,7 +89,7 @@ sections:
           Read More Testimonails From Real Client
         altText: ''
         url: /testimonials/
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
