@@ -476,7 +476,9 @@ footer:
     title: Cases of Interest
     subtitle: ''
     colors: colors-d
-    posts: []
+    posts:
+      - >-
+        content/pages/cases/client-charged-in-federal-court-with-armed-bank-robbery.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
