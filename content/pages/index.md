@@ -25,7 +25,7 @@ hero:
         iconPosition: right
         icon: arrowRight
         showIcon: true
-        elementId: home-cta
+        elementId: home-hero-cta
     styles:
       self:
         height: auto
