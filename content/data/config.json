@@ -470,7 +470,7 @@
             },
             {
                 "type": "Link",
-                "label": "Blumberg & Associates Case Results",
+                "label": "Blumberg Case Results",
                 "altText": "Blumberg & Associates Case Results",
                 "url": "/case-results/",
                 "child": [],
