@@ -175,7 +175,7 @@ sections:
         showIcon: false
         icon: gavel
         iconPosition: left
-        style: primary
+        style: secondary
         elementId: ''
     styles:
       self:
