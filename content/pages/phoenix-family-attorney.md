@@ -259,6 +259,8 @@ footer:
         content/pages/cases/client-accused-of-five-counts-of-aggravated-assault-dangerous-offenses-after-pointing-loaded-weapon-at-friends-of-ex-lover.md
       - >-
         content/pages/cases/client-accused-of-two-counts-of-molestation-dangerous-crimes-against-children.md
+      - >-
+        content/pages/cases/minor-accused-of-aggravated-assault-dangerous-offense-by-holding-a-gun-on-officers-conducting-a-search-warrant-at-mothers-apartment.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
