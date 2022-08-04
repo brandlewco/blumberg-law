@@ -85,7 +85,8 @@ sections:
     variant: variant-b
     actions:
       - type: Button
-        label: Learn more
+        label: |
+          Read More Testimonails From Real Client
         altText: ''
         url: /testimonials/
         showIcon: false
