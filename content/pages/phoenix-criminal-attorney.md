@@ -481,6 +481,8 @@ footer:
         content/pages/cases/client-charged-in-federal-court-with-armed-bank-robbery.md
       - >-
         content/pages/cases/client-accused-of-burglary-and-trafficking-in-stolen-property.md
+      - >-
+        content/pages/cases/sixteen-year-old-clients-charged-with-one-count-of-conspiracy-to-commit-murder.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
