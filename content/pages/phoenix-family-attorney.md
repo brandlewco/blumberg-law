@@ -233,7 +233,17 @@ footer:
     showReadMoreLink: false
     readMoreLinkLabel: See All Cases
     variant: variant-b
-    actions: []
+    actions:
+      - type: Button
+        label: |
+          See More Case Results
+        altText: ''
+        url: /case-results/
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     styles:
       self:
         height: auto
