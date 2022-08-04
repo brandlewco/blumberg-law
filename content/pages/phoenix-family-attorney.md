@@ -87,7 +87,7 @@ sections:
       - type: Button
         label: |
           Read More Testimonails From Real Client
-        altText: ''
+        altText: Read More Testimonials
         url: /testimonials/
         showIcon: true
         icon: arrowRight
