@@ -87,7 +87,7 @@ sections:
       - type: Button
         label: Learn more
         altText: ''
-        url: /
+        url: /testimonials/
         showIcon: false
         icon: arrowRight
         iconPosition: right
