@@ -482,13 +482,13 @@ footer:
       - >-
         content/pages/cases/client-accused-of-burglary-and-trafficking-in-stolen-property.md
       - >-
+        content/pages/cases/client-a-young-black-male-was-accused-of-shooting-a-young-white-male-in-front-of-a-residence-in-scottsdale-arizona.md
+      - >-
         content/pages/cases/sixteen-year-old-clients-charged-with-one-count-of-conspiracy-to-commit-murder.md
       - >-
         content/pages/cases/client-charged-with-aggravated-assault-a-dangerous-offense-after-punching-a-smaller-man-in-the-face.md
       - >-
         content/pages/cases/client-accused-of-shooting-victim-in-scottsdale-arizona-client-plead-self-defense.md
-      - >-
-        content/pages/cases/client-a-young-black-male-was-accused-of-shooting-a-young-white-male-in-front-of-a-residence-in-scottsdale-arizona.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
