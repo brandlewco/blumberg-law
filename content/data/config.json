@@ -491,8 +491,8 @@
             },
             {
                 "type": "Link",
-                "label": "Bruce Blumberg Testimonials",
-                "altText": "Bruce Blumberg  & Associates Testimonials",
+                "label": "Bruce Blumberg  Testimonials",
+                "altText": "Bruce Blumberg & Associates Testimonials",
                 "url": "/testimonials/",
                 "child": [],
                 "showIcon": false,
