@@ -110,7 +110,7 @@ sections:
       actions:
         justifyContent: left
     title: Testimonials
-    subtitle: Family Law Clients
+    subtitle: 'Pickings a family law attorney '
     colors: colors-b
     posts:
       - content/pages/testimonials/david-k-le-lievre-jr.md
