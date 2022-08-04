@@ -172,7 +172,7 @@ sections:
           See More Case Results
         altText: ''
         url: /
-        showIcon: false
+        showIcon: true
         icon: gavel
         iconPosition: left
         style: primary
