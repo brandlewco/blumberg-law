@@ -117,6 +117,7 @@ sections:
       - content/pages/testimonials/david-k-le-lievre-jr.md
       - content/pages/testimonials/zane-hill.md
       - content/pages/testimonials/yaser-awad.md
+      - content/pages/testimonials/doug-eckert.md
     name: ''
     showDate: false
     showExcerpt: false
