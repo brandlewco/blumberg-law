@@ -816,7 +816,7 @@ sections:
         justifyContent: center
         flexDirection: col
         borderStyle: solid
-        borderWidth: 4
+        borderWidth: 8
         borderColor: border-primary
         borderRadius: none
       title:
