@@ -634,7 +634,7 @@ sections:
     actions:
       - type: Button
         label: |
-          Read More Testimonials
+          Read More Client Testimonials
         altText: Bruce Blumberg Testimonials
         url: /testimonials/
         showIcon: true
