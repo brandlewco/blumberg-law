@@ -818,6 +818,7 @@ sections:
         borderStyle: solid
         borderWidth: 4
         borderColor: border-complementary
+        borderRadius: none
       title:
         textAlign: center
       text:
