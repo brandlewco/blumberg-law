@@ -441,7 +441,17 @@ footer:
     showReadMoreLink: false
     readMoreLinkLabel: See All Cases
     variant: variant-b
-    actions: []
+    actions:
+      - type: Button
+        label: |
+          See More Case Results
+        altText: ''
+        url: /case-results/
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     styles:
       self:
         height: auto
@@ -452,10 +462,10 @@ footer:
           - ml-0
           - mr-0
         padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
+          - pt-16
+          - pb-16
+          - pl-8
+          - pr-8
         justifyContent: center
       title:
         textAlign: center
@@ -467,7 +477,8 @@ footer:
     subtitle: ''
     colors: colors-d
     posts:
-      - content/pages/cases/accused-multiple-accounts-sexual-misconduct.md
+      - >-
+        content/pages/cases/client-accused-of-first-degree-murder-six-purported-eye-witnesses.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
