@@ -199,6 +199,8 @@ sections:
         content/pages/cases/client-accused-of-two-counts-of-aggravated-assault-both-dangerous-offenses-against-police-officers.md
       - >-
         content/pages/cases/client-in-maricopa-county-found-with-over-400-pounds-of-marijuana-and-over-dollar100k-in-cash-in-home.md
+      - >-
+        content/pages/cases/client-charged-in-federal-court-with-sales-of-methamphetamine.md
 metaDescription: >-
   Bruce Blumberg is the founder and principal attorney at Blumberg & Associates,
   serving clients throughout Phoenix and statewide in the areas of criminal
