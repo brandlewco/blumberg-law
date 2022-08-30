@@ -55,7 +55,9 @@ bottomSections:
     title: Related News & Blogs
     subtitle: ''
     colors: colors-d
-    posts: []
+    posts:
+      - >-
+        content/pages/blog/what-to-do-if-you-think-youre-being-investigated-for-a-crime-in-phoenix.md
 metaDescription: null
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
