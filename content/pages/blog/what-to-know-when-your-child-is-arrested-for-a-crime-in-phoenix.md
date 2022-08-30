@@ -13,7 +13,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/gavel-placeholder.jpg
-  altText: Child comm
+  altText: Child commits a crime
   caption: ''
 media:
   type: ImageBlock
