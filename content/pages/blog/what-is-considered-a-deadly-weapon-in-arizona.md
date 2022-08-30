@@ -59,6 +59,8 @@ bottomSections:
       - >-
         content/pages/blog/what-to-do-if-you-think-youre-being-investigated-for-a-crime-in-phoenix.md
       - content/pages/blog/dangerous-crimes-have-serious-legal-consequences.md
+      - >-
+        content/pages/blog/what-to-know-when-your-child-is-arrested-for-a-crime-in-phoenix.md
 metaDescription: null
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
