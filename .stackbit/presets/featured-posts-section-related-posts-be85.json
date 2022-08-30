@@ -1,0 +1,70 @@
+{
+    "model": "FeaturedPostsSection",
+    "presets": [
+        {
+            "label": "Related Posts",
+            "thumbnail": "images/featured-posts-section-related-posts-be85.png",
+            "metadata": {
+                "categories": [
+                    "Presets"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "elementId": "",
+                "showDate": false,
+                "showAuthor": false,
+                "showExcerpt": false,
+                "showReadMoreLink": false,
+                "readMoreLinkLabel": "Read More",
+                "variant": "variant-b",
+                "actions": [],
+                "styles": {
+                    "self": {
+                        "height": "auto",
+                        "width": "wide",
+                        "margin": [
+                            "mt-0",
+                            "mb-0",
+                            "ml-0",
+                            "mr-0"
+                        ],
+                        "padding": [
+                            "pt-24",
+                            "pb-24",
+                            "pl-4",
+                            "pr-4"
+                        ],
+                        "justifyContent": "center"
+                    },
+                    "title": {
+                        "textAlign": "left"
+                    },
+                    "subtitle": {
+                        "textAlign": "left"
+                    },
+                    "actions": {
+                        "justifyContent": "flex-start"
+                    }
+                },
+                "title": "Related News & Blogs",
+                "subtitle": "",
+                "colors": "colors-d",
+                "posts": [
+                    {
+                        "$$ref": "content/pages/blog/bruce-blumberg-named-to-2018-southwest-super-lawyers-list.md",
+                        "$$type": "PostLayout"
+                    },
+                    {
+                        "$$ref": "content/pages/blog/things-to-look-for-in-a-family-law-attorney.md",
+                        "$$type": "PostLayout"
+                    },
+                    {
+                        "$$ref": "content/pages/blog/criminal-defense-glossary.md",
+                        "$$type": "PostLayout"
+                    }
+                ]
+            }
+        }
+    ]
+}
