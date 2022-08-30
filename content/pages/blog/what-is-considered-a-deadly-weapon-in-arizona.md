@@ -55,8 +55,7 @@ bottomSections:
     title: Related News & Blogs
     subtitle: ''
     colors: colors-d
-    posts:
-      - content/pages/blog/criminal-defense-glossary.md
+    posts: []
 metaDescription: null
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
