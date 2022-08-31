@@ -13,7 +13,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/child-arrested-for-crime-phoenix.jpg
-  altText: Child commits a crime
+  altText: 'Child arrested for crime in Phoenix, Arizona.'
   caption: ''
 media:
   type: ImageBlock
