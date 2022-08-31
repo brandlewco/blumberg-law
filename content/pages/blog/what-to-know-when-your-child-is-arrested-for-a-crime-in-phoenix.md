@@ -12,7 +12,7 @@ date: '2020-04-30'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/gavel-placeholder.jpg
+  url: /images/child-arrested-for-crime-phoenix.jpg
   altText: Child commits a crime
   caption: ''
 media:
