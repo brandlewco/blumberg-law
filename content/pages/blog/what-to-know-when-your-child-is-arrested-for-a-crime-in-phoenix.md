@@ -18,7 +18,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/child-arrested-for-crime-phoenix.jpg
-  altText: 'Child arrested for crime in phoneix, arizona'
+  altText: 'Child arrested for crime in Phoenix, arizona'
 bottomSections: []
 metaDescription: null
 socialImage: null
