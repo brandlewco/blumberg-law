@@ -96,14 +96,6 @@ sidebar:
     items:
       - actions:
           - label: |
-              Child Custody & Parenting Time
-            altText: ''
-            url: /phoenix-family-attorney/child-custody-parenting-time/
-            showIcon: true
-            icon: arrowRight
-            style: primary
-            type: Button
-          - label: |
               Divorce
             altText: ''
             url: /phoenix-family-attorney/divorce/
