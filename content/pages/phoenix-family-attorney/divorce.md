@@ -167,6 +167,101 @@ sections:
 sidebar:
   - type: FeaturedItemsSection
     colors: colors-d
+    elementId: sidebar
+    title: |+
+      ##### CHOOSE A FAMILY LAW PRACTICE AREA TO LEARN MORE
+
+    backgroundSize: full
+    backgroundImage: null
+    subtitle: null
+    items:
+      - actions:
+          - label: |
+              Child Custody & Parenting Time
+            altText: ''
+            url: /phoenix-family-attorney/child-custody-parenting-time/
+            showIcon: true
+            icon: arrowRight
+            style: primary
+            type: Button
+          - label: |
+              Divorce
+            altText: ''
+            url: /phoenix-family-attorney/divorce/
+            showIcon: true
+            icon: arrowRight
+            style: primary
+            type: Button
+          - label: |
+              Modifications & Enforcements
+            altText: ''
+            url: /phoenix-family-attorney/modifications-enforcements/
+            showIcon: true
+            icon: arrowRight
+            style: primary
+            type: Button
+          - label: |
+              Orders of Protection
+            altText: ''
+            url: /phoenix-family-attorney/orders-of-protection/
+            showIcon: true
+            icon: arrowRight
+            style: primary
+            type: Button
+          - label: |
+              Paternity
+            altText: ''
+            url: /phoenix-family-attorney/paternity/
+            showIcon: true
+            icon: arrowRight
+            style: primary
+            type: Button
+          - label: |
+              Spousal Maintenance
+            altText: ''
+            url: /phoenix-family-attorney/spousal-maintenance/
+            showIcon: true
+            icon: arrowRight
+            style: primary
+            type: Button
+          - label: |
+              Temporary Orders
+            altText: ''
+            url: /phoenix-family-attorney/temporary-orders/
+            showIcon: true
+            icon: arrowRight
+            style: primary
+            type: Button
+        styles:
+          self:
+            textAlign: left
+        type: FeaturedItem
+    actions: []
+    columns: 1
+    enableHover: false
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-20
+          - pb-8
+          - pl-8
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+  - type: FeaturedItemsSection
+    colors: colors-d
     backgroundSize: full
     title: |
       ##### CHOOSE A PRACTICE AREA TO LEARN MORE
