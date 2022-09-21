@@ -87,8 +87,9 @@ sidebar:
   - type: FeaturedItemsSection
     colors: colors-d
     elementId: sidebar
-    title: |
-      ##### CHOOSE A PRACTICE AREA TO LEARN MORE
+    title: |+
+      ##### CHOOSE A FAMILY LAW PRACTICE AREA TO LEARN MORE
+
     backgroundSize: full
     backgroundImage: null
     subtitle: null
