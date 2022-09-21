@@ -111,14 +111,6 @@ sidebar:
             style: primary
             type: Button
           - label: |
-              Modifications & Enforcements
-            altText: ''
-            url: /phoenix-family-attorney/modifications-enforcements/
-            showIcon: true
-            icon: arrowRight
-            style: primary
-            type: Button
-          - label: |
               Orders of Protection
             altText: ''
             url: /phoenix-family-attorney/orders-of-protection/
