@@ -135,14 +135,6 @@ sidebar:
             style: primary
             type: Button
           - label: |
-              Spousal Maintenance
-            altText: ''
-            url: /phoenix-family-attorney/spousal-maintenance/
-            showIcon: true
-            icon: arrowRight
-            style: primary
-            type: Button
-          - label: |
               Temporary Orders
             altText: ''
             url: /phoenix-family-attorney/temporary-orders/
