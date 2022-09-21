@@ -143,14 +143,6 @@ sidebar:
             icon: arrowRight
             style: primary
             type: Button
-          - label: |
-              Temporary Orders
-            altText: ''
-            url: /phoenix-family-attorney/temporary-orders/
-            showIcon: true
-            icon: arrowRight
-            style: primary
-            type: Button
         styles:
           self:
             textAlign: left
