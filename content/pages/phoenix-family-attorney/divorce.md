@@ -185,14 +185,6 @@ sidebar:
             style: primary
             type: Button
           - label: |
-              Divorce
-            altText: ''
-            url: /phoenix-family-attorney/divorce/
-            showIcon: true
-            icon: arrowRight
-            style: primary
-            type: Button
-          - label: |
               Modifications & Enforcements
             altText: ''
             url: /phoenix-family-attorney/modifications-enforcements/
