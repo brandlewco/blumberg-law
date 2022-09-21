@@ -127,14 +127,6 @@ sidebar:
             style: primary
             type: Button
           - label: |
-              Paternity
-            altText: ''
-            url: /phoenix-family-attorney/paternity/
-            showIcon: true
-            icon: arrowRight
-            style: primary
-            type: Button
-          - label: |
               Spousal Maintenance
             altText: ''
             url: /phoenix-family-attorney/spousal-maintenance/
