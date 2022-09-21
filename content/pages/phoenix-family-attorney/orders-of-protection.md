@@ -119,14 +119,6 @@ sidebar:
             style: primary
             type: Button
           - label: |
-              Orders of Protection
-            altText: ''
-            url: /phoenix-family-attorney/orders-of-protection/
-            showIcon: true
-            icon: arrowRight
-            style: primary
-            type: Button
-          - label: |
               Paternity
             altText: ''
             url: /phoenix-family-attorney/paternity/
