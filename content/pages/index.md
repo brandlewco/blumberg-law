@@ -112,6 +112,7 @@ sections:
       - type: FeaturedItem
         title: Successfully Represented Thousands of Clients.
         text: >
+          Work with one of the most trusted criminal attorneys in Phoenix, AZ.
           Contact us today to schedule a consultation with our knowledgeable
           legal team.
         actions: []
