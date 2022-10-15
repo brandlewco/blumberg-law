@@ -302,9 +302,10 @@ sections:
   - elementId: ''
     colors: colors-a
     variant: variant-a
-    title: >
-      ## A lawyer with the skills and experience you need when facing the fight
+    title: >+
+      ## AZ lawyer with the skills and experience you need when facing the fight
       of your life.
+
     subtitle: ''
     text: >+
       <div class="flex flex-col lg:flex-row justify-between items-start gap-12
