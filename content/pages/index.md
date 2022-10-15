@@ -785,9 +785,8 @@ sections:
     colors: colors-b
     backgroundSize: full
     title: Schedule Your Confidential Evaluation
-    text: >
-      Call us now, or fill out or contact from to start your confidential case
-      evaluation.
+    text: |
+      Talk with an AZ attorney with the experiance needed to win you case.
     actions:
       - type: Button
         label: |
