@@ -787,7 +787,7 @@ sections:
     title: Schedule Your Consultation
     text: >
       Call us now, or fill out or contact from to start your confidential case
-      evaluation today!
+      evaluation.
     actions:
       - type: Button
         label: |
