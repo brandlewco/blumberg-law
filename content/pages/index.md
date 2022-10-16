@@ -304,8 +304,8 @@ sections:
     colors: colors-a
     variant: variant-a
     title: >+
-      ## AZ lawyer with the skills and experience you need when facing the fight
-      of your life.
+      ## An AZ lawyer with the skills and experience you need when facing the
+      fight of your life.
 
     subtitle: ''
     text: >+
