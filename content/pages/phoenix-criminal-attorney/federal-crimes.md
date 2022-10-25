@@ -110,7 +110,7 @@ sidebar:
             elementId: ''
           - type: Button
             label: |
-              Violent Crimes
+              Child Molestation
             altText: ''
             url: /phoenix-criminal-attorney/child-molestation/
             showIcon: true
