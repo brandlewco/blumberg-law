@@ -102,7 +102,7 @@ sidebar:
             label: |
               Sex Crimes
             altText: ''
-            url: 'https://azblumberglaw.com/phoenix-criminal-attorney/bank-fraud/'
+            url: /phoenix-criminal-attorney/bank-fraud/
             showIcon: true
             icon: arrowRight
             iconPosition: right
