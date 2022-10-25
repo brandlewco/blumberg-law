@@ -142,7 +142,7 @@ sidebar:
             label: |+
               Computer & Internet Fraud
 
-            altText: ''
+            altText: Computer & Internet Fraud
             url: /phoenix-criminal-attorney/computer-internet-fraud/
             showIcon: false
             icon: arrowRight
