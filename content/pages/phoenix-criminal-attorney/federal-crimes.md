@@ -150,7 +150,8 @@ sidebar:
             style: primary
             elementId: ''
           - type: Button
-            label: Learn more
+            label: |
+              Corporate Fraud
             altText: ''
             url: /phoenix-criminal-attorney/corporate-fraud/
             showIcon: false
