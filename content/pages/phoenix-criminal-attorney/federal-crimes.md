@@ -262,7 +262,7 @@ sidebar:
           - type: Button
             label: |
               White Collar Crime
-            altText: ''
+            altText: White Collar Crime
             url: /phoenix-criminal-attorney/white-collar-crimes/
             showIcon: false
             icon: arrowRight
