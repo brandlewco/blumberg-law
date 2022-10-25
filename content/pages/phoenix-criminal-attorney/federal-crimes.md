@@ -172,7 +172,7 @@ sidebar:
           - type: Button
             label: |
               Federal Drug Crimes
-            altText: ''
+            altText: Federal Drug Crimes
             url: /phoenix-criminal-attorney/federal-drug-crimes/
             showIcon: false
             icon: arrowRight
