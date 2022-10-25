@@ -97,7 +97,7 @@ sections:
       *   Federal Corrupt Practices Act (corruption and bribery)
 
 
-      ## **COMPREHENSIVE ASSISTANCE IN FEDERAL CRIMINAL PROSECUTIONS**
+      ## COMPREHENSIVE ASSISTANCE IN FEDERAL CRIMINAL PROSECUTIONS
 
 
       Federal agencies like the FBI and the US Attorney’s Office are staffed
