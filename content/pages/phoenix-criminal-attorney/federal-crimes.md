@@ -96,6 +96,7 @@ sidebar:
             icon: arrowRight
             url: /phoenix-criminal-attorney/accounting-tax-fraud/
             style: primary
+            altText: Accounting & Tax Fraud
           - type: Button
             label: |
               Sex Crimes
