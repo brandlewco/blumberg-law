@@ -160,7 +160,8 @@ sidebar:
             style: primary
             elementId: ''
           - type: Button
-            label: Learn more
+            label: |
+              Embezzlement
             altText: ''
             url: /phoenix-criminal-attorney/embezzlement/
             showIcon: false
