@@ -112,7 +112,8 @@ sidebar:
             label: |
               Violent Crimes
             altText: ''
-            url: /phoenix-criminal-attorney/violent-crimes/
+            url: >-
+              https://azblumberglaw.com/phoenix-criminal-attorney/child-molestation/
             showIcon: true
             icon: arrowRight
             iconPosition: right
