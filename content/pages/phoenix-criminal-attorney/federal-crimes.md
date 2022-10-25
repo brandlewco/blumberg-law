@@ -162,7 +162,7 @@ sidebar:
           - type: Button
             label: |
               Embezzlement
-            altText: ''
+            altText: Embezzlement
             url: /phoenix-criminal-attorney/embezzlement/
             showIcon: false
             icon: arrowRight
