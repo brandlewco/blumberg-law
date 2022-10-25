@@ -90,8 +90,9 @@ sidebar:
       - type: FeaturedItem
         actions:
           - type: Button
-            label: |
-              Federal Crimes
+            label: |+
+              Accounting & Tax Fraud
+
             showIcon: true
             icon: arrowRight
             url: /phoenix-criminal-attorney/accounting-tax-fraud/
