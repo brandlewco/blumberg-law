@@ -240,7 +240,8 @@ sidebar:
             style: primary
             elementId: ''
           - type: Button
-            label: Learn more
+            label: |
+              Sex Crimes
             altText: ''
             url: /phoenix-criminal-attorney/sex-crimes/
             showIcon: false
