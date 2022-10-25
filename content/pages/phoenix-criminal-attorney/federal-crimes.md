@@ -190,7 +190,8 @@ sidebar:
             style: primary
             elementId: ''
           - type: Button
-            label: Learn more
+            label: |
+              Homicide
             altText: ''
             url: /phoenix-criminal-attorney/homicide/
             showIcon: false
