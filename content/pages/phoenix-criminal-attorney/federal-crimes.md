@@ -222,7 +222,7 @@ sidebar:
           - type: Button
             label: |
               Mortgage Fraud
-            altText: ''
+            altText: Mortgage Fraud
             url: /phoenix-criminal-attorney/mortgage-fraud/
             showIcon: false
             icon: arrowRight
