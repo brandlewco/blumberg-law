@@ -232,7 +232,7 @@ sidebar:
           - type: Button
             label: |
               Sex Offender Registration
-            altText: ''
+            altText: Sex Offender Registration
             url: /phoenix-criminal-attorney/sex-offender-registration/
             showIcon: false
             icon: arrowRight
