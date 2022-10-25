@@ -170,7 +170,8 @@ sidebar:
             style: primary
             elementId: ''
           - type: Button
-            label: Learn more
+            label: |
+              Federal Drug Crimes
             altText: ''
             url: /phoenix-criminal-attorney/federal-drug-crimes/
             showIcon: false
