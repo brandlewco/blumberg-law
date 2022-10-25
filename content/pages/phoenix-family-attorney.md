@@ -58,36 +58,6 @@ sections:
     colors: colors-a
     variant: variant-a
     text: >
-      ## family lawyer phoenix az
-
-
-      ## family attorney az
-
-
-      ## family law attorney phoenix az
-
-
-      ## az family law
-
-
-      ## best interest attorney in arizona
-
-
-      ## child custody attorneys phoenix az
-
-
-      ## arizona family law attorney
-
-
-      ## arizona family law attorneys
-
-
-      ## arizona supreme court
-
-
-      ## legal separation
-
-
       ## **PASSIONATE ADVOCACY IN HIGH-CONFLICT DIVORCE AND CUSTODY LITIGATION**
 
 
