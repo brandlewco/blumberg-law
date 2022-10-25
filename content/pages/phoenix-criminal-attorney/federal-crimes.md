@@ -101,7 +101,7 @@ sidebar:
           - type: Button
             label: |
               Sex Crimes
-            altText: ''
+            altText: Bank Fraud
             url: /phoenix-criminal-attorney/bank-fraud/
             showIcon: true
             icon: arrowRight
