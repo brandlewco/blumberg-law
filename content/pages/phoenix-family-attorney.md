@@ -58,14 +58,44 @@ sections:
     colors: colors-a
     variant: variant-a
     text: >
-      ## PASSIONATE ADVOCACY IN HIGH-CONFLICT DIVORCE AND CUSTODY LITIGATION
+      ## family lawyer phoenix az
+
+
+      ## family attorney az
+
+
+      ## family law attorney phoenix az
+
+
+      ## az family law
+
+
+      ## best interest attorney in arizona
+
+
+      ## child custody attorneys phoenix az
+
+
+      ## arizona family law attorney
+
+
+      ## arizona family law attorneys
+
+
+      ## arizona supreme court
+
+
+      ## legal separation
+
+
+      ## **PASSIONATE ADVOCACY IN HIGH-CONFLICT DIVORCE AND CUSTODY LITIGATION**
 
 
       Although primarily a criminal defense law firm, Blumberg & Associates
       offers able and effective assistance in a range of Arizona family law
-      matters. Just as in a criminal case, family law clients going through a
-      [divorce](https://azblumberglaw.com/phoenix-family-attorney/divorce/) or
-      [child
+      matters. Just as in a criminal case, family law clients going through a[
+      divorce](https://azblumberglaw.com/phoenix-family-attorney/divorce/) or[
+      child
       custody](https://azblumberglaw.com/phoenix-family-attorney/child-custody-parenting-time/)
       battle have a lot at stake, and they don’t want to take chances with their
       future or their children’s future. Bruce Blumberg uses his superior trial
@@ -76,12 +106,12 @@ sections:
       litigator dedicated to looking out for you and protecting your rights.
 
 
-      ## PROTECT YOUR RIGHTS IN AN ARIZONA DIVORCE
+      ## **PROTECT YOUR RIGHTS IN AN ARIZONA DIVORCE**
 
 
       Getting a divorce is more than just having the court legally dissolve a
       marriage. The judge also makes binding court orders in vital areas such as
-      the distribution of community property, [spousal
+      the distribution of community property,[ spousal
       maintenance](https://azblumberglaw.com/phoenix-family-attorney/spousal-maintenance/),
       and child custody. These decisions are final and can affect you and your
       children for years to come.
@@ -102,7 +132,7 @@ sections:
       proper ruling on these critical matters.
 
 
-      ## PROTECT YOUR FAMILY IN A PHOENIX CHILD CUSTODY BATTLE
+      ## **PROTECT YOUR FAMILY IN A PHOENIX CHILD CUSTODY BATTLE**
 
 
       Child custody involves both physical custody and legal custody, and when
@@ -117,7 +147,7 @@ sections:
       or evidence of domestic violence or abuse by either parent. We’ll build a
       strong case supported by solid evidence and persuasive legal arguments to
       make sure you and your children are looked after properly in any custody
-      dispute.
+      dispute, and avoid legal separation.
 
 
       Blumberg & Associates also handles post-judgment matters in Maricopa
@@ -128,15 +158,15 @@ sections:
       custody or spousal support.
 
 
-      ## GET THE HELP YOU NEED IN HIGH-CONFLICT PHOENIX FAMILY LAW
+      ## **GET THE HELP YOU NEED IN HIGH-CONFLICT PHOENIX FAMILY LAW**
 
 
-      Emotions run high in family law matters, and while you need a family law
-      attorney who is as passionate about the outcome as you, you also need an
-      attorney with the knowledge and experience to guide you through the
-      process calmly and rationally, so that you make the best long-term
-      decisions for yourself and your children. In Phoenix, call Blumberg &
-      Associates for assistance.
+      Emotions run high in family law matters, and while you need an Arizona
+      family law attorney who is as passionate about the outcome as you, you
+      also need an attorney with the knowledge and experience to guide you
+      through the process calmly and rationally, so that you make the best
+      long-term decisions for yourself and your children. In Phoenix, call
+      Blumberg & Associates for assistance.
     styles:
       self:
         height: auto
