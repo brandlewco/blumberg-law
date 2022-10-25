@@ -68,7 +68,7 @@ The penalties for dangerous drug possession depend on a wide range of factors an
 
 *   The transportation of a dangerous drug for sale: Class 2 Felony
 
-In Arizona, the lower the classification, the more serious the punishment is. Additionally, if you are a second time offender that has previously been convicted with drug crime, your punishment is likely to be even harsher. Serious drug crimes in Arizona can lead to penalties that include up to 20 years in prison. You should be aware that possession of methamphetamine for sale will mandate a minimum of ten (10) years “flat” in prison.
+In Arizona, the lower the classification, the more serious the punishment is. Additionally, if you are a second time offender that has previously been convicted with [drug crime](/phoenix-criminal-attorney/state-drug-crimes/), your punishment is likely to be even harsher. Serious drug crimes in Arizona can lead to penalties that include up to 20 years in prison. You should be aware that possession of methamphetamine for sale will mandate a minimum of ten (10) years “flat” in prison.
 
 ## Have You Been Charged With a Dangerous Drug Crime?
 
@@ -76,4 +76,4 @@ Dangerous drug crimes in Arizona are not taken lightly. If you have been charged
 
 Resource:
 
-[https://www.cdc.gov/drugoverdose/data/statedeaths/drug-overdose-death-2014.html](https://www.cdc.gov/drugoverdose/data/statedeaths/drug-overdose-death-2014.html)
+<https://www.cdc.gov/drugoverdose/data/statedeaths/drug-overdose-death-2014.html>
