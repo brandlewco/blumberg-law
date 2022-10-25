@@ -122,8 +122,7 @@ sidebar:
             label: |
               White Collar Crimes
             altText: ''
-            url: >-
-              https://azblumberglaw.com/phoenix-criminal-attorney/child-pornography/
+            url: /phoenix-criminal-attorney/child-pornography/
             showIcon: true
             icon: arrowRight
             iconPosition: right
