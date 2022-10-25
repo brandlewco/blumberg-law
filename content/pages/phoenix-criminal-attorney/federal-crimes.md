@@ -156,8 +156,8 @@ sections:
       sentencing phase.
 
 
-      ## **CALL ATTORNEY BRUCE BLUMBERG FOR HELP WITH FEDERAL CRIMINAL CHARGES
-      IN PHOENIX**
+      ## CALL ATTORNEY BRUCE BLUMBERG FOR HELP WITH FEDERAL CRIMINAL CHARGES IN
+      PHOENIX
 
 
       If you have been approached by federal agents, arrested, or received a
