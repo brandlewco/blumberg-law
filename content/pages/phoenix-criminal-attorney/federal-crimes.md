@@ -210,7 +210,8 @@ sidebar:
             style: primary
             elementId: ''
           - type: Button
-            label: Learn more
+            label: |
+              Money Laundering
             altText: ''
             url: /phoenix-criminal-attorney/money-laundering/
             showIcon: false
