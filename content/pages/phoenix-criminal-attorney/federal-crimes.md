@@ -120,7 +120,7 @@ sidebar:
             elementId: ''
           - type: Button
             label: |
-              White Collar Crimes
+              Child Pornography
             altText: Child Pornography
             url: /phoenix-criminal-attorney/child-pornography/
             showIcon: true
