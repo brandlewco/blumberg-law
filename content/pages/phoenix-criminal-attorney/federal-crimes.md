@@ -100,7 +100,7 @@ sidebar:
             altText: Accounting & Tax Fraud
           - type: Button
             label: |
-              Sex Crimes
+              Bank Fraud
             altText: Bank Fraud
             url: /phoenix-criminal-attorney/bank-fraud/
             showIcon: true
