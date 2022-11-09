@@ -69,7 +69,7 @@ sections:
       Peoria, Tempe, Prescott, Tucson, Flagstaff, and Scottsdale.
 
 
-      ## **ARIZONA MARIJUANA LAWYERS**
+      ## ARIZONA MARIJUANA LAWYERS
 
 
       A majority of our clients arrested on charges related to marijuana and
@@ -92,7 +92,7 @@ sections:
       page. Pick a phoenix marijuana lawyer with experience.
 
 
-      ## **CONTACT OUR DRUG DEFENSE ATTORNEYS**
+      ## CONTACT OUR PHOENIX MARIJAUNA DRUG DEFENSE ATTORNEYS
 
 
       Our Arizona drug defense attorneys have helped numerous clients beat drug
