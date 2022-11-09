@@ -24,7 +24,6 @@ metaDescription: null
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
-
 Being accused of a sex crime typically comes with a great deal of stigma, even if the person is later acquitted or the charges are dropped. Many people do not understand that there is a huge difference between being charged with a crime and being convicted. If you or a loved one have been charged with a sex crime in Arizona, it’s important to contact an experienced [Phoenix sex crimes attorney](https://azblumberglaw.com/phoenix-criminal-attorney/sex-crimes/) who can help.
 
 **Sex Crimes Can Be Misdemeanors or Felonies**
@@ -37,35 +36,35 @@ Sex crimes that are considered “dangerous crimes against children,” are thos
 
 Under the Arizona Revised Statutes (A.R.S.), Title 13, Criminal Code, Chapter 14, there are six primary sexual offenses discussed. These are:
 
-_Public Sexual Indecency_
+*Public Sexual Indecency*
 
 The crime of public sexual indecency is when someone engages in the following behavior with another consenting adult, without caring whether or not someone else would be present and upset by it:
 
-- Having sexual intercourse
+*   Having sexual intercourse
 
-- Having oral sexual contact
+*   Having oral sexual contact
 
-- Touching someone else’s private parts or causing another person to do it
+*   Touching someone else’s private parts or causing another person to do it
 
 This is typically a Class 1 misdemeanor. If it involves someone under the age of 15, it is upgraded to a Class 5 felony.
 
-_Indecent Exposure_
+*Indecent Exposure*
 
 This is when someone exposes their private parts, which can include a woman’s breast, when others are around. Some common examples include mooning someone or flashing them. It’s a Class 1 misdemeanor, except when minors are involved, where it becomes a Class 6 felony.
 
-_Sexual Conduct with a Minor_
+*Sexual Conduct with a Minor*
 
 This is when someone engages in sexual intercourse or has oral sexual contact with someone under the age of 18. If it is with a minor who is 15 years of age or older, it will be a Class 6 felony. If the minor is under 15, it will become a serious Class 2 felony and dangerous crime against children.
 
-_Sexual Abuse_
+*Sexual Abuse*
 
 Sexual abuse involves sexual contact with someone who is 15 years of age or older, without consent, or there is contact with a female’s breast who is under 15 years old. In these cases, it would be a Class 5 felony. Sexual contact with a victim under 15 years old is upgraded to a Class 3 felony.
 
-_Sexual Assault_
+*Sexual Assault*
 
-Sexual assault is a more serious offense than sexual abuse. This is oral sexual contact or sexual intercourse with another person without their consent. It is a Class 2 felony, regardless of age.
+[Sexual assault](https://azblumberglaw.com/phoenix-criminal-attorney/sexual-assault/) is a more serious offense than sexual abuse. This is oral sexual contact or sexual intercourse with another person without their consent. It is a Class 2 felony, regardless of age.
 
-_Child Molestation_
+*Child Molestation*
 
 Child molestation covers someone who engages, or causes another person to engage, in sexual contact with a minor (except touching the female breast) who is under the age of 15. This does not have to be skin to skin contact either. This is a very serious offense and will be charged as a Class 2 felony.
 
