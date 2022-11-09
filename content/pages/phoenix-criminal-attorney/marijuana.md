@@ -20,7 +20,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Marijuana Crime Representation
+          Drug Crime Representation
         url: /contact-us
         style: primary
         iconPosition: right
