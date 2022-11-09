@@ -60,7 +60,48 @@ sections:
   - type: TextSection
     colors: colors-a
     variant: variant-a
-    text: "Blumberg & Associates is a distinguished Arizona criminal defense law firm representing clients charged with drug crimes related to marijuana. Our\_**Phoenix marijuana attorneys**\_routinely represent people charged with drug crimes from throughout Arizona including Maricopa County, Yavapai County, Coconino County, Pinal County, and the cities of Phoenix, Mesa, Peoria, Tempe, Prescott, Tucson, Flagstaff, and Scottsdale.\n\n## ARIZONA MARIJUANA LAWYERS\n\nA majority of our clients arrested on charges related to marijuana and charged with possession. In Arizona, most first time offenders convicted of possession of marijuana for personal use are eligible for probation and the sentence is generally suspended. However, they are required to attend drug treatment. Other charges related to marijuana, such as possession with intent to sell, cultivation of marijuana, or importation into the state carry much more severe sentences.\n\nPeople charged with possession with intent to sell and have more than four pounds face a prison sentence of four to ten years and a fine up to $150,000. Our Arizona marijuana drug defense lawyers have significant experience handing cases related to marijuana sale and possession.\n\nFor more information about drug offenses and some of our recent case results please visit our Drug Offense PracticeCenter and Recent Results page.\n\n## CONTACT OUR DRUG DEFENSE ATTORNEYS\n\nOur Arizona drug defense attorneys have helped numerous clients beat drug charges related to marijuana. Often overzealous police and federal officials perform illegal searches and violate people’s Fourth Amendment rights. If you have been charged with a drug offense related to marijuana, please contact Blumberg & Associates. When your future is on the line, you need an Arizona drug defense law firm where skill and experience are more than just a slogan.\n"
+    text: >
+      Blumberg & Associates is a distinguished Arizona criminal defense law firm
+      representing clients charged with drug crimes related to marijuana. Our
+      **Phoenix marijuana attorneys** routinely represent people charged with
+      drug crimes from throughout Arizona including Maricopa County, Yavapai
+      County, Coconino County, Pinal County, and the cities of Phoenix, Mesa,
+      Peoria, Tempe, Prescott, Tucson, Flagstaff, and Scottsdale.
+
+
+      ## **ARIZONA MARIJUANA LAWYERS**
+
+
+      A majority of our clients arrested on charges related to marijuana and
+      charged with possession. In Arizona, most first time offenders convicted
+      of possession of marijuana for personal use are eligible for probation and
+      the sentence is generally suspended. However, they are required to attend
+      drug treatment. Other charges related to marijuana, such as possession
+      with intent to sell, cultivation of marijuana, or importation into the
+      state carry much more severe sentences.
+
+
+      People charged with possession with intent to sell and have more than four
+      pounds face a prison sentence of four to ten years and a fine up to
+      $150,000. Our Arizona marijuana drug defense lawyers have significant
+      experience handing cases related to marijuana sale and possession.
+
+
+      For more information about drug offenses and some of our recent case
+      results please visit our Drug Offense Practice Center and Recent Results
+      page. Pick a phoenix marijuana lawyer with experience.
+
+
+      ## **CONTACT OUR DRUG DEFENSE ATTORNEYS**
+
+
+      Our Arizona drug defense attorneys have helped numerous clients beat drug
+      charges related to marijuana laws. Often overzealous police and federal
+      officials perform illegal searches and violate people’s Fourth Amendment
+      rights. If you have been charged with a drug offense related to marijuana,
+      please contact Blumberg & Associates. When your future is on the line, you
+      need an Arizona drug defense law firm where skill and experience are more
+      than just a slogan.
     styles:
       self:
         height: auto
