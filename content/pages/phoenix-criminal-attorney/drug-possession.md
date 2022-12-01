@@ -204,7 +204,7 @@ sidebar:
             label: |
               Marijauana Crime
             altText: ''
-            url: /phoenix-criminal-attorney/sex-crimes/
+            url: 'https://azblumberglaw.com/phoenix-criminal-attorney/marijuana/'
             showIcon: true
             icon: arrowRight
             iconPosition: right
