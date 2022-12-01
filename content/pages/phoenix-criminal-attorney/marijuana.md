@@ -143,7 +143,8 @@ sidebar:
             label: |
               Sex Crimes
             altText: ''
-            url: /phoenix-criminal-attorney/sex-crimes/
+            url: >-
+              https://azblumberglaw.com/phoenix-criminal-attorney/drug-possession/
             showIcon: true
             icon: arrowRight
             iconPosition: right
