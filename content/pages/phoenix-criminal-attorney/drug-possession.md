@@ -85,7 +85,7 @@ sections:
       arrest and explain the options available to you.
 
 
-      ## **THRESHOLDS AND DRUG POSSESSION**
+      ## THRESHOLDS AND DRUG POSSESSION
 
 
       Sentencing is affected by the amount of drugs involved in a drug-related
@@ -125,7 +125,7 @@ sections:
       doesn’t help anyone.
 
 
-      ## **MARIJUANA POSSESSION UNDER THRESHOLD: FIRST-TIME OFFENDERS**
+      ## MARIJUANA POSSESSION UNDER THRESHOLD: FIRST-TIME OFFENDERS
 
 
       In cases of marijuana possession under threshold, adults who haven’t been
@@ -140,7 +140,7 @@ sections:
       dismissed.
 
 
-      ## **PRESCRIPTION DRUGS**
+      ## PRESCRIPTION DRUGS
 
 
       People struggling with physical pain or depression may find themselves
@@ -154,7 +154,7 @@ sections:
       in Phoenix.
 
 
-      ## **CONTACT DRUG POSSESSION DEFENSE ATTORNEYS AT BLUMBERG & ASSOCIATES**
+      ## CONTACT DRUG POSSESSION DEFENSE ATTORNEYS AT BLUMBERG & ASSOCIATES
 
 
       If you’ve been arrested on a charge of drug possession, contact criminal
