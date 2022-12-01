@@ -57,6 +57,7 @@ bottomSections:
       - >-
         content/pages/blog/bruce-blumberg-named-to-2018-southwest-super-lawyers-list.md
       - content/pages/blog/criminal-defense-glossary.md
+      - content/pages/blog/what-is-considered-a-deadly-weapon-in-arizona.md
 metaDescription: null
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
