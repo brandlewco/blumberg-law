@@ -60,7 +60,66 @@ sections:
   - type: TextSection
     colors: colors-a
     variant: variant-a
-    text: "Blumberg & Associates is an experienced Arizona criminal defense law firm. Our\_**Phoenix sexual assault attorneys**\_have significant experience representing people charged with rape in the state of Arizona. We represent clients from Maricopa County, Yavapai County, Coconino County, and Pinal County, as well as the cities of Phoenix, Mesa, Peoria, Tempe, Scottsdale, Prescott, Tucson, and Flagstaff.\n\n## EXPERIENCED SEXUAL ASSAULT REPRESENTATION\n\nSexual assault cases are difficult for both the defense and the prosecution. Often these cases come down to a “he said, she said” situation where the credibility of the two parties is the final determinant. A common misperception in rape cases is that the sexual history of a victim is admissible in evidence. Unless it is somehow relevant to the case, it is not. An example of relevant sexual history would be the victim’s sexual history involving the defendant. Whereas the victim’s sexual relationships with other people would not ordinarily be relevant.\n\nOur Arizona sexual assault lawyers have significant experience handling and winning cases involving claims of non-consensual sex. We have handled cases related to rape, date rape, Rohypnol or GHB, sexual conduct with a minor (under 18 but over 14 years of age), and cases where claims of intoxication or drugs made a person mentally or physically incapable of consenting to sex. Sentences for individuals convicted of sexual assault range from probation to prison terms that can exceed fourteen years.\n\n## SEXUAL ASSAULT SENTENCING\n\nSex crimes that do not involve children can be charged as either misdemeanor or felony offenses depending on the charge. However, Arizona’s mandatory sentencing laws require that anyone convicted of a felony sexual assault receive a five to fourteen year prison sentence for a first offense. Whether you are convicted of a sex crime requiring prison or allowing for probation, the state of Arizona requires lifetime probation and registration as a sex offender along with full sex offender terms, including a sex offender treatment program.\n\nFor more information about sex offenses and some recent case, please visit our Sex Offenses Practice Center and Recent Results page\n\n## CONTACT OUR SEXUAL ASSAULT DEFENSE ATTORNEYS\n\nIf you have been charged with sexual assault or rape, please contact Blumberg & Associates. When your future is on the line, you need an Arizona sexual offense law firm where skill and experience are more than just a slogan.\n"
+    text: >
+      Blumberg & Associates is an experienced Arizona criminal defense law firm.
+      Our **Phoenix sexual assault attorneys** have significant experience
+      representing people charged with rape in the state of Arizona. We
+      represent clients from Maricopa County, Yavapai County, Coconino County,
+      and Pinal County, as well as the cities of Phoenix, Mesa, Peoria, Tempe,
+      Scottsdale, Prescott, Tucson, and Flagstaff.
+
+
+      ## **EXPERIENCED SEXUAL ASSAULT REPRESENTATION**
+
+
+      Sexual assault cases are difficult for both the defense and the
+      prosecution. Often these cases come down to a “he said, she said”
+      situation where the credibility of the two parties is the final
+      determinant. A common misperception in rape cases is that the sexual
+      history of a victim is admissible in evidence. Unless it is somehow
+      relevant to the case, it is not. An example of relevant sexual history
+      would be the victim’s sexual history involving the defendant. Whereas the
+      victim’s sexual relationships with other people would not ordinarily be
+      relevant.
+
+
+      Our Arizona sexual assault lawyers have significant experience handling
+      and winning cases involving claims of non-consensual sex. We have handled
+      cases related to rape, date rape, Rohypnol or GHB, sexual conduct with a
+      minor (under 18 but over 14 years of age), and cases where claims of
+      intoxication or drugs made a person mentally or physically incapable of
+      consenting to sex. Sentences for individuals convicted of sexual assault
+      range from probation to prison terms that can exceed fourteen years.
+
+
+      In Arizona, statutory rape is defined as sexual conduct with a minor under
+      age 18. Statuory rape conviction carries severe penalties under criminal
+      law, particularly for cases involving minors under the age 15 years old.
+
+
+      ## **SEXUAL ASSAULT SENTENCING**
+
+
+      Sex crimes that do not involve children can be charged as either
+      misdemeanor or felony offenses depending on the charge. However, Arizona’s
+      mandatory sentencing laws require that anyone convicted of a felony sexual
+      assault receive a five to fourteen year prison sentence for a first
+      offense. Whether you are convicted of a sex crime requiring prison or
+      allowing for probation, the state of Arizona requires lifetime probation
+      and registration as a sex offender along with full sex offender terms,
+      including a sex offender treatment program.
+
+
+      For more information about sex offenses and some recent case, please visit
+      our Sex Offenses Practice Center and Recent Results page
+
+
+      ## **CONTACT OUR SEXUAL ASSAULT DEFENSE ATTORNEYS**
+
+
+      If you face a sexual assault conviction, please contact Blumberg &
+      Associates. When your future is on the line, you need an Arizona sexual
+      offense law firm where skill and experience are more than just a slogan.
     styles:
       self:
         height: auto
