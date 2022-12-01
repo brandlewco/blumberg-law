@@ -69,7 +69,7 @@ sections:
       Scottsdale, Prescott, Tucson, and Flagstaff.
 
 
-      ## **EXPERIENCED SEXUAL ASSAULT REPRESENTATION**
+      ## EXPERIENCED SEXUAL ASSAULT REPRESENTATION
 
 
       Sexual assault cases are difficult for both the defense and the
@@ -97,7 +97,7 @@ sections:
       law, particularly for cases involving minors under the age 15 years old.
 
 
-      ## **SEXUAL ASSAULT SENTENCING**
+      ## SEXUAL ASSAULT SENTENCING
 
 
       Sex crimes that do not involve children can be charged as either
@@ -114,7 +114,7 @@ sections:
       our Sex Offenses Practice Center and Recent Results page
 
 
-      ## **CONTACT OUR SEXUAL ASSAULT DEFENSE ATTORNEYS**
+      ## CONTACT OUR SEXUAL ASSAULT DEFENSE ATTORNEYS
 
 
       If you face a sexual assault conviction, please contact Blumberg &
