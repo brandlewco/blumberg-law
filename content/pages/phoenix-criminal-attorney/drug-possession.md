@@ -202,7 +202,7 @@ sidebar:
             style: primary
           - type: Button
             label: |
-              Sex Crimes
+              Marijauana Crime
             altText: ''
             url: /phoenix-criminal-attorney/sex-crimes/
             showIcon: true
