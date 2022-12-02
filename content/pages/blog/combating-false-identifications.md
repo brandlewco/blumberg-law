@@ -20,7 +20,9 @@ media:
   url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
-metaDescription: null
+metaDescription: >-
+  I have had three opportunities in my career as a criminal-defense attorney to
+  utilize the services of an Identification Expert. Read about them here.
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
