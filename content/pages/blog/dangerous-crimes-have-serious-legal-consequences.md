@@ -58,7 +58,11 @@ bottomSections:
         content/pages/blog/bruce-blumberg-named-to-2018-southwest-super-lawyers-list.md
       - content/pages/blog/criminal-defense-glossary.md
       - content/pages/blog/what-is-considered-a-deadly-weapon-in-arizona.md
-metaDescription: null
+metaDescription: >-
+  When you are facing charges for a dangerous crime, know that prosecutors will
+  utilize the allegation to their advantage. Ignorance of the law is not a
+  defense. Read on to find out more about the consequences of being charged with
+  a dangerous crime.
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
