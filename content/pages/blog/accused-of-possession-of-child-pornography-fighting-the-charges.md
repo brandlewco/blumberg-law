@@ -20,7 +20,11 @@ media:
   url: /images/arizona-possesion-of-child-pornography.jpg
   altText: Charged with possessing child pornography
 bottomSections: []
-metaDescription: null
+metaDescription: >-
+  If you have been accused of possession of or transmission of child
+  pornography, it is essential that you contact an attorney as soon as possible.
+  A criminal defense attorney can help you navigate the legal system and protect
+  your rights.
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
