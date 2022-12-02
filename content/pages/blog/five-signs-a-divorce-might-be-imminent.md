@@ -54,8 +54,6 @@ bottomSections:
     subtitle: ''
     colors: colors-d
     posts:
-      - >-
-        content/pages/blog/bruce-blumberg-named-to-2018-southwest-super-lawyers-list.md
       - content/pages/blog/gray-divorces-and-four-things-to-consider.md
   - type: CtaSection
     elementId: ''
