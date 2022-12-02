@@ -28,7 +28,7 @@ Most drug cases don’t involve jury trials because ultimately the police discov
 
 In these cases, a client needs a defense attorney who can obtain the best deal possible from the circumstances. This means either no agreements or a probationary period that helps ease the burden.
 
-## Illegal searches and seizures are common in drug cases
+## Illegal searches and seizures are common in drug cases.
 
 Drug cases are often a little different and can have interesting details to consider. They often involve surveillance from a law enforcement department, and a vehicle found to be in violation of a traffic code will often be stopped. This can also occur if a vehicle fits a profile on file.
 
