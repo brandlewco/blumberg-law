@@ -20,7 +20,10 @@ media:
   url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
-metaDescription: null
+metaDescription: >-
+  Mandatory sentencing is a criminal justice policy in the United States that
+  imposes a mandatory minimum prison sentence on defendants found guilty of
+  certain drug crimes.
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
