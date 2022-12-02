@@ -20,7 +20,9 @@ media:
   url: /images/arizona-money-laundering-accusations.jpg
   altText: Money laundering in Arizona
 bottomSections: []
-metaDescription: null
+metaDescription: >-
+  If you are facing money laundering accusations, it is important to know your
+  rights and what you can do to protect yourself.
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
