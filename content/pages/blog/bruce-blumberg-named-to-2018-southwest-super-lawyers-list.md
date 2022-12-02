@@ -20,7 +20,7 @@ media:
   url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
-metaDescription: Bruce Blumberg Named to 2018 Southwest Super Lawyers List
+metaDescription: Bruce Blumberg Was Named to 2018 Southwest Super Lawyers List
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
