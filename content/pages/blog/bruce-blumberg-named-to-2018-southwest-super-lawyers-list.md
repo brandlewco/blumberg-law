@@ -22,7 +22,7 @@ media:
 bottomSections: []
 metaDescription: >-
   Bruce Blumberg Was Named to 2018 Southwest Super Lawyers List - The fifth time
-  he's been recognized. 
+  he's been recognized. Only 5% of lawyers are
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
