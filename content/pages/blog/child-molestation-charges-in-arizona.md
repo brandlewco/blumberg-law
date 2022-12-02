@@ -20,7 +20,11 @@ media:
   url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
-metaDescription: null
+metaDescription: >-
+  If you're charged with child molestation, it's important to have a Phoenix
+  child molestation attorney on your side. An experienced lawyer can help you
+  understand your rights and make sure that you receive the best possible
+  defense.
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
