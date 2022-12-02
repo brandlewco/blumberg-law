@@ -20,7 +20,10 @@ media:
   url: /images/criminal-defense-glossary-arizona.jpg
   altText: Criminal Defense Glossary
 bottomSections: []
-metaDescription: null
+metaDescription: >-
+  When you are in a legal battle, you need to be well-prepared. This glossary
+  will give you a basic understanding of some of the most common criminal
+  defense terms.
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
