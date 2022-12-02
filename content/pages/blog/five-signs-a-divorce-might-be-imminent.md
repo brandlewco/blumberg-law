@@ -55,6 +55,7 @@ bottomSections:
     colors: colors-d
     posts:
       - content/pages/blog/gray-divorces-and-four-things-to-consider.md
+      - content/pages/blog/preparing-for-your-child-custody-case.md
       - content/pages/blog/how-to-file-for-divorce-in-arizona.md
   - type: CtaSection
     elementId: ''
