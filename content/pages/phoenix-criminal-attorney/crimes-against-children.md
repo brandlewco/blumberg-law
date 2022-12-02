@@ -2,9 +2,9 @@
 layout: PageLayout
 metaTitle: Phoenix Children Crimes Attorney
 metaDescription: >-
-  If you are under investigation for or have been charged with possession or
-  distribution of child pornography, contact our Phoenix child pornography
-  attorneys.
+  Charged with a crime against children? We offer experienced legal
+  representation for those in need. Contact us today at 602-444-6180 for
+  assistance.
 addTitleSuffix: true
 socialImage: null
 metaTags:
