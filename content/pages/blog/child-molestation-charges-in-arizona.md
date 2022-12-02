@@ -28,10 +28,9 @@ metaDescription: >-
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
-
 Any sex-related offense involving a minor is something you need to take very seriously in Arizona. Child molestation is when someone knowingly touches or causes someone to touch another person under 15 years of age on their genitalia. This also includes touching over the clothes. If you or a loved one has been charged with child molestation in Arizona, you need to speak with a [Phoenix child molestation attorney](https://azblumberglaw.com/phoenix-criminal-attorney/child-molestation/) right away.
 
-**Child Molestation A.R.S. §13-1410**
+## Child Molestation A.R.S. §13-1410
 
 Child molestation in Arizona is covered under A.R.S. §13-1410. It is classified as a Class 2 felony and is classified as a Dangerous Crimes Against Children (DCAC). This means a conviction results in severe penalties due to the state’s mandatory sentencing laws. If convicted, you will spend a minimum of ten years in prison, but it could be a maximum of 24 years. There is no early release or parole possible. When you get out of prison, you will also be required to register for the sex offender registration program.
 
@@ -41,7 +40,7 @@ Offenders who are convicted of two counts of molestation have to face consecutiv
 
 Even if you aren’t convicted, being charged can carry some consequences. A charge for child molestation can result in losing your parental rights in a civil action brought by Arizona Child Protective Services.
 
-**Possible Defenses to Child Molestation Charges**
+## Possible Defenses to Child Molestation Charges
 
 It’s not uncommon that a spouse makes molestation allegations during a divorce, or a rebellious teenager who wants a parent or stepparent out of their life. They make up false statements thinking this is the best way to remedy the situation. It’s important to challenge these allegations right away.
 
@@ -49,6 +48,6 @@ You can assert that the touching never happened, or that touching occurred, but 
 
 Asserting a defense to the charge of child molestation is complicated. It is likely that the defense will involve the use of experts. For decades Bruce Blumberg has associated with some of the most qualified experts in the nation regarding child-sex matters. Your attorney will need to interview all parties and ensure there is a strong cross-examination. In addition, your attorney needs to review how the report of child molestation was made, get copies of the Child Protective Services reports, and question anyone, such as forensic interviewers, who spoke with the alleged victim.
 
-**Contact an Arizona Child Molestation Attorney**
+## Contact an Arizona Child Molestation Attorney
 
 Don’t attempt to fight child molestation charges on your own or with a public defender representing you. Instead, rely on the skill of a Phoenix child molestation attorney. Contact Blumberg & Associates today to schedule an initial consultation. Let us evaluate your case and provide you with the best Arizona defense possible.
