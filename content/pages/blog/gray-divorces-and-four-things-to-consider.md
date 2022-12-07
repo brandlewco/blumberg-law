@@ -18,7 +18,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/gray-divorces-and-four-signs-phoenix-arizona.jpg
-  altText: Post image
+  altText: Gray
 bottomSections: []
 metaDescription: >-
   Are you considering a gray divorce? Here are four things to keep in mind
