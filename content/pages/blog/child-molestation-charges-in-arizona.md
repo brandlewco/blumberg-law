@@ -57,6 +57,8 @@ bottomSections:
       - >-
         content/pages/blog/bruce-blumberg-named-to-2018-southwest-super-lawyers-list.md
       - >-
+        content/pages/blog/accused-of-possession-of-child-pornography-fighting-the-charges.md
+      - >-
         content/pages/blog/accused-of-soliciting-for-prostitution-in-arizona-know-your-rights.md
   - type: CtaSection
     elementId: ''
