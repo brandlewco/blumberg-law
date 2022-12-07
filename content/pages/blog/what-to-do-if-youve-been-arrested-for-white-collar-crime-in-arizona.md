@@ -24,36 +24,35 @@ metaDescription: null
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
-
 White collar crimes are commonly associated with business and stock market fraud, but there are a number of other types of criminal offenses that fall under the mantle of white collar crimes. Most white collar crimes are federal offenses, which must be taken seriously. If you have been arrested for a federal crime in Arizona, you need to speak with an experienced [Phoenix white collar crime attorney](https://azblumberglaw.com/phoenix-criminal-attorney/white-collar-crimes/) right away.
 
-**What is Defined as a White Collar Crime?**
+## **What is Defined as a White Collar Crime?**
 
 White collar crimes are non-violent crimes and are carried out through deceptive methods. The statutes that define white collar crimes in Arizona are lengthy, complex, and highly technical. In some scenarios, the laws are so complex that legal experts struggle to reach a consensus on what constitutes a violation of the statute in question.
 
 Because the statutes on white collar crimes are so complex, it’s imperative to contact an experienced and skilled Arizona criminal defense attorney right away. You need an attorney who has direct experience representing clients for white collar crimes and are admitted to practice in a federal court.
 
-Some common types of activities that can result in an arrest for a white collar offense include:
+**Some common types of activities that can result in an arrest for a white collar offense include:**
 
-- Embezzlement
+*   **Embezzlement**
 
-- Computer fraud
+*   **Computer fraud**
 
-- Mortgage fraud
+*   **Mortgage fraud**
 
-- Health care fraud
+*   **Health care fraud**
 
-- Corporate fraud
+*   **Corporate fraud**
 
-- Internet fraud
+*   **Internet fraud**
 
-- Wire and mail fraud
+*   **Wire and mail fraud**
 
-- Money laundering
+*   **Money laundering**
 
-- Ponzi and pyramid schemes
+*   **Ponzi and pyramid schemes**
 
-**Possible Defense to White Collar Crimes in Arizona**
+## **Possible Defense to White Collar Crimes in Arizona**
 
 Federal investigations are typically quite different from those at the state level. Rather than arresting you first and then building a case like most state crimes, federal investigators build a strong case before arresting you. You may have been under investigation for a long time without any idea.
 
@@ -61,23 +60,23 @@ This is why building the best defense possible is so important. Time is of the e
 
 Don’t despair if there is a lot of evidence compiled against you, as you are still entitled to a defense. Depending on the circumstances of your case, there may be a number of different defenses your attorney can argue. Some of these include:
 
-- Entrapment or Coercion
+*   **Entrapment or Coercion**
 
-- Incapacity
+*   **Incapacity**
 
-- Duress
+*   **Duress**
 
-- Intoxication
+*   **Intoxication**
 
-- Insanity
+*   **Insanity**
 
-- Not enough evidence
+*   **Not enough evidence**
 
-- Lack of intent
+*   **Lack of intent**
 
 If you’ve been under investigation for some length of time, undercover investigators or law enforcement might have acted suspiciously and pushed you to commit a crime that you wouldn’t have otherwise committed. Suspicious police activity may have taken place, which gives your attorney the opportunity to argue entrapment. It is illegal for law enforcement to create a set up that essentially traps you.
 
-**Contact an Arizona White Collar Crimes Attorney**
+## **Contact an Arizona White Collar Crimes Attorney**
 
 Although white collar crimes are complex, it doesn’t mean you shouldn’t prepare the best defense possible. At Blumberg & Associates, we have years of experience defending white collar crimes in Arizona. If you suspect you are under investigation, it’s best to contact us before you are arrested. It’s not uncommon for federal investigators to try and befriend you in hopes you’ll say something to incriminate yourself. Be wary of talking to anyone without an attorney present.
 
