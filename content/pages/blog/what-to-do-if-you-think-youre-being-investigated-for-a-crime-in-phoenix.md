@@ -20,7 +20,10 @@ media:
   url: /images/arizona-being-investigated.jpg
   altText: Are you being investigated for a crime in Arizona
 bottomSections: []
-metaDescription: null
+metaDescription: >-
+  If you are under investigation for a crime, it is important to act quickly.
+  Don’t wait until things get worse - contact an experienced Phoenix criminal
+  attorney as soon as possible.
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
