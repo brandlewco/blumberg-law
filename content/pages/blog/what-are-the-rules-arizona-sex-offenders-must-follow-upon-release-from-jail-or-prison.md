@@ -57,8 +57,6 @@ bottomSections:
     colors: colors-d
     posts:
       - >-
-        content/pages/blog/bruce-blumberg-named-to-2018-southwest-super-lawyers-list.md
-      - >-
         content/pages/blog/skills-you-should-look-for-in-a-sex-crime-defense-attorney.md
       - >-
         content/pages/blog/accused-of-soliciting-for-prostitution-in-arizona-know-your-rights.md
