@@ -18,7 +18,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/gavel-placeholder.jpg
-  altText: Post image
+  altText: Sexual Offense Arizona
 bottomSections: []
 metaDescription: >-
   In this article, you will learn about the different types of sexual offenses
