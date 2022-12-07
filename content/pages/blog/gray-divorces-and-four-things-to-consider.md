@@ -13,7 +13,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/gray-divorces-and-four-signs-phoenix-arizona.jpg
-  altText: Post thumbnail image
+  altText: Gray Divorces and Four Things to Consider
   caption: ''
 media:
   type: ImageBlock
