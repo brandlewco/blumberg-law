@@ -20,7 +20,10 @@ media:
   url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
-metaDescription: null
+metaDescription: >-
+  If you are arrested for a federal crime in Phoenix, it is important to know
+  your rights. Contact an experienced federal crimes lawyer as soon as possible
+  to make sure you have the best chance of winning your case.
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
