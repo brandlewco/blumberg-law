@@ -18,7 +18,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/phoenix-probation-violations.jpg
-  altText: Post image
+  altText: Arizona Probation Violations
 bottomSections: []
 metaDescription: >-
   If you have been charged with a probation violation in Arizona, it is
