@@ -96,7 +96,7 @@ sidebar:
               Federal Crimes
             showIcon: true
             icon: arrowRight
-            url: /phoenix-criminal-attorney/federal-crimes/
+            url: /phoenix-criminal-attorney/sex-offender-registration/
             style: primary
           - type: Button
             label: |
