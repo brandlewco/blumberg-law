@@ -12,7 +12,7 @@ date: '2020-04-07'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/gavel-placeholder.jpg
+  url: /images/criminal-appeal-phoenix.jpg
   altText: Post thumbnail image
   caption: ''
 media:
