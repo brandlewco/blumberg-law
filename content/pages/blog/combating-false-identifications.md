@@ -18,7 +18,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/false-identification-phoenix.jpg
-  altText: Post image
+  altText: Combating False Identifications
 bottomSections: []
 metaDescription: >-
   I have had three opportunities in my career as a criminal-defense attorney to
