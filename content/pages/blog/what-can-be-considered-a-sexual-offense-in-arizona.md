@@ -20,7 +20,10 @@ media:
   url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
-metaDescription: null
+metaDescription: >-
+  In this article, you will learn about the different types of sexual offenses
+  that are considered crimes in Arizona. You will also learn about the
+  consequences that can come with being convicted of a sexual offense.
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
