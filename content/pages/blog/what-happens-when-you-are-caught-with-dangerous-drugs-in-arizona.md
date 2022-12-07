@@ -57,6 +57,7 @@ bottomSections:
       - >-
         content/pages/blog/accused-of-soliciting-for-prostitution-in-arizona-know-your-rights.md
       - content/pages/blog/drug-cases-are-subject-to-mandatory-sentencing.md
+      - content/pages/blog/what-is-considered-a-deadly-weapon-in-arizona.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
