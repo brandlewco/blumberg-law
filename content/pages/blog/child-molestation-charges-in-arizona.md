@@ -18,7 +18,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/child-molestation-charges-phoenix.jpg
-  altText: Post image
+  altText: Child Molestation Charges in Arizona
 bottomSections: []
 metaDescription: >-
   If you're charged with child molestation, it's important to have a Phoenix
