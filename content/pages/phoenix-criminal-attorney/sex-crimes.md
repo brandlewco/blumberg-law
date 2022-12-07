@@ -100,7 +100,7 @@ sidebar:
             style: primary
           - type: Button
             label: |
-              Sex Crimes
+              Sex Offender Registration
             altText: ''
             url: /phoenix-criminal-attorney/sex-crimes/
             showIcon: true
