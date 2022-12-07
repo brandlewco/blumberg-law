@@ -292,7 +292,7 @@ function postsVariantC(props) {
 }
 
 function postsVariantD(props) {
-    const dateTimeAttr = dayjs(props.date).format('YYYY-MM-DD HH:mm:ss');
+    const dateTimeAttr = dayjs(post.date).format('YYYY-MM-DD HH:mm:ss');
     const formattedDate = dayjs(post.date).format('MMMM D, YYYY');
     const posts = props.posts || [];
     if (posts.length === 0) {
