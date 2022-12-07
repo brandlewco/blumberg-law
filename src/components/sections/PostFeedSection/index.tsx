@@ -329,9 +329,6 @@ function postsVariantD(props) {
                                 </Link>
                             </h3>
                             <div className='flex flex-row justify-start items-center mt-2 gap-2'>
-                                {/* <time dateTime={dateTimeAttr} data-sb-field-path="date">
-                                    {formattedDate}
-                                </time> */}
                                 {props.showDate && <PostDate post={post} />}
                                 <PostAttribution showAuthor={props.showAuthor} post={post} />
                             </div>
