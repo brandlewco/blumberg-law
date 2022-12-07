@@ -12,7 +12,7 @@ date: '2019-08-20'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/gavel-placeholder.jpg
+  url: /images/sex-crime-defense-attorney.jpg
   altText: Post thumbnail image
   caption: ''
 media:
