@@ -20,7 +20,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/sex-offenders-phoenix.jpg
-  altText: Post image
+  altText: Arizona Sex Offenders
 bottomSections: []
 metaDescription: null
 socialImage: null
