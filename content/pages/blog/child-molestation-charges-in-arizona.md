@@ -12,7 +12,7 @@ date: '2020-03-19'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/gavel-placeholder.jpg
+  url: /images/child-molestation-charges-phoenix.jpg
   altText: Post thumbnail image
   caption: ''
 media:
