@@ -15,7 +15,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/sex-offenders-phoenix.jpg
-  altText: Post thumbnail image
+  altText: Arizona Sex Offenders
   caption: ''
 media:
   type: ImageBlock
