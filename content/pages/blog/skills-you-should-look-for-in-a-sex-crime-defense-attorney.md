@@ -13,7 +13,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/sex-crime-defense-attorney.jpg
-  altText: Post thumbnail image
+  altText: Phoenix Sex Crime Defense Attorney
   caption: ''
 media:
   type: ImageBlock
