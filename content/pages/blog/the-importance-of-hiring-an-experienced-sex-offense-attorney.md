@@ -23,7 +23,7 @@ bottomSections: []
 metaDescription: >-
   Do you know what your rights are if you are charged with a sex offense in
   Phoenix Arizona? If not, then it’s time to speak with an experienced sex
-  offense attorney.
+  offense attorney like Bruce Blumberg.
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
