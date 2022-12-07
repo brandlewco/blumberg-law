@@ -13,7 +13,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/sexual-offense-arizona.jpg
-  altText: Post thumbnail image
+  altText: Sexual Offense Arizona
   caption: ''
 media:
   type: ImageBlock
