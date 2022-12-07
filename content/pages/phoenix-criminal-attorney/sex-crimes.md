@@ -102,7 +102,8 @@ sidebar:
             label: |
               Sex Offender Registration
             altText: ''
-            url: /phoenix-criminal-attorney/sex-crimes/
+            url: >-
+              https://azblumberglaw.com/phoenix-criminal-attorney/sex-offender-registration/
             showIcon: true
             icon: arrowRight
             iconPosition: right
