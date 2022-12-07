@@ -39,4 +39,8 @@ Blumberg is certified as a specialist in criminal law by the State Bar of Arizon
 <div data-slbadge="v2-slbadge-anniversary-5"  style="width:180px;height:150px;border-radius:12px;font-family:arial, sans-serif;color:gray;text-align:center"><script async type="text/javascript" src="https://www.superlawyers.com/static/sl-badge/v2/load.min.js"></script><a class="slbadge_profileurl" title="View the profile of Arizona Criminal Defense Attorney Bruce E. Blumberg" href="https://profiles.superlawyers.com/arizona/phoenix/lawyer/bruce-e-blumberg/037f2dc2-a0a9-465d-bbc2-4d5a80c90f4d.html?npcmp=slb:badge:sl_badge:037f2dc2-a0a9-465d-bbc2-4d5a80c90f4d:miles&utm_source=037f2dc2-a0a9-465d-bbc2-4d5a80c90f4d&utm_campaign=v2-slbadge-anniversary-5&utm_content=profile">Bruce E. Blumberg</a><div style="margin-top:6px">Rated by Super Lawyers<br/><br/><br/>loading ...</div></div>
 <!-- end super lawyers badge -->
 
+
+
+
+
 [Bruce Blumberg Super Lawyers Profile](https://profiles.superlawyers.com/arizona/phoenix/lawyer/bruce-e-blumberg/037f2dc2-a0a9-465d-bbc2-4d5a80c90f4d.html)
