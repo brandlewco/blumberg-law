@@ -58,6 +58,8 @@ bottomSections:
         content/pages/blog/accused-of-possession-of-child-pornography-fighting-the-charges.md
       - >-
         content/pages/blog/accused-of-soliciting-for-prostitution-in-arizona-know-your-rights.md
+      - >-
+        content/pages/blog/what-to-know-about-the-arizona-sex-offender-registry.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
