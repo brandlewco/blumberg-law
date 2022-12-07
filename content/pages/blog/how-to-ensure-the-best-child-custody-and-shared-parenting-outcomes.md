@@ -27,32 +27,31 @@ metaDescription: >-
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
-
 Divorce and separations can be incredibly difficult for children, but the extent to which it affects their happiness and quality of life is in large part dependent on the behavior of parents. There are things you can do to improve your chances of obtaining the child custody outcome that’s in your children’s best interest while promoting a healthy relationship with your ex to minimize the anxiety and stress experienced by your kids during this emotional process.
 
-**Keeping Your Emotions in Check**
+## **Keeping Your Emotions in Check**
 
 No one likes being threatened with the loss of their children, and threatening your soon-to-be ex in such a fashion is going to set an unproductive tone, not just for your divorce but for your children’s lives as well. Parents who are perceived as amicable and cool headed will generally fair far better in court, mediation and arbitration than a parent who can’t control their emotions enough to be pragmatic or even act like a rational adult.
 
 If you are attempting to get primary or sole custody it’s imperative to establish a reputation as the responsible one in the relationship who is capable of doing what’s in the best interest of the children, even if that means allowing visitation or sharing custody.
 
-**Know Your Kids**
+## **Know Your Kids**
 
 Establishing yourself as the responsible parent means being informed about every aspect of your children’s lives.
 
-- Know your children’s teachers and stay apprised of their performance at school
+*   Know your children’s teachers and stay apprised of their performance at school
 
-- If you have time consider volunteering for school activities to show how involved you are
+*   If you have time consider volunteering for school activities to show how involved you are
 
-- Stay on top of your children’s health – know about any medications, allergies and who their doctors are
+*   Stay on top of your children’s health – know about any medications, allergies and who their doctors are
 
-- Know your children’s friends and their families, and do your best to keep them away from bad influences
+*   Know your children’s friends and their families, and do your best to keep them away from bad influences
 
-- Be involved with their hobbies, whether that’s a sport or something else
+*   Be involved with their hobbies, whether that’s a sport or something else
 
 You will be asked by numerous people throughout the process about your children, and it’s important you be able to speak to who they are as people – their personality, struggles and interests. Knowing these things will establish you as a parent who truly cares about their children.
 
-**Don’t Be the Parent Who Constantly Bad Mouths the Other Parent**
+## **Don’t Be the Parent Who Constantly Bad Mouths the Other Parent**
 
 There are a few important points here. First, this isn’t always the easiest thing to do. If you’re getting a divorce there are likely plenty of not-so-complimentary things you’d love to say about your spouse to your children, but those things are best left unsaid.
 
