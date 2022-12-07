@@ -14,7 +14,7 @@ date: '2014-08-28'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/gavel-placeholder.jpg
+  url: /images/sex-offenders-phoenix.jpg
   altText: Post thumbnail image
   caption: ''
 media:
