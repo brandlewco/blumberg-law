@@ -20,7 +20,9 @@ media:
   url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
-metaDescription: null
+metaDescription: >-
+  Want to know how to file a criminal appeal in Phoenix, Arizona? Here is a
+  guide on how to go about it and some key things to keep in mind.
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
