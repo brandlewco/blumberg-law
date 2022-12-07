@@ -28,7 +28,6 @@ metaDescription: >-
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
-
 Anybody charged with a crime has the right to be presumed innocent until proven guilty. When it comes to sex crimes, however, the court of public opinion is often eager to pronounce an accused person guilty before a court has had a chance to reach its verdict. Sex crimes are extremely serious, not just because they can result in extremely long prison sentences, but because just being charged with a sex crime is often enough to significantly harm one’s public reputation. If you are facing charges related to a sex crime, you risk far more than prison time. Your job, housing, and relations with friends and family could also be at stake, which is why you need to look for a criminal defense lawyer who has the skills necessary to represent you.
 
 ## A PROVEN TRACK RECORD
@@ -41,4 +40,4 @@ When it comes to sex crimes, you want an attorney who can be effective both in a
 
 ## THE REPRESENTATION YOU NEED
 
-Sex crimes are not something to be taken lightly. Your freedom, employment, reputation, and even your relationships could be at stake. Furthermore, if convicted in Arizona you generally face serious prison time and you could be required to register as a sex offender and undergo treatment. Don’t risk your future by hiring an attorney who lacks the experience and expertise necessary to handle your case. Talk to a criminal defense attorney today who knows what you are up against and how to best respond to any charges that have been laid against you.
+Sex crimes are not something to be taken lightly. Your freedom, employment, reputation, and even your relationships could be at stake. Furthermore, if convicted in Arizona you generally face serious prison time and you could be required to [register as a sex offender](/phoenix-criminal-attorney/sex-offender-registration/) and undergo treatment. Don’t risk your future by hiring an attorney who lacks the experience and expertise necessary to handle your case. Talk to a criminal defense attorney today who knows what you are up against and how to best respond to any charges that have been laid against you.
