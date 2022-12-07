@@ -12,7 +12,7 @@ date: '2020-05-08'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/gavel-placeholder.jpg
+  url: /images/pexels-dom-gould-325790.jpg
   altText: Post thumbnail image
   caption: ''
 media:
