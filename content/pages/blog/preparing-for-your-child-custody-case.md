@@ -20,7 +20,10 @@ media:
   url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
-metaDescription: null
+metaDescription: >-
+  If you are going through a child custody case, being prepared is the key to
+  success. Here are a few things that you need to do in order to have a strong
+  case and WIN!
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
