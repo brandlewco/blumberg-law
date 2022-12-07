@@ -61,11 +61,11 @@ This type of behavior can also lead to retaliation, devolving into he-said she-s
 
 If you know your spouse is trash talking you to your children, keep a record of it. If you pick up your children from school one day and they say “Mommy/Daddy said you did…,” log it. If the other parent is refusing to let you speak to your children on the phone, won’t return your messages or is otherwise unfairly denying you reasonable access to your children, you should bring it to the attention of your attorney and the courts.
 
-**Interesting Note on Terminology**
+# **Interesting Note on Terminology**
 
 Although these disputes are still commonly known among the public under the umbrella term “child custody,” the courts have changed their approach to terminology and instead use more nuanced language, such as “legal decision making,” “parenting time” and “primary custodial parent.” For example, the courts will no longer say you have “primary or sole custody,” but rather that you are the “primary custodial parent.” So if you and your ex are “sharing custody,” you’re technically sharing “custodial duties,” “parenting time” and likely “legal decision making” as well.
 
-**Child Custody Is Difficult, But We Can Help**
+## **Child Custody Is Difficult, But We Can Help**
 
 Our family law attorneys at Blumberg & Associates have extensive experience with child custody disputes and divorce proceedings. We have helped many people going through what you’re going through, and we’ve seen firsthand the heartache and loss of control parents feel in these situations. Our attorneys are compassionate and empathetic, and will provide both the support and knowledgeable guidance you’ll want during this difficult time.
 
