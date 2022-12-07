@@ -55,6 +55,8 @@ bottomSections:
     colors: colors-d
     posts:
       - content/pages/blog/criminal-defense-glossary.md
+      - >-
+        content/pages/blog/accused-of-soliciting-for-prostitution-in-arizona-know-your-rights.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
