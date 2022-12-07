@@ -20,7 +20,10 @@ media:
   url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
-metaDescription: null
+metaDescription: >-
+  If you are a person accused of a sex crime in Arizona, you need to know about
+  the Arizona Sex Offender Registry. This database contains the personal
+  information of convicted sex offenders in Arizona.
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
