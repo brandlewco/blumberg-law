@@ -23,7 +23,7 @@ bottomSections: []
 metaDescription: >-
   When your child is arrested in Phoenix, it can be a frightening experience.
   Here are some key things to know to help make the situation as smooth as
-  possible.
+  possible. Call us today.
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
