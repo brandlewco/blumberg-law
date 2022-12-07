@@ -15,7 +15,6 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/maricopa-country-trials-covd-19.jpg
-  altText: c
   caption: ''
 media:
   type: ImageBlock
