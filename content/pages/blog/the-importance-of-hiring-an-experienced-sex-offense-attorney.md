@@ -20,7 +20,10 @@ media:
   url: /images/hire-experianced-sex-offense-attorney.jpg
   altText: Post image
 bottomSections: []
-metaDescription: null
+metaDescription: >-
+  Do you know what your rights are if you are charged with a sex offense in
+  Phoenix Arizona? If not, then it’s time to speak with an experienced sex
+  offense attorney.
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
