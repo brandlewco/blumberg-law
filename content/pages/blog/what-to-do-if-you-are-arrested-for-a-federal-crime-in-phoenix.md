@@ -12,7 +12,7 @@ date: '2020-04-14'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/gavel-placeholder.jpg
+  url: /images/federal-crime-phoenix.jpg
   altText: Post thumbnail image
   caption: ''
 media:
