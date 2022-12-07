@@ -24,7 +24,7 @@ metaDescription: >-
   If you are accused of a sex crime in Arizona, you need a skilled and
   experienced sexual crime defense attorney on your side. Learn about the
   various skills and qualifications that a good sex crime defense attorney
-  should have in this article.
+  should have.
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
