@@ -12,7 +12,7 @@ date: '2020-05-08'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/pexels-dom-gould-325790.jpg
+  url: /images/phoenix-probation-violations.jpg
   altText: Post thumbnail image
   caption: ''
 media:
