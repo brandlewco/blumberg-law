@@ -20,7 +20,10 @@ media:
   url: /images/arizona-caught-with-dangerous-drugs.jpg
   altText: Drug possession Arizona
 bottomSections: []
-metaDescription: null
+metaDescription: >-
+  If you have been caught with drugs in Arizona, you are in for a serious
+  punishment. Learn about the harsh penalties that you may face if convicted of
+  drug possession in the state of Arizona.
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
