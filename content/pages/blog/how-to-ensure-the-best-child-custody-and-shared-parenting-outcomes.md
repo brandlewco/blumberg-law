@@ -20,7 +20,10 @@ media:
   url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
-metaDescription: null
+metaDescription: >-
+  Learn about the different factors that courts consider when awarding child
+  custody in Phoenix. Discover how to build a strong case and increase your
+  chances of getting what’s best for your children.
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
