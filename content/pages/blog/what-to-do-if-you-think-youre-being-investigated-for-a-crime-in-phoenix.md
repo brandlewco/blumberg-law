@@ -22,7 +22,7 @@ media:
 bottomSections: []
 metaDescription: >-
   If you are under investigation for a crime, it is important to act quickly.
-  Don’t wait until things get worse - contact an experienced Phoenix criminal
+  Don’t wait until things get worse - contact our experienced Phoenix criminal
   attorney as soon as possible.
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
