@@ -12,7 +12,7 @@ date: '2017-11-30'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/gavel-placeholder.jpg
+  url: /images/gray-divorces-and-four-signs-phoenix-arizona.jpg
   altText: Post thumbnail image
   caption: ''
 media:
