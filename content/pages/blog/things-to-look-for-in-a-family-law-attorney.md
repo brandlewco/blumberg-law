@@ -20,7 +20,11 @@ media:
   url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
-metaDescription: null
+metaDescription: >-
+  In order to choose the right family law attorney for your needs, it is
+  important to understand the various types of legal services offered. At
+  Blumberg & Associates, we offer a variety of services that can meet the
+  specific needs of your family.
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
