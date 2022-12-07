@@ -1,7 +1,11 @@
 ---
 layout: PageLayout
 metaTitle: null
-metaDescription: null
+metaDescription: >-
+  Looking for a phoenix lawyer who can provide you with results? Look no further
+  than Blumberg & Associates. Our criminal defense attorneys have more than
+  thirty years of experience in court, and we will do everything we can to get
+  you the best possible outcome.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
