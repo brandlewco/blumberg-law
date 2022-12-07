@@ -56,6 +56,8 @@ bottomSections:
     posts:
       - >-
         content/pages/blog/bruce-blumberg-named-to-2018-southwest-super-lawyers-list.md
+      - >-
+        content/pages/blog/accused-of-soliciting-for-prostitution-in-arizona-know-your-rights.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
