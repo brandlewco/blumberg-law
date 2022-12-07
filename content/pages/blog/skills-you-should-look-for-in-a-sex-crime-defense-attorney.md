@@ -18,7 +18,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/sex-crime-defense-attorney.jpg
-  altText: Post image
+  altText: Phoenix Sex Crime Defense Attorney
 bottomSections: []
 metaDescription: >-
   If you are accused of a sex crime in Arizona, you need a skilled and
