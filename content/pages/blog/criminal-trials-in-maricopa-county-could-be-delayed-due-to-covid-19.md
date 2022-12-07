@@ -16,7 +16,7 @@ featuredImage:
   type: ImageBlock
   url: /images/maricopa-country-trials-covd-19.jpg
   caption: ''
-  altText: Maricopa court trial
+  altText: Maricopa court trials delayed due to covid-19
 media:
   type: ImageBlock
   url: /images/gavel-placeholder.jpg
