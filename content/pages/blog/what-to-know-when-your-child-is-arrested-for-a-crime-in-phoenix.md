@@ -20,7 +20,10 @@ media:
   url: /images/child-arrested-for-crime-phoenix.jpg
   altText: 'Child arrested for crime in Phoenix, Arizona.'
 bottomSections: []
-metaDescription: null
+metaDescription: >-
+  When your child is arrested in Phoenix, it can be a frightening experience.
+  Here are some key things to know to help make the situation as smooth as
+  possible.
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
