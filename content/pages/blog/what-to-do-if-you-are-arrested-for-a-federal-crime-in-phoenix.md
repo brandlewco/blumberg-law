@@ -13,7 +13,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/federal-crime-phoenix.jpg
-  altText: Post thumbnail image
+  altText: Federal Crime Phoenix
   caption: ''
 media:
   type: ImageBlock
