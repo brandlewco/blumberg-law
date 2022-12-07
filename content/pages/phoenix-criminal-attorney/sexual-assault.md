@@ -152,7 +152,7 @@ sidebar:
         actions:
           - type: Button
             label: |
-              Federal Crimes
+              Sex Offender Registration
             showIcon: true
             icon: arrowRight
             url: Sex Offender Registration
