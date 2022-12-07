@@ -20,7 +20,10 @@ media:
   url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
-metaDescription: null
+metaDescription: >-
+  Are you being investigated for white-collar crime? Find out if you are
+  committing a crime and what the penalties could be with the help of an
+  experienced Phoenix white-collar crime attorney.
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
