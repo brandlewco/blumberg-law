@@ -60,6 +60,8 @@ bottomSections:
         content/pages/blog/skills-you-should-look-for-in-a-sex-crime-defense-attorney.md
       - >-
         content/pages/blog/accused-of-soliciting-for-prostitution-in-arizona-know-your-rights.md
+      - >-
+        content/pages/blog/what-to-do-if-you-are-falsely-accused-of-a-sex-crime-in-arizona.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
