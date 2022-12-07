@@ -13,7 +13,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/child-molestation-charges-phoenix.jpg
-  altText: Post thumbnail image
+  altText: Child Molestation Charges in Arizona
   caption: ''
 media:
   type: ImageBlock
