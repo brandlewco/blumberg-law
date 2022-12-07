@@ -22,7 +22,7 @@ media:
 bottomSections: []
 metaDescription: >-
   If you are considering a high-net worth divorce, it is important to be aware
-  of the mistakes that often occur.  Bruce Blumberg to defend you in Arizona
+  of the mistakes that often occur. Hire Bruce Blumberg to defend you in Arizona
   courts.
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
