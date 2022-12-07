@@ -329,10 +329,10 @@ function postsVariantD(props) {
                                 </Link>
                             </h3>
                             <div className='flex flex-row justify-start items-center mt-2 gap-2'>
-                                    <time dateTime={dateTimeAttr} data-sb-field-path="date">
-                                        {formattedDate}
-                                    </time>
-                                    <PostAttribution showAuthor={props.showAuthor} post={post} /> 
+                                <time dateTime={dateTimeAttr} data-sb-field-path="date">
+                                    {formattedDate}
+                                </time>
+                                <PostAttribution showAuthor={props.showAuthor} post={post} />
                             </div>
                             {props.showExcerpt && post.excerpt && (
                                 <p className="mt-6" data-sb-field-path="excerpt">
@@ -434,7 +434,7 @@ function PostDate({ post, className = '' }) {
     const date = post.date;
     const dateTimeAttr = dayjs(date).format('YYYY-MM-DD HH:mm:ss');
     const formattedDate = dayjs(date).format('MMMM DD, YYYY');
-    
+
     return (
         <div className={className ? className : null}>
             <time dateTime={dateTimeAttr} data-sb-field-path="date">
