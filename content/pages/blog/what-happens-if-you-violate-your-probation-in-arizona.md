@@ -13,7 +13,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/phoenix-probation-violations.jpg
-  altText: Violate Your Probation
+  altText: Arizona Probation Violations
   caption: ''
 media:
   type: ImageBlock
