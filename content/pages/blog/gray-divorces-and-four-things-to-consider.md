@@ -20,7 +20,9 @@ media:
   url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
-metaDescription: null
+metaDescription: >-
+  Are you considering a gray divorce? Here are four things to keep in mind
+  before making the decision.
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
