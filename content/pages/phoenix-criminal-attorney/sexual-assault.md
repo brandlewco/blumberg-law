@@ -155,7 +155,7 @@ sidebar:
               Sex Offender Registration
             showIcon: true
             icon: arrowRight
-            url: Sex Offender Registration
+            url: /phoenix-criminal-attorney/sex-offender-registration/
             style: primary
           - type: Button
             label: |
