@@ -332,7 +332,7 @@ function postsVariantD(props) {
                                 {/* <time dateTime={dateTimeAttr} data-sb-field-path="date">
                                     {formattedDate}
                                 </time> */}
-                                {props.showDate && <PostDate post={post} className="mb-2" />}
+                                {props.showDate && <PostDate post={post} />}
                                 <PostAttribution showAuthor={props.showAuthor} post={post} />
                             </div>
                             {props.showExcerpt && post.excerpt && (
