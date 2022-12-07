@@ -18,7 +18,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/criminal-appeal-phoenix.jpg
-  altText: Post image
+  altText: 'Criminal Appeal in Phoenix, Arizona'
 bottomSections: []
 metaDescription: >-
   Want to know how to file a criminal appeal in Phoenix, Arizona? Here is a
