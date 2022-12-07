@@ -20,7 +20,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/gavel-placeholder.jpg
-  altText: Post image
+  altText: Maricopa court trials delayed due to covid-19
 bottomSections: []
 metaDescription: null
 socialImage: null
