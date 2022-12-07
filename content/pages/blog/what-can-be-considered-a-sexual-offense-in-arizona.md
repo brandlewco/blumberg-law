@@ -17,7 +17,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: /images/gavel-placeholder.jpg
+  url: /images/sexual-offense-arizona.jpg
   altText: Sexual Offense Arizona
 bottomSections: []
 metaDescription: >-
