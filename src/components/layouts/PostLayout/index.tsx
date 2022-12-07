@@ -22,18 +22,18 @@ export default function PostLayout(props) {
             <main id="main" className="sb-layout sb-post-layout">
                 <article className={classNames(colors)}>
                     <header className="colors-b flex flex-col justify-center relative pt-8 pb-8 pr-4 pl-4 border-none rounded-none hero-bg">
-                            {page.media && <BackgroundImage {...page.media} />}
-                            <div className="relative z-30 max-w-7xl w-full mx-auto py-8 md:py-20 xl:py-40 pl-8 pr-8 lg:pr-64">
-                                {page.title && <h1 data-sb-field-path="title">{page.title}</h1>}
-                                <div className="text-lg mt-6">
-                                    <span>
-                                        <time dateTime={dateTimeAttr} data-sb-field-path="date">
-                                            {formattedDate}
+                        {page.media && <BackgroundImage {...page.media} />}
+                        <div className="relative z-30 max-w-7xl w-full mx-auto py-8 md:py-20 xl:py-40 pl-8 pr-8 lg:pr-64">
+                            {page.title && <h1 data-sb-field-path="title">{page.title}</h1>}
+                            <div className="text-lg mt-6">
+                                <span>
+                                    <time dateTime={dateTimeAttr} data-sb-field-path="date">
+                                        {formattedDate} test
                                         </time>
-                                    </span>
-                                    <PostAttribution post={page} />
-                                </div>
+                                </span>
+                                <PostAttribution post={page} />
                             </div>
+                        </div>
                     </header>
                     <div className="max-w-7xl mx-auto px-4 sm:px-8 py-14 lg:py-12">
                         {/* {page.media && <div className="w-full">{postMedia(page.media)}</div>} */}
@@ -108,8 +108,8 @@ function postAuthor(author) {
             {children}
         </Link>
     ) : (
-        <span data-sb-field-path="author">{children}</span>
-    );
+            <span data-sb-field-path="author">{children}</span>
+        );
 }
 
 function postCategory(category) {
