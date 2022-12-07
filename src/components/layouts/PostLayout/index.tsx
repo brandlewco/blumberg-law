@@ -28,8 +28,8 @@ export default function PostLayout(props) {
                             <div className="text-lg mt-6">
                                 <span>
                                     <time dateTime={dateTimeAttr} data-sb-field-path="date">
-                                        {formattedDate} test
-                                        </time>
+                                        {formattedDate}
+                                    </time>
                                 </span>
                                 <PostAttribution post={page} />
                             </div>
