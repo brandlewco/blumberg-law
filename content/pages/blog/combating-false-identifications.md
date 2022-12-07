@@ -13,7 +13,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/false-identification-phoenix.jpg
-  altText: Post thumbnail image
+  altText: Combating False Identifications
   caption: ''
 media:
   type: ImageBlock
