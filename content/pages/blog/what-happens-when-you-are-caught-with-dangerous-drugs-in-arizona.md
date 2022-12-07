@@ -54,7 +54,6 @@ bottomSections:
     subtitle: ''
     colors: colors-d
     posts:
-      - content/pages/blog/criminal-defense-glossary.md
       - >-
         content/pages/blog/accused-of-soliciting-for-prostitution-in-arizona-know-your-rights.md
       - content/pages/blog/drug-cases-are-subject-to-mandatory-sentencing.md
