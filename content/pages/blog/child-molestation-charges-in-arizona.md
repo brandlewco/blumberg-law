@@ -19,7 +19,48 @@ media:
   type: ImageBlock
   url: /images/child-molestation-charges-phoenix.jpg
   altText: Child Molestation Charges in Arizona
-bottomSections: []
+bottomSections:
+  - type: CtaSection
+    elementId: ''
+    colors: colors-b
+    backgroundSize: full
+    title: Schedule Your Consultation
+    text: >
+      Call us now, or fill out or contact from to start your confidential case
+      evaluation today!
+    actions:
+      - label: |
+          Contact Us Now
+        altText: Contact Us
+        url: /contact-us/
+        showIcon: true
+        icon: arrowRight
+        style: primary
+        type: Button
+    backgroundImage: null
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: col
+      title:
+        textAlign: center
+      text:
+        textAlign: center
+      actions:
+        justifyContent: center
 metaDescription: >-
   If you're charged with child molestation, it's important to have a Phoenix
   child molestation attorney on your side. An experienced lawyer can help you
