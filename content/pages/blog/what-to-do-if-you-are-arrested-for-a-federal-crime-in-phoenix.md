@@ -18,7 +18,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/federal-crime-phoenix.jpg
-  altText: Post image
+  altText: Federal Crime in Phoenix
 bottomSections: []
 metaDescription: >-
   If you are arrested for a federal crime in Phoenix, it is important to know
