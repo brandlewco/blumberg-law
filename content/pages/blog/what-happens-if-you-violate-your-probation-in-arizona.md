@@ -20,7 +20,10 @@ media:
   url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
-metaDescription: null
+metaDescription: >-
+  If you have been charged with a probation violation in Arizona, it is
+  important to consult an experienced attorney as soon as possible. A violation
+  can lead to jail time, and you don’t want to find yourself in this situation.
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
