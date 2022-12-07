@@ -13,7 +13,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/criminal-appeal-phoenix.jpg
-  altText: Post thumbnail image
+  altText: 'Criminal Appeal in Phoenix, Arizona'
   caption: ''
 media:
   type: ImageBlock
