@@ -17,7 +17,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: /images/gavel-placeholder.jpg
+  url: /images/phoenix-probation-violations.jpg
   altText: Post image
 bottomSections: []
 metaDescription: >-
