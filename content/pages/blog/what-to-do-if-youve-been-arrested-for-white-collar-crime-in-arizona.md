@@ -22,7 +22,7 @@ media:
 bottomSections: []
 metaDescription: >-
   If you have been arrested for a white-collar crime in Arizona, you need to
-  speak with our experienced Phoenix white collar crime attornies right away.
+  speak with our experienced Phoenix white collar crime attorney right away.
   These crimes are taken seriously and can carry serious consequences if you are
   convicted.
 socialImage: null
