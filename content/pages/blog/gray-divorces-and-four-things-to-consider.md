@@ -34,13 +34,16 @@ There are specific considerations that must be addressed for these gray divorcee
     **
     Are you in a community property state? Whose name(s) is on the title? Does my spouse have an equitable lien? There are lots of questions to answer when dividing the most expensive assets of a divorcing couple. Hiring experienced counsel is the best way to ensure you’re paying attention to the many small details that can cause big challenges down the line. Remember, to keep the house, you’ll likely make sacrifices in the negotiations somewhere else.
 
+
 *   **Whose Debt is This?
     **
     Dividing assets is often the main focus of a divorcing couple, but many times the division of debt is of equal importance – and equal stress. Itemize everything that is owed, and be prepared to make the difficult decisions about who “owns” what, and how will these debts be divided.
 
+
 *   **Where’s the Income?
     **
     If you were married for more than 10 years, you can possibly receive benefits on your ex-spouse’s record. There are qualifying factors for this, of course, including being at least 62 years of age, but speak with your attorney to understand where your future income will be generated (and who gets what).
+
 
 *   **Social Adjustment Post-Divorce
     **
