@@ -60,6 +60,8 @@ bottomSections:
         content/pages/blog/bruce-blumberg-named-to-2018-southwest-super-lawyers-list.md
       - >-
         content/pages/blog/arizona-supreme-court-eliminates-the-use-of-peremptory-challenges-in-jury-trials.md
+      - >-
+        content/pages/blog/bruce-blumberg-named-to-2018-southwest-super-lawyers-list.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
