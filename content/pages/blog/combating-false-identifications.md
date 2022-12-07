@@ -12,7 +12,7 @@ date: '2020-01-10'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/gavel-placeholder.jpg
+  url: /images/false-identification-phoenix.jpg
   altText: Post thumbnail image
   caption: ''
 media:
