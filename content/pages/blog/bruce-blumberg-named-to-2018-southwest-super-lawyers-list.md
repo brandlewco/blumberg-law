@@ -36,8 +36,4 @@ Blumberg is certified as a specialist in criminal law by the State Bar of Arizon
 
 [Bruce Blumberg Super Lawyers Profile](https://profiles.superlawyers.com/arizona/phoenix/lawyer/bruce-e-blumberg/037f2dc2-a0a9-465d-bbc2-4d5a80c90f4d.html)
 
-
-
-[![](/images/bruce-blumberg-super-lawyers.png)
-
-](https://profiles.superlawyers.com/arizona/phoenix/lawyer/bruce-e-blumberg/037f2dc2-a0a9-465d-bbc2-4d5a80c90f4d.html)
+![](/images/bruce-blumberg-super-lawyers.png)
