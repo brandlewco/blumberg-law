@@ -10,10 +10,6 @@ title: Preparing for Your Child Custody Case
 colors: colors-a
 date: '2017-12-05'
 excerpt: ''
-media:
-  type: ImageBlock
-  url: /images/gavel-placeholder.jpg
-  altText: Post image
 bottomSections: []
 metaDescription: >-
   If you are going through a child custody case, being prepared is the key to
