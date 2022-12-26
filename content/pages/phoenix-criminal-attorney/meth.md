@@ -98,6 +98,7 @@ sidebar:
             icon: arrowRight
             url: /phoenix-criminal-attorney/federal-crimes/
             style: primary
+            altText: Federal Crime Attorney
           - type: Button
             label: |
               Drug Possession
