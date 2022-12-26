@@ -18,7 +18,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/gavel-placeholder.jpg
-  altText: Post image
+  altText: High-Net Worth Divorce Mistakes
 bottomSections: []
 metaDescription: >-
   If you are considering a high-net worth divorce, it is important to be aware
