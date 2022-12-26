@@ -308,7 +308,6 @@ footer:
     subtitle: ''
     colors: colors-d
     posts:
-      - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
       - >-
         content/pages/cases/client-accused-of-two-counts-of-molestation-dangerous-crimes-against-children.md
       - >-
