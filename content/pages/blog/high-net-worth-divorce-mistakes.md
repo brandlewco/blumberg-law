@@ -13,7 +13,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/gavel-placeholder.jpg
-  altText: Post thumbnail image
+  altText: High-Net Worth Divorce Mistakes
   caption: ''
 media:
   type: ImageBlock
