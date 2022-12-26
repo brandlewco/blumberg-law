@@ -19,6 +19,7 @@ media:
   type: ImageBlock
   url: /images/gavel-placeholder.jpg
   altText: Custody and Shared Parenting Outcomes
+  caption: Custody and Shared Parenting Outcomes
 bottomSections: []
 metaDescription: >-
   Learn about the different factors that courts consider when awarding child
