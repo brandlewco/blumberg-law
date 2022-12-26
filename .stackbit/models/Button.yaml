@@ -28,7 +28,6 @@ fields:
     default: false
   - type: enum
     name: iconPosition
-    group: styles
     controlType: button-group
     label: Icon position
     options:
