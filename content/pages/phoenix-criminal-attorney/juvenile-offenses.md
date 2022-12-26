@@ -198,6 +198,8 @@ footer:
         content/pages/cases/client-a-young-black-male-was-accused-of-shooting-a-young-white-male-in-front-of-a-residence-in-scottsdale-arizona.md
       - >-
         content/pages/cases/minor-accused-of-aggravated-assault-dangerous-offense-by-holding-a-gun-on-officers-conducting-a-search-warrant-at-mothers-apartment.md
+      - >-
+        content/pages/cases/client-had-82-pounds-of-marijuana-and-was-charged-with-conspiracy-to-possess-for-sale.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
