@@ -12,7 +12,7 @@ date: '2017-11-20'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/gavel-placeholder.jpg
+  url: /images/signs-of-divorce.jpg
   altText: Post thumbnail image
   caption: ''
 media:
