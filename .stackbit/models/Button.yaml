@@ -22,10 +22,6 @@ fields:
     label: URL
     default: '/'
     required: true
-  - type: boolean
-    name: optimized
-    label: Optimized?
-    default: false
   - type: enum
     name: optimized
     controlType: button-group
