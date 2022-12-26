@@ -12,7 +12,7 @@ date: '2018-04-24'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/gavel-placeholder.jpg
+  url: /images/bruce-blumberg-super-lawyers.jpg
   altText: Post thumbnail image
   caption: ''
 media:
