@@ -121,7 +121,7 @@ sidebar:
           - type: Button
             label: |
               Child Crimes
-            altText: ''
+            altText: Child Crimes Law
             url: /phoenix-criminal-attorney/crimes-against-children/
             showIcon: true
             icon: arrowRight
