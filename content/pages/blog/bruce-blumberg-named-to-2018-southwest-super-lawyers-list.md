@@ -14,7 +14,7 @@ featuredImage:
   type: ImageBlock
   url: /images/bruce-blumberg-super-lawyers.jpg
   altText: Southwest Super Lawyers List
-  caption: ''
+  caption: Southwest Super Lawyers List
 media:
   type: ImageBlock
   url: /images/gavel-placeholder.jpg
