@@ -27,7 +27,7 @@ fields:
     controlType: button-group
     label: Optimized?
     options:
-          - label: No
+      - label: No
         value: no
       - label: Yes
         value: yes
