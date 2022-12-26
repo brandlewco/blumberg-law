@@ -172,7 +172,8 @@ sidebar:
             label: |
               Children Crimes
             altText: ''
-            url: /phoenix-criminal-attorney/violent-crimes/
+            url: >-
+              https://azblumberglaw.com/phoenix-criminal-attorney/crimes-against-children/
             showIcon: true
             icon: arrowRight
             iconPosition: right
