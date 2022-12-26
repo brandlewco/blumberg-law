@@ -19,6 +19,7 @@ media:
   type: ImageBlock
   url: /images/bruce-blumberg-super-lawyers.jpg
   altText: Southwest Super Lawyers List
+  caption: Southwest Super Lawyers List
 bottomSections: []
 metaDescription: >-
   Bruce Blumberg Was Named to 2018 Southwest Super Lawyers List - The fifth time
