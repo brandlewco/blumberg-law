@@ -21,7 +21,7 @@ featuredImage:
   type: ImageBlock
   url: /images/preparing-for-child-custody-case.jpg
   altText: Preparing for Your Child Custody Case
-  caption: Caption of the image
+  caption: Preparing for Your Child Custody Case
   elementId: ''
 ---
 
