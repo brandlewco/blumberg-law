@@ -60,7 +60,76 @@ sections:
   - type: TextSection
     colors: colors-a
     variant: variant-a
-    text: "Due to the so-called “war on drugs,” Congress has passed a number of “get tough” laws that have resulted in harsher penalties for federal drug crimes. In some instances, these laws created mandatory minimum sentences for certain kinds of drug crimes. Additionally, the federal criminal court system has its own unique set of procedures and rules that govern everything from discovery, grand jury testimony, conspiracy charges, the way investigations are conducted, and sentencing procedures. That’s why its essential to have an experienced**\_Phoenix federal drug crimes attorney**\_represent and advise you if you’ve been arrested on federal drug crime charges. At Blumberg & Associates, we’ve dedicated our practice exclusively to criminal defense work at both the state and federal level.\n\nOur attorneys are intimately familiar with the federal criminal justice system. We understand how to prepare and defend federal drug crimes cases and how to work with prosecutors during the sentencing phase of a trial. To schedule an appointment and learn how we can help you, contact the law office of Blumberg & Associates today.\n\n## FEDERAL DRUG CRIMES PENALTIES\n\nAt the federal level, sentencing for drug trafficking takes into account: the kind of drugs involved (see drug schedule in state sentencing cases), your criminal record, and whether any weapons, injuries, or deaths were involved. Prison sentences for large amounts of drugs range anywhere from 5 to 40 years, depending on the kind of drugs smuggled and whether it is your first or second offense. If a death or injury is involved, prison sentences range from 20 years to life, even if it’s your first drug trafficking offense.\n\nIn addition to prison, those convicted of drug trafficking could lose their property through criminal forfeiture and fined anywhere from $250,000 to as much as $20 million.\n\n## BLAKEY, BOOKER AND MANDATORY MINIMUM SENTENCING\n\nIn the past, certain drug crimes carried mandatory minimum sentences which left little, if any, discretion to judges when sentencing a defendant. However, after Blakey v. Washington and Booker v United States, judges are no longer required to impose mandatory minimums. Instead, mandatory minimums are now guidelines judges can take into consideration before imposing a sentence on a defendant.\n\n## THE IMPORTANCE OF A GOOD DEFENSE LAWYER\n\nDue to Blakey and Booker, judges now have discretion when it comes to federal drug crimes sentencing. An experienced attorney who understands how prosecutors and judges think can prepare and present important information that may convince the court to reduce your sentence. Our attorneys work with psychologists, counselors, medical experts, and others in explaining how our client ended up making the decisions he or she did that led to their drug activity: evidence of job loss, illness, a history of being abused, lack of opportunity, or neglect may convince the court to reduce your sentence.\n\nWe believe people deserve a second chance, and help in turning their lives around. While we cannot guarantee results, we can ensure you that we will use every opportunity and legal means available to reduce the sentence, or charges against you. To schedule a confidential consultation to discuss your case, contact federal drug crimes attorneys at Blumberg & Associates today.\n"
+    text: >
+      Due to the so-called “war on drugs,” Congress has passed a number of “get
+      tough” laws that have resulted in harsher penalties for federal drug
+      crimes. In some instances, these laws created mandatory minimum sentences
+      for certain kinds of drug crimes. Additionally, the federal criminal court
+      system has its own unique set of procedures and rules that govern
+      everything from discovery, grand jury testimony, conspiracy charges, the
+      way investigations are conducted, and sentencing procedures. That’s why
+      its essential to have an experienced Phoenix federal drug crimes attorney
+      represent and advise you if you’ve been arrested on federal drug crime
+      charges. At Blumberg & Associates, we’ve dedicated our practice
+      exclusively to criminal defense work at both the state and federal level.
+
+
+      Our attorneys are intimately familiar with the federal criminal justice
+      system. We understand how to prepare and defend federal drug crimes cases
+      and how to work with federal prosecutors during the sentencing phase of a
+      trial. To schedule an appointment and learn how we can help you, contact
+      the law office of Blumberg & Associates today.
+
+
+      ## **FEDERAL DRUG CRIMES PENALTIES**
+
+
+      At the federal level, sentencing for drug trafficking takes into account:
+      the kind of drugs involved (see drug schedule in state sentencing cases),
+      your criminal record, and whether any weapons, injuries, or deaths were
+      involved. Prison sentences for large amounts of illegal drugs range
+      anywhere from 5 to 40 years, depending on the kind of drugs smuggled and
+      whether it is your first or second offense. If a death or injury is
+      involved, prison sentences range from 20 years to life, even if it’s your
+      first drug trafficking offense.
+
+
+      In addition to prison, those convicted of drug trafficking could lose
+      their property through criminal forfeiture and fined anywhere from
+      $250,000 to as much as $20 million.
+
+
+      ## **BLAKEY, BOOKER AND MANDATORY MINIMUM SENTENCING**
+
+
+      In the past, certain drug crimes carried mandatory minimum sentences which
+      left little, if any, discretion to judges when sentencing a defendant.
+      However, after Blakey v. Washington and Booker v United States, judges are
+      no longer required to impose mandatory minimums. Instead, mandatory
+      minimums are now guidelines judges can take into consideration before
+      imposing a sentence on a defendant.
+
+
+      ## **THE IMPORTANCE OF A GOOD DEFENSE LAWYER**
+
+
+      Due to Blakey and Booker, judges now have discretion when it comes to
+      federal drug crimes sentencing. An experienced attorney who understands
+      how prosecutors and judges think can prepare and present important
+      information that may convince the court to reduce your sentence. Our
+      attorneys work with psychologists, counselors, medical experts, and others
+      in explaining how our client ended up making the decisions he or she did
+      that led to their drug activity: evidence of job loss, illness, a history
+      of being abused, lack of opportunity, or neglect may convince the court to
+      reduce your sentence.
+
+
+      We believe people deserve a second chance, and help in turning their lives
+      around. While we cannot guarantee results, we can ensure you that we will
+      use every opportunity and legal means available to reduce the sentence, or
+      federal drug charges against you. To schedule a confidential consultation
+      to discuss your case, contact federal drug crimes attorneys at Blumberg &
+      Associates today.
     styles:
       self:
         height: auto
