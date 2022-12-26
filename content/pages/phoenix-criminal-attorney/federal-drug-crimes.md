@@ -266,6 +266,8 @@ footer:
         content/pages/cases/client-had-82-pounds-of-marijuana-and-was-charged-with-conspiracy-to-possess-for-sale.md
       - >-
         content/pages/cases/client-charged-in-federal-court-with-sales-of-methamphetamine.md
+      - >-
+        content/pages/cases/client-traveling-northbound-on-i-17-stopped-in-yavapai-county-with-136-pounds-of-marijuana-packed-into-the-truck.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
