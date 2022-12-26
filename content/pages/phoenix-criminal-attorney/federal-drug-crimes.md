@@ -81,7 +81,7 @@ sections:
       the law office of Blumberg & Associates today.
 
 
-      ## **FEDERAL DRUG CRIMES PENALTIES**
+      ## FEDERAL DRUG CRIMES PENALTIES
 
 
       At the federal level, sentencing for drug trafficking takes into account:
@@ -99,7 +99,7 @@ sections:
       $250,000 to as much as $20 million.
 
 
-      ## **BLAKEY, BOOKER AND MANDATORY MINIMUM SENTENCING**
+      ## BLAKEY, BOOKER AND MANDATORY MINIMUM SENTENCING
 
 
       In the past, certain drug crimes carried mandatory minimum sentences which
@@ -110,7 +110,7 @@ sections:
       imposing a sentence on a defendant.
 
 
-      ## **THE IMPORTANCE OF A GOOD DEFENSE LAWYER**
+      ## THE IMPORTANCE OF A GOOD DEFENSE LAWYER
 
 
       Due to Blakey and Booker, judges now have discretion when it comes to
