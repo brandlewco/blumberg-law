@@ -12,7 +12,7 @@ date: '2017-10-30'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/gavel-placeholder.jpg
+  url: /images/high-net-worth-divorce.jpg
   altText: High-Net Worth Divorce Mistakes
   caption: High-Net Worth Divorce Mistakes
 media:
