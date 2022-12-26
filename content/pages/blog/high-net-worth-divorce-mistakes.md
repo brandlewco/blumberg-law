@@ -14,7 +14,7 @@ featuredImage:
   type: ImageBlock
   url: /images/gavel-placeholder.jpg
   altText: High-Net Worth Divorce Mistakes
-  caption: ''
+  caption: High-Net Worth Divorce Mistakes
 media:
   type: ImageBlock
   url: /images/gavel-placeholder.jpg
