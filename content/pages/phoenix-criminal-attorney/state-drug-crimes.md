@@ -96,8 +96,7 @@ sidebar:
               Federal Drug Crimes
             showIcon: true
             icon: arrowRight
-            url: >-
-              https://azblumberglaw.com/phoenix-criminal-attorney/federal-drug-crimes/
+            url: /phoenix-criminal-attorney/federal-drug-crimes/
             style: primary
           - type: Button
             label: |
