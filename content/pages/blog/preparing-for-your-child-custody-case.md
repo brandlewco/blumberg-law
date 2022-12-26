@@ -25,7 +25,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: /images/preparing-for-child-custody-case.jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
