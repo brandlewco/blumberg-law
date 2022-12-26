@@ -23,7 +23,7 @@ fields:
     default: '/'
     required: true
   - type: boolean
-    name: showIcon
+    name: optimized
     group: styles
     label: Optimized?
     default: false
