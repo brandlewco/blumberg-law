@@ -35,7 +35,7 @@ fields:
       - label: Yes
         value: yes
       - label: No
-        value: right
+        value: no
     default: right
   - type: boolean
     name: showIcon
