@@ -17,7 +17,7 @@ featuredImage:
   caption: Southwest Super Lawyers List
 media:
   type: ImageBlock
-  url: /images/gavel-placeholder.jpg
+  url: /images/bruce-blumberg-super-lawyers.jpg
   altText: Post image
 bottomSections: []
 metaDescription: >-
