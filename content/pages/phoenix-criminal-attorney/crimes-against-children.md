@@ -312,6 +312,8 @@ footer:
         content/pages/cases/client-accused-of-two-counts-of-molestation-dangerous-crimes-against-children.md
       - >-
         content/pages/cases/client-accused-of-first-degree-murder-and-molestation-of-a-child.md
+      - >-
+        content/pages/cases/client-accused-of-first-degree-murder-and-molestation-of-a-child.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
