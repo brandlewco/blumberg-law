@@ -13,7 +13,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/bruce-blumberg-super-lawyers.jpg
-  altText: Post thumbnail image
+  altText: Southwest Super Lawyers List
   caption: ''
 media:
   type: ImageBlock
