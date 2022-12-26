@@ -32,8 +32,8 @@ fields:
     controlType: button-group
     label: Icon position
     options:
-      - label: Left
-        value: left
+      - label: Yes
+        value: yes
       - label: Right
         value: right
     default: right
