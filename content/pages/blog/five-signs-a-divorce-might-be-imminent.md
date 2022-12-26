@@ -14,7 +14,7 @@ featuredImage:
   type: ImageBlock
   url: /images/signs-of-divorce.jpg
   altText: Five Signs a Divorce Might Be Imminent
-  caption: ''
+  caption: Five Signs a Divorce Might Be Imminent
 media:
   type: ImageBlock
   url: /images/gavel-placeholder.jpg
