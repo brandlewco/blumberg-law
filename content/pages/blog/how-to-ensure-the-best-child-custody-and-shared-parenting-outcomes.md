@@ -13,7 +13,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/gavel-placeholder.jpg
-  altText: Post thumbnail image
+  altText: How to Ensure the Best Child Custody and Shared Parenting Outcomes
   caption: ''
 media:
   type: ImageBlock
