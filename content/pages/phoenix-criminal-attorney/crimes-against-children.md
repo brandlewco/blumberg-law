@@ -309,6 +309,8 @@ footer:
     colors: colors-d
     posts:
       - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
+      - >-
+        content/pages/cases/client-accused-of-first-degree-murder-and-molestation-of-a-child.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
