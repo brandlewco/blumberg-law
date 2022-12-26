@@ -27,10 +27,10 @@ fields:
     controlType: button-group
     label: Optimized?
     options:
+          - label: No
+        value: no
       - label: Yes
         value: yes
-      - label: No
-        value: no
     default: right
   - type: boolean
     name: showIcon
