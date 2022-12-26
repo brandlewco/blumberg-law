@@ -170,7 +170,7 @@ sidebar:
             elementId: ''
           - type: Button
             label: |
-              Violent Crimes
+              Children Crimes
             altText: ''
             url: /phoenix-criminal-attorney/violent-crimes/
             showIcon: true
