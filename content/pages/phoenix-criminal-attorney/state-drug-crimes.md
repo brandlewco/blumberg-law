@@ -98,7 +98,7 @@ sidebar:
             icon: arrowRight
             url: /phoenix-criminal-attorney/federal-drug-crimes/
             style: primary
-            optimized: true
+            optimized: false
           - type: Button
             label: |
               Sex Crimes
