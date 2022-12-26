@@ -18,7 +18,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/gavel-placeholder.jpg
-  altText: Post image
+  altText: Five Signs a Divorce Might Be Imminent
 bottomSections:
   - type: FeaturedPostsSection
     elementId: ''
