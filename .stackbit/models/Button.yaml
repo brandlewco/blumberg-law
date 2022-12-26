@@ -27,7 +27,7 @@ fields:
     label: Optimized?
     default: false
   - type: enum
-    name: iconPosition
+    name: optimized
     controlType: button-group
     label: Icon position
     options:
