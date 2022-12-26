@@ -20,7 +20,7 @@ author: content/data/team/person-qkxt493m4.json
 featuredImage:
   type: ImageBlock
   url: /images/preparing-for-child-custody-case.jpg
-  altText: altText of the image
+  altText: Preparing for Your Child Custody Case
   caption: Caption of the image
   elementId: ''
 ---
