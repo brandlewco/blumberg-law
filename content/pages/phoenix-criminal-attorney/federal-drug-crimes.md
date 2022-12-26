@@ -262,6 +262,8 @@ footer:
     posts:
       - >-
         content/pages/cases/client-in-federal-court-caught-with-over-2200-pounds-of-marijuana.md
+      - >-
+        content/pages/cases/client-charged-in-federal-court-with-sales-of-methamphetamine.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
