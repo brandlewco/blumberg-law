@@ -12,7 +12,7 @@ date: '2016-10-18'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/gavel-placeholder.jpg
+  url: /images/child-custody-best-outcomes.jpg
   altText: Custody and Shared Parenting Outcomes
   caption: Custody and Shared Parenting Outcomes
 media:
