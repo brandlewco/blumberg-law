@@ -13,7 +13,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/signs-of-divorce.jpg
-  altText: Post thumbnail image
+  altText: Five Signs a Divorce Might Be Imminent
   caption: ''
 media:
   type: ImageBlock
