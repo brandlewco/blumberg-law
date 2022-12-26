@@ -10,11 +10,6 @@ title: Preparing for Your Child Custody Case
 colors: colors-a
 date: '2017-12-05'
 excerpt: ''
-featuredImage:
-  type: ImageBlock
-  url: /images/gavel-placeholder.jpg
-  altText: Post thumbnail image
-  caption: ''
 media:
   type: ImageBlock
   url: /images/gavel-placeholder.jpg
