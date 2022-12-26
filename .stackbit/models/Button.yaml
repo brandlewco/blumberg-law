@@ -26,6 +26,17 @@ fields:
     name: optimized
     label: Optimized?
     default: false
+  - type: enum
+    name: iconPosition
+    group: styles
+    controlType: button-group
+    label: Icon position
+    options:
+      - label: Left
+        value: left
+      - label: Right
+        value: right
+    default: right
   - type: boolean
     name: showIcon
     group: styles
