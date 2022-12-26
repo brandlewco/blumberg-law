@@ -24,7 +24,6 @@ fields:
     required: true
   - type: boolean
     name: optimized
-    group: styles
     label: Optimized?
     default: false
   - type: boolean
