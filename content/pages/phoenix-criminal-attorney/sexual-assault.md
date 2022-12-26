@@ -157,6 +157,7 @@ sidebar:
             icon: arrowRight
             url: /phoenix-criminal-attorney/sex-offender-registration/
             style: primary
+            optimized: 'yes'
           - type: Button
             label: |
               Sex Crimes
