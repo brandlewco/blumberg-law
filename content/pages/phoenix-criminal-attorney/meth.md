@@ -120,7 +120,7 @@ sidebar:
             elementId: ''
           - type: Button
             label: |
-              White Collar Crimes
+              Child Crimes
             altText: ''
             url: /phoenix-criminal-attorney/white-collar-crimes/
             showIcon: true
