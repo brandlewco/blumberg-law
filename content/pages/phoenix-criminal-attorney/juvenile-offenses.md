@@ -100,7 +100,7 @@ sidebar:
             style: primary
           - type: Button
             label: |
-              Sex Crimes
+              Child Crimes
             altText: ''
             url: /phoenix-criminal-attorney/sex-crimes/
             showIcon: true
