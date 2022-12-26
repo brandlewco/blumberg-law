@@ -29,7 +29,7 @@ fields:
   - type: enum
     name: optimized
     controlType: button-group
-    label: Icon position
+    label: Optimized?
     options:
       - label: Yes
         value: yes
