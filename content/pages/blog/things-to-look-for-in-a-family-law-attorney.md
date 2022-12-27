@@ -14,7 +14,7 @@ featuredImage:
   type: ImageBlock
   url: /images/bruce-blumberg-profile.jpg
   altText: Things to Look for In a Family Law Attorney
-  caption: ''
+  caption: Things to Look for In a Family Law Attorney
 media:
   type: ImageBlock
   url: /images/gavel-placeholder.jpg
