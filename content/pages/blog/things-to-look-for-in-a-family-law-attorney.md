@@ -12,7 +12,7 @@ date: '2016-07-14'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/gavel-placeholder.jpg
+  url: /images/bruce-blumberg-profile.jpg
   altText: Post thumbnail image
   caption: ''
 media:
