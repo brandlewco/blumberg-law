@@ -13,7 +13,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/bruce-blumberg-profile.jpg
-  altText: Post thumbnail image
+  altText: Things to Look for In a Family Law Attorney
   caption: ''
 media:
   type: ImageBlock
