@@ -18,7 +18,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/bruce-blumberg-profile.jpg
-  altText: Post image
+  altText: Things to Look for In a Family Law Attorney
 bottomSections: []
 metaDescription: >-
   In order to choose the right family law attorney for your needs, it is
