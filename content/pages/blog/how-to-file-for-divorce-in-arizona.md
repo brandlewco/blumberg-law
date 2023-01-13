@@ -20,7 +20,7 @@ media:
   url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
-metaDescription: null
+metaDescription: "Divorce or dissolution of marriage is the process necessary to legally end a marriage.\_Divorce\_proceedings may take into account how assets, property and debt may be split, as well as how the custody of children will be handled."
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
