@@ -22,7 +22,7 @@ media:
 bottomSections: []
 metaDescription: >-
   Search engines like google, bing, and more are taking a more proactive
-  approach to identifiying and reporting child porn and abuse online. 
+  approach to identifying and reporting child porn and abuse online.
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
