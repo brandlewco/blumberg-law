@@ -20,7 +20,9 @@ media:
   url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
-metaDescription: 'Search engines like google, bing, a'
+metaDescription: >-
+  Search engines like google, bing, and more are taking a more proactive
+  approach to 
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
