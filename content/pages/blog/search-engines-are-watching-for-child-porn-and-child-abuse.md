@@ -20,7 +20,7 @@ media:
   url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
-metaDescription: 'Search engines like google '
+metaDescription: 'Search engines like google, bing, a'
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
