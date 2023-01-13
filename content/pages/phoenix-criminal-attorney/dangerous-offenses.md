@@ -196,6 +196,8 @@ footer:
       - >-
         content/pages/cases/client-involved-in-a-love-triangle-client-accused-of-five-counts-of-aggravated-assault-dangerous-offenses.md
       - >-
+        content/pages/cases/client-charged-with-aggravated-assault-a-dangerous-offense-after-punching-a-smaller-man-in-the-face.md
+      - >-
         content/pages/cases/minor-accused-of-aggravated-assault-dangerous-offense-by-holding-a-gun-on-officers-conducting-a-search-warrant-at-mothers-apartment.md
   - type: CtaSection
     elementId: ''
