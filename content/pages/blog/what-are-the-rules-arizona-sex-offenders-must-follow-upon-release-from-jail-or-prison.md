@@ -104,10 +104,10 @@ bottomSections:
       actions:
         justifyContent: center
 metaDescription: >-
-  After a sex offender is released from jail or prison, he or she may be subject
-  to various rules and regulations depending on the nature of the crime. In this
-  article, you will learn about the key rules that sex offenders must follow
-  upon their release.
+  After a sex offender is released from jail or prison in Arizona, he or she may
+  be subject to various rules and regulations depending on the nature of the
+  crime. In this article, you will learn about the key rules that sex offenders
+  must follow upon their release.
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
