@@ -199,6 +199,8 @@ footer:
         content/pages/cases/client-charged-with-aggravated-assault-a-dangerous-offense-after-punching-a-smaller-man-in-the-face.md
       - >-
         content/pages/cases/minor-accused-of-aggravated-assault-dangerous-offense-by-holding-a-gun-on-officers-conducting-a-search-warrant-at-mothers-apartment.md
+      - >-
+        content/pages/cases/client-a-17-year-old-girl-was-accused-of-aggravated-assault-dangerous-by-holding-a-gun-on-deputy-sheriffs-conducting-a-search-warrant.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
