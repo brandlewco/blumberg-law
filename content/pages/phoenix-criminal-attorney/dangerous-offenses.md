@@ -195,7 +195,6 @@ footer:
     posts:
       - >-
         content/pages/cases/client-involved-in-a-love-triangle-client-accused-of-five-counts-of-aggravated-assault-dangerous-offenses.md
-      - content/pages/cases/accused-or-child-abuse-by-causing-bruises.md
       - content/pages/cases/charged-19-counts-sexual-conduct-with-minor.md
       - content/pages/cases/accused-multiple-accounts-sexual-misconduct.md
       - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
