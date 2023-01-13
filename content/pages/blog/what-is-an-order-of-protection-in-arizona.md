@@ -20,7 +20,10 @@ media:
   url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
-metaDescription: null
+metaDescription: >-
+  Discover the different types of orders of protection available in Arizona and
+  learn what qualifies as grounds for issuing one. Get a better understanding of
+  this important legal tool that can help protect you from harm.
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
