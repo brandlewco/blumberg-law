@@ -20,7 +20,10 @@ media:
   url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
-metaDescription: null
+metaDescription: >-
+  If you find yourself in a situation where you are falsely accused of a sex
+  crime in Arizona, it is important to understand the possible consequences.
+  Learn about the possible outcomes and how to protect yourself from them here.
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
