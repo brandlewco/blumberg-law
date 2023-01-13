@@ -1,7 +1,7 @@
 ---
 layout: PageLayout
 metaTitle: null
-metaDescription: Site disclaimer for Blumberg & associates of Arizona website.
+metaDescription: Site disclaimer for Blumberg & Associates of Arizona website.
 addTitleSuffix: true
 socialImage: null
 metaTags: []
