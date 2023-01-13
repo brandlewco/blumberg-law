@@ -200,6 +200,8 @@ footer:
       - >-
         content/pages/cases/minor-accused-of-aggravated-assault-dangerous-offense-by-holding-a-gun-on-officers-conducting-a-search-warrant-at-mothers-apartment.md
       - >-
+        content/pages/cases/client-accused-of-two-counts-of-aggravated-assault-both-dangerous-offenses-against-police-officers.md
+      - >-
         content/pages/cases/client-a-17-year-old-girl-was-accused-of-aggravated-assault-dangerous-by-holding-a-gun-on-deputy-sheriffs-conducting-a-search-warrant.md
   - type: CtaSection
     elementId: ''
