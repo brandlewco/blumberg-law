@@ -195,7 +195,6 @@ footer:
     posts:
       - >-
         content/pages/cases/client-involved-in-a-love-triangle-client-accused-of-five-counts-of-aggravated-assault-dangerous-offenses.md
-      - content/pages/cases/charged-19-counts-sexual-conduct-with-minor.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
