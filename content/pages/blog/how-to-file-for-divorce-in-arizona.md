@@ -20,7 +20,9 @@ media:
   url: /images/gavel-placeholder.jpg
   altText: Post image
 bottomSections: []
-metaDescription: "Divorce or dissolution of marriage is the process necessary to legally end a marriage.\_Divorce\_proceedings may take into account how assets, property and debt may be split, as well as how the custody of children will be handled."
+metaDescription: >-
+  Are you considering filing for divorce in Arizona? Here is everything you need
+  to know about the process and what to expect.
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
