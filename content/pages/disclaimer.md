@@ -1,7 +1,7 @@
 ---
 layout: PageLayout
 metaTitle: null
-metaDescription: null
+metaDescription: Site dislaimer for blumberg & associates
 addTitleSuffix: true
 socialImage: null
 metaTags: []
