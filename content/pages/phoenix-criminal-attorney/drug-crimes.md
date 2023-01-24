@@ -101,7 +101,7 @@ sidebar:
             label: |
               State Drug Crimes
             altText: ''
-            url: /phoenix-criminal-attorney/drug-possession/
+            url: /phoenix-criminal-attorney/state-drug-crimes/
             showIcon: true
             icon: arrowRight
             iconPosition: right
