@@ -98,6 +98,7 @@ sidebar:
             icon: arrowRight
             url: /phoenix-criminal-attorney/marijuana/
             style: primary
+            altText: Marijuana Crimes
           - type: Button
             label: |
               Child Crimes
