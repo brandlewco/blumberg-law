@@ -170,7 +170,8 @@ sidebar:
             label: |
               Sexual Assault
             altText: Sexual Assault
-            url: /phoenix-criminal-attorney/violent-crimes/
+            url: >-
+              https://azblumberglaw.com/phoenix-criminal-attorney/sexual-assault/
             showIcon: true
             icon: arrowRight
             iconPosition: right
