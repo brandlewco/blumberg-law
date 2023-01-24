@@ -122,7 +122,7 @@ sidebar:
             elementId: ''
           - type: Button
             label: |
-              White Collar Crimes
+              Sex Crimes
             altText: ''
             url: /phoenix-criminal-attorney/white-collar-crimes/
             showIcon: true
