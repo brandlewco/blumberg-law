@@ -121,7 +121,7 @@ sidebar:
             optimized: 'yes'
           - type: Button
             label: |
-              White Collar Crimes
+              Federal Crimes
             altText: ''
             url: /phoenix-criminal-attorney/white-collar-crimes/
             showIcon: true
