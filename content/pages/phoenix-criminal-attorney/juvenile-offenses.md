@@ -124,7 +124,7 @@ sidebar:
             label: |
               Sex Crimes
             altText: ''
-            url: /phoenix-criminal-attorney/white-collar-crimes/
+            url: /phoenix-criminal-attorney/sex-crimes/
             showIcon: true
             icon: arrowRight
             iconPosition: right
