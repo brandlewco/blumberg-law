@@ -169,7 +169,7 @@ sidebar:
           - type: Button
             label: |
               Sexual Assault
-            altText: ''
+            altText: Sexual Assault
             url: /phoenix-criminal-attorney/violent-crimes/
             showIcon: true
             icon: arrowRight
