@@ -94,6 +94,16 @@ sidebar:
         actions:
           - type: Button
             label: |
+              Child Molestation
+            altText: ''
+            url: /phoenix-criminal-attorney/child-molestation/
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+          - type: Button
+            label: |
               Sex Offender Registration
             showIcon: true
             icon: arrowRight
@@ -104,16 +114,6 @@ sidebar:
               Sex Crimes
             altText: ''
             url: /phoenix-criminal-attorney/sex-crimes/
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-          - type: Button
-            label: |
-              Child Molestation
-            altText: ''
-            url: /phoenix-criminal-attorney/child-molestation/
             showIcon: true
             icon: arrowRight
             iconPosition: right
