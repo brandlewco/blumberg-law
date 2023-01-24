@@ -149,7 +149,7 @@ sidebar:
         actions:
           - type: Button
             label: |
-              Federal Crimes
+              Divorce
             showIcon: true
             icon: arrowRight
             url: /phoenix-criminal-attorney/federal-crimes/
