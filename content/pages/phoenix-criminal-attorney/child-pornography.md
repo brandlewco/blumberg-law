@@ -95,7 +95,7 @@ sidebar:
           - type: Button
             label: |
               Child Molestation
-            altText: ''
+            altText: Child Pornography
             url: /phoenix-criminal-attorney/child-molestation/
             showIcon: true
             icon: arrowRight
