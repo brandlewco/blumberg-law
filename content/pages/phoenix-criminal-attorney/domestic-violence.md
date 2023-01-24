@@ -170,13 +170,13 @@ sidebar:
             label: |
               Sexual Assault
             altText: Sexual Assault
-            url: >-
-              https://azblumberglaw.com/phoenix-criminal-attorney/sexual-assault/
+            url: /phoenix-criminal-attorney/sexual-assault/
             showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
             elementId: ''
+            optimized: 'yes'
           - type: Button
             label: |
               White Collar Crimes
