@@ -111,7 +111,7 @@ sidebar:
           - type: Button
             label: |
               Drug Posession
-            altText: Drug Posession
+            altText: Drug Possession
             url: /phoenix-criminal-attorney/drug-possession/
             showIcon: true
             icon: arrowRight
