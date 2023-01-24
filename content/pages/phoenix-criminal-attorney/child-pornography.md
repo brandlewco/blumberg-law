@@ -111,6 +111,7 @@ sidebar:
             url: /phoenix-criminal-attorney/sex-offender-registration/
             style: primary
             altText: Sex Offender Registration
+            optimized: 'yes'
           - type: Button
             label: |
               Sex Crimes
