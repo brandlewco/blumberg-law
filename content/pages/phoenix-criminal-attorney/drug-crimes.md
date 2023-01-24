@@ -123,7 +123,7 @@ sidebar:
             label: |
               Federal Crimes
             altText: ''
-            url: /phoenix-criminal-attorney/white-collar-crimes/
+            url: /phoenix-criminal-attorney/federal-crimes/
             showIcon: true
             icon: arrowRight
             iconPosition: right
