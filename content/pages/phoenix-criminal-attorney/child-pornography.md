@@ -113,7 +113,8 @@ sidebar:
             label: |
               White Collar Crimes
             altText: ''
-            url: /phoenix-criminal-attorney/white-collar-crimes/
+            url: >-
+              https://azblumberglaw.com/phoenix-criminal-attorney/child-molestation/
             showIcon: true
             icon: arrowRight
             iconPosition: right
