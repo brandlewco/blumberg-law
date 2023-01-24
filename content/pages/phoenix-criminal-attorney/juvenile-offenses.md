@@ -103,7 +103,7 @@ sidebar:
             label: |
               Parole & Probation Violations
             altText: Child Crimes Attorney
-            url: /phoenix-criminal-attorney/crimes-against-children/
+            url: /phoenix-criminal-attorney/parole-probation-violations/
             showIcon: true
             icon: arrowRight
             iconPosition: right
