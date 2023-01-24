@@ -108,6 +108,7 @@ sidebar:
             icon: arrowRight
             url: /phoenix-criminal-attorney/sex-offender-registration/
             style: primary
+            altText: Sexual Assault
           - type: Button
             label: |
               Violent Crimes
