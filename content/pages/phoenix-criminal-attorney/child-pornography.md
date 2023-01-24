@@ -123,7 +123,7 @@ sidebar:
             label: |
               Violent Crimes
             altText: ''
-            url: /phoenix-criminal-attorney/violent-crimes/
+            url: /phoenix-criminal-attorney/crimes-against-children/
             showIcon: true
             icon: arrowRight
             iconPosition: right
