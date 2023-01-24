@@ -113,6 +113,16 @@ sidebar:
             elementId: ''
           - type: Button
             label: |
+              White Collar Crimes
+            altText: ''
+            url: /phoenix-criminal-attorney/white-collar-crimes/
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+          - type: Button
+            label: |
               Drug Crimes
             altText: Drug Crimes
             url: /phoenix-criminal-attorney/drug-crimes/
@@ -122,16 +132,6 @@ sidebar:
             style: primary
             elementId: ''
             optimized: 'yes'
-          - type: Button
-            label: |
-              White Collar Crimes
-            altText: ''
-            url: /phoenix-criminal-attorney/white-collar-crimes/
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
         styles:
           self:
             textAlign: left
