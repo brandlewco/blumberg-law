@@ -103,7 +103,7 @@ sidebar:
             optimized: 'yes'
           - type: Button
             label: |
-              Sex Crimes
+              Homicide
             altText: ''
             url: /phoenix-criminal-attorney/sex-crimes/
             showIcon: true
