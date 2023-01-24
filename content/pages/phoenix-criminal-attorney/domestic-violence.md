@@ -180,7 +180,7 @@ sidebar:
           - type: Button
             label: |
               Violent Crimes
-            altText: ''
+            altText: Violent Crimes
             url: /phoenix-criminal-attorney/violent-crimes/
             showIcon: true
             icon: arrowRight
