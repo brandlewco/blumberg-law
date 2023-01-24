@@ -105,7 +105,7 @@ sidebar:
             label: |
               Federal Drug Crimes
             altText: ''
-            url: /phoenix-criminal-attorney/white-collar-crimes/
+            url: /phoenix-criminal-attorney/drug-crimes/
             showIcon: true
             icon: arrowRight
             iconPosition: right
