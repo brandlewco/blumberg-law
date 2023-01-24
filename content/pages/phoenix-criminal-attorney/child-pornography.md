@@ -111,9 +111,9 @@ sidebar:
             elementId: ''
           - type: Button
             label: |
-              Violent Crimes
+              White Collar Crimes
             altText: ''
-            url: /phoenix-criminal-attorney/violent-crimes/
+            url: /phoenix-criminal-attorney/white-collar-crimes/
             showIcon: true
             icon: arrowRight
             iconPosition: right
@@ -121,9 +121,9 @@ sidebar:
             elementId: ''
           - type: Button
             label: |
-              White Collar Crimes
+              Violent Crimes
             altText: ''
-            url: /phoenix-criminal-attorney/white-collar-crimes/
+            url: /phoenix-criminal-attorney/violent-crimes/
             showIcon: true
             icon: arrowRight
             iconPosition: right
