@@ -100,7 +100,7 @@ sidebar:
           - type: Button
             label: |
               State Drug Crimes
-            altText: ''
+            altText: State Drug Crimes
             url: /phoenix-criminal-attorney/state-drug-crimes/
             showIcon: true
             icon: arrowRight
