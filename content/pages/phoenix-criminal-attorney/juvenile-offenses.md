@@ -93,7 +93,7 @@ sidebar:
         actions:
           - type: Button
             label: |
-              Marijauana Crimes
+              Marijuana Crimes
             showIcon: true
             icon: arrowRight
             url: /phoenix-criminal-attorney/marijuana/
