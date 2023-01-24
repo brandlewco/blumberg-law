@@ -181,7 +181,7 @@ sidebar:
             label: |
               Violent Crimes
             altText: ''
-            url: /phoenix-criminal-attorney/white-collar-crimes/
+            url: /phoenix-criminal-attorney/violent-crimes/
             showIcon: true
             icon: arrowRight
             iconPosition: right
