@@ -116,7 +116,7 @@ sidebar:
             label: |
               Bank Fraud
             altText: Homicide
-            url: /phoenix-criminal-attorney/homicide/
+            url: /phoenix-criminal-attorney/bank-fraud/
             showIcon: true
             icon: arrowRight
             iconPosition: right
