@@ -102,6 +102,7 @@ sidebar:
             iconPosition: right
             style: primary
             elementId: ''
+            optimized: 'yes'
           - type: Button
             label: |
               Sex Offender Registration
