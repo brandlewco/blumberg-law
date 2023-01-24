@@ -122,7 +122,7 @@ sidebar:
           - type: Button
             label: |
               Federal Crimes
-            altText: ''
+            altText: Federal Crimes
             url: /phoenix-criminal-attorney/federal-crimes/
             showIcon: true
             icon: arrowRight
