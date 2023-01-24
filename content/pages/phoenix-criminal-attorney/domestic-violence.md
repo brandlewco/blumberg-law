@@ -155,6 +155,7 @@ sidebar:
             url: /phoenix-family-attorney/divorce/
             style: primary
             altText: Divorce
+            optimized: 'yes'
           - type: Button
             label: |
               Sex Crimes
