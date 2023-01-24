@@ -122,7 +122,7 @@ sidebar:
           - type: Button
             label: |
               Crimes Against Children
-            altText: ''
+            altText: Crimes Against Children
             url: /phoenix-criminal-attorney/crimes-against-children/
             showIcon: true
             icon: arrowRight
