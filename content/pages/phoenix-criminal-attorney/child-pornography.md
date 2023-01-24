@@ -121,7 +121,7 @@ sidebar:
             elementId: ''
           - type: Button
             label: |
-              Violent Crimes
+              Crimes Against Children
             altText: ''
             url: /phoenix-criminal-attorney/crimes-against-children/
             showIcon: true
