@@ -96,7 +96,7 @@ sidebar:
               Marijauana Crimes
             showIcon: true
             icon: arrowRight
-            url: /phoenix-criminal-attorney/federal-crimes/
+            url: /phoenix-criminal-attorney/marijuana/
             style: primary
           - type: Button
             label: |
