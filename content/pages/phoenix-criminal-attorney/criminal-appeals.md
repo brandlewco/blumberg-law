@@ -111,10 +111,9 @@ sidebar:
             iconPosition: right
             style: primary
             elementId: ''
-            optimized: 'yes'
           - type: Button
             label: |
-              Violent Crimes
+              Drug Crimes
             altText: ''
             url: /phoenix-criminal-attorney/violent-crimes/
             showIcon: true
