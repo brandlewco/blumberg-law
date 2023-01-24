@@ -127,7 +127,7 @@ sidebar:
             label: |
               Health Care Fraud
             altText: Drug Crimes
-            url: /phoenix-criminal-attorney/drug-crimes/
+            url: /phoenix-criminal-attorney/health-care-fraud/
             showIcon: true
             icon: arrowRight
             iconPosition: right
