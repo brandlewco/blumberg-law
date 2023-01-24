@@ -103,9 +103,9 @@ sidebar:
             optimized: 'yes'
           - type: Button
             label: |
-              Homicide
-            altText: Homicide
-            url: /phoenix-criminal-attorney/homicide/
+              White Collar Crimes
+            altText: ''
+            url: /phoenix-criminal-attorney/white-collar-crimes/
             showIcon: true
             icon: arrowRight
             iconPosition: right
@@ -113,9 +113,9 @@ sidebar:
             elementId: ''
           - type: Button
             label: |
-              White Collar Crimes
-            altText: ''
-            url: /phoenix-criminal-attorney/white-collar-crimes/
+              Homicide
+            altText: Homicide
+            url: /phoenix-criminal-attorney/homicide/
             showIcon: true
             icon: arrowRight
             iconPosition: right
