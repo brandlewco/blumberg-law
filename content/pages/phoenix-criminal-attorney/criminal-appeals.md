@@ -100,6 +100,7 @@ sidebar:
             url: /phoenix-criminal-attorney/federal-crimes/
             style: primary
             altText: Federal Crimes
+            optimized: 'yes'
           - type: Button
             label: |
               Sex Crimes
