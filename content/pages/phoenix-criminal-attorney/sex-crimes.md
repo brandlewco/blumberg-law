@@ -99,6 +99,7 @@ sidebar:
             url: /phoenix-criminal-attorney/child-molestation/
             style: primary
             optimized: 'yes'
+            altText: Child Molestation
           - type: Button
             label: |
               Sex Offender Registration
