@@ -100,6 +100,7 @@ sidebar:
             url: /phoenix-criminal-attorney/dangerous-offenses/
             style: primary
             optimized: 'yes'
+            altText: Dangerous Offenses
           - type: Button
             label: |
               Sex Crimes
