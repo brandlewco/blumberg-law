@@ -343,16 +343,6 @@ sidebar:
             iconPosition: right
             style: primary
             elementId: ''
-          - type: Button
-            label: |
-              Sex Crimes
-            altText: Sex Crimes
-            url: /phoenix-criminal-attorney/sex-crimes/
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
         styles:
           self:
             textAlign: left
