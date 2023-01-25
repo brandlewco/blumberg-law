@@ -233,16 +233,6 @@ sidebar:
             style: primary
             elementId: ''
           - type: Button
-            label: |
-              Children Crimes
-            altText: Children Crimes
-            url: /phoenix-criminal-attorney/crimes-against-children/
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-          - type: Button
             label: |+
               Computer & Internet Fraud
 
