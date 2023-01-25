@@ -94,13 +94,6 @@ sidebar:
         actions:
           - type: Button
             label: |
-              Sex Offender Registration
-            showIcon: true
-            icon: arrowRight
-            url: /phoenix-criminal-attorney/sex-offender-registration/
-            style: primary
-          - type: Button
-            label: |
               Divorce
             altText: Divorce
             url: /phoenix-family-attorney/divorce/
@@ -110,6 +103,13 @@ sidebar:
             style: primary
             elementId: ''
             optimized: 'yes'
+          - type: Button
+            label: |
+              Sex Offender Registration
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/sex-offender-registration/
+            style: primary
           - type: Button
             label: |
               Sex Crimes
