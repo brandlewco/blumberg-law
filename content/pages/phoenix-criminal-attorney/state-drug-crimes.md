@@ -114,7 +114,7 @@ sidebar:
             label: |
               Drug Crimes
             altText: ''
-            url: /phoenix-criminal-attorney/violent-crimes/
+            url: /phoenix-criminal-attorney/drug-crimes/
             showIcon: true
             icon: arrowRight
             iconPosition: right
