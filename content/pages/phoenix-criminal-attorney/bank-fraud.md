@@ -123,7 +123,7 @@ sidebar:
           - type: Button
             label: |
               Accounting & Tax Fraud
-            altText: ''
+            altText: Accounting & Tax Fraud
             url: /phoenix-criminal-attorney/accounting-tax-fraud/
             showIcon: true
             icon: arrowRight
