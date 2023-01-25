@@ -125,7 +125,7 @@ sidebar:
             label: |
               Search & Seizure
             altText: ''
-            url: /phoenix-criminal-attorney/violent-crimes/
+            url: /phoenix-criminal-attorney/search-seizure-issues/
             showIcon: true
             icon: arrowRight
             iconPosition: right
