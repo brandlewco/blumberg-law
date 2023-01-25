@@ -203,28 +203,36 @@ sidebar:
   - type: FeaturedItemsSection
     colors: colors-d
     backgroundSize: full
+<<<<<<< HEAD
     title: |
       ##### Choose a related practice area to learn more:
+=======
+    title: |+
+      ##### Choose a related practice area to learn more:
+
+>>>>>>> 6d55ef83b53cbd8b55e33ea79dbf2cec71722730
     items:
       - type: FeaturedItem
         actions:
           - type: Button
             label: |
-              Federal Crimes
+              Child Molestation
             showIcon: true
             icon: arrowRight
-            url: /phoenix-criminal-attorney/federal-crimes/
+            url: /phoenix-criminal-attorney/child-molestation/
             style: primary
+            altText: Child Molestation
           - type: Button
             label: |
-              Sex Crimes
-            altText: ''
-            url: /phoenix-criminal-attorney/sex-crimes/
+              Child Pornography
+            altText: Child Pornography
+            url: /phoenix-criminal-attorney/child-pornography/
             showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
             elementId: ''
+            optimized: 'yes'
           - type: Button
             label: |
               Violent Crimes
@@ -237,14 +245,15 @@ sidebar:
             elementId: ''
           - type: Button
             label: |
-              White Collar Crimes
-            altText: ''
-            url: /phoenix-criminal-attorney/white-collar-crimes/
+              Child Custody & Parenting Time
+            altText: Child Custody & Parenting Time
+            url: /phoenix-family-attorney/child-custody-parenting-time/
             showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
             elementId: ''
+            optimized: 'yes'
         styles:
           self:
             textAlign: left

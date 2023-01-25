@@ -111,24 +111,26 @@ sidebar:
             elementId: ''
           - type: Button
             label: |
-              Violent Crimes
-            altText: ''
-            url: /phoenix-criminal-attorney/violent-crimes/
+              Child Pornography
+            altText: Child Pornography
+            url: /phoenix-criminal-attorney/child-pornography/
             showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
             elementId: ''
+            optimized: 'yes'
           - type: Button
             label: |
-              White Collar Crimes
-            altText: ''
-            url: /phoenix-criminal-attorney/white-collar-crimes/
+              Children Crimes
+            altText: Children Crimes
+            url: /phoenix-criminal-attorney/crimes-against-children/
             showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
             elementId: ''
+            optimized: 'yes'
         styles:
           self:
             textAlign: left

@@ -135,31 +135,34 @@ sidebar:
         actions:
           - type: Button
             label: |
-              Federal Crimes
+              Bank Fraud
             showIcon: true
             icon: arrowRight
-            url: /phoenix-criminal-attorney/federal-crimes/
+            url: /phoenix-criminal-attorney/bank-fraud/
             style: primary
+            altText: Bank Fraud
           - type: Button
             label: |
-              Sex Crimes
-            altText: ''
-            url: /phoenix-criminal-attorney/sex-crimes/
+              Mortgage Fraud
+            altText: Mortgage Fraud
+            url: /phoenix-criminal-attorney/mortgage-fraud/
             showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
             elementId: ''
+            optimized: 'yes'
           - type: Button
             label: |
-              Violent Crimes
-            altText: ''
-            url: /phoenix-criminal-attorney/violent-crimes/
+              Corporate Fraud
+            altText: Corporate Fraud
+            url: /phoenix-criminal-attorney/corporate-fraud/
             showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
             elementId: ''
+            optimized: 'yes'
           - type: Button
             label: |
               White Collar Crimes

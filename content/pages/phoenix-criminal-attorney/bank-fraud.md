@@ -101,24 +101,15 @@ sidebar:
             style: primary
           - type: Button
             label: |
-              Sex Crimes
-            altText: ''
-            url: /phoenix-criminal-attorney/sex-crimes/
+              Mortgage Fraud
+            altText: Mortgage Fraud
+            url: /phoenix-criminal-attorney/mortgage-fraud/
             showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
             elementId: ''
-          - type: Button
-            label: |
-              Violent Crimes
-            altText: ''
-            url: /phoenix-criminal-attorney/violent-crimes/
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+            optimized: 'yes'
           - type: Button
             label: |
               White Collar Crimes
@@ -129,6 +120,17 @@ sidebar:
             iconPosition: right
             style: primary
             elementId: ''
+          - type: Button
+            label: |
+              Accounting & Tax Fraud
+            altText: Accounting & Tax Fraud
+            url: /phoenix-criminal-attorney/accounting-tax-fraud/
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+            optimized: 'yes'
         styles:
           self:
             textAlign: left
