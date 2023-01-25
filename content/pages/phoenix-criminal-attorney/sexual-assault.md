@@ -183,7 +183,7 @@ sidebar:
           - type: Button
             label: |
               Domestic Violence
-            altText: White Collar Crimes Attorney
+            altText: Domestic Violence
             url: /phoenix-criminal-attorney/domestic-violence/
             showIcon: true
             icon: arrowRight
