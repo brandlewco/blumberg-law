@@ -113,7 +113,7 @@ sidebar:
             elementId: ''
           - type: Button
             label: |
-              Violent Crimes
+              Homicide
             altText: ''
             url: /phoenix-criminal-attorney/violent-crimes/
             showIcon: true
@@ -131,7 +131,6 @@ sidebar:
             iconPosition: right
             style: primary
             elementId: ''
-            optimized: 'yes'
         styles:
           self:
             textAlign: left
