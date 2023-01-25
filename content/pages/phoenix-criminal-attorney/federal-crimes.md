@@ -323,16 +323,6 @@ sidebar:
             iconPosition: right
             style: primary
             elementId: ''
-          - type: Button
-            label: |
-              Mortgage Fraud
-            altText: Mortgage Fraud
-            url: /phoenix-criminal-attorney/mortgage-fraud/
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
         styles:
           self:
             textAlign: left
