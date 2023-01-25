@@ -219,7 +219,7 @@ sidebar:
           - type: Button
             label: |
               Child Pornography
-            altText: ''
+            altText: Child Pornography
             url: /phoenix-criminal-attorney/child-pornography/
             showIcon: true
             icon: arrowRight
