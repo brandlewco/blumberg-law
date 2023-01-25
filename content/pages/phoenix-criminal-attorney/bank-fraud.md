@@ -101,9 +101,9 @@ sidebar:
             style: primary
           - type: Button
             label: |
-              Sex Crimes
+              White Collar Crimes
             altText: ''
-            url: /phoenix-criminal-attorney/sex-crimes/
+            url: /phoenix-criminal-attorney/white-collar-crimes/
             showIcon: true
             icon: arrowRight
             iconPosition: right
@@ -111,9 +111,9 @@ sidebar:
             elementId: ''
           - type: Button
             label: |
-              White Collar Crimes
+              Sex Crimes
             altText: ''
-            url: /phoenix-criminal-attorney/white-collar-crimes/
+            url: /phoenix-criminal-attorney/sex-crimes/
             showIcon: true
             icon: arrowRight
             iconPosition: right
