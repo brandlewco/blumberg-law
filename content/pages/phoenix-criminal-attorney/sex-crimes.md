@@ -123,7 +123,7 @@ sidebar:
             label: |
               Prositution
             altText: ''
-            url: /phoenix-criminal-attorney/white-collar-crimes/
+            url: /phoenix-criminal-attorney/prostitution/
             showIcon: true
             icon: arrowRight
             iconPosition: right
