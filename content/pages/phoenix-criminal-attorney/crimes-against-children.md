@@ -23,7 +23,7 @@ hero:
       - type: Button
         label: |
           Children Crimes Representation
-        url: /contact-us
+        url: /contact-us/
         style: primary
         iconPosition: right
         icon: arrowRight

@@ -22,7 +22,7 @@ hero:
       - type: Button
         label: |
           Child Molestation Representation
-        url: /contact-us
+        url: /contact-us/
         style: primary
         iconPosition: right
         icon: arrowRight

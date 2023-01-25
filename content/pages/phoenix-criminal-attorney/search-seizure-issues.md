@@ -21,7 +21,7 @@ hero:
       - type: Button
         label: |
           Search & Seizure Representation
-        url: /contact-us
+        url: /contact-us/
         style: primary
         iconPosition: right
         icon: arrowRight

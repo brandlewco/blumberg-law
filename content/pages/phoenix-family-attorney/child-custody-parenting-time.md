@@ -22,7 +22,7 @@ hero:
       - type: Button
         label: |
           Child Custody & Parenting Time Representation
-        url: /contact-us
+        url: /contact-us/
         style: primary
         iconPosition: right
         icon: arrowRight
