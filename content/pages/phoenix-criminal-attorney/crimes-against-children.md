@@ -220,7 +220,8 @@ sidebar:
             label: |
               Child Pornography
             altText: ''
-            url: /phoenix-criminal-attorney/sex-crimes/
+            url: >-
+              https://azblumberglaw.com/phoenix-criminal-attorney/child-pornography/
             showIcon: true
             icon: arrowRight
             iconPosition: right
