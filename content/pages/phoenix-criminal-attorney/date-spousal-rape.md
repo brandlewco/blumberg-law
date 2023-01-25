@@ -124,12 +124,13 @@ sidebar:
             label: |
               Sexual Assault
             altText: ''
-            url: /phoenix-criminal-attorney/violent-crimes/
+            url: /phoenix-criminal-attorney/sexual-assault/
             showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
             elementId: ''
+            optimized: 'yes'
         styles:
           self:
             textAlign: left
