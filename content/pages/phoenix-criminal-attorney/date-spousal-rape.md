@@ -105,13 +105,6 @@ sidebar:
             optimized: 'yes'
           - type: Button
             label: |
-              Sex Offender Registration
-            showIcon: true
-            icon: arrowRight
-            url: /phoenix-criminal-attorney/sex-offender-registration/
-            style: primary
-          - type: Button
-            label: |
               Sex Crimes
             altText: ''
             url: /phoenix-criminal-attorney/sex-crimes/
@@ -120,6 +113,13 @@ sidebar:
             iconPosition: right
             style: primary
             elementId: ''
+          - type: Button
+            label: |
+              Sex Offender Registration
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/sex-offender-registration/
+            style: primary
           - type: Button
             label: |
               Sexual Assault
