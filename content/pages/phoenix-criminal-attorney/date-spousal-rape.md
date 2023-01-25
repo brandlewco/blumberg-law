@@ -101,16 +101,6 @@ sidebar:
             style: primary
           - type: Button
             label: |
-              Sex Crimes
-            altText: ''
-            url: /phoenix-criminal-attorney/sex-crimes/
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-          - type: Button
-            label: |
               Divorce
             altText: Divorce
             url: /phoenix-family-attorney/divorce/
@@ -120,6 +110,16 @@ sidebar:
             style: primary
             elementId: ''
             optimized: 'yes'
+          - type: Button
+            label: |
+              Sex Crimes
+            altText: ''
+            url: /phoenix-criminal-attorney/sex-crimes/
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
           - type: Button
             label: |
               Violent Crimes
