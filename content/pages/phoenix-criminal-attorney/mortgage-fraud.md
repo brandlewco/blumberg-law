@@ -99,6 +99,7 @@ sidebar:
             url: /phoenix-criminal-attorney/mail-wire-fraud/
             style: primary
             optimized: 'yes'
+            altText: Mail & Wire Fraud
           - type: Button
             label: |
               Bank Fraud
