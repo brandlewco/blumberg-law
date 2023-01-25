@@ -122,7 +122,7 @@ sidebar:
             optimized: 'yes'
           - type: Button
             label: |
-              White Collar Crimes
+              Computer & Internet Fraud
             altText: ''
             url: /phoenix-criminal-attorney/white-collar-crimes/
             showIcon: true
