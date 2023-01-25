@@ -113,7 +113,7 @@ sidebar:
           - type: Button
             label: |
               Drug Crimes
-            altText: ''
+            altText: Drug Crimes
             url: /phoenix-criminal-attorney/drug-crimes/
             showIcon: true
             icon: arrowRight
