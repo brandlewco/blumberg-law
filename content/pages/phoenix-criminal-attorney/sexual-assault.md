@@ -182,7 +182,7 @@ sidebar:
             optimized: 'yes'
           - type: Button
             label: |
-              White Collar Crimes
+              Domestic Violence
             altText: White Collar Crimes Attorney
             url: /phoenix-criminal-attorney/white-collar-crimes/
             showIcon: true
