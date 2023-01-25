@@ -215,6 +215,7 @@ sidebar:
             icon: arrowRight
             url: /phoenix-criminal-attorney/child-molestation/
             style: primary
+            altText: Child Molestation
           - type: Button
             label: |
               Sex Crimes
