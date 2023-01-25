@@ -275,16 +275,6 @@ sidebar:
             elementId: ''
           - type: Button
             label: |
-              Homicide
-            altText: Homicide
-            url: /phoenix-criminal-attorney/homicide/
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-          - type: Button
-            label: |
               Money Laundering
             altText: Money Laundering
             url: /phoenix-criminal-attorney/money-laundering/
