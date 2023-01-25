@@ -102,7 +102,7 @@ sidebar:
           - type: Button
             label: |
               Corporate Fraud
-            altText: ''
+            altText: Corporate Fraud
             url: /phoenix-criminal-attorney/corporate-fraud/
             showIcon: true
             icon: arrowRight
