@@ -122,7 +122,7 @@ sidebar:
           - type: Button
             label: |
               Divorce
-            altText: ''
+            altText: Divorce
             url: /phoenix-family-attorney/divorce/
             showIcon: true
             icon: arrowRight
