@@ -126,7 +126,7 @@ sidebar:
             label: |
               Criminal Appeals
             altText: ''
-            url: /phoenix-criminal-attorney/white-collar-crimes/
+            url: /phoenix-criminal-attorney/criminal-appeals/
             showIcon: true
             icon: arrowRight
             iconPosition: right
