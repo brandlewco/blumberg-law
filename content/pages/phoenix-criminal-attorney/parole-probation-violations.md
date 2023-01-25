@@ -125,7 +125,7 @@ sidebar:
           - type: Button
             label: |
               Criminal Appeals
-            altText: ''
+            altText: Criminal Appeals
             url: /phoenix-criminal-attorney/criminal-appeals/
             showIcon: true
             icon: arrowRight
