@@ -115,7 +115,7 @@ sidebar:
             optimized: 'yes'
           - type: Button
             label: |
-              Violent Crimes
+              Criminal Appeals
             altText: ''
             url: /phoenix-criminal-attorney/violent-crimes/
             showIcon: true
