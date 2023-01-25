@@ -194,6 +194,16 @@ sidebar:
       - type: FeaturedItem
         actions:
           - type: Button
+            label: |
+              Federal Drug Crimes
+            altText: Federal Drug Crimes
+            url: /phoenix-criminal-attorney/federal-drug-crimes/
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+          - type: Button
             label: |+
               Accounting & Tax Fraud
 
@@ -268,16 +278,6 @@ sidebar:
               Embezzlement
             altText: Embezzlement
             url: /phoenix-criminal-attorney/embezzlement/
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-          - type: Button
-            label: |
-              Federal Drug Crimes
-            altText: Federal Drug Crimes
-            url: /phoenix-criminal-attorney/federal-drug-crimes/
             showIcon: false
             icon: arrowRight
             iconPosition: right
