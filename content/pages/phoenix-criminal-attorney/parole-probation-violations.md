@@ -102,7 +102,7 @@ sidebar:
           - type: Button
             label: |
               Search & Seizure
-            altText: ''
+            altText: Search & Seizure
             url: /phoenix-criminal-attorney/search-seizure-issues/
             showIcon: true
             icon: arrowRight
