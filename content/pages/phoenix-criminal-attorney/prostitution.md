@@ -123,7 +123,7 @@ sidebar:
           - type: Button
             label: |
               Meth Crimes
-            altText: ''
+            altText: Meth Crimes
             url: /phoenix-criminal-attorney/white-collar-crimes/
             showIcon: true
             icon: arrowRight
