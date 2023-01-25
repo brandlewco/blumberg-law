@@ -145,12 +145,13 @@ sidebar:
             label: |
               Mortage Fraud
             altText: ''
-            url: /phoenix-criminal-attorney/sex-crimes/
+            url: /phoenix-criminal-attorney/mortgage-fraud/
             showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
             elementId: ''
+            optimized: 'yes'
           - type: Button
             label: |
               Violent Crimes
