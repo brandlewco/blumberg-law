@@ -105,14 +105,6 @@ sidebar:
             optimized: 'yes'
           - type: Button
             label: |
-              Mandatory Sentencing
-            showIcon: true
-            icon: arrowRight
-            url: /phoenix-criminal-attorney/mandatory-sentencing-scheme/
-            style: primary
-            altText: Mandatory Sentencing
-          - type: Button
-            label: |
               Criminal Appeals
             altText: Criminal Appeals
             url: /phoenix-criminal-attorney/criminal-appeals/
@@ -122,6 +114,14 @@ sidebar:
             style: primary
             elementId: ''
             optimized: 'yes'
+          - type: Button
+            label: |
+              Mandatory Sentencing
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/mandatory-sentencing-scheme/
+            style: primary
+            altText: Mandatory Sentencing
           - type: Button
             label: |
               Federal Crime
