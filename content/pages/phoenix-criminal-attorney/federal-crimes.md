@@ -234,16 +234,6 @@ sidebar:
             elementId: ''
           - type: Button
             label: |
-              Child Molestation
-            altText: Child Molestation
-            url: /phoenix-criminal-attorney/child-molestation/
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-          - type: Button
-            label: |
               Child Pornography
             altText: Child Pornography
             url: /phoenix-criminal-attorney/child-pornography/
