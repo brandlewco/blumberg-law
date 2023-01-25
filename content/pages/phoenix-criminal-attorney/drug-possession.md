@@ -222,7 +222,7 @@ sidebar:
             elementId: ''
           - type: Button
             label: |
-              Drug Posession
+              Drug Possession
             altText: Drug Possession
             url: /phoenix-criminal-attorney/drug-possession/
             showIcon: true
