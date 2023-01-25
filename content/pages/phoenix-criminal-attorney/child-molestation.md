@@ -123,7 +123,7 @@ sidebar:
             label: |
               Children Crimes
             altText: ''
-            url: /phoenix-criminal-attorney/white-collar-crimes/
+            url: /phoenix-criminal-attorney/crimes-against-children/
             showIcon: true
             icon: arrowRight
             iconPosition: right
