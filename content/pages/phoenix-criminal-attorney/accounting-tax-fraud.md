@@ -129,7 +129,7 @@ sidebar:
     colors: colors-d
     backgroundSize: full
     title: |
-      ##### CHOOSE A PRACTICE AREA TO LEARN MORE
+      ##### Choose a related practice area to learn more:
     items:
       - type: FeaturedItem
         actions:
