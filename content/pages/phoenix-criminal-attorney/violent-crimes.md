@@ -124,7 +124,7 @@ sidebar:
           - type: Button
             label: |
               Domestic Violence
-            altText: ''
+            altText: Domestic Violence
             url: /phoenix-criminal-attorney/domestic-violence/
             showIcon: true
             icon: arrowRight
