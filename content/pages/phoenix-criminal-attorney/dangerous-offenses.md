@@ -117,12 +117,13 @@ sidebar:
             label: |
               Criminal Appeals
             altText: ''
-            url: /phoenix-criminal-attorney/violent-crimes/
+            url: /phoenix-criminal-attorney/criminal-appeals/
             showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
             elementId: ''
+            optimized: 'yes'
           - type: Button
             label: |
               White Collar Crimes
