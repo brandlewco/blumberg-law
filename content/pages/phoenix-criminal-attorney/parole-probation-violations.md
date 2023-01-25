@@ -97,7 +97,7 @@ sidebar:
               Mandatory Sentencing
             showIcon: true
             icon: arrowRight
-            url: /phoenix-criminal-attorney/federal-crimes/
+            url: /phoenix-criminal-attorney/mandatory-sentencing-scheme/
             style: primary
           - type: Button
             label: |
