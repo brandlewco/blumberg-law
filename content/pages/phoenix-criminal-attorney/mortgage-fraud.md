@@ -96,8 +96,9 @@ sidebar:
               Mail & Wire Fraud
             showIcon: true
             icon: arrowRight
-            url: /phoenix-criminal-attorney/federal-crimes/
+            url: /phoenix-criminal-attorney/mail-wire-fraud/
             style: primary
+            optimized: 'yes'
           - type: Button
             label: |
               Bank Fraud
