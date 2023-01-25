@@ -21,7 +21,7 @@ hero:
       - type: Button
         label: |
           Meth Crimes Representation
-        url: /contact-us
+        url: /contact-us/
         style: primary
         iconPosition: right
         icon: arrowRight
