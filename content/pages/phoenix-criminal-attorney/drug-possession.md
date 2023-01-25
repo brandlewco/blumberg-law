@@ -224,7 +224,7 @@ sidebar:
             label: |
               Drug Posession
             altText: ''
-            url: /phoenix-criminal-attorney/white-collar-crimes/
+            url: /phoenix-criminal-attorney/drug-possession/
             showIcon: true
             icon: arrowRight
             iconPosition: right
