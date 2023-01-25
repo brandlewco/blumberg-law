@@ -101,6 +101,7 @@ sidebar:
             url: /phoenix-criminal-attorney/violent-crimes/
             style: primary
             optimized: 'yes'
+            altText: Violent Crimes
           - type: Button
             label: |
               Sex Crimes
