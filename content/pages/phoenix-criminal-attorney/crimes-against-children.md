@@ -218,7 +218,7 @@ sidebar:
             altText: Child Molestation
           - type: Button
             label: |
-              Sex Crimes
+              Child Pornography
             altText: ''
             url: /phoenix-criminal-attorney/sex-crimes/
             showIcon: true
