@@ -212,16 +212,6 @@ sidebar:
             elementId: ''
           - type: Button
             label: |
-              Violent Crimes
-            altText: ''
-            url: /phoenix-criminal-attorney/violent-crimes/
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-          - type: Button
-            label: |
               Drug Possession
             altText: Drug Possession
             url: /phoenix-criminal-attorney/drug-possession/
@@ -231,6 +221,16 @@ sidebar:
             style: primary
             elementId: ''
             optimized: 'yes'
+          - type: Button
+            label: |
+              Violent Crimes
+            altText: ''
+            url: /phoenix-criminal-attorney/violent-crimes/
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         styles:
           self:
             textAlign: left
