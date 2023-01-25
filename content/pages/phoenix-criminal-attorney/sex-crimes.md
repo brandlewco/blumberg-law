@@ -122,7 +122,7 @@ sidebar:
           - type: Button
             label: |
               Prositution
-            altText: ''
+            altText: Prositution
             url: /phoenix-criminal-attorney/prostitution/
             showIcon: true
             icon: arrowRight
