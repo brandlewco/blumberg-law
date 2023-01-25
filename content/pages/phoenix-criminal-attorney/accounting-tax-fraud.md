@@ -143,7 +143,7 @@ sidebar:
             altText: Bank Fraud
           - type: Button
             label: |
-              Mortage Fraud
+              Mortgage Fraud
             altText: Mortgage Fraud
             url: /phoenix-criminal-attorney/mortgage-fraud/
             showIcon: true
