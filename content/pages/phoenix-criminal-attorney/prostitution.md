@@ -112,16 +112,6 @@ sidebar:
             optimized: 'yes'
           - type: Button
             label: |
-              Violent Crimes
-            altText: ''
-            url: /phoenix-criminal-attorney/violent-crimes/
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-          - type: Button
-            label: |
               Meth Possession
             altText: Meth Possession
             url: /phoenix-criminal-attorney/meth/
@@ -131,6 +121,16 @@ sidebar:
             style: primary
             elementId: ''
             optimized: 'yes'
+          - type: Button
+            label: |
+              Violent Crimes
+            altText: ''
+            url: /phoenix-criminal-attorney/violent-crimes/
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         styles:
           self:
             textAlign: left
