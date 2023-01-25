@@ -123,7 +123,7 @@ sidebar:
             optimized: 'yes'
           - type: Button
             label: |
-              Violent Crimes
+              Search & Seizure
             altText: ''
             url: /phoenix-criminal-attorney/violent-crimes/
             showIcon: true
