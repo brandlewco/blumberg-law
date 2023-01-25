@@ -114,7 +114,7 @@ sidebar:
           - type: Button
             label: |
               Homicide
-            altText: ''
+            altText: Homicide
             url: /phoenix-criminal-attorney/homicide/
             showIcon: true
             icon: arrowRight
