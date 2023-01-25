@@ -225,7 +225,7 @@ sidebar:
             label: |
               Meth Posession
             altText: ''
-            url: /phoenix-criminal-attorney/violent-crimes/
+            url: /phoenix-criminal-attorney/meth/
             showIcon: true
             icon: arrowRight
             iconPosition: right
