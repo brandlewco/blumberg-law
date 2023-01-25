@@ -123,7 +123,7 @@ sidebar:
             optimized: 'yes'
           - type: Button
             label: |
-              White Collar Crimes
+              Money Laundering
             altText: ''
             url: /phoenix-criminal-attorney/white-collar-crimes/
             showIcon: true
