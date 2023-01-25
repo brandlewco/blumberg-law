@@ -114,14 +114,13 @@ sidebar:
           - type: Button
             label: |
               Child Molestation
-            altText: ''
+            altText: Child Molestation
             url: /phoenix-criminal-attorney/child-molestation/
             showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
             elementId: ''
-            optimized: 'yes'
           - type: Button
             label: |
               White Collar Crimes
