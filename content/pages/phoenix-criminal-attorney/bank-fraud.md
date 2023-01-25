@@ -103,7 +103,7 @@ sidebar:
             label: |
               Mortgage Fraud
             altText: ''
-            url: /phoenix-criminal-attorney/sex-crimes/
+            url: /phoenix-criminal-attorney/mortgage-fraud/
             showIcon: true
             icon: arrowRight
             iconPosition: right
