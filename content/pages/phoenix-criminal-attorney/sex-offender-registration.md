@@ -115,7 +115,7 @@ sidebar:
             label: |
               Child Molestation
             altText: ''
-            url: /phoenix-criminal-attorney/violent-crimes/
+            url: /phoenix-criminal-attorney/child-molestation/
             showIcon: true
             icon: arrowRight
             iconPosition: right
