@@ -97,8 +97,9 @@ sidebar:
               Dangerous Offenses
             showIcon: true
             icon: arrowRight
-            url: /phoenix-criminal-attorney/federal-crimes/
+            url: /phoenix-criminal-attorney/dangerous-offenses/
             style: primary
+            optimized: 'yes'
           - type: Button
             label: |
               Sex Crimes
