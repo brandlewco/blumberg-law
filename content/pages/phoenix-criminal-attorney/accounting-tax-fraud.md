@@ -141,10 +141,9 @@ sidebar:
             url: /phoenix-criminal-attorney/bank-fraud/
             style: primary
             altText: Bank Fraud
-            optimized: 'yes'
           - type: Button
             label: |
-              Sex Crimes
+              Mortage Fraud
             altText: ''
             url: /phoenix-criminal-attorney/sex-crimes/
             showIcon: true
