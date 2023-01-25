@@ -223,7 +223,7 @@ sidebar:
             optimized: 'yes'
           - type: Button
             label: |
-              Meth Posession
+              Meth Possession
             altText: Meth Possession
             url: /phoenix-criminal-attorney/meth/
             showIcon: true
