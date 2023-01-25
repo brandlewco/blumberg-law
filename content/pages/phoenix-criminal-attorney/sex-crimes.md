@@ -98,6 +98,7 @@ sidebar:
             icon: arrowRight
             url: /phoenix-criminal-attorney/federal-crimes/
             style: primary
+            optimized: 'yes'
           - type: Button
             label: |
               Sex Offender Registration
