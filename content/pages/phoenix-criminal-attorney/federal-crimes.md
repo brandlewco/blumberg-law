@@ -204,6 +204,16 @@ sidebar:
             style: primary
             elementId: ''
           - type: Button
+            label: |
+              Mail & Wire Fraud
+            altText: Mail & Wire Fraud
+            url: /phoenix-criminal-attorney/mail-wire-fraud/
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+          - type: Button
             label: |+
               Accounting & Tax Fraud
 
@@ -298,16 +308,6 @@ sidebar:
               Homicide
             altText: Homicide
             url: /phoenix-criminal-attorney/homicide/
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-          - type: Button
-            label: |
-              Mail & Wire Fraud
-            altText: Mail & Wire Fraud
-            url: /phoenix-criminal-attorney/mail-wire-fraud/
             showIcon: false
             icon: arrowRight
             iconPosition: right
