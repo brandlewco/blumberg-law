@@ -104,15 +104,6 @@ sidebar:
             optimized: 'yes'
           - type: Button
             label: |
-              Mail & Wire Fraud
-            showIcon: true
-            icon: arrowRight
-            url: /phoenix-criminal-attorney/mail-wire-fraud/
-            style: primary
-            optimized: 'yes'
-            altText: Mail & Wire Fraud
-          - type: Button
-            label: |
               Accounting & Tax Fraud
             altText: Accounting & Tax Fraud
             url: /phoenix-criminal-attorney/accounting-tax-fraud/
@@ -122,6 +113,15 @@ sidebar:
             style: primary
             elementId: ''
             optimized: 'yes'
+          - type: Button
+            label: |
+              Mail & Wire Fraud
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/mail-wire-fraud/
+            style: primary
+            optimized: 'yes'
+            altText: Mail & Wire Fraud
           - type: Button
             label: |
               Computer & Internet Fraud
