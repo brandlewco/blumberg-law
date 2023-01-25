@@ -234,16 +234,6 @@ sidebar:
             elementId: ''
           - type: Button
             label: |
-              Child Pornography
-            altText: Child Pornography
-            url: /phoenix-criminal-attorney/child-pornography/
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-          - type: Button
-            label: |
               Children Crimes
             altText: Children Crimes
             url: /phoenix-criminal-attorney/crimes-against-children/
