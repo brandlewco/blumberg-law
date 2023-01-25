@@ -101,7 +101,7 @@ sidebar:
             style: primary
           - type: Button
             label: |
-              Sex Crimes
+              Search & Seizure
             altText: ''
             url: /phoenix-criminal-attorney/sex-crimes/
             showIcon: true
