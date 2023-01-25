@@ -241,7 +241,7 @@ sidebar:
             label: |
               Child Custody & Parenting Time
             altText: ''
-            url: /phoenix-criminal-attorney/white-collar-crimes/
+            url: /phoenix-family-attorney/child-custody-parenting-time/
             showIcon: true
             icon: arrowRight
             iconPosition: right
