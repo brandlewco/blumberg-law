@@ -102,12 +102,13 @@ sidebar:
             label: |
               Bank Fraud
             altText: ''
-            url: /phoenix-criminal-attorney/sex-crimes/
+            url: /phoenix-criminal-attorney/bank-fraud/
             showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
             elementId: ''
+            optimized: 'yes'
           - type: Button
             label: |
               Violent Crimes
