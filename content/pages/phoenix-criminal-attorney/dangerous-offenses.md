@@ -104,8 +104,8 @@ sidebar:
             altText: Violent Crimes
           - type: Button
             label: |
-              Homocide
-            altText: Homicide
+              Homicide
+            altText: Homocide
             url: /phoenix-criminal-attorney/homicide/
             showIcon: true
             icon: arrowRight
