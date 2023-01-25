@@ -106,7 +106,7 @@ sidebar:
             label: |
               Homocide
             altText: ''
-            url: /phoenix-criminal-attorney/sex-crimes/
+            url: /phoenix-criminal-attorney/homicide/
             showIcon: true
             icon: arrowRight
             iconPosition: right
