@@ -131,6 +131,7 @@ sidebar:
             iconPosition: right
             style: primary
             elementId: ''
+            optimized: 'yes'
         styles:
           self:
             textAlign: left
