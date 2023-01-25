@@ -203,8 +203,9 @@ sidebar:
   - type: FeaturedItemsSection
     colors: colors-d
     backgroundSize: full
-    title: |
-      ##### CHOOSE A PRACTICE AREA TO LEARN MORE
+    title: |+
+      ##### Choose a practice area to learn more
+
     items:
       - type: FeaturedItem
         actions:
