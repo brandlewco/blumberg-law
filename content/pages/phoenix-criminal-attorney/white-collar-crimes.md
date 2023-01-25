@@ -125,12 +125,13 @@ sidebar:
             label: |
               Money Laundering
             altText: ''
-            url: /phoenix-criminal-attorney/white-collar-crimes/
+            url: /phoenix-criminal-attorney/money-laundering/
             showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
             elementId: ''
+            optimized: 'yes'
         styles:
           self:
             textAlign: left
