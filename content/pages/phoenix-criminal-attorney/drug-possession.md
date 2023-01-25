@@ -203,7 +203,7 @@ sidebar:
           - type: Button
             label: |
               Marijauana Possession
-            altText: ''
+            altText: Marijauana Possession
             url: /phoenix-criminal-attorney/marijuana/
             showIcon: true
             icon: arrowRight
