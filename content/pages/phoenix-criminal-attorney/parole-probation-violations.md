@@ -99,6 +99,7 @@ sidebar:
             icon: arrowRight
             url: /phoenix-criminal-attorney/mandatory-sentencing-scheme/
             style: primary
+            altText: Mandatory Sentencing
           - type: Button
             label: |
               Search & Seizure
