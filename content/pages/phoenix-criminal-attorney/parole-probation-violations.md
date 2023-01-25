@@ -94,14 +94,6 @@ sidebar:
         actions:
           - type: Button
             label: |
-              Mandatory Sentencing
-            showIcon: true
-            icon: arrowRight
-            url: /phoenix-criminal-attorney/mandatory-sentencing-scheme/
-            style: primary
-            altText: Mandatory Sentencing
-          - type: Button
-            label: |
               Search & Seizure
             altText: Search & Seizure
             url: /phoenix-criminal-attorney/search-seizure-issues/
@@ -111,6 +103,14 @@ sidebar:
             style: primary
             elementId: ''
             optimized: 'yes'
+          - type: Button
+            label: |
+              Mandatory Sentencing
+            showIcon: true
+            icon: arrowRight
+            url: /phoenix-criminal-attorney/mandatory-sentencing-scheme/
+            style: primary
+            altText: Mandatory Sentencing
           - type: Button
             label: |
               Violent Crimes
