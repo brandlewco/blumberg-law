@@ -224,7 +224,7 @@ sidebar:
           - type: Button
             label: |
               Meth Posession
-            altText: Meth Posession
+            altText: Meth Possession
             url: /phoenix-criminal-attorney/meth/
             showIcon: true
             icon: arrowRight
