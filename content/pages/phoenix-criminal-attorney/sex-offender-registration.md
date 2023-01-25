@@ -100,6 +100,7 @@ sidebar:
             url: /phoenix-criminal-attorney/sexual-assault/
             style: primary
             optimized: 'yes'
+            altText: Sexual Assault
           - type: Button
             label: |
               Sex Crimes
