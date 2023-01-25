@@ -104,7 +104,7 @@ sidebar:
             altText: Violent Crimes
           - type: Button
             label: |
-              Sex Crimes
+              Homocide
             altText: ''
             url: /phoenix-criminal-attorney/sex-crimes/
             showIcon: true
