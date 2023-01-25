@@ -124,7 +124,7 @@ sidebar:
             label: |
               Computer & Internet Fraud
             altText: ''
-            url: /phoenix-criminal-attorney/white-collar-crimes/
+            url: /phoenix-criminal-attorney/computer-internet-fraud/
             showIcon: true
             icon: arrowRight
             iconPosition: right
