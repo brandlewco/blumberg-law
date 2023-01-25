@@ -124,7 +124,7 @@ sidebar:
           - type: Button
             label: |
               Mail & Wire Fraud
-            altText: ''
+            altText: /phoenix-criminal-attorney/mail-wire-fraud/
             url: /phoenix-criminal-attorney/mail-wire-fraud/
             showIcon: true
             icon: arrowRight
