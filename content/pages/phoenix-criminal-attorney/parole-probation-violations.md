@@ -124,7 +124,7 @@ sidebar:
             optimized: 'yes'
           - type: Button
             label: |
-              White Collar Crimes
+              Criminal Appeals
             altText: ''
             url: /phoenix-criminal-attorney/white-collar-crimes/
             showIcon: true
