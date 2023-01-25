@@ -363,16 +363,6 @@ sidebar:
             iconPosition: right
             style: primary
             elementId: ''
-          - type: Button
-            label: |
-              White Collar Crime
-            altText: White Collar Crime
-            url: /phoenix-criminal-attorney/white-collar-crimes/
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
         styles:
           self:
             textAlign: left
