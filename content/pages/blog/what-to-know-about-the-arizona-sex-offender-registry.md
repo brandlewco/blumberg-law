@@ -13,7 +13,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/sex-offender-registry-arizona.jpg
-  altText: Post thumbnail image
+  altText: Sex offender registry
   caption: ''
 media:
   type: ImageBlock
