@@ -13,7 +13,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/what-to-do-if-accused-of-sex-crimes-in-arizona.jpg
-  altText: How to a
+  altText: Fals
   caption: ''
 media:
   type: ImageBlock
