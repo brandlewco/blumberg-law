@@ -18,7 +18,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/gavel-placeholder.jpg
-  altText: Post image
+  altText: Sex offender registry
 bottomSections: []
 metaDescription: >-
   If you are a person accused of a sex crime in Arizona, you need to know about
