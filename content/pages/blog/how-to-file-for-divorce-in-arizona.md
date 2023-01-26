@@ -12,7 +12,7 @@ date: '2014-08-28'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/gavel-placeholder.jpg
+  url: /images/how-to-file-for-divorce-in-phoenix-arizona.jpg
   altText: Post thumbnail image
   caption: ''
 media:
