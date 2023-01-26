@@ -18,7 +18,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/what-to-do-if-accused-of-sex-crimes-in-arizona.jpg
-  altText: Post image
+  altText: Falsely accused of a sex crime in Arizona
 bottomSections: []
 metaDescription: >-
   If you find yourself in a situation where you are falsely accused of a sex
