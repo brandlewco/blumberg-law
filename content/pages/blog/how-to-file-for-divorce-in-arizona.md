@@ -13,7 +13,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/how-to-file-for-divorce-in-phoenix-arizona.jpg
-  altText: Post thumbnail image
+  altText: 'File for divorce in Phoenix, Arizona'
   caption: ''
 media:
   type: ImageBlock
