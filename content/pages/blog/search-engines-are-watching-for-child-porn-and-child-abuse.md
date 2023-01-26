@@ -12,7 +12,7 @@ date: '2014-08-28'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/gavel-placeholder.jpg
+  url: /images/search-engines-are-watching-for-child-porn-phoenix.jpg
   altText: Post thumbnail image
   caption: ''
 media:
