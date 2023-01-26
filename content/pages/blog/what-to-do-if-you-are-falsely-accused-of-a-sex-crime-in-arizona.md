@@ -17,7 +17,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: /images/gavel-placeholder.jpg
+  url: /images/what-to-do-if-accused-of-sex-crimes-in-arizona.jpg
   altText: Post image
 bottomSections: []
 metaDescription: >-
