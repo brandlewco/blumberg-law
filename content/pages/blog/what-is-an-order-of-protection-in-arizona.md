@@ -13,7 +13,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/what-is-an-order-of-protection-phoenix.jpg
-  altText: Post thumbnail image
+  altText: what is a
   caption: ''
 media:
   type: ImageBlock
