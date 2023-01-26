@@ -17,7 +17,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: /images/gavel-placeholder.jpg
+  url: /images/search-engines-are-watching-for-child-porn-phoenix.jpg
   altText: Post image
 bottomSections: []
 metaDescription: >-
