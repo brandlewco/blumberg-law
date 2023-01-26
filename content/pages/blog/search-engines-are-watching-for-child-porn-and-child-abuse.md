@@ -18,7 +18,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/search-engines-are-watching-for-child-porn-phoenix.jpg
-  altText: Post image
+  altText: Search engines are watching for abuses
 bottomSections: []
 metaDescription: >-
   Search engines like google, bing, and more are taking a more proactive
