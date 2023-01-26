@@ -17,7 +17,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: /images/gavel-placeholder.jpg
+  url: /images/sex-offender-registry-arizona.jpg
   altText: Sex offender registry
 bottomSections: []
 metaDescription: >-
