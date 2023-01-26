@@ -18,7 +18,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/how-to-file-for-divorce-in-phoenix-arizona.jpg
-  altText: Post image
+  altText: 'File for divorce in Phoenix, Arizona'
 bottomSections: []
 metaDescription: >-
   Are you considering filing for divorce in Arizona? Here is everything you need
