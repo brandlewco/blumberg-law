@@ -12,7 +12,7 @@ date: '2020-07-15'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/gavel-placeholder.jpg
+  url: /images/sex-offender-registry-arizona.jpg
   altText: Post thumbnail image
   caption: ''
 media:
