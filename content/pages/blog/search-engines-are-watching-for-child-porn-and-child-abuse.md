@@ -13,7 +13,7 @@ excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/search-engines-are-watching-for-child-porn-phoenix.jpg
-  altText: Post thumbnail image
+  altText: Search engines are watching for abuses
   caption: ''
 media:
   type: ImageBlock
