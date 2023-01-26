@@ -17,7 +17,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: /images/gavel-placeholder.jpg
+  url: /images/how-to-file-for-divorce-in-phoenix-arizona.jpg
   altText: Post image
 bottomSections: []
 metaDescription: >-
