@@ -12,7 +12,7 @@ date: '2014-08-29'
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/gavel-placeholder.jpg
+  url: /images/what-to-do-if-accused-of-sex-crimes-in-arizona.jpg
   altText: Post thumbnail image
   caption: ''
 media:
