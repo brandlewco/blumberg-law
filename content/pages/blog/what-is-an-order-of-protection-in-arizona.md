@@ -18,7 +18,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/what-is-an-order-of-protection-phoenix.jpg
-  altText: Post image
+  altText: order of protection
 bottomSections: []
 metaDescription: >-
   Discover the different types of orders of protection available in Arizona and
