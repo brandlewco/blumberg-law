@@ -178,7 +178,7 @@ footer:
         altText: ''
         url: /case-results/
         optimized: right
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
