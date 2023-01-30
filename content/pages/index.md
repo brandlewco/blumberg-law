@@ -559,8 +559,6 @@ sections:
     colors: colors-d
     posts:
       - >-
-        content/pages/cases/client-accused-of-child-abuse-by-breaking-childs-arm-and-causing-spiral-fracture.md
-      - >-
         content/pages/cases/sixteen-year-old-clients-charged-with-one-count-of-conspiracy-to-commit-murder.md
       - >-
         content/pages/cases/client-involved-in-a-love-triangle-client-accused-of-five-counts-of-aggravated-assault-dangerous-offenses.md
