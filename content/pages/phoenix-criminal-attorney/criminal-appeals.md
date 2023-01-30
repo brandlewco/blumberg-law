@@ -173,7 +173,8 @@ footer:
     variant: variant-b
     actions:
       - type: Button
-        label: Learn more
+        label: |
+          See Case Results
         altText: ''
         url: /case-results/
         optimized: right
