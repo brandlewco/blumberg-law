@@ -212,7 +212,6 @@ sections:
         content/pages/cases/client-charged-in-federal-court-with-sales-of-methamphetamine.md
       - >-
         content/pages/cases/client-a-sixty-plus-year-old-woman-held-a-loaded-gun-on-a-police-officer.md
-      - content/pages/cases/client-accused-of-child-abuse-by-causing-bruises.md
 metaDescription: >-
   Bruce Blumberg is the founder and principal attorney at Blumberg & Associates,
   serving clients throughout Phoenix and statewide in the areas of criminal
