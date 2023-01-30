@@ -168,7 +168,7 @@ footer:
     showDate: true
     showAuthor: false
     showExcerpt: true
-    showReadMoreLink: false
+    showReadMoreLink: true
     readMoreLinkLabel: See All Cases
     variant: variant-b
     actions: []
