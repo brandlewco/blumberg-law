@@ -174,6 +174,9 @@ function postsVariantB(props, emblaRef, emblaApi) {
     const posts = props.posts || [];
     const postCount = posts.length;
     const postCountNav = "";
+    const returnFalseIfPostLengthLessThanThree = (posts) => {
+  return posts.length <= 3 ? false : true;
+};
     if (posts.length === 0) {
         return null;
     }
