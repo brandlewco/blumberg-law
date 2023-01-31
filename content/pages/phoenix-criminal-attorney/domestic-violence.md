@@ -228,7 +228,7 @@ footer:
       - type: Button
         label: |
           See Case Results
-        altText: 'See Case Results from Arizona Attorney Bruce Blumberg.'
+        altText: See Case Results from Arizona Attorney Bruce Blumberg.
         url: /case-results/
         optimized: right
         showIcon: true
@@ -261,7 +261,6 @@ footer:
     subtitle: ''
     colors: colors-d
     posts:
-      - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
       - content/pages/cases/accused-multiple-accounts-sexual-misconduct.md
       - content/pages/cases/accused-or-child-abuse-by-causing-bruises.md
       - content/pages/cases/charged-19-counts-sexual-conduct-with-minor.md
