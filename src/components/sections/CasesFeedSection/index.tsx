@@ -172,7 +172,7 @@ function postFeedVariants(props, emblaRef, emblaApi) {
 
 function postsVariantB(props, emblaRef, emblaApi) {
     const posts = props.posts || [];
-    const postLength = posts.length <= 3 ? "nav-false" : 'hidden lg:block';
+    const postLength = posts.length <= 3 ? "nav-false" : 'lg:block';
     if (posts.length === 0) {
         return null;
     }
