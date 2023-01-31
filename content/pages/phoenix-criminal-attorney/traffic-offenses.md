@@ -165,7 +165,18 @@ footer:
     showReadMoreLink: false
     readMoreLinkLabel: See All Cases
     variant: variant-b
-    actions: []
+    actions:
+      - type: Button
+        label: |
+          See Case Results
+        altText: 'See Case Results from Arizona Attorney Bruce Blumberg.'
+        url: /case-results/
+        optimized: right
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     styles:
       self:
         height: auto
