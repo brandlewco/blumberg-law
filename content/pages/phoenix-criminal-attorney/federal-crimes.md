@@ -362,7 +362,6 @@ footer:
     subtitle: ''
     colors: colors-d
     posts:
-      - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
       - >-
         content/pages/cases/client-charged-in-federal-court-with-armed-bank-robbery.md
   - type: CtaSection
