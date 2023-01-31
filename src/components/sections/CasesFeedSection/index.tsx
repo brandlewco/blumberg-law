@@ -187,7 +187,7 @@ function postsVariantB(props, emblaRef, emblaApi) {
     }, [emblaApi])
     return (
         <>
-            <div>{postCount}</div>
+            <div>{posts.length}</div>
             <div
                 className={classNames('embla', postCount, {
                     'mt-12': props.title || props.subtitle || (props.actions || []).length > 0
