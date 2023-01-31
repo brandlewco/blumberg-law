@@ -205,6 +205,8 @@ footer:
     colors: colors-d
     posts:
       - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
+      - >-
+        content/pages/cases/client-charged-in-state-court-with-possession-for-sale-of-130-pounds-of-marijuana-found-in-her-truck-while-being-routinely-stopped-by-police.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
