@@ -177,7 +177,7 @@ function postsVariantB(props, emblaRef, emblaApi) {
         return null;
     }
     if (postCount => 3 ) {
-        postCountNav = 
+        postCountNav = true;
     }
     const scrollPrev = useCallback(() => {
         if (emblaApi) emblaApi.scrollPrev()
