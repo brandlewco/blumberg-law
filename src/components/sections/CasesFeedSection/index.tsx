@@ -172,6 +172,7 @@ function postFeedVariants(props, emblaRef, emblaApi) {
 
 function postsVariantB(props, emblaRef, emblaApi) {
     const posts = props.posts || [];
+
     if (posts.length === 0) {
         return null;
     }
@@ -184,8 +185,9 @@ function postsVariantB(props, emblaRef, emblaApi) {
     }, [emblaApi])
     return (
         <>
+            <div>{posts.length <= 3 ? "nav-false" : 'nav-true'}</div>
             <div
-                className={classNames('embla', {posts.length <= 3 ? "nav-false" : 'nav-true' + 
+                className={classNames('embla', postCount, {
                     'mt-12': props.title || props.subtitle || (props.actions || []).length > 0
                 })}
                 {...(props.annotatePosts ? { 'data-sb-field-path': '.posts' } : null)}
