@@ -210,6 +210,8 @@ footer:
         content/pages/cases/client-charged-in-federal-court-with-sales-of-methamphetamine.md
       - >-
         content/pages/cases/client-in-federal-court-caught-with-over-2200-pounds-of-marijuana.md
+      - >-
+        content/pages/cases/client-in-maricopa-county-found-with-over-400-pounds-of-marijuana-and-over-dollar100k-in-cash-in-home.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
