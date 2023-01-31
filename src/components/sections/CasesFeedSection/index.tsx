@@ -189,6 +189,7 @@ function postsVariantB(props, emblaRef, emblaApi) {
     }, [emblaApi])
     return (
         <>
+            <div>{postCountNav}</div>
             <div
                 className={classNames('embla', postCountNav, {
                     'mt-12': props.title || props.subtitle || (props.actions || []).length > 0
