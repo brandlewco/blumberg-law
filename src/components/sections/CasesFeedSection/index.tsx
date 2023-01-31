@@ -177,7 +177,7 @@ function postsVariantB(props, emblaRef, emblaApi) {
     if (posts.length === 0) {
         return null;
     }
-    if (postCount => 3 ) {
+    if (postCount => 3) {
         const postCountNav = "nav-enabled";
     }
     const scrollPrev = useCallback(() => {
@@ -213,7 +213,7 @@ function postsVariantB(props, emblaRef, emblaApi) {
                                 <div className="flex flex-col flex-grow">
                                     <div className="flex-grow px-4 pt-6 pb-6 sm:px-6">
                                         <h3 className="text-2xl">
-                                                {post.title}
+                                            {post.title}
                                         </h3>
                                         <PostAttribution showAuthor={props.showAuthor} post={post} className="mt-2" />
                                     </div>
