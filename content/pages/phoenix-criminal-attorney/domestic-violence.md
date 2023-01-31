@@ -262,6 +262,8 @@ footer:
     colors: colors-d
     posts:
       - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
+      - >-
+        content/pages/cases/client-involved-in-a-love-triangle-client-accused-of-five-counts-of-aggravated-assault-dangerous-offenses.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
