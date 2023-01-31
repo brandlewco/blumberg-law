@@ -364,6 +364,8 @@ footer:
     posts:
       - >-
         content/pages/cases/client-charged-in-federal-court-with-armed-bank-robbery.md
+      - >-
+        content/pages/cases/client-charged-in-federal-court-with-sales-of-methamphetamine.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
