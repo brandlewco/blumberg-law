@@ -266,6 +266,8 @@ footer:
         content/pages/cases/client-charged-with-first-degree-murder-of-a-girlfriends-estranged-ex-husband.md
       - >-
         content/pages/cases/client-involved-in-a-love-triangle-client-accused-of-five-counts-of-aggravated-assault-dangerous-offenses.md
+      - >-
+        content/pages/cases/client-was-accused-of-attempted-second-degree-murder-after-having-shot-four-bullets-into-the-alleged-victim.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
