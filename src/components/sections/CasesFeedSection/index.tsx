@@ -172,8 +172,6 @@ function postFeedVariants(props, emblaRef, emblaApi) {
 
 function postsVariantB(props, emblaRef, emblaApi) {
     const posts = props.posts || [];
-    const postCount = posts.length;
-    const postCountNav = "";
     const postCount = (posts) => {
     return posts.length <= 3 ? false : true;
     };
