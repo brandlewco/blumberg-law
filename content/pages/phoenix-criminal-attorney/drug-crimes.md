@@ -212,6 +212,8 @@ footer:
         content/pages/cases/client-in-federal-court-caught-with-over-2200-pounds-of-marijuana.md
       - >-
         content/pages/cases/client-in-maricopa-county-found-with-over-400-pounds-of-marijuana-and-over-dollar100k-in-cash-in-home.md
+      - >-
+        content/pages/cases/client-traveling-northbound-on-i-17-stopped-in-yavapai-county-with-136-pounds-of-marijuana-packed-into-the-truck.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
