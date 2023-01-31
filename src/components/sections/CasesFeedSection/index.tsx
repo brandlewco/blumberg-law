@@ -185,7 +185,7 @@ function postsVariantB(props, emblaRef, emblaApi) {
     }, [emblaApi])
     return (
         <>
-            <div>{posts.length <= 3 ? "nav-false" : 'nav-true'}</div>
+            <div>{postLength}</div>
             <div
                 className={classNames('embla', postLength, {
                     'mt-12': props.title || props.subtitle || (props.actions || []).length > 0
