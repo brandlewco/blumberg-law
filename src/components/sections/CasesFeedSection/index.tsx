@@ -185,7 +185,7 @@ function postsVariantB(props, emblaRef, emblaApi) {
     return (
         <>
             <div
-                className={classNames('embla', { props.posts.length <= 3 ? "nav-false" : 'nav-true'
+                className={classNames('embla', {props.posts.length <= 3 ? "nav-false" : 'nav-true'
                     'mt-12': props.title || props.subtitle || (props.actions || []).length > 0
                 })}
                 {...(props.annotatePosts ? { 'data-sb-field-path': '.posts' } : null)}
