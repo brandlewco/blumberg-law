@@ -329,7 +329,7 @@ footer:
       - type: Button
         label: |
           See Case Results
-        altText: 'See Case Results from Arizona Attorney Bruce Blumberg.'
+        altText: See Case Results from Arizona Attorney Bruce Blumberg.
         url: /case-results/
         optimized: right
         showIcon: true
@@ -368,6 +368,8 @@ footer:
       - content/pages/cases/charged-19-counts-sexual-conduct-with-minor.md
       - content/pages/cases/accused-multiple-accounts-sexual-misconduct.md
       - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
+      - >-
+        content/pages/cases/client-charged-in-federal-court-with-armed-bank-robbery.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
