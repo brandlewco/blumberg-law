@@ -225,7 +225,7 @@ function postsVariantB(props, emblaRef, emblaApi) {
                     ))}
                 </div>
             </div>
-            <div className={"hidden lg:block embla__nav"}>
+            <div className={ postLength, "hidden lg:block embla__nav"}>
                 <button className="embla__prev" onClick={scrollPrev}>
                     <ArrowLeftCircle className="fill-current h-10 w-10" />
                 </button>
