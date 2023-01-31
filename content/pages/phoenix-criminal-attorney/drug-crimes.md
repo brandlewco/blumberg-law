@@ -206,6 +206,8 @@ footer:
     posts:
       - >-
         content/pages/cases/client-charged-in-state-court-with-possession-for-sale-of-130-pounds-of-marijuana-found-in-her-truck-while-being-routinely-stopped-by-police.md
+      - >-
+        content/pages/cases/client-in-federal-court-caught-with-over-2200-pounds-of-marijuana.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
