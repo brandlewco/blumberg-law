@@ -786,7 +786,7 @@ sections:
     showAuthor: false
     showExcerpt: false
     showReadMoreLink: true
-    readMoreLinkLabel: Read More
+    readMoreLinkLabel: Read Post
     variant: variant-b
     actions:
       - type: Button
