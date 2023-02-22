@@ -785,7 +785,7 @@ sections:
     showDate: false
     showAuthor: false
     showExcerpt: false
-    showReadMoreLink: false
+    showReadMoreLink: true
     readMoreLinkLabel: Read More
     variant: variant-b
     actions: []
