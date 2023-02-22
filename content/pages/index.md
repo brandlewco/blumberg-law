@@ -679,6 +679,45 @@ sections:
       url: /images/blumberg-handcuffs.jpg
       altText: Handcuffs
       elementId: ''
+  - type: FeaturedPostsSection
+    elementId: ''
+    showDate: false
+    showAuthor: false
+    showExcerpt: false
+    showReadMoreLink: true
+    readMoreLinkLabel: Read Post
+    variant: variant-b
+    actions: []
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    title: Law Blog
+    subtitle: ''
+    colors: colors-d
+    posts:
+      - >-
+        content/pages/blog/bruce-blumberg-named-to-2018-southwest-super-lawyers-list.md
+      - >-
+        content/pages/blog/what-happens-when-you-are-caught-with-dangerous-drugs-in-arizona.md
+      - content/pages/blog/what-is-considered-a-deadly-weapon-in-arizona.md
   - type: TextSection
     elementId: ''
     colors: colors-a
@@ -780,45 +819,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: FeaturedPostsSection
-    elementId: ''
-    showDate: false
-    showAuthor: false
-    showExcerpt: false
-    showReadMoreLink: true
-    readMoreLinkLabel: Read Post
-    variant: variant-b
-    actions: []
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    title: Law Blog
-    subtitle: ''
-    colors: colors-d
-    posts:
-      - >-
-        content/pages/blog/bruce-blumberg-named-to-2018-southwest-super-lawyers-list.md
-      - >-
-        content/pages/blog/what-happens-when-you-are-caught-with-dangerous-drugs-in-arizona.md
-      - content/pages/blog/what-is-considered-a-deadly-weapon-in-arizona.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
