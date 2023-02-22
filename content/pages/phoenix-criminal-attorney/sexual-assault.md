@@ -62,7 +62,7 @@ sections:
     variant: variant-a
     text: >
       Blumberg & Associates is an experienced Arizona criminal defense law firm.
-      Our **Phoenix sexual assault attorneys** have significant experience
+      Our Phoenix sexual assault attorneys have significant experience
       representing people charged with rape in the state of Arizona. We
       represent clients from Maricopa County, Yavapai County, Coconino County,
       and Pinal County, as well as the cities of Phoenix, Mesa, Peoria, Tempe,
@@ -85,11 +85,12 @@ sections:
 
       Our Arizona sexual assault lawyers have significant experience handling
       and winning cases involving claims of non-consensual sex. We have handled
-      cases related to rape, date rape, Rohypnol or GHB, sexual conduct with a
-      minor (under 18 but over 14 years of age), and cases where claims of
-      intoxication or drugs made a person mentally or physically incapable of
-      consenting to sex. Sentences for individuals convicted of sexual assault
-      range from probation to prison terms that can exceed fourteen years.
+      cases related to rape, date rape, sexual abuse, Rohypnol or GHB, sexual
+      conduct with a minor (under 18 but over 14 years of age), and cases where
+      claims of intoxication or drugs made a person mentally or physically
+      incapable of consenting to sex. Sentences for individuals convicted of
+      sexual assault range from probation to prison terms that can exceed
+      fourteen years.
 
 
       In Arizona, statutory rape is defined as sexual conduct with a minor under
@@ -232,7 +233,7 @@ footer:
       - type: Button
         label: |
           See Case Results
-        altText: 'See Case Results from Arizona Attorney Bruce Blumberg.'
+        altText: See Case Results from Arizona Attorney Bruce Blumberg.
         url: /case-results/
         optimized: right
         showIcon: true
