@@ -268,7 +268,7 @@ sidebar:
               Health Care Fraud
             altText: Health Care Fraud
             url: /phoenix-criminal-attorney/health-care-fraud/
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
