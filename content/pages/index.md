@@ -681,7 +681,7 @@ sections:
       elementId: ''
   - type: FeaturedPostsSection
     elementId: ''
-    showDate: true
+    showDate: false
     showAuthor: true
     showExcerpt: false
     showReadMoreLink: true
