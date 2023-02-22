@@ -66,8 +66,7 @@ bottomSections:
     backgroundSize: full
     title: Schedule Your Consultation
     text: >
-      Call us now, or fill out or contact from to start your confidential case
-      evaluation today!
+      Call us now, or fill out our contact form to start your confidential case evaluation today!
     actions:
       - label: |
           Contact Us Now
@@ -109,6 +108,7 @@ metaDescription: >-
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
+
 Any sex-related offense involving a minor is something you need to take very seriously in Arizona. Child molestation is when someone knowingly touches or causes someone to touch another person under 15 years of age on their genitalia. This also includes touching over the clothes. If you or a loved one has been charged with child molestation in Arizona, you need to speak with a [Phoenix child molestation attorney](https://azblumberglaw.com/phoenix-criminal-attorney/child-molestation/) right away.
 
 ## Child Molestation A.R.S. §13-1410

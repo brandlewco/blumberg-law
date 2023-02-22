@@ -89,8 +89,7 @@ sections:
     backgroundSize: full
     title: Schedule Your Consultation
     text: >
-      Call us now, or fill out or contact from to start your confidential case
-      evaluation today!
+      Call us now, or fill out our contact form to start your confidential case evaluation today!
     actions:
       - type: Button
         label: |
@@ -259,8 +258,7 @@ footer:
     backgroundSize: full
     title: Schedule Your Consultation
     text: >
-      Call us now, or fill out or contact from to start your confidential case
-      evaluation today!
+      Call us now, or fill out our contact form to start your confidential case evaluation today!
     actions:
       - label: |
           Contact Us Now

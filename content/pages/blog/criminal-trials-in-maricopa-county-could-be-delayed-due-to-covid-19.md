@@ -67,8 +67,7 @@ bottomSections:
     backgroundSize: full
     title: Schedule Your Consultation
     text: >
-      Call us now, or fill out or contact from to start your confidential case
-      evaluation today!
+      Call us now, or fill out our contact form to start your confidential case evaluation today!
     actions:
       - label: |
           Contact Us Now
@@ -106,6 +105,7 @@ metaDescription: null
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
+
 There’s no denying that the current pandemic is affecting every aspect of our lives, and the legal system is no exception. The courts are making changes to how cases are handled to help reduce the spread of the virus. For some, this could be good news as some criminal trials are being delayed. According to an AZ Central news report, the Maricopa County Attorney’s Office is reducing the number of people it’s charging with crimes for now.
 
 Keeping public safety in mind, the reduction in criminal trials means there are potentially fewer people in courtrooms and in the county jail. According to statistics released from the Maricopa County Sheriff’s office, the average inmate population is already dropping. In mid-April, the average inmate population was 5,550, down from 7,500 prior to the pandemic.

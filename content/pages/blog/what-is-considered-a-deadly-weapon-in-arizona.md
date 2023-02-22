@@ -67,8 +67,7 @@ bottomSections:
     backgroundSize: full
     title: Schedule Your Consultation
     text: >
-      Call us now, or fill out or contact from to start your confidential case
-      evaluation today!
+      Call us now, or fill out our contact form to start your confidential case evaluation today!
     actions:
       - label: |
           Contact Us Now
@@ -106,6 +105,7 @@ metaDescription: null
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
+
 Being arrested and charged for assault with a deadly weapon or dangerous instrument is a very serious matter in Arizona. A conviction can result in significant penalties, which can include a mandatory severe prison sentence, hefty fines, and lifelong consequences once you are released. It’s imperative that you contact an experienced [Phoenix criminal attorney](https://azblumberglaw.com/phoenix-criminal-attorney/) right away if you are facing deadly weapons charges in Arizona.
 
 Here’s what you need to know about how Arizona law classifies deadly weapons to help you better understand the charges you are facing.
@@ -132,31 +132,30 @@ There are two main categories of defenses in Arizona. The first involves justifi
 
 ### **Examples of justification defenses include:**
 
-*   Duress
+- Duress
 
-*   Self-defense or justification
+- Self-defense or justification
 
-*   Defense of a third party
+- Defense of a third party
 
-*   Protection of property or home due to possible harm or threat
+- Protection of property or home due to possible harm or threat
 
-*   In response to use of deadly force against you
+- In response to use of deadly force against you
 
 ### **Other defenses related to procedural law include:**
 
-*   Violation of due process
+- Violation of due process
 
-*   Error with rules of evidence
+- Error with rules of evidence
 
-*   Violation of fourth or fifth amendment rights
+- Violation of fourth or fifth amendment rights
 
-*   Insufficient evident
+- Insufficient evident
 
-*   Prejudicial testimony
+- Prejudicial testimony
 
 These are just a few of the potential defenses that may be available in your case. Your attorney will go over your case strategy and let you know what specific defenses they plan to raise on your behalf.\*\* \*\*
 
 ## **Contact an Arizona Criminal Lawyer Today**
 
 If you need assistance with a deadly weapons charge in Arizona, let our experienced Phoenix criminal defense team help. Contact Blumberg & Associates law firm today to schedule an initial consultation.
-
