@@ -792,7 +792,7 @@ sections:
       - type: Button
         label: |
           Read Our Blog
-        altText: ''
+        altText: Read our blog
         url: /blog/
         optimized: right
         showIcon: false
