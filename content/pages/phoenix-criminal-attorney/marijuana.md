@@ -140,6 +140,16 @@ sidebar:
             url: /phoenix-criminal-attorney/federal-drug-crimes/
             style: primary
           - type: Button
+            label: Learn more
+            altText: ''
+            url: /state-drug-crimes/
+            optimized: right
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+          - type: Button
             label: |
               Drug Possession
             altText: ''
@@ -210,7 +220,7 @@ footer:
       - type: Button
         label: |
           See Case Results
-        altText: 'See Case Results from Arizona Attorney Bruce Blumberg.'
+        altText: See Case Results from Arizona Attorney Bruce Blumberg.
         url: /case-results/
         optimized: right
         showIcon: true
