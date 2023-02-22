@@ -198,7 +198,7 @@ sidebar:
               Federal Drug Crimes
             altText: Federal Drug Crimes
             url: /phoenix-criminal-attorney/federal-drug-crimes/
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
