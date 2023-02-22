@@ -786,7 +786,7 @@ sections:
     backgroundSize: full
     title: Schedule Your Confidential Evaluation
     text: |
-      Talk with an AZ attorney with the experiance needed to win you case.
+      Talk with an AZ attorney with the experience needed to win you case.
     actions:
       - type: Button
         label: |
