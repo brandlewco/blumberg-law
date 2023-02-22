@@ -788,7 +788,17 @@ sections:
     showReadMoreLink: true
     readMoreLinkLabel: Read More
     variant: variant-b
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /blog/
+        optimized: right
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     styles:
       self:
         height: auto
