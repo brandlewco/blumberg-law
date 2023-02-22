@@ -238,7 +238,7 @@ sidebar:
 
             altText: Computer & Internet Fraud
             url: /phoenix-criminal-attorney/computer-internet-fraud/
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
@@ -292,7 +292,7 @@ sidebar:
             showIcon: true
             icon: arrowRight
             iconPosition: right
-            style: primary
+            style: secondary
             elementId: ''
         styles:
           self:
