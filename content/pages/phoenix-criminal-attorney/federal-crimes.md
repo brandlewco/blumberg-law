@@ -208,7 +208,7 @@ sidebar:
               Mail & Wire Fraud
             altText: Mail & Wire Fraud
             url: /phoenix-criminal-attorney/mail-wire-fraud/
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
