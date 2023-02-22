@@ -829,6 +829,7 @@ sections:
         content/pages/blog/bruce-blumberg-named-to-2018-southwest-super-lawyers-list.md
       - >-
         content/pages/blog/what-happens-when-you-are-caught-with-dangerous-drugs-in-arizona.md
+      - content/pages/blog/what-is-considered-a-deadly-weapon-in-arizona.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
