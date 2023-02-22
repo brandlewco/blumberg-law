@@ -258,7 +258,7 @@ sidebar:
               Embezzlement
             altText: Embezzlement
             url: /phoenix-criminal-attorney/embezzlement/
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
