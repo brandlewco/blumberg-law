@@ -140,7 +140,8 @@ sidebar:
             url: /phoenix-criminal-attorney/federal-drug-crimes/
             style: primary
           - type: Button
-            label: Learn more
+            label: |
+              Arizona State Drug Crimes
             altText: ''
             url: /state-drug-crimes/
             optimized: right
