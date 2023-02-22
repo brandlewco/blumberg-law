@@ -166,7 +166,7 @@ sidebar:
             altText: ''
             url: /phoenix-criminal-attorney/state-drug-crimes/
             optimized: right
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: secondary
