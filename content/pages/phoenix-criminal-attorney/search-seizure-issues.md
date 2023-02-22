@@ -92,7 +92,8 @@ sidebar:
       - type: FeaturedItem
         actions:
           - type: Button
-            label: Learn more
+            label: |
+              Arizona State Drug Crimes
             altText: ''
             url: /phoenix-criminal-attorney/state-drug-crimes/
             optimized: 'yes'
