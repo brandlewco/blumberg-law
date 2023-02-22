@@ -61,19 +61,11 @@ sections:
     colors: colors-a
     variant: variant-a
     text: >
-      Blumberg & Associates is committed to helping people throughout Arizona
-      who have been arrested or charged with domestic violence offense. Our
-      Phoenix domestic violence attorneys routinely help clients throughout the
-      state of Arizona, including people in Maricopa County, Yavapai County,
-      Coconino County, Pinal County, and the cities of Phoenix, Mesa, Glendale,
-      Tempe, Peoria, Scottsdale, Prescott, Tucson, and Flagstaff.
-
-
       ## EXPERIENCED ARIZONA DOMESTIC VIOLENCE LAWYERS
 
 
-      Our Phoenix, Az domestic violence attorneys routinely handle cases related
-      to violent crimes, assault, battery, false imprisonment, kidnapping, sex
+      Our Phoenix domestic violence lawyers routinely handle cases related to
+      violent crimes, assault, battery, false imprisonment, kidnapping, sex
       crimes/sex offenses, stalking, and domestic abuse. Our domestic violence
       attorneys realize that false domestic violence charges are not uncommon in
       cases involving divorce and child custody issues. Our lawyers have
@@ -83,8 +75,9 @@ sections:
 
       If you are charged with domestic violence, never try to resolve the
       problem on your own. Any contact with the victim could result in
-      additional charges. If you are charged with domestic violence, do not talk
-      to anyone except an experienced Arizona domestic violence attorney.
+      additional charges. If you are charged with any domestic violence crimes,
+      do not talk to anyone except an experienced Arizona criminal defense
+      attorney.
 
 
       ## ARIZONA DOMESTIC VIOLENCE CASES
@@ -117,6 +110,14 @@ sections:
       If you have been charged with domestic violence, please contact Blumberg &
       Associates. When your future is on the line, you need an Arizona domestic
       violence law firm where skill and experience are more than just a slogan.
+
+
+      Blumberg & Associates is committed to helping people throughout Arizona
+      who have been arrested or charged with domestic violence offense. Our
+      Phoenix domestic violence attorneys routinely help clients throughout the
+      state of Arizona, including people in Maricopa County, Yavapai County,
+      Coconino County, Pinal County, and the cities of Phoenix, Mesa, Glendale,
+      Tempe, Peoria, Scottsdale, Prescott, Tucson, and Flagstaff.
     styles:
       self:
         height: auto
