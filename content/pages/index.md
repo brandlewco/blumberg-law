@@ -682,7 +682,7 @@ sections:
   - type: FeaturedPostsSection
     elementId: ''
     showDate: false
-    showAuthor: false
+    showAuthor: true
     showExcerpt: false
     showReadMoreLink: true
     readMoreLinkLabel: Read Post
