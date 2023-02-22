@@ -143,9 +143,8 @@ sidebar:
             label: |
               Arizona State Drug Crimes
             altText: ''
-            url: >-
-              https://azblumberglaw.com/phoenix-criminal-attorney/state-drug-crimes/
-            optimized: right
+            url: /phoenix-criminal-attorney/state-drug-crimes/
+            optimized: 'yes'
             showIcon: true
             icon: arrowRight
             iconPosition: right
