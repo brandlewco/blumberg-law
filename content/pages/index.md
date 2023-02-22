@@ -810,7 +810,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title: Related News & Blogs
+    title: Law Blog
     subtitle: ''
     colors: colors-d
     posts:
