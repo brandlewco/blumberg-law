@@ -790,7 +790,8 @@ sections:
     variant: variant-b
     actions:
       - type: Button
-        label: Learn more
+        label: |
+          Read Our Blog
         altText: ''
         url: /blog/
         optimized: right
