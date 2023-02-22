@@ -718,6 +718,8 @@ sections:
       - >-
         content/pages/blog/what-happens-when-you-are-caught-with-dangerous-drugs-in-arizona.md
       - content/pages/blog/what-is-considered-a-deadly-weapon-in-arizona.md
+      - >-
+        content/pages/blog/skills-you-should-look-for-in-a-sex-crime-defense-attorney.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
