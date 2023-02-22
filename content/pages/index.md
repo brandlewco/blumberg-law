@@ -718,6 +718,50 @@ sections:
       - >-
         content/pages/blog/what-happens-when-you-are-caught-with-dangerous-drugs-in-arizona.md
       - content/pages/blog/what-is-considered-a-deadly-weapon-in-arizona.md
+  - type: CtaSection
+    elementId: ''
+    colors: colors-b
+    backgroundSize: full
+    title: Schedule Your Confidential Evaluation
+    text: |
+      Talk with an AZ attorney with the experience needed to win you case.
+    actions:
+      - type: Button
+        label: |
+          Contact Us Now
+        showIcon: true
+        icon: arrowRight
+        url: /contact-us/
+        style: primary
+        altText: Contact Us
+    backgroundImage: null
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-16
+          - pb-16
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: col
+        borderStyle: solid
+        borderWidth: 0
+        borderColor: border-primary
+        borderRadius: none
+      title:
+        textAlign: center
+      text:
+        textAlign: center
+      actions:
+        justifyContent: center
   - type: TextSection
     elementId: ''
     colors: colors-a
@@ -819,50 +863,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: CtaSection
-    elementId: ''
-    colors: colors-b
-    backgroundSize: full
-    title: Schedule Your Confidential Evaluation
-    text: |
-      Talk with an AZ attorney with the experience needed to win you case.
-    actions:
-      - type: Button
-        label: |
-          Contact Us Now
-        showIcon: true
-        icon: arrowRight
-        url: /contact-us/
-        style: primary
-        altText: Contact Us
-    backgroundImage: null
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-16
-          - pb-16
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: col
-        borderStyle: solid
-        borderWidth: 0
-        borderColor: border-primary
-        borderRadius: none
-      title:
-        textAlign: center
-      text:
-        textAlign: center
-      actions:
-        justifyContent: center
 addTitleSuffix: false
 metaTags:
   - type: MetaTag
