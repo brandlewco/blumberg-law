@@ -248,7 +248,7 @@ sidebar:
               Corporate Fraud
             altText: Corporate Fraud
             url: /phoenix-criminal-attorney/corporate-fraud/
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
