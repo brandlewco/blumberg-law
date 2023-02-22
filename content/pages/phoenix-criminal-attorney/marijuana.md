@@ -144,7 +144,7 @@ sidebar:
             altText: ''
             url: /state-drug-crimes/
             optimized: right
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
