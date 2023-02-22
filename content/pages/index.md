@@ -784,7 +784,7 @@ sections:
     elementId: ''
     showDate: false
     showAuthor: false
-    showExcerpt: false
+    showExcerpt: true
     showReadMoreLink: true
     readMoreLinkLabel: Read Post
     variant: variant-b
