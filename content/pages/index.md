@@ -5,19 +5,7 @@ hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: >+
-      <span style="font-size: 28px; color:  rgba(241,192,47,1);">Bruce
-      Blumberg</span>
-
-
-      <h1>
-
-      <span>Phoenix Criminal Defense Attorney </span>
-
-      <span>with over <strong>30 years</strong> of experience.</span>
-
-      </h1>
-
+    title: "<span style=\"font-size: 28px; color:  rgba(241,192,47,1);\">Bruce Blumberg</span>\n\n<h1>\n<span>Phoenix Criminal Defense Attorney </span>\n<span>\\\_with over <strong>30 years</strong> of experience.</span>\n</h1>\n\n"
     subtitle: >-
       If you have been charged with a criminal offense in the state of Arizona,
       you deserve legal representation better than that of the prosecution.
