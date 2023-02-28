@@ -872,7 +872,7 @@ metaTags:
   - type: MetaTag
     property: 'og:type'
     content: website
-metaTitle: Blumberg & Associates - Phoenix Criminal Defense Attorney
+metaTitle: Blumberg & Associates - Phoenix Criminal Defense Attorney & Family Law
 metaDescription: >-
   Serving clients for over 30 years in Criminal Defense & Family law cases. With
   nearly 100 jury trials, Bruce has won innumerable bench trials for clients
