@@ -5,13 +5,17 @@ hero:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: |+
-      <span style="font-size: 28px">
-      <strong>Bruce Blumberg</strong></span>
+    title: >+
+      <span style="font-size: 28px; color:  rgba(241,192,47,1);">Bruce
+      Blumberg</span>
+
 
       <h1>
+
       <span>Phoenix Criminal Defense Attorney </span>
+
       <span>with over <strong>30 years</strong> of experience.</span>
+
       </h1>
 
     subtitle: >-
