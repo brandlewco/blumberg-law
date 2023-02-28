@@ -875,6 +875,6 @@ metaTags:
 metaTitle: Blumberg & Associates - Phoenix Criminal Defense Attorney & Family Law
 metaDescription: >-
   Defending Arizona clients for over 30 years in Criminal Defense & Family law
-  cases. Extensive trail experiace
+  cases. Extensive trail experience
 socialImage: /images/blumber-hero-mockup-65b26475.jpg
 ---
