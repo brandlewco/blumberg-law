@@ -6,7 +6,7 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |+
-      <p>Bruce Blumberg</p>
+      <span>Bruce Blumberg</span>
       <h1>
       <span>Phoenix Criminal Defense Attorney </span>
       <span>with over than <strong>30 years</strong> of experience</span>
