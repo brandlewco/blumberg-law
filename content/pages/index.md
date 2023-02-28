@@ -875,6 +875,7 @@ metaTags:
 metaTitle: Blumberg & Associates - Phoenix Criminal Defense Attorney & Family Law
 metaDescription: >-
   Defending Arizona clients for over 30 years in Criminal Defense & Family law
-  cases. Extensive trail experience
+  cases. With nearly 100 jury trials, Bruce has won innumerable bench trials for
+  clients charges with felonies and misdemeanors.
 socialImage: /images/blumber-hero-mockup-65b26475.jpg
 ---
