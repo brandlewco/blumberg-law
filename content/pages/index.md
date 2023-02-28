@@ -667,10 +667,12 @@ sections:
         textAlign: left
       actions:
         justifyContent: left
-    title: |+
+    title: >+
       <h2>
-      <span>Read Testimonials From Our </span>
-      <strong>Real Cases & Real Clients.</strong>
+
+      <span>Read Testimonials From Our </span><strong>Real Cases & Real
+      Clients.</strong>
+
       </h2>
 
     colors: colors-b
