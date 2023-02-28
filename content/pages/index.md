@@ -6,8 +6,8 @@ hero:
     elementId: homepage-hero-1
     colors: colors-b
     title: |+
-      <span style="font-size: 20px">
-      Bruce Blumberg</span>
+      <span style="font-size: 28px">
+      <strong>Bruce Blumberg</strong></span>
 
       <h1>
       <span>Phoenix Criminal Defense Attorney </span>
