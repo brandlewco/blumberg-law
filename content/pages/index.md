@@ -766,33 +766,6 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-  - type: TextSection
-    elementId: ''
-    colors: colors-a
-    variant: variant-a
-    subtitle: ''
-    actions: []
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-16
-          - pb-16
-          - pl-8
-          - pr-8
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
 addTitleSuffix: false
 metaTags:
   - type: MetaTag
