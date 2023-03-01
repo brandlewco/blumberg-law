@@ -670,8 +670,8 @@ sections:
     title: >+
       <h2>
 
-      <span>Read Testimonials From </span><strong>Real Cases & Real
-      Clients.</strong>
+      <span>Read Testimonials From </span><strong>Real Clients & Real
+      Cases</strong>
 
       </h2>
 
