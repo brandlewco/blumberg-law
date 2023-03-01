@@ -671,7 +671,7 @@ sections:
       <h2>
 
       <span>Read Testimonials From </span><strong>Real Clients & Real
-      Cases</strong>
+      Cases.</strong>
 
       </h2>
 
