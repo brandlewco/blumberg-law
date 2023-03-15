@@ -55,6 +55,10 @@ hero:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
+    subtitle: >-
+      Phoenix criminal defense attorney Bruce Blumberg handles criminal law &
+      federal offenses like drug crime, sex crime, white-collar crime & violent
+      crime.
 sections:
   - type: TextSection
     colors: colors-a
