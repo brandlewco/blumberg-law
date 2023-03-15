@@ -1,6 +1,6 @@
 ---
 layout: PageLayout
-metaTitle: Phoenix Criminal Attorney
+metaTitle: Phoenix Criminal Attorneyphoenix criminal attorney
 metaDescription: >-
   Phoenix criminal attorney Bruce Blumberg handles criminal law & federal
   offenses like drug crime, sex crime, white-collar crime & violent crime.
@@ -495,7 +495,8 @@ footer:
     backgroundSize: full
     title: Schedule Your Consultation
     text: >
-      Call us now, or fill out our contact form to start your confidential case evaluation today!
+      Call us now, or fill out our contact form to start your confidential case
+      evaluation today!
     actions:
       - label: |
           Contact Us Now
