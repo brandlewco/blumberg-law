@@ -19,7 +19,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Confidential Criminal Defense Consultation
+          Confidential Criminal Defense Case Evaluation
         url: /contact-us/
         style: primary
         iconPosition: right
