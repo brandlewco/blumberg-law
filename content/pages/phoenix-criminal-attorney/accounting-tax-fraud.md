@@ -58,7 +58,7 @@ hero:
       backgroundPosition: center
       opacity: 100
     subtitle: >-
-      Our Arizona accounting and tax fraud defense attorneys frequently
+      Our Phoenix accounting and tax fraud defense attorneys frequently
       negotiate with state and federal authorities throughout Arizona.
 sections:
   - type: TextSection
