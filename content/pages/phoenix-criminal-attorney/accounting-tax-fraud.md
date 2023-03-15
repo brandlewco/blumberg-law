@@ -21,7 +21,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Accounting & Tax Fraud Representation
+          Confidential Accounting & Tax Fraud Case Evaluation
         url: /contact-us/
         style: primary
         iconPosition: right
