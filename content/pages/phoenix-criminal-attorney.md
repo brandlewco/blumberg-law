@@ -19,7 +19,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Phoenix Criminal Defense Representation
+          Confidential Criminal Defense Consultation
         url: /contact-us/
         style: primary
         iconPosition: right
