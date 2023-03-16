@@ -12,8 +12,9 @@ hero:
   - type: HeroSection
     elementId: null
     colors: colors-b
-    title: |
-      Phoenix Family Law Attorney
+    title: |+
+      # Phoenix Family Law Attorney
+
     actions:
       - type: Button
         label: |
