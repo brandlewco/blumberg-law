@@ -56,6 +56,9 @@ hero:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
+    subtitle: >-
+      Our Phoenix domestic violence attorneys routinely handle cases related to
+      violent crimes, assault, battery, kidnapping, sex crimes, and stalking.
 sections:
   - type: TextSection
     colors: colors-a
@@ -274,7 +277,8 @@ footer:
     backgroundSize: full
     title: Schedule Your Consultation
     text: >
-      Call us now, or fill out our contact form to start your confidential case evaluation today!
+      Call us now, or fill out our contact form to start your confidential case
+      evaluation today!
     actions:
       - label: |
           Contact Us Now
