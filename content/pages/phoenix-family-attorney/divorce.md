@@ -265,7 +265,7 @@ footer:
       - type: Button
         label: |
           See Case Results
-        altText: 'See Case Results from Arizona Attorney Bruce Blumberg.'
+        altText: See Case Results from Arizona Attorney Bruce Blumberg.
         url: /case-results/
         optimized: right
         showIcon: true
@@ -304,13 +304,52 @@ footer:
       - content/pages/cases/charged-19-counts-sexual-conduct-with-minor.md
       - content/pages/cases/accused-multiple-accounts-sexual-misconduct.md
       - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
+  - type: FeaturedPostsSection
+    elementId: ''
+    showDate: false
+    showAuthor: false
+    showExcerpt: false
+    showReadMoreLink: false
+    readMoreLinkLabel: Read More
+    variant: variant-b
+    actions: []
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    title: Related News & Blogs
+    subtitle: ''
+    colors: colors-d
+    posts:
+      - >-
+        content/pages/blog/bruce-blumberg-named-to-2018-southwest-super-lawyers-list.md
+      - content/pages/blog/things-to-look-for-in-a-family-law-attorney.md
+      - content/pages/blog/criminal-defense-glossary.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
     backgroundSize: full
     title: Schedule Your Consultation
     text: >
-      Call us now, or fill out our contact form to start your confidential case evaluation today!
+      Call us now, or fill out our contact form to start your confidential case
+      evaluation today!
     actions:
       - label: |
           Contact Us Now
