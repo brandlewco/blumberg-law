@@ -216,6 +216,44 @@ footer:
       - content/pages/cases/accused-or-child-abuse-by-causing-bruises.md
       - content/pages/cases/charged-19-counts-sexual-conduct-with-minor.md
       - content/pages/cases/accused-multiple-accounts-sexual-misconduct.md
+  - type: FeaturedPostsSection
+    elementId: ''
+    showDate: false
+    showAuthor: false
+    showExcerpt: false
+    showReadMoreLink: false
+    readMoreLinkLabel: Read More
+    variant: variant-b
+    actions: []
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    title: Related News & Blogs
+    subtitle: ''
+    colors: colors-d
+    posts:
+      - >-
+        content/pages/blog/bruce-blumberg-named-to-2018-southwest-super-lawyers-list.md
+      - content/pages/blog/things-to-look-for-in-a-family-law-attorney.md
+      - content/pages/blog/criminal-defense-glossary.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
