@@ -21,7 +21,7 @@ hero:
     actions:
       - type: Button
         label: |
-          White Collar Crime Representation
+          Confidential White Collar Crime Case Evaluation
         url: /contact-us/
         style: primary
         iconPosition: right
