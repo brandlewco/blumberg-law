@@ -22,7 +22,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Dangerous Offenses Representation
+          Confidential Dangerous Offenses Case Evaluation
         url: /contact-us/
         style: primary
         iconPosition: right
