@@ -62,7 +62,7 @@ sections:
     colors: colors-a
     variant: variant-a
     text: >
-      ## PASSIONATE ADVOCACY IN HIGH-CONFLICT DIVORCE AND CUSTODY LITIGATION
+      ## Passionate Advocacy In High-conflict Divorce And Custody Litigation
 
 
       Although primarily a criminal defense law firm, Blumberg & Associates
@@ -80,7 +80,7 @@ sections:
       litigator dedicated to looking out for you and protecting your rights.
 
 
-      ## PROTECT YOUR RIGHTS IN AN ARIZONA DIVORCE
+      ## Protect Your Rights In An Arizona Divorce
 
 
       Getting a divorce is more than just having the court legally dissolve a
@@ -106,7 +106,7 @@ sections:
       proper ruling on these critical matters.
 
 
-      ## PROTECT YOUR FAMILY IN A PHOENIX CHILD CUSTODY BATTLE
+      ## Protect Your Family In A Phoenix Child Custody Battle
 
 
       Child custody involves both physical custody and legal custody, and when
@@ -132,7 +132,7 @@ sections:
       custody or spousal support.
 
 
-      ## GET THE HELP YOU NEED IN HIGH-CONFLICT PHOENIX FAMILY LAW
+      ## Get The Help You Need In High-conflict Phoenix Family Law
 
 
       Emotions run high in family law matters, and while you need an Arizona
