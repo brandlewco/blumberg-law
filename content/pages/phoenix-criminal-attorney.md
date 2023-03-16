@@ -120,8 +120,8 @@ sections:
     colors: colors-b
     posts:
       - content/pages/testimonials/david-k-le-lievre-jr.md
-      - content/pages/testimonials/jg-hori.md
       - content/pages/testimonials/yaser-awad.md
+      - content/pages/testimonials/jg-hori.md
       - content/pages/testimonials/zane-hill.md
     name: ''
     showDate: false
