@@ -116,7 +116,7 @@ sections:
       actions:
         justifyContent: left
     title: Testimonials
-    subtitle: Criminal Defense Clients
+    subtitle: Real Criminal Defense Case Clients
     colors: colors-b
     posts:
       - content/pages/testimonials/zane-hill.md
