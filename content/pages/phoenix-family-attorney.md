@@ -53,6 +53,10 @@ hero:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
+    subtitle: >-
+      Phoenix family law attorney Bruce Blumberg helps with contested divorce &
+      high-conflict child custody disputes, including modifications &
+      relocations.
 sections:
   - type: TextSection
     colors: colors-a
