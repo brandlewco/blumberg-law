@@ -217,7 +217,7 @@ footer:
       - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
   - type: FeaturedPostsSection
     elementId: ''
-    showDate: false
+    showDate: true
     showAuthor: false
     showExcerpt: false
     showReadMoreLink: false
