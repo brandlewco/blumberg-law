@@ -340,6 +340,5 @@ footer:
     posts:
       - content/pages/blog/how-to-file-for-divorce-in-arizona.md
       - content/pages/blog/five-signs-a-divorce-might-be-imminent.md
-      - content/pages/blog/gray-divorces-and-four-things-to-consider.md
       - content/pages/blog/high-net-worth-divorce-mistakes.md
 ---
