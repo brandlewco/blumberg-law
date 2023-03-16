@@ -252,6 +252,7 @@ footer:
     posts:
       - >-
         content/pages/blog/bruce-blumberg-named-to-2018-southwest-super-lawyers-list.md
+      - content/pages/blog/how-to-file-a-criminal-appeal-in-phoenix-arizona.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
