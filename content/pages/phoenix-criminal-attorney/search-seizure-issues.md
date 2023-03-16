@@ -20,7 +20,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Search & Seizure Representation
+          Confidential Search & Seizure Case Evaluation
         url: /contact-us/
         style: primary
         iconPosition: right
