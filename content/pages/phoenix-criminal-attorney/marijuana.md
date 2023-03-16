@@ -56,6 +56,9 @@ hero:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
+    subtitle: >-
+      Blumberg & Associates is a distinguished Arizona criminal defense law firm
+      representing clients charged with drug crimes related to marijuana.
 sections:
   - type: TextSection
     colors: colors-a
@@ -266,7 +269,8 @@ footer:
     backgroundSize: full
     title: Schedule Your Consultation
     text: >
-      Call us now, or fill out our contact form to start your confidential case evaluation today!
+      Call us now, or fill out our contact form to start your confidential case
+      evaluation today!
     actions:
       - label: |
           Contact Us Now
