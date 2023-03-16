@@ -250,6 +250,7 @@ footer:
     colors: colors-a
     posts:
       - content/pages/blog/child-molestation-charges-in-arizona.md
+      - content/pages/blog/what-can-be-considered-a-sexual-offense-in-arizona.md
       - >-
         content/pages/blog/the-importance-of-hiring-an-experienced-sex-offense-attorney.md
   - type: CtaSection
