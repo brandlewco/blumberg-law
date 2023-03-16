@@ -21,7 +21,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Computer & Internet Fraud Representation
+          Confidential Computer & Internet Fraud Case Evaluation
         url: /contact-us/
         style: primary
         iconPosition: right
