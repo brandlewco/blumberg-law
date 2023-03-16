@@ -251,7 +251,6 @@ footer:
     posts:
       - >-
         content/pages/blog/bruce-blumberg-named-to-2018-southwest-super-lawyers-list.md
-      - content/pages/blog/things-to-look-for-in-a-family-law-attorney.md
       - content/pages/blog/child-molestation-charges-in-arizona.md
   - type: CtaSection
     elementId: ''
