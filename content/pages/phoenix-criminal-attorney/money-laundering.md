@@ -20,7 +20,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Money Laundering Representation
+          Confidential Money Laundering Case Evaluation
         url: /contact-us/
         style: primary
         iconPosition: right
