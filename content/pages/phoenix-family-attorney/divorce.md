@@ -338,8 +338,6 @@ footer:
     subtitle: ''
     colors: colors-a
     posts:
-      - >-
-        content/pages/blog/bruce-blumberg-named-to-2018-southwest-super-lawyers-list.md
       - content/pages/blog/how-to-file-for-divorce-in-arizona.md
       - content/pages/blog/five-signs-a-divorce-might-be-imminent.md
 ---
