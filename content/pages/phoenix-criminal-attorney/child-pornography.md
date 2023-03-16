@@ -60,7 +60,7 @@ hero:
     subtitle: >-
       If you are under investigation for or have been charged with possession or
       distribution of child pornography, contact our Phoenix child pornography
-      def attorneys.
+      defense attorneys.
 sections:
   - type: TextSection
     colors: colors-a
