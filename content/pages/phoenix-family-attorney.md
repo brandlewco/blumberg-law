@@ -57,8 +57,6 @@ hero:
       Phoenix family law attorney Bruce Blumberg helps with contested divorce &
       high-conflict child custody disputes, including modifications &
       relocations.
-    text: |
-      asd
 sections:
   - type: TextSection
     colors: colors-a
