@@ -218,7 +218,7 @@ footer:
   - type: FeaturedPostsSection
     elementId: ''
     showDate: true
-    showAuthor: false
+    showAuthor: true
     showExcerpt: false
     showReadMoreLink: false
     readMoreLinkLabel: Read More
