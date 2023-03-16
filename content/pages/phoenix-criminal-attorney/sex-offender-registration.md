@@ -21,7 +21,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Sex Offender Representation
+          Confidential Sex Offender Case Evaluation
         url: /contact-us/
         style: primary
         iconPosition: right
