@@ -20,7 +20,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Mail & Wire Fraud Representation
+          Confidential Mail & Wire Fraud Case Evaluation
         url: /contact-us/
         style: primary
         iconPosition: right
