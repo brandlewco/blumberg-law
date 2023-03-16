@@ -1,6 +1,6 @@
 ---
 layout: PageLayout
-metaTitle: Phoenix Family Attorney
+metaTitle: Phoenix Family Law Attorney
 metaDescription: >-
   Phoenix family law attorney Bruce Blumberg helps with contested divorce &
   high-conflict child custody disputes, including modifications & relocations.
