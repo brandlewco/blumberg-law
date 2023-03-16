@@ -494,6 +494,44 @@ footer:
         content/pages/cases/client-charged-with-aggravated-assault-a-dangerous-offense-after-punching-a-smaller-man-in-the-face.md
       - >-
         content/pages/cases/client-accused-of-shooting-victim-in-scottsdale-arizona-client-plead-self-defense.md
+  - type: FeaturedPostsSection
+    elementId: ''
+    showDate: false
+    showAuthor: false
+    showExcerpt: false
+    showReadMoreLink: false
+    readMoreLinkLabel: Read More
+    variant: variant-b
+    actions: []
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    title: Related News & Blogs
+    subtitle: ''
+    colors: colors-d
+    posts:
+      - >-
+        content/pages/blog/bruce-blumberg-named-to-2018-southwest-super-lawyers-list.md
+      - content/pages/blog/things-to-look-for-in-a-family-law-attorney.md
+      - content/pages/blog/criminal-defense-glossary.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
