@@ -21,7 +21,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Mandatory Sentencing Representation
+          Confidential Mandatory Sentencing Case Evaluation
         url: /contact-us/
         style: primary
         iconPosition: right
