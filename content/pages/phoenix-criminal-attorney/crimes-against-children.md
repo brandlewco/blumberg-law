@@ -57,6 +57,9 @@ hero:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
+    subtitle: >-
+      Charged with a crime against children? We offer experienced legal
+      representation for those in need. 
 sections:
   - type: TextSection
     colors: colors-a
