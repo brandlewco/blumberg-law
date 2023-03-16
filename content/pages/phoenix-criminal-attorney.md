@@ -119,9 +119,9 @@ sections:
     subtitle: Criminal Defense Clients
     colors: colors-b
     posts:
+      - content/pages/testimonials/zane-hill.md
       - content/pages/testimonials/jg-hori.md
       - content/pages/testimonials/david-k-le-lievre-jr.md
-      - content/pages/testimonials/zane-hill.md
       - content/pages/testimonials/yaser-awad.md
     name: ''
     showDate: false
