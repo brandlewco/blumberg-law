@@ -57,6 +57,9 @@ hero:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
+    subtitle: >-
+      Our Phoenix health care fraud attorneys were successful in dismissing
+      additional counts and negotiating a favorable plea bargains.
 sections:
   - type: TextSection
     colors: colors-a
@@ -173,7 +176,7 @@ footer:
       - type: Button
         label: |
           See Case Results
-        altText: 'See Case Results from Arizona Attorney Bruce Blumberg.'
+        altText: See Case Results from Arizona Attorney Bruce Blumberg.
         url: /case-results/
         optimized: right
         showIcon: true
@@ -218,7 +221,8 @@ footer:
     backgroundSize: full
     title: Schedule Your Consultation
     text: >
-      Call us now, or fill out our contact form to start your confidential case evaluation today!
+      Call us now, or fill out our contact form to start your confidential case
+      evaluation today!
     actions:
       - label: |
           Contact Us Now
