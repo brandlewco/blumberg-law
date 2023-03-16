@@ -252,6 +252,7 @@ footer:
     posts:
       - content/pages/blog/how-to-file-a-criminal-appeal-in-phoenix-arizona.md
       - content/pages/blog/combating-false-identifications.md
+      - content/pages/blog/what-can-be-considered-a-sexual-offense-in-arizona.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
