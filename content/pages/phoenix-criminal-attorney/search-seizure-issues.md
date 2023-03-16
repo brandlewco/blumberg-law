@@ -56,6 +56,9 @@ hero:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
+    subtitle: >-
+      The actions of police officers and investigators can affect the outcome of
+      a trial, contact our experienced Phoenix search & seizure attorneys today.
 sections:
   - type: TextSection
     colors: colors-a
@@ -225,7 +228,8 @@ footer:
     backgroundSize: full
     title: Schedule Your Consultation
     text: >
-      Call us now, or fill out our contact form to start your confidential case evaluation today!
+      Call us now, or fill out our contact form to start your confidential case
+      evaluation today!
     actions:
       - label: |
           Contact Us Now
