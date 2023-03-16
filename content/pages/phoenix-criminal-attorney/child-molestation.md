@@ -245,7 +245,7 @@ footer:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title: Related News & Blogs
+    title: Related Blogs
     subtitle: ''
     colors: colors-a
     posts:
