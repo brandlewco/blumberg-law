@@ -21,7 +21,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Homicide Representation
+          Confidential Homicide Case Evaluation
         url: /contact-us/
         style: primary
         iconPosition: right
