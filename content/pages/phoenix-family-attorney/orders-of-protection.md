@@ -2,8 +2,8 @@
 layout: PageLayout
 metaTitle: Phoenix Orders of Protection Attorney
 metaDescription: >-
-  Our Phoenix orders of protection attorneys understand that you and your family
-  are facing a very difficult time, contact us today for assistance.
+  Need an Order of Protection in Phoenix? Our experienced attorney can help.
+  Contact us for effective legal solutions to protect you and your loved ones.
 addTitleSuffix: true
 socialImage: null
 metaTags:
@@ -183,7 +183,7 @@ footer:
       - type: Button
         label: |
           See Case Results
-        altText: 'See Case Results from Arizona Attorney Bruce Blumberg.'
+        altText: See Case Results from Arizona Attorney Bruce Blumberg.
         url: /case-results/
         optimized: right
         showIcon: true
@@ -228,7 +228,8 @@ footer:
     backgroundSize: full
     title: Schedule Your Consultation
     text: >
-      Call us now, or fill out our contact form to start your confidential case evaluation today!
+      Call us now, or fill out our contact form to start your confidential case
+      evaluation today!
     actions:
       - label: |
           Contact Us Now
