@@ -56,6 +56,10 @@ hero:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
+    subtitle: >-
+      Need an Order of Protection in Phoenix? Our experienced attorney can help.
+      Contact us for effective legal solutions to protect you and your loved
+      ones.
 sections:
   - type: TextSection
     colors: colors-a
