@@ -2,9 +2,9 @@
 layout: PageLayout
 metaTitle: Phoenix Divorce Attorney
 metaDescription: >-
-  Our expert divorce attorney services can guide you through the process,
-  ensuring your rights are protected. Learn about filing for divorce, Arizona
-  laws, child custody and more. 
+  Going through a divorce is a complex and emotional process. Our expert Phoenix
+  divorce attorney services can guide you through the process, ensuring your
+  rights are protected. 
 addTitleSuffix: true
 socialImage: null
 metaTags:
