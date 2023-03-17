@@ -2,8 +2,9 @@
 layout: PageLayout
 metaTitle: Phoenix Divorce Attorney
 metaDescription: >-
-  Contact us for a consultation with an experienced Phoenix divorce attorney, we
-  can help.
+  Going through a divorce is a complex and emotional process. Our expert Phoenix
+  divorce attorney services can guide you through the process, ensuring your
+  rights are protected. 
 addTitleSuffix: true
 socialImage: null
 metaTags:
