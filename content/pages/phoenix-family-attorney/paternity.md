@@ -56,6 +56,10 @@ hero:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
+    subtitle: >-
+      At Blumberg & Associates, our Phoenix paternity attorneys provide our
+      clients with strategic advocacy and counsel in paternity cases and
+      paternity disputes.
 sections:
   - type: TextSection
     colors: colors-a
