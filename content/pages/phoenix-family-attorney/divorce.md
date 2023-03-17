@@ -58,8 +58,8 @@ hero:
       opacity: 100
     subtitle: >-
       Going through a divorce is a complex and emotional process. Our expert
-      divorce attorney services can guide you through the process, ensuring your
-      rights are protected. 
+      Phoenix divorce attorney services can guide you through the process,
+      ensuring your rights are protected. 
 sections:
   - type: TextSection
     colors: colors-a
