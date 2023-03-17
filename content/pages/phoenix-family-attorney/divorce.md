@@ -57,8 +57,9 @@ hero:
       backgroundPosition: center
       opacity: 100
     subtitle: >-
-      Contact us for a consultation with an experienced Phoenix divorce
-      attorney, we can help.
+      Going through a divorce is a complex and emotional process. Our expert
+      divorce attorney services can guide you through the process, ensuring your
+      rights are protected. 
 sections:
   - type: TextSection
     colors: colors-a
