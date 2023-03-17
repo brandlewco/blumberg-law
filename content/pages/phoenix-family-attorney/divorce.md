@@ -2,8 +2,9 @@
 layout: PageLayout
 metaTitle: Phoenix Divorce Attorney
 metaDescription: >-
-  Our expert Phoenix divorce attorney services can guide you through the
-  process, ensuring your rights are protected.
+  Going through a divorce is a complex and emotional process. Our expert divorce
+  attorney services can guide you through the process, ensuring your rights are
+  protected.
 addTitleSuffix: true
 socialImage: null
 metaTags:
