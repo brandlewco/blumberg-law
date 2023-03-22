@@ -5,7 +5,7 @@ import dayjs from 'dayjs';
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 import { getDataAttrs } from '../../../utils/get-data-attrs';
 import { Link, Action } from '../../atoms';
-import ImageBlock from '../../molecules/ImageBlock';
+import ImageBlockFill from '../../molecules/ImageBlockFill';
 import ArrowRightIcon from '../../svgs/arrow-right';
 import getPageUrlPath from '../../../utils/get-page-url-path';
 
@@ -118,7 +118,7 @@ function postsVariantA(props) {
                     <div className="flex flex-col min-h-full">
                         {post.featuredImage && (
                             <Link href={getPageUrlPath(post)} className="block h-0 w-full pt-2/3 relative overflow-hidden">
-                                <ImageBlock
+                                <ImageBlockFill
                                     {...post.featuredImage}
                                     className="absolute left-0 top-0 h-full w-full object-cover transition-transform duration-500 hover:scale-105"
                                     data-sb-field-path="featuredImage"
@@ -180,7 +180,7 @@ function postsVariantB(props) {
                     <div className="flex flex-col min-h-full">
                         {post.featuredImage && (
                             <Link href={getPageUrlPath(post)} className="block h-0 w-full pt-2/3 relative overflow-hidden">
-                                <ImageBlock
+                                <ImageBlockFill
                                     {...post.featuredImage}
                                     className="absolute left-0 top-0 h-full w-full object-cover transition-transform duration-500 hover:scale-105"
                                     data-sb-field-path="featuredImage"
@@ -246,7 +246,7 @@ function postsVariantC(props) {
                     <div className="flex flex-col min-h-full">
                         {post.featuredImage && (
                             <Link href={getPageUrlPath(post)} className="block h-0 w-full pt-2/3 relative overflow-hidden">
-                                <ImageBlock
+                                <ImageBlockFill
                                     {...post.featuredImage}
                                     className="absolute left-0 top-0 h-full w-full object-cover transition-transform duration-500 hover:scale-105"
                                     data-sb-field-path="featuredImage"
@@ -314,7 +314,7 @@ function postsVariantD(props) {
                                     href={getPageUrlPath(post)}
                                     className="block h-0 w-full pt-2/3 relative overflow-hidden md:h-60 md:min-h-full md:pt-0 lg:h-72"
                                 >
-                                    <ImageBlock
+                                    <ImageBlockFill
                                         {...post.featuredImage}
                                         className="absolute left-0 top-0 h-full w-full object-cover transition-transform duration-500 hover:scale-105"
                                         data-sb-field-path="featuredImage"
@@ -381,7 +381,7 @@ function postsVariantE(props) {
                                     href={getPageUrlPath(post)}
                                     className="block h-0 w-full pt-2/3 relative overflow-hidden md:h-60 md:min-h-full md:pt-0 lg:h-72"
                                 >
-                                    <ImageBlock
+                                    <ImageBlockFill
                                         {...post.featuredImage}
                                         className="absolute left-0 top-0 h-full w-full object-cover transition-transform duration-500 hover:scale-105"
                                         data-sb-field-path="featuredImage"

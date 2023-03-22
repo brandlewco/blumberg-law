@@ -7,7 +7,7 @@ import { getComponent } from '../../components-registry';
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 import { getDataAttrs } from '../../../utils/get-data-attrs';
 import { Link, Action } from '../../atoms';
-import ImageBlock from '../../molecules/ImageBlock';
+import ImageBlockFill from '../../molecules/ImageBlockFill';
 import ArrowRightIcon from '../../svgs/arrow-right';
 import ArrowRightCircle from '../../svgs/arrow-right-circle';
 import ArrowLeftCircle from '../../svgs/arrow-left-circle';
@@ -50,7 +50,13 @@ export default function TestimonialFeedSection(props) {
             <div className={classNames('flex', 'w-full', mapStyles({ justifyContent: sectionJustifyContent }))}>
                 <div className={classNames('w-full', mapMaxWidthStyles(sectionWidth))}>
                     <div className='flex flex-col-reverse lg:flex-row gap-12'>
-                        {props.media && <div className='w-full lg:w-1/2 px-4 lg:px-0 object-cover overflow-hidden'>{heroMedia(props.media)}</div> }
+                        {props.media && <div className='w-full lg:w-1/2 px-4 lg:px-0 overflow-hidden relative'>
+                        <ImageBlockFill
+                                    {...props.media}
+                                    className="absolute left-0 top-0 h-full w-full object-cover"
+                                    data-sb-field-path="featuredImage"
+                                />
+                        </div> }
                         <div className='w-full'>
                             {props.title && (
                                 <Markdown
