@@ -7,6 +7,7 @@ import { getComponent } from '../../components-registry';
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 import { getDataAttrs } from '../../../utils/get-data-attrs';
 import { Link, Action } from '../../atoms';
+import ImageBlock from '../../molecules/ImageBlock';
 import ImageBlockFill from '../../molecules/ImageBlockFill';
 import ArrowRightIcon from '../../svgs/arrow-right';
 import ArrowRightCircle from '../../svgs/arrow-right-circle';
