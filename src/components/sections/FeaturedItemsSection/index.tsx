@@ -64,7 +64,7 @@ export default function FeaturedItemsSection(props) {
             <Image
                 layout="fill"
                 src={props.backgroundImage.url}
-                alt="test"
+                alt="background image"
                 />
             </Background>
         }

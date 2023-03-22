@@ -61,7 +61,7 @@ export default function TextSection(props) {
                     <Image
                         layout="fill"
                         src={props.backgroundImage.url}
-                        alt="test"
+                        alt="background image"
                         />
                     </Background>
                 }

@@ -61,6 +61,7 @@ hero:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
+      title: Bruce Blumberg of Blumberg & Associates. Phoenix Criminal Defense Attorney
 sections:
   - colors: colors-a
     elementId: hero-features

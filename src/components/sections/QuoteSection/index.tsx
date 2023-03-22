@@ -59,7 +59,7 @@ export default function QuoteSection(props) {
                     <Image
                         layout="fill"
                         src={props.backgroundImage.url}
-                        alt="test"
+                        alt="backgroud image"
                         />
                     </Background>
                 }
