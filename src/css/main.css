@@ -184,18 +184,17 @@
     }
     /* custom */
     #call-us, #call-us-mobile {
-        @apply bg-transparent text-primary text-white text-3xl font-serif leading-none border-0 shadow-none p-0 m-0 text-center w-full;
+        @apply bg-transparent text-primary text-white text-xl xl:text-3xl font-serif leading-none border-0 shadow-none p-0 m-0 text-center w-full;
     }
     #call-us div, #call-us-mobile div {
         @apply flex flex-col justify-between;
     }
     #call-us p, #call-us-mobile p {
-        @apply m-0 p-0;
+        @apply m-0 p-0 leading-none;
     }
 
     #call-us strong, #call-us-mobile strong {
-        @apply lg:text-secondary font-serif;
-        font-size: 0.75rem;
+        @apply lg:text-secondary font-serif text-xs xl:text-xs;
     }
     #call-us:hover , #call-us-mobile:hover {
         @apply bg-transparent text-white;
@@ -287,7 +286,11 @@
     }
 
     header nav {
-        @apply px-4 py-3 md:px-4 md:py-0
+        @apply px-4 py-3 xl:px-4 xl:py-0
+    }
+
+    header nav span {
+        @apply leading-none
     }
 
     .hero-bg {

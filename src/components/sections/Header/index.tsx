@@ -41,7 +41,7 @@ function headerVariantB(props) {
             {(props.logo || (props.title && props.isTitleVisible)) && <div className="mr-8">{siteLogoLink(props)}</div>}
             {primaryLinks.length > 0 && (
                 <ul key="primaryLinks"
-                    className="hidden lg:flex lg:items-center space-x-8 w-auto"
+                    className="hidden lg:flex lg:items-center space-x-2 xl:space-x-8 w-auto"
                     data-sb-field-path=".primaryLinks"
                 >
                     {listOfLinks(primaryLinks, false)}
@@ -153,7 +153,7 @@ function listOfLinks(links, inMobileMenu = false) {
         return (
             <>
                 {linkChild.length > 0 && (
-                    <li key={index} data-key={index} className={classNames('dropdown', 'relative', 'block', 'lg:py-12')}
+                    <li key={index} data-key={index} className={classNames('dropdown', 'relative', 'block', 'xl:py-12')}
                         onMouseEnter={() => setIsMenuOpen(true)}
                         onMouseLeave={() => setIsMenuOpen(false)}
                         onMouseDown={() => setIsMenuOpen(toggle = !toggle)}
