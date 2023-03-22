@@ -148,9 +148,9 @@ function postsVariantA(props) {
                         <div className="flex flex-col flex-grow px-4 pt-6 pb-10 sm:px-6">
                             <div className="flex-grow">
                                 <h3 className="text-3xl">
-                                    <Link href={getPageUrlPath(post)} data-sb-field-path="title">
+                                    {/* <Link href={getPageUrlPath(post)} data-sb-field-path="title"> */}
                                         {post.title}
-                                    </Link>
+                                    {/* </Link> */}
                                 </h3>
                                 <Markdown options={{ forceBlock: true }} className="sb-markdown mx-auto" data-sb-field-path="markdown_content">
                                 {post.markdown_content}
@@ -200,8 +200,8 @@ function postsVariantB(props) {
             {...(props.annotatePosts ? { 'data-sb-field-path': '.posts' } : null)}
         >
             {posts.map((post, index) => (
-                <article key={index} className="overflow-hidden mt-4 border-t border-solid border-white" data-sb-object-id={post.__metadata?.id}>
-                    <div className="flex flex-col min-h-full">
+                <figure key={index} className="overflow-hidden mt-4 border-b-4 border-solid border-primary" data-sb-object-id={post.__metadata?.id}>
+                    <blockquote className="flex flex-col min-h-full">
                         {post.featuredImage && (
                             <Link href={getPageUrlPath(post)} className="block h-0 w-full pt-2/3 relative overflow-hidden">
                                 <ImageBlock
@@ -217,18 +217,16 @@ function postsVariantB(props) {
                                 {post.markdown_content}
                             </Markdown>
                             </div>
-                            {props.showAuthor && (
-                            <div className="flex flex-row justify-end px-4 pt-6 pb-6 sm:px-6">
-                                <h3 className="text-2xl">
-                                    <Link href={getPageUrlPath(post)} data-sb-field-path="title">
-                                        {post.title}
-                                    </Link>
-                                </h3>
-                            </div>
-                            )}
                         </div>
-                    </div>
-                </article>
+                    </blockquote>
+                    {props.showAuthor && (
+                            <figcaption className="flex flex-row justify-end px-4 pt-6 pb-6 sm:px-6 text-2xl italic">
+                                    {/* <Link href={getPageUrlPath(post)} data-sb-field-path="title"> */}
+                                        - {post.title}
+                                    {/* </Link> */}
+                            </figcaption>
+                            )}
+                </figure>
             ))}
         </div>
         </>
@@ -266,9 +264,9 @@ function postsVariantC(props) {
                         <div className="flex flex-col flex-grow px-4 pt-6 pb-10 sm:px-6">
                             <div className="flex-grow">
                                 <h3 className="text-3xl">
-                                    <Link href={getPageUrlPath(post)} data-sb-field-path="title">
+                                    {/* <Link href={getPageUrlPath(post)} data-sb-field-path="title"> */}
                                         {post.title}
-                                    </Link>
+                                    {/* </Link> */}
                                 </h3>
                                 <PostAttribution showAuthor={props.showAuthor} post={post} className="mt-2" />
                                 {props.showExcerpt && post.excerpt && (
