@@ -21,7 +21,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Temporary Orders Representation
+          Confidential Temporary Orders Case Evaluation
         url: /contact-us/
         style: primary
         iconPosition: right
@@ -57,6 +57,10 @@ hero:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
+    subtitle: >-
+      Our Phoenix temporary orders attorneys are experienced in obtaining
+      temporary orders involving children and custody, relocation, property, and
+      support issues.
 sections:
   - type: TextSection
     colors: colors-a
@@ -184,7 +188,7 @@ footer:
       - type: Button
         label: |
           See Case Results
-        altText: 'See Case Results from Arizona Attorney Bruce Blumberg.'
+        altText: See Case Results from Arizona Attorney Bruce Blumberg.
         url: /case-results/
         optimized: right
         showIcon: true
@@ -229,7 +233,8 @@ footer:
     backgroundSize: full
     title: Schedule Your Consultation
     text: >
-      Call us now, or fill out our contact form to start your confidential case evaluation today!
+      Call us now, or fill out our contact form to start your confidential case
+      evaluation today!
     actions:
       - label: |
           Contact Us Now

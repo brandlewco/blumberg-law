@@ -21,7 +21,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Computer & Internet Fraud Representation
+          Confidential Computer & Internet Fraud Case Evaluation
         url: /contact-us/
         style: primary
         iconPosition: right
@@ -57,11 +57,15 @@ hero:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
+    subtitle: >-
+      If you are under investigation for or have been charged with computer or
+      Internet fraud in Arizona, call our Phoenix computer & internet fraud
+      attorneys.
 sections:
   - type: TextSection
     colors: colors-a
     variant: variant-a
-    text: "From shopping to banking to paying bills, an increasing number of financial transactions involve the Internet and computers. With the growth of the Internet has come growth in\nInternet crimes. If you are under investigation for or have been charged with computer or Internet fraud in Arizona, call the\_**Phoenix computer and internet fraud attorneys**\_at Blumberg & Associates for a free initial consultation to discuss your case.\n\nIdentity theft is one form of computer and Internet crime. It can involve hacking into computer files or simply using the Internet to use bank account and credit card information that was fraudulently obtained. Identity theft can also be done by phishing, which is an attempt to acquire usernames, passwords, credit card numbers and other financial information by masquerading as a bank or other trustworthy entity.\n\nTo collect evidence in an identify theft or other Internet fraud case, prosecutors will often obtain search warrants and seize computer equipment from people’s homes or offices. However, just because evidence is contained on your computer does not mean that you put it there. Just as in a drug possession case, prosecutors must show that the incriminating evidence was under your dominion and control. A computer can be used by multiple people and prosecutors must link the evidence to you.\n\nIn many cases of identify theft, defendants need money due to a drug addiction. While drug addition is not a defense, it can be use to mitigate punishment, especially if the defendant voluntarily participates in a drug treatment program.\n\n## FREE ATTORNEY CONSULTATION\n\nThe sooner you contact a defense lawyer in an Internet or identify theft case, the more your lawyer can do to protect your rights and your future. Our defense lawyers frequently negotiate with state and federal authorities throughout Arizona, including the U.S. Attorney’s Office, the Department of Justice (DOJ) and the Federal Bureau of Investigation (FBI). In many cases, we have successfully persuaded prosecutors not to charge our clients or to file reduced charges.\n"
+    text: "## Computer and Internet Fraud Defense\n\nFrom shopping to banking to paying bills, an increasing number of financial transactions involve the Internet and computers. With the growth of the Internet has come growth in\nInternet crimes. If you are under investigation for or have been charged with computer or Internet fraud in Arizona, call the\_**Phoenix computer and internet fraud attorneys**\_at Blumberg & Associates for a free initial consultation to discuss your case.\n\nIdentity theft is one form of computer and Internet crime. It can involve hacking into computer files or simply using the Internet to use bank account and credit card information that was fraudulently obtained. Identity theft can also be done by phishing, which is an attempt to acquire usernames, passwords, credit card numbers and other financial information by masquerading as a bank or other trustworthy entity.\n\nTo collect evidence in an identify theft or other Internet fraud case, prosecutors will often obtain search warrants and seize computer equipment from people’s homes or offices. However, just because evidence is contained on your computer does not mean that you put it there. Just as in a drug possession case, prosecutors must show that the incriminating evidence was under your dominion and control. A computer can be used by multiple people and prosecutors must link the evidence to you.\n\nIn many cases of identify theft, defendants need money due to a drug addiction. While drug addition is not a defense, it can be use to mitigate punishment, especially if the defendant voluntarily participates in a drug treatment program.\n\n## Free Computer & Internet Fraud Attorney Consultation\n\nThe sooner you contact a defense lawyer in an Internet or identify theft case, the more your lawyer can do to protect your rights and your future. Our defense lawyers frequently negotiate with state and federal authorities throughout Arizona, including the U.S. Attorney’s Office, the Department of Justice (DOJ) and the Federal Bureau of Investigation (FBI). In many cases, we have successfully persuaded prosecutors not to charge our clients or to file reduced charges.\n"
     styles:
       self:
         height: auto
@@ -173,7 +177,7 @@ footer:
       - type: Button
         label: |
           See Case Results
-        altText: 'See Case Results from Arizona Attorney Bruce Blumberg.'
+        altText: See Case Results from Arizona Attorney Bruce Blumberg.
         url: /case-results/
         optimized: right
         showIcon: true
@@ -218,7 +222,8 @@ footer:
     backgroundSize: full
     title: Schedule Your Consultation
     text: >
-      Call us now, or fill out our contact form to start your confidential case evaluation today!
+      Call us now, or fill out our contact form to start your confidential case
+      evaluation today!
     actions:
       - label: |
           Contact Us Now

@@ -21,7 +21,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Criminal Appeals Representation
+          Confidential Criminal Appeals Case Evaluation
         url: /contact-us/
         style: primary
         iconPosition: right
@@ -57,6 +57,10 @@ hero:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
+    subtitle: >-
+      If you have reason to believe you did not receive a fair trial, contact
+      the criminal appeals attorneys at Blumberg & Associates today to schedule
+      an appointment.
 sections:
   - type: TextSection
     colors: colors-a
@@ -175,7 +179,7 @@ footer:
       - type: Button
         label: |
           See Case Results
-        altText: 'See Case Results from Arizona Attorney Bruce Blumberg.'
+        altText: See Case Results from Arizona Attorney Bruce Blumberg.
         url: /case-results/
         optimized: right
         showIcon: true
@@ -212,13 +216,51 @@ footer:
       - content/pages/cases/accused-or-child-abuse-by-causing-bruises.md
       - content/pages/cases/charged-19-counts-sexual-conduct-with-minor.md
       - content/pages/cases/accused-multiple-accounts-sexual-misconduct.md
+  - type: FeaturedPostsSection
+    elementId: ''
+    showDate: false
+    showAuthor: false
+    showExcerpt: false
+    showReadMoreLink: false
+    readMoreLinkLabel: Read More
+    variant: variant-b
+    actions: []
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    title: Related Blogs
+    subtitle: ''
+    colors: colors-a
+    posts:
+      - content/pages/blog/how-to-file-a-criminal-appeal-in-phoenix-arizona.md
+      - content/pages/blog/combating-false-identifications.md
+      - content/pages/blog/what-can-be-considered-a-sexual-offense-in-arizona.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
     backgroundSize: full
     title: Schedule Your Consultation
     text: >
-      Call us now, or fill out our contact form to start your confidential case evaluation today!
+      Call us now, or fill out our contact form to start your confidential case
+      evaluation today!
     actions:
       - label: |
           Contact Us Now

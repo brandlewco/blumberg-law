@@ -21,7 +21,7 @@ hero:
     actions:
       - type: Button
         label: |
-          White Collar Crime Representation
+          Confidential White Collar Crime Case Evaluation
         url: /contact-us/
         style: primary
         iconPosition: right
@@ -57,6 +57,10 @@ hero:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
+    subtitle: >-
+      Phoenix white collar crime attorney Bruce Blumberg helps people charged
+      with state & federal offenses in Arizona like fraud, embezzlement, forgery
+      and more.
 sections:
   - type: TextSection
     colors: colors-a
@@ -173,7 +177,7 @@ footer:
       - type: Button
         label: |
           See Case Results
-        altText: 'See Case Results from Arizona Attorney Bruce Blumberg.'
+        altText: See Case Results from Arizona Attorney Bruce Blumberg.
         url: /case-results/
         optimized: right
         showIcon: true
@@ -218,7 +222,8 @@ footer:
     backgroundSize: full
     title: Schedule Your Consultation
     text: >
-      Call us now, or fill out our contact form to start your confidential case evaluation today!
+      Call us now, or fill out our contact form to start your confidential case
+      evaluation today!
     actions:
       - label: |
           Contact Us Now

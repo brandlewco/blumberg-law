@@ -2,8 +2,8 @@
 layout: PageLayout
 metaTitle: Phoenix Divorce Attorney
 metaDescription: >-
-  Contact us for a consultation with an experienced Phoenix divorce attorney, we
-  can help.
+  Going through a divorce is a complex and emotional process. Our expert Phoenix
+  divorce attorney services can guide you, ensuring your rights are protected.
 addTitleSuffix: true
 socialImage: null
 metaTags:
@@ -56,6 +56,10 @@ hero:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
+    subtitle: >-
+      Going through a divorce is a complex and emotional process. Our expert
+      Phoenix divorce attorney services can guide you, ensuring your rights are
+      protected.
 sections:
   - type: TextSection
     colors: colors-a
@@ -265,7 +269,7 @@ footer:
       - type: Button
         label: |
           See Case Results
-        altText: 'See Case Results from Arizona Attorney Bruce Blumberg.'
+        altText: See Case Results from Arizona Attorney Bruce Blumberg.
         url: /case-results/
         optimized: right
         showIcon: true
@@ -304,44 +308,41 @@ footer:
       - content/pages/cases/charged-19-counts-sexual-conduct-with-minor.md
       - content/pages/cases/accused-multiple-accounts-sexual-misconduct.md
       - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
-  - type: CtaSection
+  - type: FeaturedPostsSection
     elementId: ''
-    colors: colors-b
-    backgroundSize: full
-    title: Schedule Your Consultation
-    text: >
-      Call us now, or fill out our contact form to start your confidential case evaluation today!
-    actions:
-      - label: |
-          Contact Us Now
-        altText: Contact Us
-        url: /contact-us/
-        showIcon: true
-        icon: arrowRight
-        style: primary
-        type: Button
-    backgroundImage: null
+    showDate: false
+    showAuthor: false
+    showExcerpt: false
+    showReadMoreLink: false
+    readMoreLinkLabel: Read More
+    variant: variant-b
+    actions: []
     styles:
       self:
         height: auto
-        width: narrow
+        width: wide
         margin:
           - mt-0
           - mb-0
           - ml-0
           - mr-0
         padding:
-          - pt-28
-          - pb-28
+          - pt-24
+          - pb-24
           - pl-4
           - pr-4
-        alignItems: center
         justifyContent: center
-        flexDirection: col
       title:
-        textAlign: center
-      text:
-        textAlign: center
+        textAlign: left
+      subtitle:
+        textAlign: left
       actions:
-        justifyContent: center
+        justifyContent: flex-start
+    title: Related Blogs
+    subtitle: ''
+    colors: colors-a
+    posts:
+      - content/pages/blog/how-to-file-for-divorce-in-arizona.md
+      - content/pages/blog/high-net-worth-divorce-mistakes.md
+      - content/pages/blog/five-signs-a-divorce-might-be-imminent.md
 ---

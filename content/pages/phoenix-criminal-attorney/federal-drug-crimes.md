@@ -20,7 +20,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Federal Drug Crime Representation
+          Confidential Federal Drug Crime Case Evaluation
         url: /contact-us/
         style: primary
         iconPosition: right
@@ -56,6 +56,10 @@ hero:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
+    subtitle: >-
+      Contact an aggressive Phoenix federal drug charge attorney with hundreds
+      of not guilty verdicts for drug trafficking, drug possession and drug
+      dealing.
 sections:
   - type: TextSection
     colors: colors-a
@@ -296,7 +300,8 @@ footer:
     backgroundSize: full
     title: Schedule Your Consultation
     text: >
-      Call us now, or fill out our contact form to start your confidential case evaluation today!
+      Call us now, or fill out our contact form to start your confidential case
+      evaluation today!
     actions:
       - label: |
           Contact Us Now

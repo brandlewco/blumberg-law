@@ -21,7 +21,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Federal Crime Representation
+          Confidential Federal Crime Case Evaluation
         url: /contact-us/
         style: primary
         iconPosition: right
@@ -57,6 +57,10 @@ hero:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
+    subtitle: >-
+      Phoenix federal crime attorney Bruce Blumberg defends people charged with
+      federal offenses in Arizona, including sex crimes, drug crime &
+      white-collar crime.
 sections:
   - type: TextSection
     colors: colors-a
@@ -385,7 +389,8 @@ footer:
     backgroundSize: full
     title: Schedule Your Consultation
     text: >
-      Call us now, or fill out our contact form to start your confidential case evaluation today!
+      Call us now, or fill out our contact form to start your confidential case
+      evaluation today!
     actions:
       - label: |
           Contact Us Now

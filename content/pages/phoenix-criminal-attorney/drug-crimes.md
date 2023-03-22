@@ -19,7 +19,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Drug Crimes Representation
+          Confidential Drug Crimes Case Evaluation
         url: /contact-us/
         style: primary
         iconPosition: right
@@ -55,6 +55,10 @@ hero:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
+    subtitle: >-
+      Phoenix drug crime attorney Bruce Blumberg defends people charged with
+      federal & Arizona drug crimes like possession, drug trafficking, marijuana
+      & meth.
 sections:
   - type: TextSection
     colors: colors-a
@@ -220,7 +224,8 @@ footer:
     backgroundSize: full
     title: Schedule Your Consultation
     text: >
-      Call us now, or fill out our contact form to start your confidential case evaluation today!
+      Call us now, or fill out our contact form to start your confidential case
+      evaluation today!
     actions:
       - label: |
           Contact Us Now

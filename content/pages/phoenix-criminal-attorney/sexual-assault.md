@@ -20,7 +20,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Sexual Assault Representation
+          Confidential Sexual Assault Case Evaluation
         url: /contact-us/
         style: primary
         iconPosition: right
@@ -56,6 +56,9 @@ hero:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
+    subtitle: >-
+      Our Phoenix sexual assault attorneys have significant experience
+      representing people charged with rape in the state of Arizona.
 sections:
   - type: TextSection
     colors: colors-a
@@ -278,7 +281,8 @@ footer:
     backgroundSize: full
     title: Schedule Your Consultation
     text: >
-      Call us now, or fill out our contact form to start your confidential case evaluation today!
+      Call us now, or fill out our contact form to start your confidential case
+      evaluation today!
     actions:
       - label: |
           Contact Us Now
