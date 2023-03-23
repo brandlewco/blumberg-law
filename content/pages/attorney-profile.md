@@ -1,7 +1,7 @@
 ---
 layout: PageLayout
 metaTitle: Bruce Blumberg Attorney Profile | Blumberg & Associates
-addTitleSuffix: true
+addTitleSuffix: false
 socialImage: null
 metaTags: []
 title: Attorney Profile
@@ -223,7 +223,8 @@ footer:
     backgroundSize: full
     title: Schedule Your Consultation
     text: >
-      Call us now, or fill out our contact form to start your confidential case evaluation today!
+      Call us now, or fill out our contact form to start your confidential case
+      evaluation today!
     actions:
       - label: |
           Contact Us Now
