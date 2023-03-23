@@ -1,6 +1,6 @@
 ---
 layout: PageLayout
-metaTitle: Bruce Blumberg Attorney Profile | Blumberg & Associates
+metaTitle: Bruce Blumberg Attorney Profile | Blumberg & Associates Phoenix
 addTitleSuffix: false
 socialImage: null
 metaTags: []
