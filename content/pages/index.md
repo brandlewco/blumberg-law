@@ -57,11 +57,13 @@ hero:
         justifyContent: flex-start
     backgroundSize: full
     backgroundImage:
-      url: /images/blumberg-hero-mockup.jpg
+      url: /images/blumberg-associates-feature-image-2023.jpg
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
-      title: Bruce Blumberg of Blumberg & Associates. Phoenix Criminal Defense Attorney
+      title: >-
+        Bruce Blumberg of Blumberg & Associates. Phoenix Criminal Defense
+        Attorney
 sections:
   - colors: colors-a
     elementId: hero-features
