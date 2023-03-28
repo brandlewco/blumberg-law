@@ -319,7 +319,7 @@ sections:
       <div class="flex flex-col lg:flex-row justify-between items-start gap-12
       text-base text-left font-sans">
 
-      <div>At Blumberg & Associates, you’ll find the representation you need to
+      <p>At Blumberg & Associates, you’ll find the representation you need to
       get the best outcome available in your Arizona criminal law matter. We
       believe every person accused of a crime deserves fair treatment and an
       effective defense by a skilled and knowledgeable criminal defense lawyer.
@@ -332,7 +332,7 @@ sections:
       success in criminal defense are virtually unmatched in the state of
       Arizona.
 
-      </div><div>If you’ve been arrested on a felony or misdemeanor charge in
+      </p><p>If you’ve been arrested on a felony or misdemeanor charge in
       Phoenix, Blumberg & Associates offers practical advice and effective
       representation to help you make the best of a bad situation. Your best
       chance at a favorable outcome in your criminal case is to be represented
@@ -342,7 +342,7 @@ sections:
       In more than 30 years of practice, Phoenix criminal defense attorney Bruce
       Blumberg has successfully represented thousands of clients faced with all
       types of criminal charges by prosecutors at the Arizona state or federal
-      level. </div>
+      level. </p>
 
       </div>
 
