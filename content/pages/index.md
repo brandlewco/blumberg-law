@@ -330,19 +330,18 @@ sections:
       trials. He has won a tremendous number of jury trials and obtained
       acquittals in more than 25 serious felonies. Bruce’s experience and
       success in criminal defense are virtually unmatched in the state of
-      Arizona.
+      Arizona.</p>
 
-      </p><p>If you’ve been arrested on a felony or misdemeanor charge in
-      Phoenix, Blumberg & Associates offers practical advice and effective
-      representation to help you make the best of a bad situation. Your best
-      chance at a favorable outcome in your criminal case is to be represented
-      by an attorney with extensive experience representing people in
-      circumstances similar to yours. There are a lot of criminal defense
-      lawyers in practice, and not all of them will be suitable for your needs.
-      In more than 30 years of practice, Phoenix criminal defense attorney Bruce
-      Blumberg has successfully represented thousands of clients faced with all
-      types of criminal charges by prosecutors at the Arizona state or federal
-      level. </p>
+      <p>If you’ve been arrested on a felony or misdemeanor charge in Phoenix,
+      Blumberg & Associates offers practical advice and effective representation
+      to help you make the best of a bad situation. Your best chance at a
+      favorable outcome in your criminal case is to be represented by an
+      attorney with extensive experience representing people in circumstances
+      similar to yours. There are a lot of criminal defense lawyers in practice,
+      and not all of them will be suitable for your needs. In more than 30 years
+      of practice, Phoenix criminal defense attorney Bruce Blumberg has
+      successfully represented thousands of clients faced with all types of
+      criminal charges by prosecutors at the Arizona state or federal level.</p>
 
       </div>
 
