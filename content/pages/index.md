@@ -311,8 +311,9 @@ sections:
     colors: colors-a
     variant: variant-a
     title: >+
-      ## An Arizona lawyer with the skills and experience you need when facing
-      the fight of your life.
+      ## Bruce Blumberg is one of Phoenix, Arizona's leading criminal defense
+      attorneys, with the skills and experience you need when facing the fight
+      of your life.
 
     subtitle: ''
     text: >+
