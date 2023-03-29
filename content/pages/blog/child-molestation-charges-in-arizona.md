@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: Understanding Child Molestation Charges and Legal Implications in Arizona
 addTitleSuffix: false
 metaTags:
   - type: MetaTag
@@ -66,7 +66,8 @@ bottomSections:
     backgroundSize: full
     title: Schedule Your Consultation
     text: >
-      Call us now, or fill out our contact form to start your confidential case evaluation today!
+      Call us now, or fill out our contact form to start your confidential case
+      evaluation today!
     actions:
       - label: |
           Contact Us Now
