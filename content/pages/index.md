@@ -307,18 +307,15 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
-  - elementId: home-content
+  - elementId: ''
     colors: colors-a
     variant: variant-a
     title: >+
-      ## Bruce Blumberg is one of Phoenix, Arizona's leading Criminal Defense
+      <h2 class="text-2xl">Bruce Blumberg is one of Phoenix, Arizona's leading Criminal Defense
       Attorneys, with the skills and experience you need when facing the fight
-      of your life.
-
+      of your life.</h2>
     subtitle: ''
-    text: >-
-
-
+    text: >+
       <div class="flex flex-col lg:flex-row justify-between items-start gap-12
       text-base text-left font-sans">
 
@@ -348,6 +345,7 @@ sections:
       level.</p></div>
 
       </div>
+
     styles:
       self:
         height: auto
