@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: Dangerous Crimes Have Serious Legal Consequences | Criminal Defense
 addTitleSuffix: false
 metaTags:
   - type: MetaTag
