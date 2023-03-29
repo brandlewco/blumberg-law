@@ -578,7 +578,7 @@ sections:
       - >-
         content/pages/cases/minor-accused-of-aggravated-assault-dangerous-offense-by-holding-a-gun-on-officers-conducting-a-search-warrant-at-mothers-apartment.md
   - elementId: ''
-    colors: colors-b
+    colors: colors-e
     variant: variant-b
     title: |+
       ## Contact An **Experienced** Phoenix Criminal Attorney Today
