@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: Bruce Blumberg Named to 2018 Southwest Super Lawyers List
+metaTitle: Bruce Blumberg Awarded 2018 Southwest Super Lawyers List
 addTitleSuffix: false
 metaTags:
   - type: MetaTag
