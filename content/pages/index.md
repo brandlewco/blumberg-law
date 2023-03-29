@@ -184,6 +184,7 @@ sections:
             style: secondary
             elementId: ''
             type: Button
+            optimized: 'no'
         styles:
           self:
             textAlign: left
