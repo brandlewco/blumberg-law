@@ -307,7 +307,7 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
-  - elementId: home-
+  - elementId: home-content
     colors: colors-a
     variant: variant-a
     title: >+
