@@ -187,7 +187,6 @@ sections:
             textAlign: left
             alignItems: center
             justifyContent: center
-        title: Drug Crimes
       - type: FeaturedItem
         actions:
           - type: Button
