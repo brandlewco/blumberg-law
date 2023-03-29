@@ -58,6 +58,8 @@ fields:
         value: jury
       - label: Sex Crime
         value: sexCrime
+      - label: Porn Crime
+        value: pornCrime
       - label: Violent Crime
         value: violentCrime
       - label: White Collar Crime

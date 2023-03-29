@@ -224,12 +224,12 @@ sections:
         subtitle: ''
         actions:
           - label: |+
-              #### Child Custody
+              #### Child Pornography
 
             altText: Child Custody & Parenting Time Family Law Attorney
-            url: /phoenix-family-attorney/child-custody-parenting-time/
+            url: /phoenix-criminal-attorney/child-pornography/
             showIcon: true
-            icon: childCustody
+            icon: pornCrime
             iconPosition: left
             style: secondary
             elementId: ''
@@ -311,10 +311,9 @@ sections:
     colors: colors-a
     variant: variant-a
     title: >+
-      ## Bruce Blumberg is one of Phoenix, Arizona's leading Criminal Defense
+      <h2 class="text-2xl">Bruce Blumberg is one of Phoenix, Arizona's leading Criminal Defense
       Attorneys, with the skills and experience you need when facing the fight
-      of your life.
-
+      of your life.</h2>
     subtitle: ''
     text: >+
       <div class="flex flex-col lg:flex-row justify-between items-start gap-12
