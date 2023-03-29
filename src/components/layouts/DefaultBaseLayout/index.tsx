@@ -63,12 +63,11 @@ export default function DefaultBaseLayout(props) {
                         }`}} />
                     <meta name="viewport" content="width=device-width, initial-scale=1" />
                     {site.favicon && <link rel="icon" href={site.favicon} />}
-                <link rel="dns-prefetch" href="https://www.googletagmanager.com/">
-                <link rel="dns-prefetch" href="https://use.typekit.net">
-                <link rel="dns-prefetch" href="https://p.typekit.net">
+                <link rel="dns-prefetch" href="https://www.googletagmanager.com/"/>
+                <link rel="dns-prefetch" href="https://use.typekit.net"/>
+                <link rel="dns-prefetch" href="https://p.typekit.net"/>
                 <link rel="preload" href="https://use.typekit.net/yxh4eie.css" as="style"/>
-                <link href="https://www.googletagmanager.com/gtag/js?id=G-2XG31D631P&l=dataLayer&cx=c" rel="preload" as="script">
-
+                <link href="https://www.googletagmanager.com/gtag/js?id=G-2XG31D631P&l=dataLayer&cx=c" rel="preload" as="script"/>
                  <link rel="stylesheet" href="https://use.typekit.net/yxh4eie.css"/>
                 </Head>
                 {site.header && <Header {...site.header} annotationPrefix={siteMeta.id} />}
