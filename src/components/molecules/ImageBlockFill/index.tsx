@@ -21,7 +21,6 @@ export default function ImageBlockFill(props) {
         <div className={'image-container'}>
             <Image src={url}
                 layout="fill"
-                priority="preload"
                 id={cssId}
                 className={classNames('sb-component', 'sb-component-block', 'sb-component-image-block', cssClasses)}
                 alt={altText || ''}
