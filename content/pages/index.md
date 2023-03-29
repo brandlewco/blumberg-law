@@ -311,8 +311,8 @@ sections:
     colors: colors-a
     variant: variant-a
     title: >+
-      ## Bruce Blumberg is one of Phoenix, Arizona's leading criminal defense
-      attorneys, with the skills and experience you need when facing the fight
+      ## Bruce Blumberg is one of Phoenix, Arizona's leading Criminal Defense
+      Attorneys, with the skills and experience you need when facing the fight
       of your life.
 
     subtitle: ''
