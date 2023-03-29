@@ -427,6 +427,61 @@ sections:
     type: MediaGallerySection
     aspectRatio: auto
   - elementId: ''
+    colors: colors-d
+    variant: variant-b
+    title: |+
+      ## Contact An **Experienced** Phoenix Criminal Attorney Today
+
+    text: >
+      At Blumberg & Associates, we apply our knowledge, skills, experience and
+      dedication toward achieving a favorable result in your criminal case. We
+      work hard to resolve your case pre-trial wherever possible, including
+      getting the prosecutor or judge to dismiss or reduce the charges or secure
+      probation, diversion or some other desirable outcome. If your case can’t
+      be resolved pre-trial, you are in the hands of one of Arizona’s most
+      experienced and successful criminal law trial litigators. Whether facing a
+      judge or jury trial, Blumberg & Associates is devoted to obtaining a not
+      guilty verdict, and helping you avoid mandatory sentences, the most
+      serious consequences of a criminal conviction in Arizona.
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-16
+          - pb-16
+          - pl-8
+          - pr-8
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+    type: TextSection
+    actions:
+      - label: |
+          Contact Us Now
+        altText: contact us now
+        url: /contact-us/
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Button
+    backgroundImage:
+      url: /images/background-court-blue.jpg
+      backgroundSize: cover
+      backgroundPosition: center
+      opacity: 100
+  - elementId: ''
     colors: colors-a
     variant: variant-a
     subtitle: >-
@@ -523,61 +578,6 @@ sections:
       text:
         textAlign: left
     type: TextSection
-  - elementId: ''
-    colors: colors-d
-    variant: variant-b
-    title: |+
-      ## Contact An **Experienced** Phoenix Criminal Attorney Today
-
-    text: >
-      At Blumberg & Associates, we apply our knowledge, skills, experience and
-      dedication toward achieving a favorable result in your criminal case. We
-      work hard to resolve your case pre-trial wherever possible, including
-      getting the prosecutor or judge to dismiss or reduce the charges or secure
-      probation, diversion or some other desirable outcome. If your case can’t
-      be resolved pre-trial, you are in the hands of one of Arizona’s most
-      experienced and successful criminal law trial litigators. Whether facing a
-      judge or jury trial, Blumberg & Associates is devoted to obtaining a not
-      guilty verdict, and helping you avoid mandatory sentences, the most
-      serious consequences of a criminal conviction in Arizona.
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-16
-          - pb-16
-          - pl-8
-          - pr-8
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-    type: TextSection
-    actions:
-      - label: |
-          Contact Us Now
-        altText: contact us now
-        url: /contact-us/
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
-    backgroundImage:
-      url: /images/background-court-blue.jpg
-      backgroundSize: cover
-      backgroundPosition: center
-      opacity: 100
   - type: FeaturedCasesSection
     elementId: ''
     showDate: true
