@@ -1,6 +1,8 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: >-
+  Charged with Prostitution Solicitation in Arizona? Understand Your Legal
+  Rights
 addTitleSuffix: false
 metaTags:
   - type: MetaTag
