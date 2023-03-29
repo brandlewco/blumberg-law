@@ -523,60 +523,6 @@ sections:
       text:
         textAlign: left
     type: TextSection
-  - type: FeaturedCasesSection
-    elementId: ''
-    showDate: true
-    showAuthor: false
-    showExcerpt: true
-    showReadMoreLink: false
-    readMoreLinkLabel: See All Cases
-    variant: variant-b
-    actions:
-      - type: Button
-        label: |
-          See More Case Results
-        altText: Criminal Defense & Family Law Case Results
-        url: /case-results
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-16
-          - pb-16
-          - pl-8
-          - pr-8
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      actions:
-        justifyContent: center
-    title: Cases of Interest
-    subtitle: ''
-    colors: colors-d
-    posts:
-      - >-
-        content/pages/cases/client-accused-of-attempted-murder-in-the-second-degree-after-four-bullets-were-fired-into-the-alleged-victim-in-a-bar-parking-lot-both-involved-parties-were-intoxicated.md
-      - >-
-        content/pages/cases/sixteen-year-old-clients-charged-with-one-count-of-conspiracy-to-commit-murder.md
-      - >-
-        content/pages/cases/client-involved-in-a-love-triangle-client-accused-of-five-counts-of-aggravated-assault-dangerous-offenses.md
-      - >-
-        content/pages/cases/client-traveling-northbound-on-i-17-stopped-in-yavapai-county-with-136-pounds-of-marijuana-packed-into-the-truck.md
-      - >-
-        content/pages/cases/minor-accused-of-aggravated-assault-dangerous-offense-by-holding-a-gun-on-officers-conducting-a-search-warrant-at-mothers-apartment.md
   - elementId: ''
     colors: colors-d
     variant: variant-b
@@ -632,6 +578,60 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
+  - type: FeaturedCasesSection
+    elementId: ''
+    showDate: true
+    showAuthor: false
+    showExcerpt: true
+    showReadMoreLink: false
+    readMoreLinkLabel: See All Cases
+    variant: variant-b
+    actions:
+      - type: Button
+        label: |
+          See More Case Results
+        altText: Criminal Defense & Family Law Case Results
+        url: /case-results
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-16
+          - pb-16
+          - pl-8
+          - pr-8
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    title: Cases of Interest
+    subtitle: ''
+    colors: colors-d
+    posts:
+      - >-
+        content/pages/cases/client-accused-of-attempted-murder-in-the-second-degree-after-four-bullets-were-fired-into-the-alleged-victim-in-a-bar-parking-lot-both-involved-parties-were-intoxicated.md
+      - >-
+        content/pages/cases/sixteen-year-old-clients-charged-with-one-count-of-conspiracy-to-commit-murder.md
+      - >-
+        content/pages/cases/client-involved-in-a-love-triangle-client-accused-of-five-counts-of-aggravated-assault-dangerous-offenses.md
+      - >-
+        content/pages/cases/client-traveling-northbound-on-i-17-stopped-in-yavapai-county-with-136-pounds-of-marijuana-packed-into-the-truck.md
+      - >-
+        content/pages/cases/minor-accused-of-aggravated-assault-dangerous-offense-by-holding-a-gun-on-officers-conducting-a-search-warrant-at-mothers-apartment.md
   - type: FeaturedTestimonialsSection
     elementId: ''
     showDate: true
