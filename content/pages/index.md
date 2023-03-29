@@ -164,8 +164,8 @@ sections:
     elementId: hero-button-grid
     title: |+
       <h3>
-      <span>Blumberg & Associates</span>
-      <strong>Arizona Board-Certified Criminal Law Specialist</strong>
+      <span>Blumberg & Associates </span>
+      <strong>Phoenix, Arizona Board-Certified Criminal Law Specialist</strong>
       </h3>
 
     subtitle: Choose A Law Practice Area To Learn How We Can Help You.
