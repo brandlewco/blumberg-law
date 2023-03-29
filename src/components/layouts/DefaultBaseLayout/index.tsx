@@ -63,7 +63,13 @@ export default function DefaultBaseLayout(props) {
                         }`}} />
                     <meta name="viewport" content="width=device-width, initial-scale=1" />
                     {site.favicon && <link rel="icon" href={site.favicon} />}
-                    <link rel="stylesheet" href="https://use.typekit.net/yxh4eie.css"></link>
+                <link rel="preconnect" href="https://use.typekit.net" crossorigin />
+                <link rel="preconnect" href="https://p.typekit.net" crossorigin />
+                <link rel="preload" as="style" href="https://use.typekit.net/yxh4eie.css" />
+                <link rel="stylesheet" href="https://use.typekit.net/yxh4eie.css" media="print" onload="this.media='all'" />
+                <noscript>
+                    <link rel="stylesheet" href="https://use.typekit.net/yxh4eie.css" />
+                </noscript>
                 </Head>
                 {site.header && <Header {...site.header} annotationPrefix={siteMeta.id} />}
                 {props.children}
