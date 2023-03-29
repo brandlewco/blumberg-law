@@ -174,14 +174,14 @@ sections:
         actions:
           - type: Button
             label: |+
-              #### Drug Crimes
+              #### Sex Crimes
 
             showIcon: true
-            url: /phoenix-criminal-attorney/drug-crimes/
+            icon: sexCrime
+            url: /phoenix-criminal-attorney/sex-crimes/
             style: secondary
             iconPosition: left
-            icon: drugCrime
-            altText: Drug Crimes Criminal Defense Attorney
+            altText: Sex Crimes Criminal Defense Attorney
         styles:
           self:
             textAlign: left
@@ -191,14 +191,14 @@ sections:
         actions:
           - type: Button
             label: |+
-              #### Sex Crimes
+              #### Drug Crimes
 
             showIcon: true
-            icon: sexCrime
-            url: /phoenix-criminal-attorney/sex-crimes/
+            url: /phoenix-criminal-attorney/drug-crimes/
             style: secondary
             iconPosition: left
-            altText: Sex Crimes Criminal Defense Attorney
+            icon: drugCrime
+            altText: Drug Crimes Criminal Defense Attorney
         styles:
           self:
             textAlign: left
