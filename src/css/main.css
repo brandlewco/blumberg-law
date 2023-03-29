@@ -25,7 +25,7 @@
         @apply text-3xl lg:text-5xl;
     }
     h3 {
-        @apply text-2xl lg:text-4xl flex flex-col;
+        @apply text-2xl lg:text-4xl;
     }
     h4 {
         @apply text-2xl lg:text-3xl
