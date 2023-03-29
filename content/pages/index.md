@@ -427,7 +427,7 @@ sections:
     type: MediaGallerySection
     aspectRatio: auto
   - elementId: ''
-    colors: colors-d
+    colors: colors-b
     variant: variant-b
     title: |+
       ## Contact An **Experienced** Phoenix Criminal Attorney Today
