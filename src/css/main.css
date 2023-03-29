@@ -16,7 +16,7 @@
     h5,
     h6 {
         @apply break-words font-bold;
-        line-height: 0.75 !important;
+        line-height: 1em !important;
     }
     h1, .h1 {
         @apply text-3xl lg:text-6xl flex flex-col leading-tight;
