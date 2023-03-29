@@ -187,6 +187,25 @@ sections:
             textAlign: left
             alignItems: center
             justifyContent: center
+      - elementId: ''
+        subtitle: ''
+        actions:
+          - label: |+
+              #### Child Custody
+
+            altText: Child Custody & Parenting Time Family Law Attorney
+            url: /phoenix-family-attorney/child-custody-parenting-time/
+            showIcon: true
+            icon: childCustody
+            iconPosition: left
+            style: secondary
+            elementId: ''
+            type: Button
+        styles:
+          self:
+            textAlign: left
+            alignItems: center
+            justifyContent: center
       - type: FeaturedItem
         actions:
           - type: Button
@@ -248,25 +267,6 @@ sections:
             url: /phoenix-criminal-attorney/white-collar-crimes/
             showIcon: true
             icon: whiteCollarCrime
-            iconPosition: left
-            style: secondary
-            elementId: ''
-            type: Button
-        styles:
-          self:
-            textAlign: left
-            alignItems: center
-            justifyContent: center
-      - elementId: ''
-        subtitle: ''
-        actions:
-          - label: |+
-              #### Child Custody
-
-            altText: Child Custody & Parenting Time Family Law Attorney
-            url: /phoenix-family-attorney/child-custody-parenting-time/
-            showIcon: true
-            icon: childCustody
             iconPosition: left
             style: secondary
             elementId: ''
