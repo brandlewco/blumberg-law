@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: Dangerous Crimes Have Serious Legal Consequences | Phoenix Criminal Defense
+metaTitle: Dangerous Crimes Have Serious Legal Consequences | Phoenix
 addTitleSuffix: false
 metaTags:
   - type: MetaTag
