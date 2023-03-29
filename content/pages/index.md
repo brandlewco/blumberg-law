@@ -619,7 +619,7 @@ sections:
     actions:
       - label: |
           Contact Us Now
-        altText: Bruce Blumberg Attorney Profile
+        altText: contact us now
         url: /contact-us/
         showIcon: true
         icon: arrowRight
