@@ -1,7 +1,7 @@
 ---
 layout: PostLayout
 metaTitle: null
-addTitleSuffix: true
+addTitleSuffix: false
 metaTags:
   - type: MetaTag
     property: 'og:type'
@@ -26,6 +26,7 @@ metaDescription: null
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
+
 Buying a house is a rewarding and life changing experience for many new and even experienced buyers. With mortgages, however, it is incredibly important to be as scrupulous as possible throughout the whole process, as it is easier than one might think to accidentally commit mortgage fraud. While most crimes are clear in nature like stealing, or causing physical harm to another, mortgage fraud has a wide range from organized intentional schemes all the way to accidental omission and improper filings. Fortunately, in any case, there is always help to mitigate the stress being experienced by such heavy accusations.
 
 ## What is a Mortgage?

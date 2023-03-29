@@ -1,7 +1,7 @@
 ---
 layout: PostLayout
 metaTitle: null
-addTitleSuffix: true
+addTitleSuffix: false
 metaTags:
   - type: MetaTag
     property: 'og:type'
@@ -26,6 +26,7 @@ metaDescription: >-
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
+
 Divorce or dissolution of marriage is the process necessary to legally end a marriage. [Divorce ](https://azblumberglaw.com/phoenix-family-attorney/divorce/)proceedings may take into account how assets, property and debt may be split, as well as how the custody of children will be handled.
 
 ## Where do I get a divorce in Arizona?
@@ -46,7 +47,7 @@ You must have been a resident of Arizona for at least 90 days (or a member of th
 
 In order to divide the assets acquired during the marriage, each party is required to file an Affidavit of Financial Information. The document requires you (and your spouse) to detail your financial situation, including employment, assets, liabilities, monthly expenses and so on. You may be required to submit documents like pay stubs and tax returns
 
-## How long do I have to wait to get a divorce  in Arizona?
+## How long do I have to wait to get a divorce in Arizona?
 
 Under state law (section 25-329, Arizona Revised  Statutes), a divorce cannot be granted by the court for at least 60 days after the first court papers are delivered to the other spouse. If both parties agree to the terms of the divorce, it can be finalized after the 60 day waiting period.
 

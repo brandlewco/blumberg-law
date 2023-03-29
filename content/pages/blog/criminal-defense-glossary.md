@@ -1,7 +1,7 @@
 ---
 layout: PostLayout
 metaTitle: null
-addTitleSuffix: true
+addTitleSuffix: false
 metaTags:
   - type: MetaTag
     property: 'og:type'
@@ -27,6 +27,7 @@ metaDescription: >-
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
+
 The law is a language unto itself. In modern times, we refer to the language of courtrooms, pleadings, and laws as “legalese.” This term is no more than a playful characterization of legal jargon. And while it may take several years of law school to truly ascertain the technical meanings of judicial terms, the following is a glossary of the more common ones.
 
 ## Common Judicial Terms

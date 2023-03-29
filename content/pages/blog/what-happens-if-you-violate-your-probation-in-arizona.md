@@ -1,7 +1,7 @@
 ---
 layout: PostLayout
 metaTitle: null
-addTitleSuffix: true
+addTitleSuffix: false
 metaTags:
   - type: MetaTag
     property: 'og:type'
@@ -27,6 +27,7 @@ metaDescription: >-
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
+
 Violating your probation can be a serious offense in Arizona. If you are on probation and you violate the terms, it could land you in jail or even prison depending on whether your original or new charge was a felony. If you don’t want to find yourself behind bars, it’s imperative to retain an experienced [Phoenix parole & probation violation attorney](https://azblumberglaw.com/phoenix-criminal-attorney/parole-probation-violations/) right away.
 
 At Blumberg & Associates, we help clients with their probation and parole violations. Our goal is to help mitigate the consequences and keep you from facing significant time in jail or prison. Because your freedom is at stake, you need an attorney who specializes in handling these types of matters.
@@ -35,25 +36,25 @@ At Blumberg & Associates, we help clients with their probation and parole violat
 
 Depending on the terms of your probation, there are a number of things can lead to a violation. These include:
 
-*   Missing a drug test or testing positive
+- Missing a drug test or testing positive
 
-*   Committing a brand-new crime
+- Committing a brand-new crime
 
-*   Not checking in with your probation officer or the judge
+- Not checking in with your probation officer or the judge
 
-*   Not complying with a court order
+- Not complying with a court order
 
-*   Drinking when your probation strictly prohibited it
+- Drinking when your probation strictly prohibited it
 
-*   Not paying court fines or fees
+- Not paying court fines or fees
 
-*   Contacting someone you were ordered to have no contact with
+- Contacting someone you were ordered to have no contact with
 
-*   Removing your security monitoring device
+- Removing your security monitoring device
 
-*   Failure to appear at a scheduled court hearing
+- Failure to appear at a scheduled court hearing
 
-*   Not completing required counseling sessions
+- Not completing required counseling sessions
 
 Some probation violations may only lead to a warning while others are more serious. It’s important to understand that most infractions are taken seriously. Your probation officer may request a hearing anyway rather than just issuing a warning. This is one reason why you want to retain a knowledgeable Phoenix probation violation attorney to assist you.
 

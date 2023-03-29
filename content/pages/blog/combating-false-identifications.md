@@ -1,7 +1,7 @@
 ---
 layout: PostLayout
 metaTitle: null
-addTitleSuffix: true
+addTitleSuffix: false
 metaTags:
   - type: MetaTag
     property: 'og:type'
@@ -26,6 +26,7 @@ metaDescription: >-
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
+
 ## INSTRUCTING AND INFORMING THE JURY
 
 Dedicated to the late Robert Shomer
@@ -54,7 +55,7 @@ Only a decade ago, a federal district court, refusing a defense request for expe
 
 > On a daily basis the average juror is personally faced with innumerable questions of memory and cognition, as everyone in their daily lives is called upon to store, encode, and retrieve information he or she has been subjected to. Although the average juror may not understand the scientific basis and labels attached to causes for memory errors, jurors inevitably encounter the frailties of memory as a commonplace matter of course.
 
-*United States v. Libby*, 461 F. Supp. 2d 3, 12 (D.D.C. 2006). Yet, despite the *Libby* Court’s laissez faire attitude toward eyewitness identification, it is the single greatest cause of false convictions in the United States. The Innocence Project has noted that “\[m]istaken eyewitness identifications contributed to approximately 70% of the more than 350 wrongful convictions in the United States overturned by post-conviction DNA evidence.”
+_United States v. Libby_, 461 F. Supp. 2d 3, 12 (D.D.C. 2006). Yet, despite the *Libby* Court’s laissez faire attitude toward eyewitness identification, it is the single greatest cause of false convictions in the United States. The Innocence Project has noted that “\[m]istaken eyewitness identifications contributed to approximately 70% of the more than 350 wrongful convictions in the United States overturned by post-conviction DNA evidence.”
 
 Wrongful convictions based largely on errors in eyewitness identification have plagued American criminal courts for decades. Today, two websites in the United States track such wrongful convictions and their causes: the Innocence Project (www.innocenceproject.org) and the National Registry of Exonerations (www.law.umich.edu/special/exoneration/Pages/about.aspx). These archival studies have uniformly shown that eyewitness error plays a prominent role in leading to wrongful convictions. The early archival studies of factors contributing to wrongful convictions made clear that eyewitness errors were a problem for the justice system, one that the more modern archival studies and the records kept by the Innocence Project and National Registry clearly show has continued, seemingly unabated.
 
@@ -78,7 +79,7 @@ The Supreme Court accepted certiorari to determine whether the identification pr
 
 > The Government characterizes the lineup as a mere preparatory step in the gathering of the prosecution’s evidence, not different—for Sixth Amendment purposes—from various other preparatory steps, such as systematized or scientific analyzing of the accused’s fingerprints, blood sample, clothing, hair, and the like. We think there are differences which preclude such stages being characterized as critical stages at which the accused has the right to the presence of his counsel.
 
-*Id*. at 227. Most notably, the Court noted that the right to counsel was critical to a defendant’s ability to present expert testimony:
+_Id_. at 227. Most notably, the Court noted that the right to counsel was critical to a defendant’s ability to present expert testimony:
 
 > Knowledge of the techniques of science and technology is sufficiently available, and the variables in techniques few enough, that the accused has the opportunity for a meaningful confrontation of the Government’s case at trial through the ordinary processes of cross-examination of the Government’s expert witnesses and the presentation of the evidence of his own experts.
 
@@ -86,9 +87,9 @@ The Supreme Court accepted certiorari to determine whether the identification pr
 
 > The pretrial confrontation for purpose of identification may take the form of a lineup, also known as an ‘identification parade’ or ‘showup,’ as in the present case, or presentation of the suspect alone to the witness, as in *Stovall v. Denno, supra*. It is obvious that risks of suggestion attend either form of confrontation and increase the dangers inhering in eyewitness identification. But as is the case with secret interrogations, there is serious difficulty in depicting what transpires at lineups and other forms of identification confrontations. ‘Privacy results in secrecy and this in turn results in a gap in our knowledge as to what in fact goes on \* \* \*.’ For the same reasons, the defense can seldom reconstruct the manner and mode of lineup identification for judge or jury at trial. Those participating in a lineup with the accused may often be police officers; in any event, the participants’ names are rarely recorded or divulged at trial. The impediments to an objective observation are increased when the victim is the witness. Lineups are prevalent in rape and robbery prosecutions and present a particular hazard that a victim’s understandable outrage may excite vengeful or spiteful motives. In any event, neither witnesses nor lineup participants are apt to be alert for conditions prejudicial to the suspect.
 
-*Id*. at 229-30 (footnotes and citations omitted).
+_Id_. at 229-30 (footnotes and citations omitted).
 
-*Stovall v. Denno*. The Supreme Court decided *Stovall v. Denno*, 388 U.S. 293 (1967), the same day as *Wade*. In *Stovall*, an assailant attacked Dr. Paul Behrendt and his wife in their New York home, killing Dr. Behrendt and seriously injuring his wife. The next day, police officers arrested the defendant, Theodore Stovall. He was quickly arraigned and counsel appointed. However, the day after his arrest, officers took Stovall to the hospital room. There, chained to a police officer, the officers asked Mrs. Behrendt if Stovall–the only African-American in the room–whether he was her assailant. She responded in the affirmative.
+_Stovall v. Denno_. The Supreme Court decided *Stovall v. Denno*, 388 U.S. 293 (1967), the same day as *Wade*. In *Stovall*, an assailant attacked Dr. Paul Behrendt and his wife in their New York home, killing Dr. Behrendt and seriously injuring his wife. The next day, police officers arrested the defendant, Theodore Stovall. He was quickly arraigned and counsel appointed. However, the day after his arrest, officers took Stovall to the hospital room. There, chained to a police officer, the officers asked Mrs. Behrendt if Stovall–the only African-American in the room–whether he was her assailant. She responded in the affirmative.
 
 Stovall’s death penalty conviction was affirmed by New York’s high court, and Stovall instituted post-conviction proceedings. The Supreme Court accepted certiorari of the Second Circuit’s denial of his post-conviction proceedings.
 
@@ -100,19 +101,19 @@ In another decision by Justice Brennan, the Court held that *Wade* did not hav
 
 Ironically, the Supreme Court, while finally choosing to address the critical issue of misidentifications, still did not comprehend the extent of the problems, with its focus solely on the process and little emphasis on the likelihood of misidentifications. A “single person” identification process was problematic, but the problems with this identification are far more problematic than that single issue. Among other things:
 
-*   It was a “single” person identification;
+- It was a “single” person identification;
 
-*   The single person was of a different race than the victim;
+- The single person was of a different race than the victim;
 
-*   The single person was chained to a police officer;
+- The single person was chained to a police officer;
 
-*   Ms. Behrendt had never met Stovall before; and
+- Ms. Behrendt had never met Stovall before; and
 
-*   Mrs. Behrendt’s first interaction with Stovall was under highly stressful circumstances (to say the least).
+- Mrs. Behrendt’s first interaction with Stovall was under highly stressful circumstances (to say the least).
 
 This author has attempted to determine the fate of Theodore Stovall. He does not appear on lists of persons executed in the United States, so it does not appear that his death sentence was carried out. There was other evidence linking him to the crime scene, but the key evidence at his trial was this identification. Notably, the Supreme Court overruled its retroactivity portion of *Stovall* in *Griffith v. Kentucky,* 479 U.S. 314 (1987).
 
-*Neil v. Biggers*. In *Neil v. Biggers*, 409 U.S. 188 (1972), the Supreme Court revisited the due process issue. In that matter, a youth, Archie Biggers, attacked a woman in her kitchen after dark one evening. He dragged her from her home and raped her, the entire incident occurring over the course of 15-30 minutes. The victim generally described her assailant as a young man (16-18 years of age), overweight, with a dark brown complexion. During the course of the investigation, police showed the victim approximately 30-40 individuals.
+_Neil v. Biggers_. In *Neil v. Biggers*, 409 U.S. 188 (1972), the Supreme Court revisited the due process issue. In that matter, a youth, Archie Biggers, attacked a woman in her kitchen after dark one evening. He dragged her from her home and raped her, the entire incident occurring over the course of 15-30 minutes. The victim generally described her assailant as a young man (16-18 years of age), overweight, with a dark brown complexion. During the course of the investigation, police showed the victim approximately 30-40 individuals.
 
 Seven months later, police arrested Biggers on unrelated charges. Recognizing his relative similarity to the victim’s description, police attempted to do a lineup, but could not locate individuals matching Biggers’ general description. Accordingly, they brought the victim to the police station and did a “show-up”–two detectives walked Biggers past the victim, instructing him to say a few words. The victim identified Biggers as her assailant.
 
@@ -134,11 +135,11 @@ This trilogy of cases remains the bulwark of Supreme Court jurisprudence on eyew
 
 Several lessons emerge from these cases:
 
-*   Federal constitutional law was more concerned with procedural aspects of identification, rather than the possibility of substantive error;
+- Federal constitutional law was more concerned with procedural aspects of identification, rather than the possibility of substantive error;
 
-*   Only in extremely rare cases would due process result in a finding that an identification was unreliable, and would focus on “suggestiveness” more than actual underlying facts indicating a faulty identification; but
+- Only in extremely rare cases would due process result in a finding that an identification was unreliable, and would focus on “suggestiveness” more than actual underlying facts indicating a faulty identification; but
 
-*   The Court laid the foundation for identification challenges to identification at trial, including expert testimony and properly instructed juries.
+- The Court laid the foundation for identification challenges to identification at trial, including expert testimony and properly instructed juries.
 
 The Supreme Court reaffirmed these conclusions in *Perry v. New Hampshire*, 565 U.S. 228 (2012). There, Nassau, New Hampshire police detained an African-American male, Barion Perry, one night on suspicion of breaking and entering automobiles in the parking lot of an apartment building. One of the vehicle owners told police that her vehicle had been burglarized, and told the officers that the person she saw was “standing in the parking lot,” where the police had detained Perry. When showed a photo lineup a month later, this person was unable to identify Perry.
 
@@ -168,7 +169,7 @@ Nonetheless, the Court agreed that Dessureault was entitled to a jury instructio
 
 > \[I]f requested, the court must instruct the jury that before returning a verdict of guilty it must be satisfied beyond a reasonable doubt that the in-court identification was independent of the previous pretrial identification or if not derived from an independent source, it must find from other evidence in the case that the defendant is the guilty person beyond a reasonable doubt.
 
-*Id*. at 384. The Court specifically rejected Dessureault’s request for an instruction that “the jurors* *must be satisfied beyond a reasonable doubt as to the accuracy of Wilkins’ identification.” *Id*. at 387.
+_Id_. at 384. The Court specifically rejected Dessureault’s request for an instruction that “the jurors\* *must be satisfied beyond a reasonable doubt as to the accuracy of Wilkins’ identification.” *Id\*. at 387.
 
 In short, the Arizona Supreme Court did not require an instruction on the inherent issues with eyewitness identification; rather, the Court focused solely on the relationship between the earlier identification and that made in-court.
 
@@ -188,7 +189,7 @@ The State must prove beyond a reasonable doubt that the in-court identification 
 
 6.  any other factor that affects the reliability of the identification. If you determine that the in-court identification of the defendant at this trial is not reliable, then you must not consider that identification.
 
-*Arizona Recommended Jury Instructions (Criminal), No. 39*.
+_Arizona Recommended Jury Instructions (Criminal), No. 39_.
 
 Notably, in *Perry, supra*, the United States Supreme Court praised this jury instruction as an example of an appropriate “safeguard” to misidentification. *See Perry*, 565 U.S. at 247 n. 7.
 
@@ -212,7 +213,7 @@ According to the Innocence Project, “eyewitness misidentification is the great
 
 > Researchers have found that a staggering 76% of the first 250 convictions overturned due to DNA evidence since 1989 involved eyewitness misidentification. Study after study demonstrates that eyewitness recollections are highly susceptible to distortion by post-event information or social cues; that jurors routinely overestimate the accuracy of eyewitness identifications; \[and] that jurors place the greatest weight on eyewitness confidence in assessing identifications even though confidence is a poor gauge of accuracy….
 
-*Perry*, 565 U.S. 263-64 (Sotomayor, J., dissenting) (footnotes omitted); *see also* 565 U.S. at 252 (majority acknowledging same concern and citing this portion of dissent).
+_Perry_, 565 U.S. 263-64 (Sotomayor, J., dissenting) (footnotes omitted); *see also* 565 U.S. at 252 (majority acknowledging same concern and citing this portion of dissent).
 
 Nonetheless, most States have been satisfied to maintain the typically antiquated jury instructions and rules regarding eyewitness testimony–including Arizona. The exceptions to these rules are bicoastal–New Jersey and Oregon.
 
@@ -240,13 +241,13 @@ The Court considered the plethora of recent academic literature and studies, inc
 
 > For the larger London study, 39% of eyewitnesses identified the suspect, 20% identified a filler, and 41% made no identification. *See* Wright & McDaid, *supra,* at 77. Thus, about one-third of eyewitnesses who made an identification (20 of 59) in real police investigations wrongly selected an innocent filler. The results were comparable for the Valentine study. *See* Valentine, *supra,* at 974. Across both Sacramento studies, 51% of eyewitnesses identified the suspect, 16% identified a filler, and 33% identified no one. *See* Behrman & Davey, *supra,* at 482; Behrman & Richards, *supra,* at 285. In other words, nearly 24% of those who made an identification (16 of 67) mistakenly identified an innocent filler.
 
-*Henderson*, 27 A.3d at 886-87.
+_Henderson_, 27 A.3d at 886-87.
 
 > The *Henderson* Court specifically noted one of the biggest issues with eyewitness testimony: the witness doesn’t know that she or he is wrong!
 
 > We presume that jurors are able to detect liars from truth tellers. But as scholars have cautioned, most eyewitnesses think they are telling the truth even when their testimony is inaccurate, and “\[b]ecause the eyewitness is testifying honestly (i.e., sincerely), he or she will not display the demeanor of the dishonest or biased witness.” *See* Jules Epstein, *The Great Engine that Couldn’t: Science, Mistaken Identity, and the Limits of Cross–Examination,* 36 *Stetson L.Rev.* 727, 772 (2007). Instead, some mistaken eyewitnesses, at least by the time they testify at trial, exude supreme confidence in their identifications.
 
-*Id*. at 889.
+_Id_. at 889.
 
 Following its extensive review of the science (as well as legal history of identification law), the New Jersey high court identified the following factors that impact eyewitness identification, in two groups: (1) those within the state’s control, and (2) “external” factors.
 
@@ -394,17 +395,17 @@ Currently, the use of expert testimony regarding eyewitness identification is fr
 
 > *Ferensic v. Birkett,* 501 F.3d 469, 482 (6th Cir.2007) (‘expert testimony on eyewitness identifications \* \* \* is now universally recognized as scientifically valid and of aid \[to] the trier of fact for admissibility purposes’); *United States v. Smithers,* 212 F.3d 306, 313 (6th Cir.2000) (noting that ‘the science of eyewitness perception has achieved the level of exactness, methodology and reliability of any psychological research’); *United States v. Moore,* 786 F.2d 1308, 1312 (5th Cir.1986) (This \[c]ourt accepts the modern conclusion that the admission of expert testimony regarding eyewitness identifications is proper. \* \* \* We cannot say \[that] such scientific data \[are] inadequate or contradictory. The scientific validity of the studies confirming the many weaknesses of eyewitness identification cannot be seriously questioned at this point.’); *United States v. Downing,* 753 F.2d 1224, 1242 (3d Cir.1985) (noting ‘the proliferation of empirical research demonstrating the pitfalls of eyewitness identification’ and that ‘the consistency of the results of these studies is impressive’); *United States v. Feliciano,* United States District Court, Docket No. CR–08–0932–01 PHX–DGC \[2009 WL 3748588] (D.Ariz. Nov 5, 2009) (‘\[t]he degree of acceptance \[of the scientific data on the reliability of eyewitness identifications] within the scientific community … is substantial’); *People v. McDonald,* 37 Cal.3d 351, 364–65, 690 P.2d 709, 208 Cal.Rptr. 236 (1984) (‘\[E]mpirical studies of the psychological factors affecting eyewitness identification have proliferated, and reports of their results have appeared at an ever-accelerating pace in the professional literature of the behavioral and social sciences. \* \* \* The consistency of the results of these studies is impressive, and the courts can no longer remain oblivious to their implications for the administration of justice.’), *overruled in part on other grounds by People v. Mendoza,* 23 Cal.4th 896, 4 P.3d 265, 98 Cal.Rptr.2d 431 (2000); *Brodes v. State,* 279 Ga. 435, 440–41, 614 S.E.2d 766 (2005) (scientific validity of research studies concerning unreliability of eyewitness identifications is well established); *State v. Henderson,* 208 N.J. 208, 218, 27 A3d 872 (2011) (noting that, ‘\[f]rom social science research to the review of actual police lineups, from laboratory experiments to DNA exonerations, \[scientific research and studies demonstrate] that the possibility of mistaken identification is real,’ that many studies reveal ‘a troubling lack of reliability in eyewitness identifications,’ and that ‘\[t]hat evidence offers convincing proof that the current test for evaluating the trustworthiness of eyewitness identifications should be revised’); *People v. LeGrand,* 8 N.Y.3d 449, 455, 867 N.E.2d 374, 835 N.Y.S.2d 523 (2007) (‘\[E]xpert psychological testimony on eyewitness identification \[is] sufficiently reliable to be admitted, and the vast majority of academic commentators have urged its acceptance. \* \* \* \[P]sychological research data \[are] by now abundant, and the findings based \[on the data] concerning cognitive factors that may affect identification are quite uniform and well documented. \* \* \* ’); *State v. Copeland,* 226 S.W.3d 287, 299 (Tenn.2007) (‘\[s]cientifically tested studies, subject to peer review, have identified legitimate areas of concern’ in area of eyewitness identifications); *Tillman v. State,* 354 S.W.3d 425, 441 (Tex.Crim.App.2011) (‘\[E]yewitness identification has continued to be troublesome and controversial as the outside world and modern science have cast doubt on this crucial piece of evidence.\* \* \* \[A] vast body of scientific research about human memory has emerged. That body of work casts doubt on some commonly held views relating to memory \* \* \*.’); *State v. Clopten,* 223 P.3d 1103, 1108 (Utah 2009) (‘empirical research has convincingly established that expert testimony is necessary in many cases to explain the possibility of mistaken eyewitness identification’); *State v. Dubose,* 285 Wis.2d 143, 162, 699 N.W.2d 582 (2005) (‘\[o]ver the last decade, there have been extensive studies on the issue of identification evidence’).
 
-*State v. Lawson*, 291 P.3d 673, 695 (Ore. 2012).
+_State v. Lawson_, 291 P.3d 673, 695 (Ore. 2012).
 
 This has not always been the case. There were two primary rationales given for excluding expert testimony on eyewitness identification:
 
 > In general, however, jurors understand that memory can be less than perfect\[, and] the credibility of eyewitness testimony is generally not an appropriate subject matter for expert testimony because it influences a critical function of the jury—determining the credibility of witnesses.
 
-*United States v. Carter*, 410 F.3d 942, 950–51 (7th Cir. 2005). In 1993—well after research showing the fallacy of eyewitness identification was widespread—the Pennsylvania Supreme Court categorically excluded expert testimony on the topic:
+_United States v. Carter_, 410 F.3d 942, 950–51 (7th Cir. 2005). In 1993—well after research showing the fallacy of eyewitness identification was widespread—the Pennsylvania Supreme Court categorically excluded expert testimony on the topic:
 
 > Expert opinion may not be allowed to intrude upon the jury’s basic function of deciding credibility. \[¶] Spence argues that because the expert was going to attack rather than enhance the credibility of the victim, Ogrod, his testimony was permissible. Whether the expert’s opinion is offered to attack or to enhance, it assumes the same impact—an unwarranted appearance of authority in the subject of credibility which is within the facility of the ordinary juror to assess.
 
-*Commonwealth v. Spence*, 627 A.2d 1176, 1182 (Pa. 1993) (citations and quotation omitted).
+_Commonwealth v. Spence_, 627 A.2d 1176, 1182 (Pa. 1993) (citations and quotation omitted).
 
 Arizona courts have not yet adopted a cohesive position on the issue. In *State v. Chapple*, 135 Ariz. 281, 660 P.2d 1208 (1983), the Arizona Supreme Court reversed a death penalty conviction, finding that, under the facts of the particular case, the trial court had erred in precluding the testimony of Dr. Loftus. However, the Court cautioned:
 
@@ -414,13 +415,13 @@ Arizona courts have not yet adopted a cohesive position on the issue. In *State
 
 In *State v. Forde*, 233 Ariz. 543, 315 P.3d 1200 (2014), the Supreme Court upheld significant restrictions on the eyewitness expert, Dr. Geoffrey Loftus (Dr. Elizabeth Loftus’ son), holding that the trial court properly precluded him from commenting on the facts of the particular case, even through the presentation of hypotheticals. *Id*. at 562, ¶¶ 67-68, 315 P.3d at 1219.
 
-*The Cross-Examination Trap*. Courts have also found other excuses for limiting or precluding this expert testimony. Most notably is the proposition that the availability of cross-examination and jury instructions can substitute for expert testimony:
+_The Cross-Examination Trap_. Courts have also found other excuses for limiting or precluding this expert testimony. Most notably is the proposition that the availability of cross-examination and jury instructions can substitute for expert testimony:
 
 “\[R]equirements of corroboration, cross-examination, and jury instructions have often been proposed as alternative remedies to expert testimony on eyewitness reliability.” Christopher M. Walters, Comment, *Admission of Expert Testimony on Eyewitness Identification,* 73 Calif.L.Rev. 1402, 1403 (1985)). Even the District of Columbia Circuit, in its seminal decision in *Benn v. United States*, stated:
 
 > In making that determination, a trial judge must consider whether expert testimony is the only means, or a particularly effective way, to address and correct common juror misconceptions about the reliability of the eyewitness identifications in the case. Thus, as we have previously recognized, there are certain cases where cross-examination may suffice to test the reliability of the identification made by an eyewitness.
 
-*Benn v. United States*, 978 A.2d 1257, 1279–80 (D.C. 2009).
+_Benn v. United States_, 978 A.2d 1257, 1279–80 (D.C. 2009).
 
 Of course, cross-examination is rarely an effective means of testing identification testimony, as the witness is generally unaware of why her or his testimony may be inaccurate.
 
@@ -432,19 +433,17 @@ One of the best experts on eyewitness identification ever was Robert Shomer, Ph.
 
 **Conclusion**
 
-
-
 I leave you with the following strategy tips and concerns at every trial where eyewitness identification is an issue:
 
-***Tip No. 1:*** Do not rely on RAJI No. 39 (or any similar instruction from your jurisdiction). Offer a jury instruction that includes every factor, both System Variables and Estimator Variables.
+**_Tip No. 1:_** Do not rely on RAJI No. 39 (or any similar instruction from your jurisdiction). Offer a jury instruction that includes every factor, both System Variables and Estimator Variables.
 
-***Tip No. 2:*** Retain an expert. If you are appointed or *Knapp* counsel, do not hesitate to ask for funds for such an expert. *Jacobson v. Anderson*, 203 Ariz. 543, 57 P.3d 733 (App. 2002).
+**_Tip No. 2:_** Retain an expert. If you are appointed or *Knapp* counsel, do not hesitate to ask for funds for such an expert. *Jacobson v. Anderson*, 203 Ariz. 543, 57 P.3d 733 (App. 2002).
 
-***Tip. No. 3:*** Ensure that your expert will not run afoul of the *Daubert* requirements of Rule of Evidence 702.
+**_Tip. No. 3:_** Ensure that your expert will not run afoul of the *Daubert* requirements of Rule of Evidence 702.
 
-***Tip. No. 4:*** Be prepared to defend an assertion by the State that cross-examination and jury instructions are adequate ways of bringing issues of eyewitness identification to the jury.
+**_Tip. No. 4:_** Be prepared to defend an assertion by the State that cross-examination and jury instructions are adequate ways of bringing issues of eyewitness identification to the jury.
 
-***Tip No 5:*** Make full use of your expert! Do not simply use her or him to testify. Use either an affidavit or testimony from your expert to support your proposed jury instruction.
+**_Tip No 5:_** Make full use of your expert! Do not simply use her or him to testify. Use either an affidavit or testimony from your expert to support your proposed jury instruction.
 
 1 Robert W. Shomer was an esteemed psychologist licensed in the State of California, who was an expert in the field in Eyewitness Perception, Memory and Identification. He graduated from U.C.L.A. with honors with a B.A. in psychology and received his Ph.D. in psychology from U.C.L.A. in 1966. Upon receiving his Doctorate, he was offered several faculty appointments, including positions at Harvard, Yale, Dartmouth, Johns Hopkins, and the University of Texas. He accepted a position at Harvard University and was appointed to the faculty with concurrent appointments in the Departments of Psychology, Social Relations, and General Education. He served as an Assistant Professor on the faculty at Harvard University for five years. Bob taught at various other colleges and universities; engaged in research; and qualified and testified as an expert witness in memory, perception, and eyewitness identification on innumerable occasions in many jurisdictions.
 
@@ -453,4 +452,3 @@ I leave you with the following strategy tips and concerns at every trial where e
 3 Kansas and Louisiana still appear to adhere to the per se inadmissibility of such evidence. See State v. Gaines, 926 P.2d 641 (Kan. 1996); State v. Young, 35 So.3d 1042 (La.2010).
 
 4 The Court followed the lead of what is perceived to be the leading Ninth Circuit decision on the issue at the time, United States v. Amaral, 488 F.2d 1148 (9th Cir. 1973).
-

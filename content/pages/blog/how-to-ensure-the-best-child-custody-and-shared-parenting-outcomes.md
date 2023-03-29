@@ -1,7 +1,7 @@
 ---
 layout: PostLayout
 metaTitle: null
-addTitleSuffix: true
+addTitleSuffix: false
 metaTags:
   - type: MetaTag
     property: 'og:type'
@@ -28,6 +28,7 @@ metaDescription: >-
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
+
 Divorce and separations can be incredibly difficult for children, but the extent to which it affects their happiness and quality of life is in large part dependent on the behavior of parents. There are things you can do to improve your chances of obtaining the child custody outcome that’s in your children’s best interest while promoting a healthy relationship with your ex to minimize the anxiety and stress experienced by your kids during this emotional process.
 
 ## **Keeping Your Emotions in Check**
@@ -40,15 +41,15 @@ If you are attempting to get primary or sole custody it’s imperative to establ
 
 Establishing yourself as the responsible parent means being informed about every aspect of your children’s lives.
 
-*   Know your children’s teachers and stay apprised of their performance at school
+- Know your children’s teachers and stay apprised of their performance at school
 
-*   If you have time consider volunteering for school activities to show how involved you are
+- If you have time consider volunteering for school activities to show how involved you are
 
-*   Stay on top of your children’s health – know about any medications, allergies and who their doctors are
+- Stay on top of your children’s health – know about any medications, allergies and who their doctors are
 
-*   Know your children’s friends and their families, and do your best to keep them away from bad influences
+- Know your children’s friends and their families, and do your best to keep them away from bad influences
 
-*   Be involved with their hobbies, whether that’s a sport or something else
+- Be involved with their hobbies, whether that’s a sport or something else
 
 You will be asked by numerous people throughout the process about your children, and it’s important you be able to speak to who they are as people – their personality, struggles and interests. Knowing these things will establish you as a parent who truly cares about their children.
 

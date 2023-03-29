@@ -1,7 +1,7 @@
 ---
 layout: PostLayout
 metaTitle: null
-addTitleSuffix: true
+addTitleSuffix: false
 metaTags:
   - type: MetaTag
     property: 'og:type'
@@ -28,6 +28,7 @@ metaDescription: >-
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
+
 Possession of or the transmission of child pornography is a serious crime in Arizona, and is a heavily punished Felony nationwide, sometimes resulting in life imprisonment. Being such a serious crime, it is of utmost imperative to contact a criminal defense attorney immediately. If you suspect you have been wrongly accused with possession of or transmission of child pornography, or are wondering what your legal options are, it is of time-sensitive importance to contact an attorney as soon as possible. Child pornography accusations can drastically and dramatically alter someone’s life, as such is best resolved sooner and with expert advice.
 
 ## What is Child Pornography, and What is Possession of it ?
@@ -56,4 +57,4 @@ Resources:
 
 [https://www.justice.gov/criminal-ceos/child-pornography](https://justice.gov/criminal-ceos/child-pornography)
 
-[https://www.justice.gov/criminal-ceos/citizens-guide-us-federal-law-child-pornography#:~:text=Images%20of%20child%20pornography%20are,under%2018%20years%20of%20age).](https://www.justice.gov/criminal-ceos/citizens-guide-us-federal-law-child-pornography#:~:text=Images%20of%20child%20pornography%20are,under%2018%20years%20of%20age\).)
+[https://www.justice.gov/criminal-ceos/citizens-guide-us-federal-law-child-pornography#:~:text=Images%20of%20child%20pornography%20are,under%2018%20years%20of%20age).](<https://www.justice.gov/criminal-ceos/citizens-guide-us-federal-law-child-pornography#:~:text=Images%20of%20child%20pornography%20are,under%2018%20years%20of%20age).>)

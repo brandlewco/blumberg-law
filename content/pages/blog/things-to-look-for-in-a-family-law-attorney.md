@@ -1,7 +1,7 @@
 ---
 layout: PostLayout
 metaTitle: null
-addTitleSuffix: true
+addTitleSuffix: false
 metaTags:
   - type: MetaTag
     property: 'og:type'
@@ -29,6 +29,7 @@ metaDescription: >-
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
+
 Family law attorneys are your resource for a number of highly personal events in your life. Examples of family law services include adoption, child support, divorce, guardianship, marriage and more. At [Blumberg & Associates](https://azblumbergfamilylaw.com/attorney-bruce-e-blumberg-reviews/), we understand the family law attorney selection is one that you don’t take lightly. Here are some key elements we recommend looking for to ensure you find a quality attorney who can meet your needs.
 
 ## **Experience**
@@ -49,10 +50,10 @@ Dealing with the delicate matters that are often involved with family law requir
 
 When you are interviewing potential lawyers, think about how they come across. Some questions to ask yourself include:
 
-*   Does the person dress and speak in a professional manner?
+- Does the person dress and speak in a professional manner?
 
-*   Do they seem to represent your values?
+- Do they seem to represent your values?
 
-*   Could they serve as a representative of your concerns and family?
+- Could they serve as a representative of your concerns and family?
 
 If the answer is no, this family lawyer is likely not the best option for your case. Your family lawyer should always be courteous to you and your family. The law firm is ultimately providing a service. You should feel valued as a client and treated with an utmost level of professionalism.

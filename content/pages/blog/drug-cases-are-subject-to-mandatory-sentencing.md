@@ -1,7 +1,7 @@
 ---
 layout: PostLayout
 metaTitle: null
-addTitleSuffix: true
+addTitleSuffix: false
 metaTags:
   - type: MetaTag
     property: 'og:type'
@@ -27,6 +27,7 @@ metaDescription: >-
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
+
 Most drug cases don’t involve jury trials because ultimately the police discover a person holding a substantial amount of drugs and there’s not usually a way around the associated charges.
 
 In these cases, a client needs a defense attorney who can obtain the best deal possible from the circumstances. This means either no agreements or a probationary period that helps ease the burden.

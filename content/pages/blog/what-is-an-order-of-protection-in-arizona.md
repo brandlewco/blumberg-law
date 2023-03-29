@@ -1,7 +1,7 @@
 ---
 layout: PostLayout
 metaTitle: null
-addTitleSuffix: true
+addTitleSuffix: false
 metaTags:
   - type: MetaTag
     property: 'og:type'
@@ -27,31 +27,32 @@ metaDescription: >-
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
+
 An [order of protection](https://azblumberglaw.com/phoenix-family-attorney/orders-of-protection/) is issued by the court to limit the behavior of someone who harms or threatens to harm you.  You may apply for an order of protection if the defendant is connected to you in an intimate manner. For instance, the defendant must be your spouse or former spouse, roommate or former roommate, father or mother of your child or unborn child, a person you were formerly involved with on a romantic or sexual basis, a family member such as a parent, grandparent, brother, sister, etc. or your spouse’s family member.
 
 In order to apply for an order of protection, the defendant has either committed or is about to commit any of the following:
 
 ## Any of the following acts in which the defendant:
 
-*   endangers;
+- endangers;
 
-*   threatens or intimidates;
+- threatens or intimidates;
 
-*   assaults, including use of a dangerous weapon or causing serious bodily harm;
+- assaults, including use of a dangerous weapon or causing serious bodily harm;
 
-*   kidnaps or unlawfully imprisons;
+- kidnaps or unlawfully imprisons;
 
-*   interferes with the custody of a child unlawfully;
+- interferes with the custody of a child unlawfully;
 
-*   criminally trespasses or criminally damages; disorderly conduct or stalks;
+- criminally trespasses or criminally damages; disorderly conduct or stalks;
 
-*   abuses a child or vulnerable adult;
+- abuses a child or vulnerable adult;
 
-*   interferes with judicial proceedings;
+- interferes with judicial proceedings;
 
-*   uses a telephone to terrify, intimidate, threaten, harass, annoy, or offend;
+- uses a telephone to terrify, intimidate, threaten, harass, annoy, or offend;
 
-*   harasses
+- harasses
 
 In Arizona, orders of protection in the area of family law generally take one of two forms.
 

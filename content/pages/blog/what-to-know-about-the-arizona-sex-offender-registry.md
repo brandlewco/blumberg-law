@@ -1,7 +1,7 @@
 ---
 layout: PostLayout
 metaTitle: null
-addTitleSuffix: true
+addTitleSuffix: false
 metaTags:
   - type: MetaTag
     property: 'og:type'
@@ -27,6 +27,7 @@ metaDescription: >-
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
+
 In Arizona, there are over 20 different offenses that could land you on the Arizona Sex Offender Registry. A sex crime conviction is something that will follow you for the rest of your life. If you are facing charges of a sex offense in Arizona, you must contact an experienced [Phoenix sex crimes attorney](https://azblumberglaw.com/phoenix-criminal-attorney/sex-crimes/) right away.
 
 When you are convicted of a sex crime, you might be sentenced to probation or, in more severe cases, you’ll be facing mandatory prison time. In either situation, certain offenses will result in your name being added to the website Sex Offender Registry database. This is a public database, so anyone can look up your information if they choose. Also, the county sheriff’s office lets the community know what your assessed risk level is.
@@ -37,21 +38,21 @@ Notification can include distributing flyers with your information, including yo
 
 Some of the more common sexual offenses that require you to register with the county sheriff include:
 
-*   Sexual assault;
+- Sexual assault;
 
-*   Indecent exposure;
+- Indecent exposure;
 
-*   Molestation of a child;
+- Molestation of a child;
 
-*   Sexual conduct with a minor;
+- Sexual conduct with a minor;
 
-*   Sex abuse;
+- Sex abuse;
 
-*   Public sexual indecency;
+- Public sexual indecency;
 
-*   Taking a child for prostitution purposes; and
+- Taking a child for prostitution purposes; and
 
-*   Sexual exploitation of a minor.
+- Sexual exploitation of a minor.
 
 These crimes, as well as others, will follow you for the rest of your life. Being listed on the sex offender registry means you don’t have freedom of where to live, where you visit, who can be around you, etc.
 
@@ -59,15 +60,15 @@ These crimes, as well as others, will follow you for the rest of your life. Bein
 
 When you are required to register as a sex offender, you must:
 
-*   Provide your name and all your aliases;
+- Provide your name and all your aliases;
 
-*   Submit an electronic fingerprint;
+- Submit an electronic fingerprint;
 
-*   Provide a current photograph;
+- Provide a current photograph;
 
-*   List all your online identifying information, like screen names, e-mail addresses, etc.; and
+- List all your online identifying information, like screen names, e-mail addresses, etc.; and
 
-*   Provide a blood sample, which would be on file if you were in prison.
+- Provide a blood sample, which would be on file if you were in prison.
 
 You will be required to apply for a new driver’s license that lists your history, so the police know it if you are pulled over, and they run it. This license is only valid for a year, so it must be renewed every year.
 

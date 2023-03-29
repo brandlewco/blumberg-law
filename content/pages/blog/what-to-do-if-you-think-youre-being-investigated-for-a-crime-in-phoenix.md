@@ -1,7 +1,7 @@
 ---
 layout: PostLayout
 metaTitle: null
-addTitleSuffix: true
+addTitleSuffix: false
 metaTags:
   - type: MetaTag
     property: 'og:type'
@@ -27,6 +27,7 @@ metaDescription: >-
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
+
 If you believe you are under investigation for a crime, it’s imperative to be proactive and contact a skilled [Phoenix criminal attorney](https://azblumberglaw.com/phoenix-criminal-attorney/) right away. Obviously, most people will assume that is what any criminal defense attorney will tell you. However, there are numerous reasons why retaining an attorney early on is a better strategy.
 
 Depending on the circumstances of the alleged crime, hiring a defense attorney before you are charged means there is an opportunity for your attorney to keep them from filing charges in the first place. If no charges are ever filed, then there is no risk of having an arrest or criminal conviction on your record.
