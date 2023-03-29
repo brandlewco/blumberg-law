@@ -204,22 +204,6 @@ sections:
             textAlign: left
             alignItems: center
             justifyContent: center
-      - type: FeaturedItem
-        actions:
-          - type: Button
-            label: |+
-              #### Violent Crimes
-
-            showIcon: true
-            icon: violentCrime
-            url: /phoenix-criminal-attorney/violent-crimes/
-            style: secondary
-            iconPosition: left
-        styles:
-          self:
-            textAlign: left
-            justifyContent: center
-            alignItems: center
       - elementId: ''
         subtitle: ''
         actions:
@@ -239,6 +223,22 @@ sections:
             textAlign: left
             alignItems: center
             justifyContent: center
+      - type: FeaturedItem
+        actions:
+          - type: Button
+            label: |+
+              #### Violent Crimes
+
+            showIcon: true
+            icon: violentCrime
+            url: /phoenix-criminal-attorney/violent-crimes/
+            style: secondary
+            iconPosition: left
+        styles:
+          self:
+            textAlign: left
+            justifyContent: center
+            alignItems: center
       - elementId: ''
         subtitle: ''
         actions:
