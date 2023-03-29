@@ -618,7 +618,7 @@ sections:
     type: TextSection
     actions:
       - label: |
-          Attorney Profile
+          Contact Us Now
         altText: Bruce Blumberg Attorney Profile
         url: /attorney-profile
         showIcon: true
