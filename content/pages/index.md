@@ -187,6 +187,23 @@ sections:
             textAlign: left
             alignItems: center
             justifyContent: center
+      - type: FeaturedItem
+        actions:
+          - type: Button
+            label: |+
+              #### Drug Crimes
+
+            showIcon: true
+            url: /phoenix-criminal-attorney/drug-crimes/
+            style: secondary
+            iconPosition: left
+            icon: drugCrime
+            altText: Drug Crimes Criminal Defense Attorney
+        styles:
+          self:
+            textAlign: left
+            alignItems: center
+            justifyContent: center
       - elementId: ''
         subtitle: ''
         actions:
@@ -236,23 +253,6 @@ sections:
             style: secondary
             elementId: ''
             type: Button
-        styles:
-          self:
-            textAlign: left
-            alignItems: center
-            justifyContent: center
-      - type: FeaturedItem
-        actions:
-          - type: Button
-            label: |+
-              #### Drug Crimes
-
-            showIcon: true
-            url: /phoenix-criminal-attorney/drug-crimes/
-            style: secondary
-            iconPosition: left
-            icon: drugCrime
-            altText: Drug Crimes Criminal Defense Attorney
         styles:
           self:
             textAlign: left
