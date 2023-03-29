@@ -170,23 +170,6 @@ sections:
 
     subtitle: Choose A Law Practice Area To Learn How We Can Help You.
     items:
-      - type: FeaturedItem
-        actions:
-          - type: Button
-            label: |+
-              #### Sex Crimes
-
-            showIcon: true
-            icon: sexCrime
-            url: /phoenix-criminal-attorney/sex-crimes/
-            style: secondary
-            iconPosition: left
-            altText: Sex Crimes Criminal Defense Attorney
-        styles:
-          self:
-            textAlign: left
-            alignItems: center
-            justifyContent: center
       - elementId: ''
         subtitle: ''
         actions:
@@ -201,6 +184,23 @@ sections:
             style: secondary
             elementId: ''
             type: Button
+        styles:
+          self:
+            textAlign: left
+            alignItems: center
+            justifyContent: center
+      - type: FeaturedItem
+        actions:
+          - type: Button
+            label: |+
+              #### Sex Crimes
+
+            showIcon: true
+            icon: sexCrime
+            url: /phoenix-criminal-attorney/sex-crimes/
+            style: secondary
+            iconPosition: left
+            altText: Sex Crimes Criminal Defense Attorney
         styles:
           self:
             textAlign: left
