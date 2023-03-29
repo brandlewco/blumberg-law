@@ -316,7 +316,9 @@ sections:
       of your life.
 
     subtitle: ''
-    text: >+
+    text: >-
+
+
       <div class="flex flex-col lg:flex-row justify-between items-start gap-12
       text-base text-left font-sans">
 
@@ -346,7 +348,6 @@ sections:
       level.</p>
 
       </div>
-
     styles:
       self:
         height: auto
