@@ -92,7 +92,7 @@ function textBodyVariantA(props) {
         <div>
             {props.title && (
                 <Markdown
-                    className={classNames('h1', styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
+                    className={classNames('h2', styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
                     {props.title}
                 </Markdown>
             )}
@@ -126,7 +126,7 @@ function textBodyVariantB(props) {
                 <div className={classNames('w-full', { 'lg:w-1/3 lg:pr-3': props.text })}>
                     {props.title && (
                         <Markdown
-                            className={classNames('h1', styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
+                            className={classNames('h2', styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
                             {props.title}
                         </Markdown>
                     )}

@@ -319,7 +319,7 @@ sections:
       <div class="flex flex-col lg:flex-row justify-between items-start gap-12
       text-base text-left font-sans">
 
-      <p class="my-0">At Blumberg & Associates, you’ll find the representation
+      <div><p>At Blumberg & Associates, you’ll find the representation
       you need to get the best outcome available in your Arizona criminal law
       matter. We believe every person accused of a crime deserves fair treatment
       and an effective defense by a skilled and knowledgeable criminal defense
@@ -330,9 +330,9 @@ sections:
       (non-jury) trials. He has won a tremendous number of jury trials and
       obtained acquittals in more than 25 serious felonies. Bruce’s experience
       and success in criminal defense are virtually unmatched in the state of
-      Arizona.</p>
+      Arizona.</p></div>
 
-      <p class="my-0">If you’ve been arrested on a felony or misdemeanor charge
+      <div><p>If you’ve been arrested on a felony or misdemeanor charge
       in Phoenix, Blumberg & Associates offers practical advice and effective
       representation to help you make the best of a bad situation. Your best
       chance at a favorable outcome in your criminal case is to be represented
@@ -342,7 +342,7 @@ sections:
       In more than 30 years of practice, Phoenix criminal defense attorney Bruce
       Blumberg has successfully represented thousands of clients faced with all
       types of criminal charges by prosecutors at the Arizona state or federal
-      level.</p>
+      level.</p></div>
 
       </div>
 
@@ -731,9 +731,9 @@ sections:
     elementId: ''
     colors: colors-b
     backgroundSize: full
-    title: Schedule Your Confidential Evaluation
+    title: Schedule Your Confidential Case Evaluation
     text: >
-      Talk with an AZ criminal defense attorney with the experience needed to
+      Talk with an Arizona criminal defense attorney with the experience and fight needed to
       win your case.
     actions:
       - type: Button

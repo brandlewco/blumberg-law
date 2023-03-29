@@ -25,6 +25,7 @@ import Twitter from '../../svgs/twitter';
 import Vimeo from '../../svgs/vimeo';
 import YouTube from '../../svgs/youtube';
 import ChildCustody from '../../svgs/a-child-custody';
+import PornCrime from '../../svgs/a-porn-crime';
 import WhiteCollarCrime from '../../svgs/a-white-collar-crime';
 import DrugCrime from '../../svgs/a-drug-crime';
 import Clients from '../../svgs/a-clients';
@@ -64,6 +65,7 @@ const iconMap = {
     vimeo: Vimeo,
     youtube: YouTube,
     childCustody: ChildCustody,
+    pornCrime: PornCrime,
     clients: Clients,
     drugCrime: DrugCrime,
     gavel: Gavel,
