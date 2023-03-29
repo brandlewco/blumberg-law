@@ -317,7 +317,7 @@ sections:
       of your life.
 
     subtitle: ''
-    text: >+
+    text: >
       <div class="flex flex-col lg:flex-row justify-between items-start gap-12
       text-base text-left font-sans">
 
@@ -325,13 +325,14 @@ sections:
       to get the best outcome available in your Arizona criminal law matter. We
       believe every person accused of a crime deserves fair treatment and an
       effective defense by a skilled and knowledgeable criminal defense lawyer.
-      Phoenix criminal attorney Bruce Blumberg is a Board-Certified Criminal Law
-      Specialist with over 30 years of experience practicing criminal law in
-      Arizona. In that time, he has handled every type of felony and misdemeanor
-      case, including over 100 jury trials and innumerable bench (non-jury)
-      trials. He has won a tremendous number of jury trials and obtained
-      acquittals in more than 25 serious felonies. Bruce’s experience and
-      success in criminal defense are virtually unmatched in the state of
+      Phoenix criminal attorney Bruce Blumberg is a <strong>Board-Certified
+      Criminal Law Specialist with over 30 years of experience</strong>
+      practicing criminal law in Arizona. In that time, he has handled every
+      type of felony and misdemeanor case, including <strong>over 100 jury
+      trials</strong> and innumerable bench (non-jury) trials. He has won a
+      tremendous number of jury trials and <strong>obtained acquittals in more
+      than 25 serious felonies.</strong> Bruce’s experience and success in
+      criminal defense are virtually unmatched in the state of
       Arizona.</p></div>
 
       <div><p>If you’ve been arrested on a felony or misdemeanor charge in
@@ -347,7 +348,6 @@ sections:
       level.</p></div>
 
       </div>
-
     styles:
       self:
         height: auto
