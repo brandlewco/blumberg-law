@@ -176,7 +176,7 @@ sections:
           - label: |+
               #### Child Pornography
 
-            altText: Child Pornography Criminal Defense
+            altText: Child Pornography Criminal Defense Phoenix
             url: /phoenix-criminal-attorney/child-pornography/
             showIcon: true
             icon: pornCrime
