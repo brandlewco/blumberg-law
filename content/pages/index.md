@@ -311,29 +311,30 @@ sections:
     colors: colors-a
     variant: variant-a
     title: >+
-      <h2 class="text-2xl">Bruce Blumberg is one of Phoenix, Arizona's leading Criminal Defense
+      ## Bruce Blumberg is one of Phoenix, Arizona's leading Criminal Defense
       Attorneys, with the skills and experience you need when facing the fight
-      of your life.</h2>
+      of your life.
+
     subtitle: ''
     text: >+
       <div class="flex flex-col lg:flex-row justify-between items-start gap-12
       text-base text-left font-sans">
 
-      <div><p>At Blumberg & Associates, you’ll find the representation
-      you need to get the best outcome available in your Arizona criminal law
-      matter. We believe every person accused of a crime deserves fair treatment
-      and an effective defense by a skilled and knowledgeable criminal defense
-      lawyer. Phoenix criminal attorney Bruce Blumberg is a Board-Certified
-      Criminal Law Specialist with over 30 years of experience practicing
-      criminal law in Arizona. In that time, he has handled every type of felony
-      and misdemeanor case, including over 100 jury trials and innumerable bench
-      (non-jury) trials. He has won a tremendous number of jury trials and
-      obtained acquittals in more than 25 serious felonies. Bruce’s experience
-      and success in criminal defense are virtually unmatched in the state of
+      <div><p>At Blumberg & Associates, you’ll find the representation you need
+      to get the best outcome available in your Arizona criminal law matter. We
+      believe every person accused of a crime deserves fair treatment and an
+      effective defense by a skilled and knowledgeable criminal defense lawyer.
+      Phoenix criminal attorney Bruce Blumberg is a Board-Certified Criminal Law
+      Specialist with over 30 years of experience practicing criminal law in
+      Arizona. In that time, he has handled every type of felony and misdemeanor
+      case, including over 100 jury trials and innumerable bench (non-jury)
+      trials. He has won a tremendous number of jury trials and obtained
+      acquittals in more than 25 serious felonies. Bruce’s experience and
+      success in criminal defense are virtually unmatched in the state of
       Arizona.</p></div>
 
-      <div><p>If you’ve been arrested on a felony or misdemeanor charge
-      in Phoenix, Blumberg & Associates offers practical advice and effective
+      <div><p>If you’ve been arrested on a felony or misdemeanor charge in
+      Phoenix, Blumberg & Associates offers practical advice and effective
       representation to help you make the best of a bad situation. Your best
       chance at a favorable outcome in your criminal case is to be represented
       by an attorney with extensive experience representing people in
@@ -733,8 +734,8 @@ sections:
     backgroundSize: full
     title: Schedule Your Confidential Case Evaluation
     text: >
-      Talk with an Arizona criminal defense attorney with the experience and fight needed to
-      win your case.
+      Talk with an Arizona criminal defense attorney with the experience and
+      fight needed to win your case.
     actions:
       - type: Button
         label: |
