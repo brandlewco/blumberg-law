@@ -22,6 +22,7 @@ export default function BackgroundImage(props) {
         //     }}
         // />
         <Image
+        priority="preload"
         layout="fill"
         className="object-center object-cover pointer-events-none"
         src={url}
