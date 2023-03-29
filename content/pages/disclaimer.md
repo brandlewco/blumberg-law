@@ -11,8 +11,8 @@ sections:
   - type: TextSection
     colors: colors-d
     variant: variant-a
-    title: |
-      Disclaimer
+    title: |+
+      # Disclaimer
     text: >
       The information and materials on this Web site are provided for general
       informational purposes only, and are not intended to be legal advice. We

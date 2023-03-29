@@ -7,8 +7,7 @@ metaTags:
     property: 'og:type'
     content: article
 title: >-
-  What are the Rules Arizona Sex Offenders Must Follow Upon Release From Jail or
-  Prison?
+  Rules Arizona Sex Offenders Must Follow Upon Release From Jail or Prison.
 colors: colors-a
 date: '2014-08-28'
 excerpt: ''
