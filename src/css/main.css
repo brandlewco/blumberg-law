@@ -19,7 +19,7 @@
         line-height: 1em !important;
     }
     h1, .h1 {
-        @apply text-3xl lg:text-6xl flex flex-col;
+        @apply text-3xl lg:text-6xl;
     }
     h2 {
         @apply text-3xl lg:text-5xl;
