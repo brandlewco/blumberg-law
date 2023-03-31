@@ -654,6 +654,7 @@ footer:
       - content/pages/blog/criminal-defense-glossary.md
       - >-
         content/pages/blog/the-importance-of-hiring-an-experienced-sex-offense-attorney.md
+      - content/pages/blog/drug-cases-are-subject-to-mandatory-sentencing.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
