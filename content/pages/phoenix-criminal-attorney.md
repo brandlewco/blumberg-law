@@ -651,7 +651,6 @@ footer:
     subtitle: ''
     colors: colors-a
     posts:
-      - content/pages/blog/things-to-look-for-in-a-family-law-attorney.md
       - content/pages/blog/criminal-defense-glossary.md
       - >-
         content/pages/blog/the-importance-of-hiring-an-experienced-sex-offense-attorney.md
