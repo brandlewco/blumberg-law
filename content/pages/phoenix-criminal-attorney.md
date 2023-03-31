@@ -112,8 +112,8 @@ sections:
       represented by an attorney who has extensive experience in representing
       people in circumstances similar to yours. There are a lot of criminal
       defense lawyers in practice, and not all of them will be suitable to your
-      needs. In order to find the best attorney for you, here are few things to
-      consider in your search:
+      needs. In order to find the best criminal defense attorney in phoenix,
+      here are few things to consider in your search:
 
 
       *   Find out as best you can what percentage of an attorney’s caseload
