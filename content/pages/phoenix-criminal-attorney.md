@@ -655,6 +655,8 @@ footer:
         content/pages/blog/what-to-do-if-you-think-youre-being-investigated-for-a-crime-in-phoenix.md
       - content/pages/blog/things-to-look-for-in-a-family-law-attorney.md
       - content/pages/blog/criminal-defense-glossary.md
+      - >-
+        content/pages/blog/the-importance-of-hiring-an-experienced-sex-offense-attorney.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
