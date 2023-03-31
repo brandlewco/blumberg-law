@@ -662,7 +662,7 @@ footer:
     title: Schedule Your Consultation
     text: >
       Call us now, or fill out our contact form to start your confidential
-      criminal case evaluation today!
+      criminal defense case evaluation today!
     actions:
       - label: |
           Contact Us Now
