@@ -119,6 +119,7 @@ sections:
           elementId: ''
           type: ImageBlock
           height: '126'
+          width: '126'
       - type: FeaturedItem
         title: Successfully Represented Thousands of Clients.
         text: >
