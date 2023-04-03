@@ -414,6 +414,7 @@ sections:
         altText: Super Lawyers Rated Phoenix Arizona
         caption: Super Lawyers Rated
         width: '167'
+        height: '168'
     spacing: 32
     columns: 4
     showCaption: false
