@@ -318,7 +318,8 @@
             "altText": "Blumberg Law Arizona Logo",
             "elementId": "",
             "type": "ImageBlock",
-            "height": "106"
+            "height": "106",
+            "width": "359"
         }
     },
     "footer": {
