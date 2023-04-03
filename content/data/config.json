@@ -317,7 +317,8 @@
             "url": "/images/blumberg-law-logo-main-e6e147f4.png",
             "altText": "Blumberg Law Arizona Logo",
             "elementId": "",
-            "type": "ImageBlock"
+            "type": "ImageBlock",
+            "height": "106"
         }
     },
     "footer": {
