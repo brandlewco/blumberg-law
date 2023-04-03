@@ -118,6 +118,7 @@ sections:
           altText: Blumberg courtroom track record icon
           elementId: ''
           type: ImageBlock
+          height: '126'
       - type: FeaturedItem
         title: Successfully Represented Thousands of Clients.
         text: >
