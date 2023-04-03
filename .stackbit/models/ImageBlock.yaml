@@ -25,3 +25,11 @@ fields:
     label: Element ID
     description: A unique ID for the HTML element. Must not contain whitespace.
     default: ''
+  - type: string
+    name: height
+    label: image height
+    default: ''
+  - type: string
+    name: width
+    label: image width
+    default: ''
