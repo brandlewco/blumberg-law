@@ -24,6 +24,8 @@ export default function ImageBlock(props) {
             alt={altText || ''}
             loading="lazy"
             data-sb-field-path={annotations.join(' ').trim()}
+            height={props.height}
+            width={props.width}
         />
     );
 }
