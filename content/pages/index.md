@@ -139,6 +139,7 @@ sections:
           altText: Blumberg represented clients icon
           elementId: ''
           type: ImageBlock
+          height: '126'
     actions: []
     columns: 3
     enableHover: false
