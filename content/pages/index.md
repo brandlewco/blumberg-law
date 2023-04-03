@@ -140,6 +140,7 @@ sections:
           elementId: ''
           type: ImageBlock
           height: '126'
+          width: '126'
     actions: []
     columns: 3
     enableHover: false
