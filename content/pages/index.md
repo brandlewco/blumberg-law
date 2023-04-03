@@ -92,6 +92,7 @@ sections:
           elementId: ''
           type: ImageBlock
           height: '126'
+          width: '126'
       - type: FeaturedItem
         title: |-
           Proven Track Record
