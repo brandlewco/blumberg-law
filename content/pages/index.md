@@ -408,6 +408,7 @@ sections:
         altText: State Bar Of Arizona Certified Specialist - Criminal Law
         caption: State Bar Of Arizona Certified Specialist - Criminal Law
         height: '200'
+        width: '193'
       - type: ImageBlock
         url: /images/award-super-lawyers.png
         altText: Super Lawyers Rated Phoenix Arizona
