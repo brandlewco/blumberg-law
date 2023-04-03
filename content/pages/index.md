@@ -88,7 +88,7 @@ sections:
               - pr-4
         featuredImage:
           url: /images/icon-jury-d2332d6b.svg
-          altText: Blumberg & Associates jury trail icon
+          altText: Blumberg & Associates jury trial icon
           elementId: ''
           type: ImageBlock
           height: '126'
