@@ -395,6 +395,7 @@ sections:
         url: /images/award-avvo-10.png
         altText: AVVO 10.0 Superb Top Attorney Phoenix Arizona Criminal Defense
         caption: AVVO 10.0 Superb Top Attorney Criminal Defense
+        width: '168'
       - type: ImageBlock
         url: /images/award-av-preeminent.png
         altText: AV Preeminent Lawyer Ratings Phoenix Arizona
