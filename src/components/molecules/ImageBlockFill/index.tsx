@@ -25,6 +25,9 @@ export default function ImageBlockFill(props) {
                 className={classNames('sb-component', 'sb-component-block', 'sb-component-image-block', cssClasses)}
                 alt={altText || ''}
                 data-sb-field-path={annotations.join(' ').trim()}
+                quality={65}
+                placeholder="blur"
+                blurDataURL={url}
             />
         </div>
     );
