@@ -402,6 +402,7 @@ sections:
         altText: AV Preeminent Lawyer Ratings Phoenix Arizona
         caption: AV Preeminent Lawyer Ratings
         height: '177'
+        width: '168'
       - type: ImageBlock
         url: /images/certified-specialist-state-bar-arizona.png
         altText: State Bar Of Arizona Certified Specialist - Criminal Law
