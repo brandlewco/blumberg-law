@@ -91,6 +91,7 @@ sections:
           altText: Blumberg jury trail icon
           elementId: ''
           type: ImageBlock
+          height: '126'
       - type: FeaturedItem
         title: |-
           Proven Track Record
