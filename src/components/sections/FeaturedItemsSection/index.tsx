@@ -3,6 +3,8 @@ import classNames from 'classnames';
 import Markdown from 'markdown-to-jsx';
 import { Parallax, Background } from "react-parallax";
 import Image from 'next/image'
+import { useState } from 'react';
+
 
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 import { getDataAttrs } from '../../../utils/get-data-attrs';
@@ -19,6 +21,8 @@ export default function FeaturedItemsSection(props) {
     const sectionJustifyContent = styles.self?.justifyContent || 'center';
     const featuredItems = props.items || [];
     const imageOpt = props.backgroundImage ? props.backgroundImage.url : null;
+    const [loaded, setLoaded] = useState(false);
+
     return (
         <div
             id={cssId}
@@ -44,27 +48,18 @@ export default function FeaturedItemsSection(props) {
                 borderWidth: styles.self?.borderWidth ? `${styles.self?.borderWidth}px` : null
             }}
         >   
-        {/* {props.backgroundImage && <BackgroundImage {...props.backgroundImage} />} */}
-        {/* <Parallax
-            bgImage={props.backgroundImage ? props.backgroundImage.url : null}
-            strength={400}
-            renderLayer={percentage => (
-                <div
-                    style={{
-                        position: 'absolute',
-                        left: '50%',
-                        top: '50%',
-                    }}
-                />
-            )}
-        > */}
         <Parallax strength={300}>
         {props.backgroundImage && 
             <Background className="custom-bg">
             <Image
                 layout="fill"
                 src={props.backgroundImage.url}
+                className={classNames('object-cover', 'object-center', loaded ? 'unblur' : '')}
                 alt="background image"
+                quality={65}
+                placeholder="blur"
+                blurDataURL={props.backgroundImage.url}
+                onLoadingComplete={() => setLoaded(true)}
                 />
             </Background>
         }

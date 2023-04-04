@@ -7,6 +7,7 @@ import { getDataAttrs } from '../../../utils/get-data-attrs';
 import { BackgroundImage } from '../../atoms';
 import { Parallax, Background } from "react-parallax";
 import Image from 'next/image'
+import { useState } from 'react';
 
 
 export default function QuoteSection(props) {
@@ -16,6 +17,8 @@ export default function QuoteSection(props) {
     const sectionWidth = sectionStyles.width || 'wide';
     const sectionHeight = sectionStyles.height || 'auto';
     const sectionJustifyContent = sectionStyles.justifyContent || 'center';
+    const [loaded, setLoaded] = useState(false);
+
     return (
         <div
             id={cssId}
@@ -60,6 +63,9 @@ export default function QuoteSection(props) {
                         layout="fill"
                         src={props.backgroundImage.url}
                         alt="backgroud image"
+                        placeholder="blur"
+                        blurDataURL={props.backgroundImage.url}
+                        onLoadingComplete={() => setLoaded(true)}
                         />
                     </Background>
                 }

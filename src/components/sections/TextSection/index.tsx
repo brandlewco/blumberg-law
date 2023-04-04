@@ -4,6 +4,8 @@ import classNames from 'classnames';
 import { Link, Action, BackgroundImage } from '../../atoms';
 import { Parallax, Background } from "react-parallax";
 import Image from 'next/image'
+import { useState } from 'react';
+
 
 
 
@@ -18,6 +20,8 @@ export default function TextSection(props) {
     const sectionHeight = sectionStyles.height || 'auto';
     const sectionJustifyContent = sectionStyles.justifyContent || 'center';
     const bgImage = props.backgroundImage;
+    const [loaded, setLoaded] = useState(false);
+
     return (
         <div
             id={cssId}
@@ -62,6 +66,10 @@ export default function TextSection(props) {
                         layout="fill"
                         src={props.backgroundImage.url}
                         alt="background image"
+                        quality={65}
+                        placeholder="blur"
+                        blurDataURL={props.backgroundImage.url}
+                        onLoadingComplete={() => setLoaded(true)}
                         />
                     </Background>
                 }
