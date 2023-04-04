@@ -63,9 +63,7 @@ export default function QuoteSection(props) {
                         layout="fill"
                         src={props.backgroundImage.url}
                         alt="backgroud image"
-                        placeholder="blur"
-                        blurDataURL={props.backgroundImage.url}
-                        onLoadingComplete={() => setLoaded(true)}
+                        quality={65}
                         />
                     </Background>
                 }

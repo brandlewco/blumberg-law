@@ -67,9 +67,6 @@ export default function TextSection(props) {
                         src={props.backgroundImage.url}
                         alt="background image"
                         quality={65}
-                        placeholder="blur"
-                        blurDataURL={props.backgroundImage.url}
-                        onLoadingComplete={() => setLoaded(true)}
                         />
                     </Background>
                 }
