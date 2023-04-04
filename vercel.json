@@ -188,6 +188,11 @@
         "source": "/what-to-know-when-your-child-is-arrested-for-a-crime-in-phoenix",
         "destination": "/blog/what-to-know-when-your-child-is-arrested-for-a-crime-in-phoenix",
         "permanent": true
+        },
+        {
+        "source": "/CM/FSDP/PracticeCenter/Criminal-Law/White-Collar-Crime.asp",
+        "destination": "/phoenix-criminal-attorney/white-collar-crimes/",
+        "permanent": true
         }
     ]
 }
