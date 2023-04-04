@@ -3,7 +3,7 @@ import classNames from 'classnames';
 import Markdown from 'markdown-to-jsx';
 import { Parallax, Background } from "react-parallax";
 import Image from 'next/image'
-import { useState } from 'react';
+// import { useState } from 'react';
 
 
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
@@ -21,7 +21,7 @@ export default function FeaturedItemsSection(props) {
     const sectionJustifyContent = styles.self?.justifyContent || 'center';
     const featuredItems = props.items || [];
     const imageOpt = props.backgroundImage ? props.backgroundImage.url : null;
-    const [loaded, setLoaded] = useState(false);
+    // const [loaded, setLoaded] = useState(false);
 
     return (
         <div
@@ -54,12 +54,9 @@ export default function FeaturedItemsSection(props) {
             <Image
                 layout="fill"
                 src={props.backgroundImage.url}
-                className={classNames('object-cover', 'object-center', loaded ? 'unblur' : '')}
+                className={classNames('object-cover', 'object-center')}
                 alt="background image"
                 quality={65}
-                placeholder="blur"
-                blurDataURL={props.backgroundImage.url}
-                onLoadingComplete={() => setLoaded(true)}
                 />
             </Background>
         }

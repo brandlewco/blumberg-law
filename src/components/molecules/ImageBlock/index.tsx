@@ -1,5 +1,6 @@
 import * as React from 'react';
 import classNames from 'classnames';
+import Image from 'next/image';
 
 export default function ImageBlock(props) {
     const { url, altText } = props;
@@ -17,12 +18,11 @@ export default function ImageBlock(props) {
     ];
 
     return (
-        <img
+        <Image
             id={cssId}
             className={classNames('sb-component', 'sb-component-block', 'sb-component-image-block', cssClasses)}
             src={url}
             alt={altText || ''}
-            loading="lazy"
             data-sb-field-path={annotations.join(' ').trim()}
             height={props.height}
             width={props.width}

@@ -5,7 +5,6 @@ import classNames from 'classnames';
 import { getComponent } from '../../components-registry';
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 import { getDataAttrs } from '../../../utils/get-data-attrs';
-import FormBlock from '../../molecules/FormBlock';
 import JotformEmbed from 'react-jotform-embed';
 
 export default function ContactSection(props) {

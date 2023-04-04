@@ -424,6 +424,8 @@
         "logo": {
             "type": "ImageBlock",
             "url": "/images/blumberg-black.png",
+            "height": "54",
+            "width": "183",
             "altText": "Blumberg & Associates",
             "elementId": ""
         },
