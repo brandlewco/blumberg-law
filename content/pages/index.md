@@ -98,9 +98,10 @@ sections:
           Proven Track Record
           In The Courtroom.
         text: >
-          We have won acquittals in more than 25 serious felony cases, more than
-          many attorneys have even tried.  Having our experience on your side
-          for your day in court makes all the difference.
+          Bruce Blumberg has won acquittals in more than 25 serious felony
+          cases, more than many attorneys have even tried.  Having our
+          experience on your side for your day in court makes all the
+          difference.
         actions: []
         styles:
           self:
