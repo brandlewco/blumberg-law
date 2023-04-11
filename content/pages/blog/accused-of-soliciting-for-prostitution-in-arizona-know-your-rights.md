@@ -1,8 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: >-
-  Charged with Prostitution Solicitation in Arizona? Understand Your Legal
-  Rights
+metaTitle: 'Arizona Prostitution Solicitation: Know Your Rights & Options'
 addTitleSuffix: false
 metaTags:
   - type: MetaTag
