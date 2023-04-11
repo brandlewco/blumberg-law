@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: 'Facing Child Pornography Charges? Phoenix Defense Attorney Insights '
+metaTitle: 'Phoenix Child Porn Charges: Legal Insights & Steps to Take'
 addTitleSuffix: false
 metaTags:
   - type: MetaTag
