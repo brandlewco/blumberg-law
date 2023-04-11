@@ -219,7 +219,7 @@ metaDescription: >-
 footer:
   - type: CtaSection
     elementId: ''
-    colors: colors-e
+    colors: colors-b
     backgroundSize: full
     title: Schedule Your Consultation
     text: >
