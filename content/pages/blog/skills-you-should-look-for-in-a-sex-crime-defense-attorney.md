@@ -1,7 +1,7 @@
 ---
 layout: PostLayout
 metaTitle: 'Sex Crime Defense Attorney: Key Skills to Seek in Phoenix'
-addTitleSuffix: true
+addTitleSuffix: false
 metaTags:
   - type: MetaTag
     property: 'og:type'
