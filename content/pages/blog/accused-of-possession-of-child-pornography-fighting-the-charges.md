@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: Facing Child Pornography Possession Accusations? Learn How to Defend Yourself
+metaTitle: 'Facing Child Pornography Charges? Phoenix Defense Attorney Insights '
 addTitleSuffix: false
 metaTags:
   - type: MetaTag
