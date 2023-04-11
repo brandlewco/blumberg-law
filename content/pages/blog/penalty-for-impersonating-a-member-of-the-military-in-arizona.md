@@ -1,8 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: >-
-  Learn about the legal repercussions for impersonating a military member in the
-  state of Arizona, Including felony fraud charges.
+metaTitle: 'Military Impersonation in Arizona: Penalties & Legal Consequences'
 addTitleSuffix: false
 metaTags:
   - type: MetaTag
