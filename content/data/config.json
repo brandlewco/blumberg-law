@@ -292,7 +292,7 @@
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "**Confidential Case Evaluations**\n\n602-277-6180\n",
+                "label": "**Confidential Case Evaluation**\n\n602-277-6180\n",
                 "url": "tel:+16022776180",
                 "altText": "Contact us",
                 "style": "primary",
