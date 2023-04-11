@@ -5,7 +5,7 @@ import classNames from 'classnames';
 import { getComponent } from '../../components-registry';
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 import { getDataAttrs } from '../../../utils/get-data-attrs';
-import JotformEmbed from 'react-jotform-embed';
+import { JotformEmbed } from 'nextjs-jotform-embed';
 
 export default function ContactSection(props) {
     const cssId = props.elementId || null;
