@@ -29,8 +29,6 @@ function footerVariants(props) {
     switch (variant) {
         case 'variant-a':
             return footerVariantA(props);
-        case 'variant-b':
-            return footerVariantB(props);
     }
     return null;
 }
