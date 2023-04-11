@@ -25,6 +25,7 @@ export default function BackgroundImage(props) {
                 className={classNames('object-cover', 'object-center', cssClasses)}
                 alt={title || ''}
                 quality={65}
+                priority={true}
             />
 
         </>
