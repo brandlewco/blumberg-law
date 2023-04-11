@@ -62,7 +62,7 @@ function footerVariantA(props) {
         </div> */}
             <div className={classNames(props.colors)}>
                 {(primaryLinks.length > 0 || socialLinks.length > 0 || props.contacts) && (
-                    <div className={classNames('flex flex-col md:flex-row justify-between items-center max-w-7xl mx-auto')}>
+                    <div className={classNames('flex flex-col md:flex-row justify-between items-center max-w-7xl mx-auto pb-8')}>
                         {primaryLinks.length > 0 && (
                             <div className="w-full lg:w-1/3 px-8 py-8">
                                 <ul className="contact-svg flex flex-col items-start space-y-6 text-lg" data-sb-field-path=".primaryLinks">
@@ -74,8 +74,10 @@ function footerVariantA(props) {
                                 </ul>
                             </div>
                         )}
-                        <div className="w-full lg:w-2/3 h-full relative py-12">
-                            {embedIframe ? <Iframe /> : props.media && <BackgroundImage {...props.media} />}
+                        <div className="w-full lg:w-2/3 relative py-12 object-cover h-96 ">
+                            {props.media && <BackgroundImage {...props.media} />}
+                            {/* {embedIframe ? <Iframe /> : props.media && <BackgroundImage {...props.media} />} */}
+
                         </div>
                     </div>
                 )}

@@ -6,6 +6,7 @@ import { getComponent } from '../../components-registry';
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 import { getDataAttrs } from '../../../utils/get-data-attrs';
 import { Action, BackgroundImage } from '../../atoms';
+import BackgroundImagePriority from '../../atoms/BackgroundImagePriority';
 
 export default function HeroSection(props) {
     const cssId = props.elementId || null;
@@ -50,7 +51,7 @@ export default function HeroSection(props) {
                     borderWidth: sectionStyles.borderWidth ? `${sectionStyles.borderWidth}px` : null
                 }}
             >
-                {props.backgroundImage && <BackgroundImage {...props.backgroundImage} />}
+                {props.backgroundImage && <BackgroundImagePriority {...props.backgroundImage} />}
                 <div
                     className={classNames(
                         'relative',
