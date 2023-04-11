@@ -1,0 +1,198 @@
+// {
+//     "redirects": [
+//         {
+//         "source": "/accused-of-possession-of-child-pornography-fighting-the-charges",
+//         "destination": "/blog/accused-of-possession-of-child-pornography-fighting-the-charges",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/accused-of-soliciting-for-prostitution-in-arizona-know-your-rights",
+//         "destination": "/blog/accused-of-soliciting-for-prostitution-in-arizona-know-your-rights",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/arizona-supreme-court-eliminates-the-use-of-peremptory-challenges-in-jury-trials",
+//         "destination": "/blog/arizona-supreme-court-eliminates-the-use-of-peremptory-challenges-in-jury-trials",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/bruce-blumberg-named-to-2018-southwest-super-lawyers-list",
+//         "destination": "/blog/bruce-blumberg-named-to-2018-southwest-super-lawyers-list",
+//         },
+//         {
+//         "source": "/child-molestation-charges-in-arizona",
+//         "destination": "/blog/child-molestation-charges-in-arizona",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/combating-false-identifications",
+//         "destination": "/blog/combating-false-identifications",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/criminal-defense-glossary",
+//         "destination": "/blog/criminal-defense-glossary",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/criminal-trials-in-maricopa-county-could-be-delayed-due-to-covid-19",
+//         "destination": "/blog/criminal-trials-in-maricopa-county-could-be-delayed-due-to-covid-19",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/dangerous-crimes-have-serious-legal-consequences",
+//         "destination": "/blog/dangerous-crimes-have-serious-legal-consequences",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/drug-cases-are-subject-to-mandatory-sentencing",
+//         "destination": "/blog/drug-cases-are-subject-to-mandatory-sentencing",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/facing-money-laundering-accusations-what-you-need-to-know",
+//         "destination": "/blog/facing-money-laundering-accusations-what-you-need-to-know",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/five-signs-a-divorce-might-be-imminent",
+//         "destination": "/blog/five-signs-a-divorce-might-be-imminent",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/gray-divorces-and-four-things-to-consider",
+//         "destination": "/blog/gray-divorces-and-four-things-to-consider",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/high-net-worth-divorce-mistakes",
+//         "destination": "/blog/high-net-worth-divorce-mistakes",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/how-to-ensure-the-best-child-custody-and-shared-parenting-outcomes",
+//         "destination": "/blog/how-to-ensure-the-best-child-custody-and-shared-parenting-outcomes",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/how-to-file-a-criminal-appeal-in-phoenix-arizona",
+//         "destination": "/blog/how-to-file-a-criminal-appeal-in-phoenix-arizona",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/how-to-file-for-divorce-in-arizona",
+//         "destination": "/blog/how-to-file-for-divorce-in-arizona",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/penalty-for-impersonating-a-member-of-the-military-in-arizona",
+//         "destination": "/blog/penalty-for-impersonating-a-member-of-the-military-in-arizona",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/preparing-for-your-child-custody-case",
+//         "destination": "/blog/preparing-for-your-child-custody-case",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/search-engines-are-watching-for-child-porn-and-child-abuse",
+//         "destination": "/blog/search-engines-are-watching-for-child-porn-and-child-abuse",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/skills-you-should-look-for-in-a-sex-crime-defense-attorney-2",
+//         "destination": "/blog/skills-you-should-look-for-in-a-sex-crime-defense-attorney-2",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/skills-you-should-look-for-in-a-sex-crime-defense-attorney",
+//         "destination": "/blog/skills-you-should-look-for-in-a-sex-crime-defense-attorney",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/the-importance-of-hiring-an-experienced-sex-offense-attorney",
+//         "destination": "/blog/the-importance-of-hiring-an-experienced-sex-offense-attorney",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/things-to-look-for-in-a-family-law-attorney",
+//         "destination": "/blog/things-to-look-for-in-a-family-law-attorney",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/what-are-the-rules-arizona-sex-offenders-must-follow-upon-release-from-jail-or-prison",
+//         "destination": "/blog/what-are-the-rules-arizona-sex-offenders-must-follow-upon-release-from-jail-or-prison",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/what-can-be-considered-a-sexual-offense-in-arizona",
+//         "destination": "/blog/what-can-be-considered-a-sexual-offense-in-arizona",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/what-happens-if-you-violate-your-probation-in-arizona",
+//         "destination": "/blog/what-happens-if-you-violate-your-probation-in-arizona",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/what-happens-when-you-are-caught-with-dangerous-drugs-in-arizona",
+//         "destination": "/blog/what-happens-when-you-are-caught-with-dangerous-drugs-in-arizona",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/what-is-an-order-of-protection-in-arizona",
+//         "destination": "/blog/what-is-an-order-of-protection-in-arizona",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/what-is-considered-a-deadly-weapon-in-arizona",
+//         "destination": "/blog/what-is-considered-a-deadly-weapon-in-arizona",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/what-is-considered-a-white-collar-crime",
+//         "destination": "/blog/what-is-considered-a-white-collar-crime",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/what-is-mortgage-fraud-and-what-to-do-if-facing-accusations",
+//         "destination": "/blog/what-is-mortgage-fraud-and-what-to-do-if-facing-accusations",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/what-to-do-if-you-are-arrested-for-a-federal-crime-in-phoenix",
+//         "destination": "/blog/what-to-do-if-you-are-arrested-for-a-federal-crime-in-phoenix",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/what-to-do-if-you-are-falsely-accused-of-a-sex-crime-in-arizona",
+//         "destination": "/blog/what-to-do-if-you-are-falsely-accused-of-a-sex-crime-in-arizona",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/what-to-do-if-you-think-youre-being-investigated-for-a-crime-in-phoenix",
+//         "destination": "/blog/what-to-do-if-you-think-youre-being-investigated-for-a-crime-in-phoenix",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/what-to-do-if-youve-been-arrested-for-white-collar-crime-in-arizona",
+//         "destination": "/blog/what-to-do-if-youve-been-arrested-for-white-collar-crime-in-arizona",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/what-to-know-about-the-arizona-sex-offender-registry",
+//         "destination": "/blog/what-to-know-about-the-arizona-sex-offender-registry",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/what-to-know-when-your-child-is-arrested-for-a-crime-in-phoenix",
+//         "destination": "/blog/what-to-know-when-your-child-is-arrested-for-a-crime-in-phoenix",
+//         "permanent": true
+//         },
+//         {
+//         "source": "/CM/FSDP/PracticeCenter/Criminal-Law/White-Collar-Crime.asp",
+//         "destination": "/phoenix-criminal-attorney/white-collar-crimes/",
+//         "permanent": true
+//         }
+//     ]
+// }
