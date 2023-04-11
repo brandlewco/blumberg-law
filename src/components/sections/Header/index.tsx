@@ -4,6 +4,7 @@ import { useRouter } from 'next/router';
 import classNames from 'classnames';
 // import { v4 as uuidv4 } from 'uuid';
 import { isMobile } from "react-device-detect";
+import Image from 'next/image'
 
 
 import { Link, Action } from '../../atoms';
@@ -11,6 +12,7 @@ import ImageBlock from '../../molecules/ImageBlock';
 import CloseIcon from '../../svgs/close';
 import MenuIcon from '../../svgs/menu';
 import { loadGetInitialProps } from 'next/dist/shared/lib/utils';
+import next from 'next';
 
 // console.log("is mobile:", isMobile)
 export default function Header(props) {
@@ -120,7 +122,14 @@ function MobileMenu(props) {
 function siteLogoLink(props) {
     return (
         <Link href="/" aria-label={props.title} className="sb-header-logo flex items-center">
-            {props.logo && <ImageBlock {...props.logo} className={classNames('max-h-12', { 'mr-2': props.isTitleVisible })} data-sb-field-path=".logo" />}
+            <Image src={props.logo.url}
+                id="logo"
+                className={classNames('mr-2', 'max-h-12')}
+                alt='Blumberg & Associates Logo'
+                height={54}
+                width={183}
+                data-sb-field-path=".logo"
+            />
             {props.title && props.isTitleVisible && (
                 <span className="text-2xl uppercase font-medium" data-sb-field-path=".title">
                     {props.title}
