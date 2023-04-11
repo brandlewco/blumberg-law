@@ -124,7 +124,7 @@ function siteLogoLink(props) {
         <Link href="/" aria-label={props.title} className="sb-header-logo flex items-center">
             <Image src={props.logo.url}
                 id="logo"
-                className={classNames('mr-2', 'max-h-12')}
+                className={classNames('mr-2')}
                 alt='Blumberg & Associates Logo'
                 height={54}
                 width={183}
