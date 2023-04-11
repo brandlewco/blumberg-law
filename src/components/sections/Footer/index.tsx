@@ -4,7 +4,6 @@ import classNames from 'classnames';
 import { useEffect } from 'react';
 import { Social, Action, Link, BackgroundImage } from '../../atoms';
 import ImageBlock from '../../molecules/ImageBlock';
-import JotformEmbed from 'react-jotform-embed';
 
 
 export default function Footer(props) {

@@ -128,6 +128,7 @@ function siteLogoLink(props) {
                 alt='Blumberg & Associates Logo'
                 height={54}
                 width={183}
+                priority={true}
                 data-sb-field-path=".logo"
             />
             {props.title && props.isTitleVisible && (
