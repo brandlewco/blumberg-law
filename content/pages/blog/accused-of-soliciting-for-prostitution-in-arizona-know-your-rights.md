@@ -8,7 +8,7 @@ metaTags:
   - type: MetaTag
     property: 'og:type'
     content: article
-title: Accused of Soliciting for Prostitution in Arizona? Know Your Rights
+title: 'Arizona Prostitution Solicitation: Know Your Rights & Options'
 colors: colors-a
 date: '2021-03-15'
 excerpt: >-
