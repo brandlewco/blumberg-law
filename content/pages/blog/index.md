@@ -59,7 +59,8 @@ topSections:
     subtitle: >-
       Bruce Blumberg's Expert Analysis on Phoenix Criminal Defense, Court
       Rulings, and Empowering Strategies to Safeguard Your Rights. Get trusted
-      legal insights from one of Phoeinix, Arizona's most trusted and 
+      legal insights from one of Phoeinix, Arizona's most trusted winning
+      lawyer.
 addTitleSuffix: true
 metaTitle: Bruce Blumberg Arizona Law Insight Blog
 metaDescription: >-
