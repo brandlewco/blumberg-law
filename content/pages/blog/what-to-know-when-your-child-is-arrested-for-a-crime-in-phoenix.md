@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: 'Protecting Your Child: What to Know When Facing Juvenile Arrest in Phoenix'
+metaTitle: 'Phoenix Juvenile Crime Attorney: What to Know When Your Child Is Arrested'
 addTitleSuffix: false
 metaTags:
   - type: MetaTag
