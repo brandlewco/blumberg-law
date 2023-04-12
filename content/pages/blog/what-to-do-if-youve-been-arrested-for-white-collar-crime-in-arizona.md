@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: Arrested for White Collar Crime in Arizona? Here's What to Do
 addTitleSuffix: false
 metaTags:
   - type: MetaTag

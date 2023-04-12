@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: 'Arizona Sex Crimes: Types and Penalties | Blumberg & Associates, AZ'
 addTitleSuffix: false
 metaTags:
   - type: MetaTag

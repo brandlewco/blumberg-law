@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: Understanding Arizona's Sex Offender Registry | Blumberg Law
 addTitleSuffix: false
 metaTags:
   - type: MetaTag
