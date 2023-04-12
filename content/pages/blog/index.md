@@ -60,7 +60,7 @@ topSections:
       Bruce Blumberg's Expert Analysis on Phoenix Criminal Defense, Court
       Rulings, and Empowering Strategies to Safeguard Your Rights. Get trusted
       legal advice from one of Phoenix, Arizona's most experienced Criminal
-      defense attorneys.
+      Defense Attorneys.
 addTitleSuffix: true
 metaTitle: Bruce Blumberg Arizona Law Insight Blog
 metaDescription: >-
