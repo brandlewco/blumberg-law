@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: 'Arizona''s Dangerous Drugs: Penalties & Charges'
+metaTitle: Arizona's Dangerous Drug Possession Laws & Penalties
 addTitleSuffix: false
 metaTags:
   - type: MetaTag
