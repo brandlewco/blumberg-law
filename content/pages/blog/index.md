@@ -34,9 +34,6 @@ topSections:
     title: |+
       # Arizona Legal Insights Blog
 
-    subtitle: >-
-      Learn about recent rulings from Arizona courts, new laws in Arizona, and
-      how to keep yourself protected.
     actions: []
     styles:
       self:
