@@ -1,13 +1,12 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: 'Arizona Sex Offender Rules After Release | Blumberg & Associates, AZ'
 addTitleSuffix: false
 metaTags:
   - type: MetaTag
     property: 'og:type'
     content: article
-title: >-
-  Rules Arizona Sex Offenders Must Follow Upon Release From Jail or Prison.
+title: Rules Arizona Sex Offenders Must Follow Upon Release From Jail or Prison.
 colors: colors-a
 date: '2014-08-28'
 excerpt: ''
@@ -67,7 +66,8 @@ bottomSections:
     backgroundSize: full
     title: Schedule Your Consultation
     text: >
-      Call us now, or fill out our contact form to start your confidential case evaluation today!
+      Call us now, or fill out our contact form to start your confidential case
+      evaluation today!
     actions:
       - label: |
           Contact Us Now
