@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: Defending False Sex Crime Accusations in Arizona | Blumberg Law
+metaTitle: What to Do If Falsely Accused of a Sex Crime in Arizona
 addTitleSuffix: false
 metaTags:
   - type: MetaTag
