@@ -67,8 +67,8 @@ export default function DefaultBaseLayout(props) {
                 <link rel="dns-prefetch" href="https://use.typekit.net"/>
                 <link rel="dns-prefetch" href="https://p.typekit.net"/>
                 <link rel="preload" href="https://use.typekit.net/yxh4eie.css" as="style"/>
+                <link rel="stylesheet" href="https://use.typekit.net/yxh4eie.css"/>
                 <link href="https://www.googletagmanager.com/gtag/js?id=G-2XG31D631P&l=dataLayer&cx=c" rel="preload" as="script"/>
-                 <link rel="stylesheet" href="https://use.typekit.net/yxh4eie.css"/>
                 </Head>
                 {site.header && <Header {...site.header} annotationPrefix={siteMeta.id} />}
                 {props.children}
