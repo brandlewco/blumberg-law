@@ -19,13 +19,14 @@ export default function DefaultBaseLayout(props) {
                     <title>{title}</title>
                     {metaDescription && <meta name="description" content={metaDescription} />}
                     {metaTags.map((metaTag) => {
-                      if (metaTag.format === 'property' ) {
-                        // OpenGraph meta tags (og:*) should be have the format <meta property="og:…" content="…">
-                        return  <meta key={metaTag.property} property={metaTag.property} content={metaTag.content} />
-                      }
-                      return  <meta key={metaTag.property} name={metaTag.property} content={metaTag.content} />
+                        if (metaTag.format === 'property') {
+                            // OpenGraph meta tags (og:*) should be have the format <meta property="og:…" content="…">
+                            return <meta key={metaTag.property} property={metaTag.property} content={metaTag.content} />
+                        }
+                        return <meta key={metaTag.property} name={metaTag.property} content={metaTag.content} />
                     })}
-                    <script type='application/ld+json' dangerouslySetInnerHTML={ { __html: `{
+                    <script type='application/ld+json' dangerouslySetInnerHTML={{
+                        __html: `{
                             "@context": "https://schema.org",
                             "@type": "Attorney",
                             "name": "Blumberg & Associates",
@@ -63,12 +64,12 @@ export default function DefaultBaseLayout(props) {
                         }`}} />
                     <meta name="viewport" content="width=device-width, initial-scale=1" />
                     {site.favicon && <link rel="icon" href={site.favicon} />}
-                <link rel="dns-prefetch" href="https://www.googletagmanager.com/"/>
-                <link rel="dns-prefetch" href="https://use.typekit.net"/>
-                <link rel="dns-prefetch" href="https://p.typekit.net"/>
-                <link rel="preload" href="https://use.typekit.net/yxh4eie.css" as="style"/>
-                <link rel="stylesheet" href="https://use.typekit.net/yxh4eie.css"/>
-                <link href="https://www.googletagmanager.com/gtag/js?id=G-2XG31D631P&l=dataLayer&cx=c" rel="preload" as="script"/>
+                    <link rel="dns-prefetch" href="https://www.googletagmanager.com/" />
+                    <link rel="dns-prefetch" href="https://use.typekit.net" />
+                    <link rel="dns-prefetch" href="https://p.typekit.net" />
+                    <link rel="preload" href="https://use.typekit.net/yxh4eie.css" as="style" />
+                    <link rel="stylesheet" href="https://use.typekit.net/yxh4eie.css" />
+                    <link href="https://www.googletagmanager.com/gtag/js?id=G-2XG31D631P&l=dataLayer&cx=c" rel="preload" as="script" />
                 </Head>
                 {site.header && <Header {...site.header} annotationPrefix={siteMeta.id} />}
                 {props.children}
