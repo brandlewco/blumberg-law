@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: 'What Counts as a Sexual Offense in Arizona? | Blumberg & Associates, AZ'
 addTitleSuffix: false
 metaTags:
   - type: MetaTag
