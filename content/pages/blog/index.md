@@ -58,7 +58,7 @@ topSections:
         textAlign: left
     subtitle: >-
       Bruce Blumberg's Expert Analysis on Phoenix Criminal Defense, Court
-      Rulings, Law and Empowering Strategies to Safeguard Your Rights
+      Rulings, and Empowering Strategies to Safeguard Your Rights.
 addTitleSuffix: true
 metaTitle: Bruce Blumberg Arizona Law Insight Blog
 metaDescription: >-
