@@ -3,7 +3,7 @@ layout: PageLayout
 metaTitle: Phoenix Children Crimes Attorney
 metaDescription: >-
   Charged with a crime against children? We offer experienced legal
-  representation for those in need. 
+  representation for those in need.
 addTitleSuffix: true
 socialImage: null
 metaTags:
@@ -59,7 +59,7 @@ hero:
       opacity: 100
     subtitle: >-
       Charged with a crime against children? We offer experienced legal
-      representation for those in need. 
+      representation for those in need.
 sections:
   - type: TextSection
     colors: colors-a
@@ -206,7 +206,7 @@ sidebar:
     colors: colors-d
     backgroundSize: full
     title: |+
-      ##### Choose a related practice area to learn more:
+      ## Choose a related practice area to learn more:
 
     items:
       - type: FeaturedItem

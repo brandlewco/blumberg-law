@@ -57,6 +57,7 @@ export default function FeaturedItemsSection(props) {
                 className={classNames('object-cover', 'object-center')}
                 alt="background image"
                 quality={65}
+                loading="lazy"
                 />
             </Background>
         }

@@ -91,7 +91,7 @@ sidebar:
     colors: colors-d
     elementId: sidebar
     title: |+
-      ##### CHOOSE A FAMILY LAW PRACTICE AREA TO LEARN MORE
+      ## Choose a family law practice area to learn more:
 
     backgroundSize: full
     backgroundImage: null

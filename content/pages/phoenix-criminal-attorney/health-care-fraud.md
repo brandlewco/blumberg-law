@@ -94,7 +94,7 @@ sidebar:
     colors: colors-d
     backgroundSize: full
     title: |
-      ##### Choose a related practice area to learn more:
+      ## Choose a related practice area to learn more:
     items:
       - type: FeaturedItem
         actions:

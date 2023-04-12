@@ -330,6 +330,10 @@
         @apply w-full
     }
 
+    .sidebar h2 {
+        @apply text-2xl;
+    }
+
     /* about - attorney profile */
     #bruce-blumberg img {
         @apply w-full pr-16 pt-8;
