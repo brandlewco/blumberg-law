@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: 'White Collar Crimes in Arizona: What You Need to Know'
+metaTitle: Understanding White Collar Crimes in Arizona | Blumberg & Associates"
 addTitleSuffix: false
 metaTags:
   - type: MetaTag
