@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: 'Mandatory Sentencing in Drug Cases | Blumberg & Associates, AZ'
 addTitleSuffix: false
 metaTags:
   - type: MetaTag
