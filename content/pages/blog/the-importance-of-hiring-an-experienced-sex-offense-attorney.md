@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: Hiring an Experienced Sex Offense Attorney | Blumberg & Associates
+metaTitle: 'Hiring an Experienced Sex Offense Attorney | Blumberg & Associates, AZ'
 addTitleSuffix: false
 metaTags:
   - type: MetaTag
