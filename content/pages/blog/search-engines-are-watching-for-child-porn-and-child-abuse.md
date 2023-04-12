@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: 'Search Engines on Watch for Child Porn & Abuse | Blumberg & Associates, AZ'
+metaTitle: 'Search Engines Watch for Child Porn & Abuse | Blumberg & Associates, AZ'
 addTitleSuffix: false
 metaTags:
   - type: MetaTag
