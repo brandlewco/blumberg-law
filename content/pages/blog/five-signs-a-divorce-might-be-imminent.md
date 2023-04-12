@@ -106,10 +106,9 @@ metaDescription: >-
 socialImage: null
 author: content/data/team/person-qkxt493m4.json
 ---
-
 Sometimes the best way to deal with divorce is to spot the warning signs before you’re faced with a decision to end your marriage. Below we’ll review five of the top trends or traits that are frequently found in divorcing couples. If you fit these categories is doesn’t mean your relationship is destined to fail, but you should be aware of the trends.
 
-1.  **Cash Counts.** According to [a study posted by the American Sociological Review](https://www.asanet.org/sites/default/files/attach/journals/aug16asrfeature.pdf), the primary factor leading to divorce is the husband’s job status. When compared to men who have steady, gainful employment, men who do not have a job have a markedly higher risk of becoming divorced in any given year. Couples who fight about money have a significantly higher risk of facing divorce, but men without jobs are an additional 30 percent more likely to see their marriage end in divorce than even the couples who routinely fight about funds.
+1.  **Cash Counts.** According to [a study posted by the American Sociological Review](https://www.asanet.org/wp-content/uploads/attach/journals/aug16asrfeature.pdf), the primary factor leading to divorce is the husband’s job status. When compared to men who have steady, gainful employment, men who do not have a job have a markedly higher risk of becoming divorced in any given year. Couples who fight about money have a significantly higher risk of facing divorce, but men without jobs are an additional 30 percent more likely to see their marriage end in divorce than even the couples who routinely fight about funds.
 
 2.  **Finance Fight.** Similar to the trend above about job security, couples who fight about money – whether before marriage or in marriage – [stand a much higher chance of divorce than couples who have a more harmonious relationship with their money](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1741-3729.2012.00715.x). Sometimes what appears to be a fight about how money is spent is truly an argument about power, trust etc., but equally damaging to a relationship. If you and your partner can’t have the money talk without someone sleeping on the couch, this is a major topic you should proactively address before walking down the aisle.
 
