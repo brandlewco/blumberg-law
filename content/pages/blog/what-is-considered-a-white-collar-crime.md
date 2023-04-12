@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: 'White Collar Crimes in Arizona: What You Need to Know'
 addTitleSuffix: false
 metaTags:
   - type: MetaTag
