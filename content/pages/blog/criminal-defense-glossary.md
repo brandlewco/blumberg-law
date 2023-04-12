@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: 'Criminal Defense Glossary: Key Terms | Blumberg & Associates, Phoenix AZ'
+metaTitle: 'Criminal Defense Glossary: Legal Terms | Blumberg & Associates, AZ'
 addTitleSuffix: false
 metaTags:
   - type: MetaTag
