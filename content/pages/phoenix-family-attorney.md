@@ -63,7 +63,8 @@ sections:
     colors: colors-a
     variant: variant-a
     text: >
-      ## Passionate Advocacy In High-conflict Divorce And Custody Litigation
+      ## Passionate advocacy In high-conflict family law cases such as divorce
+      and custody litigation.
 
 
       Although primarily a criminal defense law firm, Blumberg & Associates
@@ -79,6 +80,27 @@ sections:
       trouble in an Arizona divorce or child custody dispute and want to make
       sure you have strong and zealous representation from an experienced
       litigator dedicated to looking out for you and protecting your rights.
+
+
+      In addition to his legal expertise, Bruce Blumberg is known for his
+      compassionate and client-focused approach. He understands that family law
+      cases can be emotionally charged and stressful, and he strives to provide
+      his clients with the support and guidance they need throughout the legal
+      process. He takes the time to listen to their concerns and goals, and he
+      works with them to develop a personalized strategy that aligns with their
+      needs and objectives. His goal is to ensure that his clients feel heard,
+      understood, and empowered as they navigate the complexities of their
+      family law case.
+
+
+      Moreover, Bruce Blumberg is committed to providing his clients with the
+      highest level of representation possible. He stays up-to-date with the
+      latest developments in family law and leverages his knowledge and
+      experience to help his clients achieve their desired outcomes. He is a
+      skilled negotiator and litigator who knows how to effectively advocate for
+      his clients both in and out of the courtroom. Clients can trust that they
+      are in good hands with Bruce Blumberg and the team at Blumberg &
+      Associates.
 
 
       ## Protect Your Rights In An Arizona Divorce
