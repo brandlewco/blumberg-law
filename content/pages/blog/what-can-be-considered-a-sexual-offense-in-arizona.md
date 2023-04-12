@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: 'What Counts as a Sexual Offense in Arizona? | Blumberg & Associates, AZ'
+metaTitle: 'Arizona Sex Crimes: Types and Penalties | Blumberg & Associates, AZ'
 addTitleSuffix: false
 metaTags:
   - type: MetaTag
