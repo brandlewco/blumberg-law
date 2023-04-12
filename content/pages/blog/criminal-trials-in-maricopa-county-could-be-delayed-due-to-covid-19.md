@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: 'Criminal Trials in Maricopa: COVID-19 Delays | Blumberg & Associates, AZ'
+metaTitle: 'Criminal Trials in Maricopa: COVID-19 Delays | Blumberg & Associates'
 addTitleSuffix: false
 metaTags:
   - type: MetaTag
