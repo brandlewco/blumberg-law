@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: 'How to File a Criminal Appeal in Phoenix | Blumberg & Associates, AZ'
 addTitleSuffix: false
 metaTags:
   - type: MetaTag
