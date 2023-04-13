@@ -504,7 +504,7 @@ sections:
       knowledge, skills and experience to competently handle any criminal law
       matter in Arizona, including:
     text: |+
-      <ul class="columns-4 leading-tight">
+      <ul class="columns-4">
         <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/accounting-tax-fraud/" alt="Phoenix Accounting & Tax Fraud Attorney">Accounting & Tax Fraud</a></li>
 
         <li><a href="https://azblumberglaw.com/phoenix-criminal-attorney/bank-fraud/" alt="Phoenix Bank Fraud Attorney">Bank Fraud</a></li>
