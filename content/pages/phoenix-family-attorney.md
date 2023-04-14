@@ -232,7 +232,6 @@ sections:
       - content/pages/testimonials/david-k-le-lievre-jr.md
       - content/pages/testimonials/megan-mayes.md
       - content/pages/testimonials/alan-m.md
-      - content/pages/testimonials/jamie-hemmert.md
     name: ''
     showDate: false
     showExcerpt: false
