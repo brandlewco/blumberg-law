@@ -416,6 +416,14 @@ sections:
         caption: Super Lawyers Rated
         width: '167'
         height: '168'
+      - type: ImageBlock
+        url: >-
+          https://assets.stackbit.com/components/images/default/default-image.png
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+        height: ''
+        width: ''
     spacing: 32
     columns: 4
     showCaption: false
