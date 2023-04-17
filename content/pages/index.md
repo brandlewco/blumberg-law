@@ -418,7 +418,7 @@ sections:
         height: '168'
       - type: ImageBlock
         url: /images/justia-lawyer-rating-blumberg-associates.png
-        altText: altText of the image
+        altText: Justia Lawyer Rating for Bruce Blumberg
         caption: Caption of the image
         elementId: ''
         height: ''
