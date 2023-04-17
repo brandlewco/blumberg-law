@@ -131,7 +131,7 @@ function MediaGalleryImage({ image, enableHover, aspectRatio }: { image: Image; 
             {...image}
             className={classNames('sb-media-gallery-image', 'w-full', {
                 'h-full absolute left-0 top-0 object-cover': aspectRatio !== 'auto',
-                'transition-transform hover:scale-105': enableHover
+                'transition-transform scale-95 hover:scale-100': enableHover
             })}
         />
     );
