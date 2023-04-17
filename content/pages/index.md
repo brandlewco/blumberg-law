@@ -424,7 +424,7 @@ sections:
         width: '167'
         height: '168'
     spacing: 32
-    columns: 4
+    columns: 5
     showCaption: false
     enableHover: true
     styles:
