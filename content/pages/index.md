@@ -315,6 +315,66 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
+  - colors: colors-d
+    elementId: hero-awards
+    title: Top Rated Phoenix Criminal Defense Attorney.
+    images:
+      - type: ImageBlock
+        url: /images/justia-lawyer-rating-blumberg-associates.png
+        altText: Justia Lawyer Rating for Bruce Blumberg. 10/10
+        caption: Justia Lawyer Rating for Bruce Blumberg. 10/10
+        elementId: ''
+        height: '160'
+        width: '160'
+      - type: ImageBlock
+        url: /images/award-avvo-10.png
+        altText: AVVO 10.0 Superb Top Attorney Phoenix Arizona Criminal Defense
+        caption: AVVO 10.0 Superb Top Attorney Criminal Defense
+        width: '168'
+        height: '145'
+      - type: ImageBlock
+        url: /images/award-av-preeminent.png
+        altText: AV Preeminent Lawyer Ratings Phoenix Arizona
+        caption: AV Preeminent Lawyer Ratings
+        height: '177'
+        width: '168'
+      - type: ImageBlock
+        url: /images/certified-specialist-state-bar-arizona.png
+        altText: State Bar Of Arizona Certified Specialist - Criminal Law
+        caption: State Bar Of Arizona Certified Specialist - Criminal Law
+        height: '200'
+        width: '193'
+      - type: ImageBlock
+        url: /images/award-super-lawyers.png
+        altText: Super Lawyers Rated Phoenix Arizona
+        caption: Super Lawyers Rated
+        width: '167'
+        height: '168'
+    spacing: 32
+    columns: 5
+    showCaption: false
+    enableHover: true
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-16
+          - pb-16
+          - pl-8
+          - pr-8
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+    type: MediaGallerySection
+    aspectRatio: auto
   - elementId: ''
     colors: colors-a
     variant: variant-a
@@ -388,66 +448,6 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
-  - colors: colors-d
-    elementId: hero-awards
-    title: Top Rated Phoenix Criminal Defense Attorney.
-    images:
-      - type: ImageBlock
-        url: /images/justia-lawyer-rating-blumberg-associates.png
-        altText: Justia Lawyer Rating for Bruce Blumberg. 10/10
-        caption: Justia Lawyer Rating for Bruce Blumberg. 10/10
-        elementId: ''
-        height: '160'
-        width: '160'
-      - type: ImageBlock
-        url: /images/award-avvo-10.png
-        altText: AVVO 10.0 Superb Top Attorney Phoenix Arizona Criminal Defense
-        caption: AVVO 10.0 Superb Top Attorney Criminal Defense
-        width: '168'
-        height: '145'
-      - type: ImageBlock
-        url: /images/award-av-preeminent.png
-        altText: AV Preeminent Lawyer Ratings Phoenix Arizona
-        caption: AV Preeminent Lawyer Ratings
-        height: '177'
-        width: '168'
-      - type: ImageBlock
-        url: /images/certified-specialist-state-bar-arizona.png
-        altText: State Bar Of Arizona Certified Specialist - Criminal Law
-        caption: State Bar Of Arizona Certified Specialist - Criminal Law
-        height: '200'
-        width: '193'
-      - type: ImageBlock
-        url: /images/award-super-lawyers.png
-        altText: Super Lawyers Rated Phoenix Arizona
-        caption: Super Lawyers Rated
-        width: '167'
-        height: '168'
-    spacing: 32
-    columns: 5
-    showCaption: false
-    enableHover: true
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-16
-          - pb-16
-          - pl-8
-          - pr-8
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-    type: MediaGallerySection
-    aspectRatio: auto
   - elementId: ''
     colors: colors-b
     variant: variant-b
