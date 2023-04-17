@@ -115,7 +115,7 @@ sections:
               - pl-4
               - pr-4
         featuredImage:
-          url: /images/icon-gavel.png
+          url: /images/icon-gavel.svg
           altText: Blumberg & Associates courtroom track record icon
           elementId: ''
           type: ImageBlock
