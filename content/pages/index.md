@@ -87,7 +87,7 @@ sections:
             padding:
               - pr-4
         featuredImage:
-          url: /images/icon-jury-d2332d6b.svg
+          url: /images/icon-jury.png
           altText: Blumberg & Associates jury trial icon
           elementId: ''
           type: ImageBlock
