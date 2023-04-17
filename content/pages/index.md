@@ -422,7 +422,7 @@ sections:
         caption: Justia Lawyer Rating for Bruce Blumberg. 10/10
         elementId: ''
         height: '160'
-        width: ''
+        width: '160'
     spacing: 32
     columns: 4
     showCaption: false
