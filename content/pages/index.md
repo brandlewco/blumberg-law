@@ -136,7 +136,7 @@ sections:
             padding:
               - pl-4
         featuredImage:
-          url: /images/icon-clients.png
+          url: /images/icon-clients.svg
           altText: Blumberg & Associates represented clients icon
           elementId: ''
           type: ImageBlock
