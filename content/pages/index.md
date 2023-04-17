@@ -390,7 +390,7 @@ sections:
         elementId: ''
   - colors: colors-d
     elementId: hero-awards
-    title: Top Rated Criminal Defense Attorney.
+    title: Top Rated Phoenix Criminal Defense Attorney.
     images:
       - type: ImageBlock
         url: /images/justia-lawyer-rating-blumberg-associates.png
