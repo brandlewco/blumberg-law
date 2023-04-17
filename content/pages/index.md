@@ -393,6 +393,13 @@ sections:
     title: Top Rated Criminal Defense Attorney.
     images:
       - type: ImageBlock
+        url: /images/justia-lawyer-rating-blumberg-associates.png
+        altText: Justia Lawyer Rating for Bruce Blumberg. 10/10
+        caption: Justia Lawyer Rating for Bruce Blumberg. 10/10
+        elementId: ''
+        height: '160'
+        width: '160'
+      - type: ImageBlock
         url: /images/award-avvo-10.png
         altText: AVVO 10.0 Superb Top Attorney Phoenix Arizona Criminal Defense
         caption: AVVO 10.0 Superb Top Attorney Criminal Defense
@@ -416,13 +423,6 @@ sections:
         caption: Super Lawyers Rated
         width: '167'
         height: '168'
-      - type: ImageBlock
-        url: /images/justia-lawyer-rating-blumberg-associates.png
-        altText: Justia Lawyer Rating for Bruce Blumberg. 10/10
-        caption: Justia Lawyer Rating for Bruce Blumberg. 10/10
-        elementId: ''
-        height: '160'
-        width: '160'
     spacing: 32
     columns: 4
     showCaption: false
