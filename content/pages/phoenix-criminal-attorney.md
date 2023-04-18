@@ -80,14 +80,15 @@ sections:
       guidance and support you need during this difficult time.
 
 
-      <figure style="float: right"> ![](/images/bruce-blumberg-portrait.png)
-      </figure>Bruce Blumberg is a Board-Certified Specialist in criminal law
-      with extensive experience in defending clients against a wide range of
-      criminal charges in Phoenix. As a dedicated and skilled Phoenix criminal
-      attorney, Bruce understands the complexities of the legal system and can
-      provide you with the best possible defense. With his experience and
-      knowledge, he can help you navigate the legal system, understand the
-      charges you're facing, and protect your rights.
+      <figure class="float-right mt-0 ml-2>
+      ![](/images/bruce-blumberg-portrait.png) </figure>Bruce Blumberg is a
+      Board-Certified Specialist in criminal law with extensive experience in
+      defending clients against a wide range of criminal charges in Phoenix. As
+      a dedicated and skilled Phoenix criminal attorney, Bruce understands the
+      complexities of the legal system and can provide you with the best
+      possible defense. With his experience and knowledge, he can help you
+      navigate the legal system, understand the charges you're facing, and
+      protect your rights.
 
 
       A criminal conviction in Arizona can have a significant impact on your
