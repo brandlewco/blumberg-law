@@ -80,8 +80,9 @@ sections:
       guidance and support you need during this difficult time.
 
 
-      <figure style="float: right; margin-top: 0px !important;">
-      ![](/images/bruce-blumberg-portrait.png) </figure>Bruce Blumberg is a
+      <figure style="float: right; margin-top: 0px !important;"> ![Bruce
+      Blumberg of Blumberg & Associates
+      Phoenix](/images/bruce-blumberg-portrait.png) </figure>Bruce Blumberg is a
       Board-Certified Specialist in criminal law with extensive experience in
       defending clients against a wide range of criminal charges in Phoenix. As
       a dedicated and skilled Phoenix criminal attorney, Bruce understands the
