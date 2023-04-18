@@ -80,7 +80,7 @@ sections:
       guidance and support you need during this difficult time.
 
 
-      <figure class="float-right" style="margin: 0px 0px 1rem 1rem !important">
+      <figure class="float-right" style="margin: 0 0 1rem 1rem !important;">
       ![](/images/bruce-blumberg-portrait.png) </figure>Bruce Blumberg is a
       Board-Certified Specialist in criminal law with extensive experience in
       defending clients against a wide range of criminal charges in Phoenix. As
