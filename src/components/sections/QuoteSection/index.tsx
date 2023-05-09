@@ -64,6 +64,8 @@ export default function QuoteSection(props) {
                         src={props.backgroundImage.url}
                         alt="backgroud image"
                         quality={65}
+                        placeholder='blur'
+                        blurDataURL={'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkUE6rBwABvgEKne8iCAAAAABJRU5ErkJggg=='}
                         />
                     </Background>
                 }

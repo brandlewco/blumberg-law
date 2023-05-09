@@ -26,6 +26,8 @@ export default function ImageBlock(props) {
             data-sb-field-path={annotations.join(' ').trim()}
             height={props.height}
             width={props.width}
+            placeholder='blur'
+            blurDataURL={'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkUE6rBwABvgEKne8iCAAAAABJRU5ErkJggg=='}
         />
     );
 }

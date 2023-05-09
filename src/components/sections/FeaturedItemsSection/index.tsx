@@ -58,6 +58,8 @@ export default function FeaturedItemsSection(props) {
                 alt="background image"
                 quality={65}
                 loading="lazy"
+                placeholder='blur'
+                blurDataURL={'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkUE6rBwABvgEKne8iCAAAAABJRU5ErkJggg=='}
                 />
             </Background>
         }

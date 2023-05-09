@@ -26,6 +26,8 @@ export default function BackgroundImage(props) {
                 alt={title || ''}
                 quality={65}
                 loading="lazy"
+                placeholder='blur'
+                blurDataURL={'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkUE6rBwABvgEKne8iCAAAAABJRU5ErkJggg=='}
             />
 
         </>

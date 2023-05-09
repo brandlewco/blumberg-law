@@ -26,6 +26,8 @@ export default function BackgroundImagePriority(props) {
                 alt={title || ''}
                 quality={65}
                 priority={true}
+                placeholder='blur'
+                blurDataURL={'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkUE6rBwABvgEKne8iCAAAAABJRU5ErkJggg=='}
             />
 
         </>

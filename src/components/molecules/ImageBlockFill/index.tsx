@@ -30,6 +30,8 @@ export default function ImageBlockFill(props) {
                 alt={altText || ''}
                 data-sb-field-path={annotations.join(' ').trim()}
                 quality={65}
+                placeholder='blur'
+                blurDataURL={'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkUE6rBwABvgEKne8iCAAAAABJRU5ErkJggg=='}
             />
         </div>
         </>
