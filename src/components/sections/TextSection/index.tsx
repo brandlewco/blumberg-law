@@ -45,20 +45,6 @@ export default function TextSection(props) {
                 borderWidth: sectionStyles.borderWidth ? `${sectionStyles.borderWidth}px` : null
             }}
         >
-            {/* {props.backgroundImage && <BackgroundImage {...props.backgroundImage} />} */}
-            {/* <Parallax
-            bgImage={props.backgroundImage ? props.backgroundImage.url : null}
-            strength={400}
-            renderLayer={percentage => (
-                <div
-                    style={{
-                        position: 'absolute',
-                        left: '50%',
-                        top: '50%',
-                    }}
-                />
-            )}
-            > */}
             <Parallax strength={300}>
                 {props.backgroundImage && 
                     <Background className="custom-bg">
