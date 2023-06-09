@@ -384,7 +384,7 @@ sections:
       of your life.
 
     subtitle: ''
-    text: >
+    text: >+
       <div class="flex flex-col lg:flex-row justify-between items-start gap-12
       text-base text-left font-sans">
 
@@ -399,8 +399,9 @@ sections:
       trials</strong> and innumerable bench (non-jury) trials. He has won a
       tremendous number of jury trials and <strong>obtained acquittals in more
       than 25 serious felonies.</strong> Bruce’s experience and success in
-      criminal defense are virtually unmatched in the state of
-      Arizona.</p></div>
+      criminal defense are virtually unmatched in the state of Arizona, making
+      Blumberg & Associates one of the top criminal defense firms in the
+      state.</p></div>
 
       <div><p>If you’ve been arrested on a felony or misdemeanor charge in
       Phoenix, Blumberg & Associates offers practical advice and effective
@@ -415,6 +416,7 @@ sections:
       level.</p></div>
 
       </div>
+
     styles:
       self:
         height: auto
