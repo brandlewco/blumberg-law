@@ -408,11 +408,12 @@ sections:
       representation to help you make the best of a bad situation. Your best
       chance at a favorable outcome in your criminal case is to be represented
       by an attorney with extensive experience representing people in
-      circumstances similar to yours. There are a lot of criminal defense
-      lawyers in practice, and not all of them will be suitable for your needs.
-      In more than 30 years of practice, Phoenix criminal defense attorney Bruce
-      Blumberg has successfully represented thousands of clients faced with all
-      types of criminal charges by prosecutors at the Arizona state or federal
+      circumstances similar to yours. Choose us guide you through the criminal
+      defense system. There are a lot of criminal defense lawyers in practice,
+      and not all of them will be suitable for your needs. In more than 30 years
+      of practice, Phoenix criminal defense attorney Bruce Blumberg has
+      successfully represented thousands of clients faced with all types of
+      criminal charges by prosecutors at the Arizona state or federal
       level.</p></div>
 
       </div>
