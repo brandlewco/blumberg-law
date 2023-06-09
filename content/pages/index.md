@@ -643,7 +643,7 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-    title: Cases of Interest
+    title: Criminal Cases of Interest
     subtitle: ''
     colors: colors-d
     posts:
