@@ -760,8 +760,8 @@ sections:
     backgroundSize: full
     title: Schedule Your Confidential Case Evaluation
     text: >
-      Talk with an Arizona criminal defense attorney with the experience and
-      fight needed to win your case.
+      Talk with a criminal defense attorney with the experience and fight needed
+      to win your case.
     actions:
       - type: Button
         label: |
