@@ -199,7 +199,7 @@ footer:
         justifyContent: flex-start
     title: Related News & Blogs
     subtitle: ''
-    colors: colors-a
+    colors: colors-d
     posts:
       - >-
         content/pages/blog/accused-of-possession-of-child-pornography-fighting-the-charges.md
