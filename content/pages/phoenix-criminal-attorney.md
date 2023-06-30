@@ -59,6 +59,14 @@ hero:
       Phoenix criminal defense attorney Bruce Blumberg handles criminal law &
       federal offenses like drug crime, sex crime, white-collar crime & violent
       crime.
+    media:
+      type: ImageBlock
+      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
+      height: ''
+      width: ''
 sections:
   - type: TextSection
     colors: colors-a
