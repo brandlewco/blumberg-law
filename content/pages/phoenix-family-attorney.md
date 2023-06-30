@@ -61,8 +61,8 @@ hero:
     media:
       type: ImageBlock
       url: /images/bruce-blumberg-criminal-defense-attorney-headshot.webp
-      altText: altText of the image
-      caption: Caption of the image
+      altText: Bruce Blumberg of Blumberg and Associates Criminal Defense Attorney.
+      caption: Bruce Blumberg of Blumberg and Associates Criminal Defense Attorney.
       elementId: ''
       height: '307'
       width: '293'
