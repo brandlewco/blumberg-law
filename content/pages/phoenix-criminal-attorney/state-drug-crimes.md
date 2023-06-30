@@ -59,6 +59,14 @@ hero:
     subtitle: >-
       If you are facing drug crimes in Arizona, contact Phoenix state drug
       crimes defense attorneys at Blumberg & Associates.
+    media:
+      type: ImageBlock
+      url: /images/bruce-blumberg-criminal-defense-attorney-headshot.webp
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
+      height: '307'
+      width: '293'
 sections:
   - type: TextSection
     colors: colors-a
@@ -195,7 +203,7 @@ footer:
           - mr-0
         padding:
           - pt-20
-          - pt-20
+          - pb-20
           - pl-4
           - pr-4
         justifyContent: center

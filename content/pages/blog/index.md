@@ -21,7 +21,15 @@ styles:
   title:
     textAlign: center
 bottomSections: []
-topSections:
+top    media:
+  type: ImageBlock
+  url: /images/bruce-blumberg-criminal-defense-attorney-headshot.webp
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
+  height: '307'
+  width: '293'
+sections:
   - type: TextSection
     elementId: ''
     colors: colors-b

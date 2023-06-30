@@ -46,7 +46,15 @@ postFeed:
   actions: []
   colors: colors-a
   variant: variant-b
-topSections:
+top    media:
+  type: ImageBlock
+  url: /images/bruce-blumberg-criminal-defense-attorney-headshot.webp
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
+  height: '307'
+  width: '293'
+sections:
   - type: TextSection
     elementId: ''
     colors: colors-b
@@ -72,7 +80,7 @@ topSections:
           - mr-0
         padding:
           - pt-20
-          - pt-20
+          - pb-20
           - pl-4
           - pr-4
         justifyContent: center

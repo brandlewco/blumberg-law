@@ -35,8 +35,8 @@ hero:
           - mt-0
           - mb-0
         padding:
-          - pt-8
-          - pb-8
+          - pt-0
+          - pb-0
           - pr-4
           - pl-4
         alignItems: center
@@ -60,6 +60,14 @@ hero:
     subtitle: >-
       Our Phoenix accounting and tax fraud defense attorneys frequently
       negotiate with state and federal authorities throughout Arizona.
+    media:
+      type: ImageBlock
+      url: /images/bruce-blumberg-criminal-defense-attorney-headshot.webp
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
+      height: '307'
+      width: '293'
 sections:
   - type: TextSection
     colors: colors-a
@@ -236,7 +244,7 @@ footer:
           - mr-0
         padding:
           - pt-20
-          - pt-20
+          - pb-20
           - pl-4
           - pr-4
         justifyContent: center
