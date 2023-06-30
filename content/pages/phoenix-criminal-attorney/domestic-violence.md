@@ -220,43 +220,6 @@ sidebar:
         justifyContent: flex-start
     elementId: sidebar
 footer:
-  - type: FeaturedPostsSection
-    elementId: ''
-    showDate: false
-    showAuthor: false
-    showExcerpt: false
-    showReadMoreLink: false
-    readMoreLinkLabel: Read More
-    variant: variant-b
-    actions: []
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    title: Related News & Blogs
-    subtitle: ''
-    colors: colors-d
-    posts:
-      - content/pages/blog/what-is-an-order-of-protection-in-arizona.md
-      - content/pages/blog/dangerous-crimes-have-serious-legal-consequences.md
-      - content/pages/blog/five-signs-a-divorce-might-be-imminent.md
   - type: FeaturedCasesSection
     elementId: ''
     showDate: true
@@ -308,6 +271,43 @@ footer:
         content/pages/cases/client-involved-in-a-love-triangle-client-accused-of-five-counts-of-aggravated-assault-dangerous-offenses.md
       - >-
         content/pages/cases/client-was-accused-of-attempted-second-degree-murder-after-having-shot-four-bullets-into-the-alleged-victim.md
+  - type: FeaturedPostsSection
+    elementId: ''
+    showDate: false
+    showAuthor: false
+    showExcerpt: false
+    showReadMoreLink: false
+    readMoreLinkLabel: Read More
+    variant: variant-b
+    actions: []
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    title: Related News & Blogs
+    subtitle: ''
+    colors: colors-d
+    posts:
+      - content/pages/blog/what-is-an-order-of-protection-in-arizona.md
+      - content/pages/blog/dangerous-crimes-have-serious-legal-consequences.md
+      - content/pages/blog/five-signs-a-divorce-might-be-imminent.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
