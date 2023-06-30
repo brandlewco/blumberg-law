@@ -300,7 +300,7 @@ footer:
         justifyContent: center
     title: Cases of Interest
     subtitle: ''
-    colors: colors-d
+    colors: colors-a
     posts:
       - >-
         content/pages/cases/client-charged-with-first-degree-murder-of-a-girlfriends-estranged-ex-husband.md
