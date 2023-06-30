@@ -255,8 +255,8 @@ footer:
     colors: colors-d
     posts:
       - content/pages/blog/what-is-an-order-of-protection-in-arizona.md
-      - content/pages/blog/five-signs-a-divorce-might-be-imminent.md
       - content/pages/blog/dangerous-crimes-have-serious-legal-consequences.md
+      - content/pages/blog/five-signs-a-divorce-might-be-imminent.md
   - type: FeaturedCasesSection
     elementId: ''
     showDate: true
