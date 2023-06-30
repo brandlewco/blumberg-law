@@ -256,7 +256,6 @@ footer:
         content/pages/blog/accused-of-possession-of-child-pornography-fighting-the-charges.md
       - >-
         content/pages/blog/bruce-blumberg-named-to-2018-southwest-super-lawyers-list.md
-      - content/pages/blog/criminal-defense-glossary.md
       - >-
         content/pages/blog/search-engines-are-watching-for-child-porn-and-child-abuse.md
   - type: CtaSection
