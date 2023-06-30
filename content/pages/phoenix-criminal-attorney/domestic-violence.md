@@ -254,7 +254,6 @@ footer:
     subtitle: ''
     colors: colors-d
     posts:
-      - content/pages/blog/things-to-look-for-in-a-family-law-attorney.md
       - content/pages/blog/criminal-defense-glossary.md
       - content/pages/blog/five-signs-a-divorce-might-be-imminent.md
       - content/pages/blog/what-is-an-order-of-protection-in-arizona.md
