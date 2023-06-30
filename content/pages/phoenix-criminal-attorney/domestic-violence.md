@@ -252,7 +252,7 @@ footer:
         justifyContent: flex-start
     title: Related News & Blogs
     subtitle: ''
-    colors: colors-d
+    colors: colors-a
     posts:
       - content/pages/blog/what-is-an-order-of-protection-in-arizona.md
       - content/pages/blog/dangerous-crimes-have-serious-legal-consequences.md
