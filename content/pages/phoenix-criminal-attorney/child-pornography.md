@@ -256,7 +256,6 @@ footer:
         content/pages/blog/accused-of-possession-of-child-pornography-fighting-the-charges.md
       - >-
         content/pages/blog/bruce-blumberg-named-to-2018-southwest-super-lawyers-list.md
-      - content/pages/blog/things-to-look-for-in-a-family-law-attorney.md
       - content/pages/blog/criminal-defense-glossary.md
   - type: CtaSection
     elementId: ''
