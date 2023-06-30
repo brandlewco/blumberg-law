@@ -167,46 +167,6 @@ sidebar:
         justifyContent: flex-start
     elementId: sidebar
 footer:
-  - type: FeaturedPostsSection
-    elementId: ''
-    showDate: false
-    showAuthor: false
-    showExcerpt: false
-    showReadMoreLink: false
-    readMoreLinkLabel: Read More
-    variant: variant-b
-    actions: []
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    title: Related News & Blogs
-    subtitle: ''
-    colors: colors-a
-    posts:
-      - >-
-        content/pages/blog/accused-of-possession-of-child-pornography-fighting-the-charges.md
-      - >-
-        content/pages/blog/search-engines-are-watching-for-child-porn-and-child-abuse.md
-      - >-
-        content/pages/blog/what-to-know-about-the-arizona-sex-offender-registry.md
   - type: FeaturedCasesSection
     elementId: ''
     showDate: true
@@ -258,6 +218,46 @@ footer:
       - content/pages/cases/charged-19-counts-sexual-conduct-with-minor.md
       - content/pages/cases/accused-multiple-accounts-sexual-misconduct.md
       - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
+  - type: FeaturedPostsSection
+    elementId: ''
+    showDate: false
+    showAuthor: false
+    showExcerpt: false
+    showReadMoreLink: false
+    readMoreLinkLabel: Read More
+    variant: variant-b
+    actions: []
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    title: Related News & Blogs
+    subtitle: ''
+    colors: colors-a
+    posts:
+      - >-
+        content/pages/blog/accused-of-possession-of-child-pornography-fighting-the-charges.md
+      - >-
+        content/pages/blog/search-engines-are-watching-for-child-porn-and-child-abuse.md
+      - >-
+        content/pages/blog/what-to-know-about-the-arizona-sex-offender-registry.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
