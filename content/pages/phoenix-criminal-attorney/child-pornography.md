@@ -258,6 +258,8 @@ footer:
         content/pages/blog/search-engines-are-watching-for-child-porn-and-child-abuse.md
       - >-
         content/pages/blog/bruce-blumberg-named-to-2018-southwest-super-lawyers-list.md
+      - >-
+        content/pages/blog/what-to-know-about-the-arizona-sex-offender-registry.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
