@@ -37,8 +37,8 @@ bottomSections:
           - ml-0
           - mr-0
         padding:
-          - pt-24
-          - pb-24
+          - pt-20
+          - pt-20
           - pl-4
           - pr-4
         justifyContent: center
@@ -66,6 +66,7 @@ media:
   caption: Caption of the image
   elementId: ''
 ---
+
 America’s war heroes are among the most venerated individuals in our society. But what happens if you try to impersonate them? In everyday language, this is sometimes referred to as “stolen valor.” It goes without saying that the general public looks down upon this behavior, but how is it viewed in the eyes of the law? Is impersonating a military officer illegal in Arizona? If so, what kinds of consequences might you face if charged with this crime?
 
 ## You Could Face Felony Fraud Charges
@@ -78,9 +79,9 @@ In addition, you need to consider the Stolen Valor Act of 2005. This law makes i
 
 ## Examples of Impersonating a Member of the Military
 
-*   In 2011, a man in Tucson was charged with seven felonies after impersonating a two-star general. He wore a uniform and managed to gain entry into Fort Huachuca Army post. Once inside, he went shopping at the fort’s commissary and purchased $62 worth of tax-free items.
+- In 2011, a man in Tucson was charged with seven felonies after impersonating a two-star general. He wore a uniform and managed to gain entry into Fort Huachuca Army post. Once inside, he went shopping at the fort’s commissary and purchased $62 worth of tax-free items.
 
-*   In 2009, a man faced 13 felony charges after impersonating a highly-decorated Marine with multiple ribbons and military honors. Authorities stated that he used this false identity to get discounts on airline tickets. He also claimed that he was about to deploy to Iraq, which allowed him to postpone a court hearing for a DUI charge!
+- In 2009, a man faced 13 felony charges after impersonating a highly-decorated Marine with multiple ribbons and military honors. Authorities stated that he used this false identity to get discounts on airline tickets. He also claimed that he was about to deploy to Iraq, which allowed him to postpone a court hearing for a DUI charge!
 
 ## Enlist the Help of a Qualified Attorney Today
 
@@ -88,6 +89,6 @@ Don’t face any criminal charges without the help of a skilled [Phoenix crimin
 
 Resource:
 
-[https://www.tucson.com/news/local/crime/tucson-man-faces-charges-of-impersonating-air-force-officer/article\_84d6ede2-9de0-11e0-816d-001cc4c03286.html](https://www.tucson.com/news/local/crime/tucson-man-faces-charges-of-impersonating-air-force-officer/article\_84d6ede2-9de0-11e0-816d-001cc4c03286.html)
+[https://www.tucson.com/news/local/crime/tucson-man-faces-charges-of-impersonating-air-force-officer/article_84d6ede2-9de0-11e0-816d-001cc4c03286.html](https://www.tucson.com/news/local/crime/tucson-man-faces-charges-of-impersonating-air-force-officer/article_84d6ede2-9de0-11e0-816d-001cc4c03286.html)
 
 [https://www.denverpost.com/2009/06/11/man-accused-of-impersonating-war-hero-in-ariz/](https://www.denverpost.com/2009/06/11/man-accused-of-impersonating-war-hero-in-ariz/)

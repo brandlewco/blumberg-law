@@ -71,8 +71,8 @@ topSections:
           - ml-0
           - mr-0
         padding:
-          - pt-24
-          - pb-24
+          - pt-20
+          - pt-20
           - pl-4
           - pr-4
         justifyContent: center
@@ -85,5 +85,5 @@ topSections:
 metaTitle: Real Client Testimonials | Blumberg & Associates
 metaDescription: >-
   Read our client testimonials and see why over 30 years of criminal law
-  experience makes a difference. 
+  experience makes a difference.
 ---
