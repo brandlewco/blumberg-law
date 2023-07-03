@@ -7,6 +7,7 @@ import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to
 import { getDataAttrs } from '../../../utils/get-data-attrs';
 import { Action, BackgroundImage } from '../../atoms';
 import BackgroundImagePriority from '../../atoms/BackgroundImagePriority';
+import ImageBlock from '../../molecules/ImageBlock';
 
 export default function HeroSection(props) {
     const cssId = props.elementId || null;
@@ -78,7 +79,8 @@ export default function HeroSection(props) {
                                 {heroBody(props)}
                                 {heroActions(props)}
                             </div>
-                            {props.media && <div className="hidden lg:w-1/4 w-full lg:flex flex-row justify-end self-end pt-12">{heroMedia(props.media)}</div>}
+                            {props.media && <div className="hidden lg:w-1/4 w-full lg:flex flex-row justify-end self-end pt-12"><ImageBlock {...props.media} /></div>
+                            }
                         </div>
                     </div>
                 </div>

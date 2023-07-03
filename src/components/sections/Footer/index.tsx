@@ -117,7 +117,7 @@ function footerVariantA(props) {
                         </ul>
                     )}
                     <Markdown
-                        options={{ forceInline: false, forceWrapper: true, wrapper: 'p' }}
+                        options={{ forceInline: false, }}
                         className="sb-markdown text-center flex flex-col items-start md:items-center"
                         data-sb-field-path=".copyrightText"
                     >
