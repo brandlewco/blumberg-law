@@ -67,8 +67,8 @@ hero:
       altText: Bruce Blumberg of Blumberg and Associates Criminal Defense Attorney.
       caption: Bruce Blumberg of Blumberg and Associates Criminal Defense Attorney.
       elementId: ''
-      height: '307'
-      width: '293'
+      height: 307
+      width: 293
 sections:
   - type: TextSection
     colors: colors-a

@@ -34,8 +34,8 @@ hero:
           - mt-0
           - mb-0
         padding:
-          - pt-8
-          - pb-8
+          - pt-0
+          - pb-0
           - pr-4
           - pl-4
         alignItems: center
@@ -59,6 +59,14 @@ hero:
     subtitle: >-
       If you are under investigation for or have been charged with mail or wire
       fraud in Arizona, contact our Phoenix mail & wire fraud attorneys.
+    media:
+      type: ImageBlock
+      url: /images/bruce-blumberg-criminal-defense-attorney-headshot.webp
+      altText: Bruce Blumberg of Blumberg and Associates Criminal Defense Attorney.
+      caption: Bruce Blumberg of Blumberg and Associates Criminal Defense Attorney.
+      elementId: ''
+      height: 307
+      width: 293
 sections:
   - type: TextSection
     colors: colors-a
