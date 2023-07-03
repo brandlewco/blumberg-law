@@ -74,5 +74,5 @@ metaTitle: Bruce Blumberg Arizona Law Insight Blog
 metaDescription: >-
   Read about recent Arizona court rulings, and learns ways to protects yourself
   from the law.
-title: Blog
+title: 'Blumberg & Associates '
 ---
