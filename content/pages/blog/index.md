@@ -70,7 +70,7 @@ sections:
       legal advice from one of Phoenix, Arizona's most experienced Criminal
       Defense Attorneys.
 addTitleSuffix: true
-metaTitle: Bruce Blumberg Arizona Law Insight Blog
+metaTitle: Blumberg & Associates Arizona Legal Insight Blog
 metaDescription: >-
   Read about recent Arizona court rulings, and learns ways to protects yourself
   from the law.
