@@ -20,12 +20,12 @@ export default function PostFeedLayout(props) {
         <BaseLayout page={page} site={site}>
             <main id="main" className="layout page-layout">
                 {title && (
-                    <div className={classNames('flex', 'py-12', 'lg:py-16', 'px-4', postFeedColors, mapStyles({ justifyContent: postFeedJustifyContent }))}>
+                    <div className={classNames('flex', 'py-12', 'lg:py-16', 'px-4', 'bg-gray-100', postFeedColors, mapStyles({ justifyContent: postFeedJustifyContent }))}>
                         <h1
-                            className={classNames('w-full', mapMaxWidthStyles(postFeedWidth), page?.styles?.title ? mapStyles(page?.styles?.title) : null)}
+                            className={classNames('max-w-3xl', mapMaxWidthStyles(postFeedWidth), page?.styles?.title ? mapStyles(page?.styles?.title) : null)}
                             data-sb-field-path="title"
                         >
-                            {title}
+                            {title} {pageIndex > 0 ? "Page " + (pageIndex + 1) + " of " + numOfPages : ''}
                         </h1>
                     </div>
                 )}
