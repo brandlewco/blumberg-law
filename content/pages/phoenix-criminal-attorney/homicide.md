@@ -260,6 +260,7 @@ footer:
       - content/pages/blog/criminal-defense-glossary.md
       - >-
         content/pages/blog/what-to-do-if-you-think-youre-being-investigated-for-a-crime-in-phoenix.md
+      - content/pages/blog/how-to-file-a-criminal-appeal-in-phoenix-arizona.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
