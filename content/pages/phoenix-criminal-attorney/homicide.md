@@ -257,7 +257,6 @@ footer:
     colors: colors-a
     posts:
       - null
-      - content/pages/blog/things-to-look-for-in-a-family-law-attorney.md
       - content/pages/blog/criminal-defense-glossary.md
       - >-
         content/pages/blog/what-to-do-if-you-think-youre-being-investigated-for-a-crime-in-phoenix.md
