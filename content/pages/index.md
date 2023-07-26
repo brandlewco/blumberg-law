@@ -649,6 +649,7 @@ sections:
     subtitle: ''
     colors: colors-d
     posts:
+      - content/pages/cases/client-accused-manslaughter-marine.md
       - >-
         content/pages/cases/client-accused-of-attempted-murder-in-the-second-degree-after-four-bullets-were-fired-into-the-alleged-victim-in-a-bar-parking-lot-both-involved-parties-were-intoxicated.md
       - >-
@@ -659,7 +660,6 @@ sections:
         content/pages/cases/client-traveling-northbound-on-i-17-stopped-in-yavapai-county-with-136-pounds-of-marijuana-packed-into-the-truck.md
       - >-
         content/pages/cases/minor-accused-of-aggravated-assault-dangerous-offense-by-holding-a-gun-on-officers-conducting-a-search-warrant-at-mothers-apartment.md
-      - content/pages/cases/client-accused-manslaughter-marine.md
   - type: FeaturedTestimonialsSection
     elementId: ''
     showDate: true
