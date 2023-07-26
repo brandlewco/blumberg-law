@@ -218,6 +218,8 @@ footer:
       - content/pages/cases/client-accused-manslaughter-marine.md
       - >-
         content/pages/cases/client-charged-with-first-degree-murder-of-girlfriends-ex-husband.md
+      - >-
+        content/pages/cases/client-charged-with-first-degree-murder-of-a-girlfriends-estranged-ex-husband.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
