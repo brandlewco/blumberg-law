@@ -302,6 +302,7 @@ sections:
             url: /phoenix-criminal-attorney/violent-crimes/
             style: secondary
             iconPosition: left
+            altText: Child Pornography Criminal Defense Attorney
         styles:
           self:
             textAlign: left
