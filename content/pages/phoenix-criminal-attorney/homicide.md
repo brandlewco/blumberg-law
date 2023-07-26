@@ -260,6 +260,8 @@ footer:
         content/pages/blog/bruce-blumberg-named-to-2018-southwest-super-lawyers-list.md
       - content/pages/blog/things-to-look-for-in-a-family-law-attorney.md
       - content/pages/blog/criminal-defense-glossary.md
+      - >-
+        content/pages/blog/what-to-do-if-you-think-youre-being-investigated-for-a-crime-in-phoenix.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
