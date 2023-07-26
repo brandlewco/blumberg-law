@@ -220,6 +220,8 @@ footer:
         content/pages/cases/client-charged-with-first-degree-murder-of-girlfriends-ex-husband.md
       - >-
         content/pages/cases/client-charged-with-first-degree-murder-of-a-girlfriends-estranged-ex-husband.md
+      - >-
+        content/pages/cases/client-charged-with-first-degree-murder-for-the-shooting-of-another-man-in-a-residential-home.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
