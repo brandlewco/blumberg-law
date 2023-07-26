@@ -215,9 +215,9 @@ footer:
     subtitle: ''
     colors: colors-d
     posts:
+      - content/pages/cases/client-accused-manslaughter-marine.md
       - >-
         content/pages/cases/client-charged-with-first-degree-murder-of-girlfriends-ex-husband.md
-      - content/pages/cases/client-accused-manslaughter-marine.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
