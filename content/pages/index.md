@@ -302,6 +302,7 @@ sections:
             url: /phoenix-criminal-attorney/violent-crimes/
             style: secondary
             iconPosition: left
+            altText: Violent Crimes Criminal Defense Attorney
         styles:
           self:
             textAlign: left
@@ -400,8 +401,7 @@ sections:
       tremendous number of jury trials and <strong>obtained acquittals in more
       than 25 serious felonies.</strong> Bruce’s experience and success in
       criminal defense are virtually unmatched in the state of Arizona, making
-      Blumberg & Associates one of the top criminal defense firms in the
-      state.</p></div>
+      Blumberg & Associates a top criminal defense firm.</p></div>
 
       <div><p>If you’ve been arrested on a felony or misdemeanor charge in
       Phoenix, Blumberg & Associates offers practical advice and effective
@@ -455,7 +455,7 @@ sections:
     colors: colors-b
     variant: variant-b
     title: |+
-      ## Contact An **Experienced** Phoenix Criminal Attorney Today
+      ## Consult a **Dedicated** Criminal Defense Attorney with **Experience**
 
     text: >
       At Blumberg & Associates, we apply our knowledge, skills, experience and
@@ -648,6 +648,7 @@ sections:
     subtitle: ''
     colors: colors-d
     posts:
+      - content/pages/cases/client-accused-manslaughter-marine.md
       - >-
         content/pages/cases/client-accused-of-attempted-murder-in-the-second-degree-after-four-bullets-were-fired-into-the-alleged-victim-in-a-bar-parking-lot-both-involved-parties-were-intoxicated.md
       - >-

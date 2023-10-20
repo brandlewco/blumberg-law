@@ -215,12 +215,52 @@ footer:
     subtitle: ''
     colors: colors-d
     posts:
-      - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
-      - content/pages/cases/accused-multiple-accounts-sexual-misconduct.md
-      - content/pages/cases/accused-or-child-abuse-by-causing-bruises.md
-      - content/pages/cases/charged-19-counts-sexual-conduct-with-minor.md
-      - content/pages/cases/accused-multiple-accounts-sexual-misconduct.md
-      - content/pages/cases/accused-child-abuse-by-breaking-childs-arm.md
+      - content/pages/cases/client-accused-manslaughter-marine.md
+      - >-
+        content/pages/cases/client-charged-with-first-degree-murder-of-girlfriends-ex-husband.md
+      - >-
+        content/pages/cases/client-charged-with-first-degree-murder-of-a-girlfriends-estranged-ex-husband.md
+      - >-
+        content/pages/cases/client-charged-with-first-degree-murder-for-the-shooting-of-another-man-in-a-residential-home.md
+  - type: FeaturedPostsSection
+    elementId: ''
+    showDate: false
+    showAuthor: false
+    showExcerpt: false
+    showReadMoreLink: false
+    readMoreLinkLabel: Read More
+    variant: variant-b
+    actions: []
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    title: Related News & Blogs
+    subtitle: ''
+    colors: colors-a
+    posts:
+      - null
+      - content/pages/blog/criminal-defense-glossary.md
+      - >-
+        content/pages/blog/what-to-do-if-you-think-youre-being-investigated-for-a-crime-in-phoenix.md
+      - content/pages/blog/how-to-file-a-criminal-appeal-in-phoenix-arizona.md
   - type: CtaSection
     elementId: ''
     colors: colors-b
