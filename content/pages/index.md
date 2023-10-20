@@ -455,7 +455,7 @@ sections:
     colors: colors-b
     variant: variant-b
     title: |+
-      ## Consult a **Dedicated** Criminal Defense Attorney with **Experience**.
+      ## Consult a **Dedicated** Criminal Defense Attorney with **Experience**
 
     text: >
       At Blumberg & Associates, we apply our knowledge, skills, experience and
