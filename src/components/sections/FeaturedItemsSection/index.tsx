@@ -85,7 +85,7 @@ export default function FeaturedItemsSection(props) {
                     {featuredItems.length > 0 && (
                         <div
                             className={classNames('grid', 'gap-6', 'lg:gap-8', mapColStyles(props?.columns || 3), {
-                                'mt-12 lg:mt-16': props.title || props.subtitle || (props.actions || []).length > 0
+                                'mt-6 lg:mt-6': props.title || props.subtitle || (props.actions || []).length > 0
                             })}
                             data-sb-field-path=".items"
                         >
