@@ -455,7 +455,7 @@ sections:
     colors: colors-b
     variant: variant-b
     title: |+
-      ## Contact An **Experienced** Phoenix Criminal Attorney Today
+      ## Contact an Experienced and Dedicated Criminal Defense Attorney.
 
     text: >
       At Blumberg & Associates, we apply our knowledge, skills, experience and
