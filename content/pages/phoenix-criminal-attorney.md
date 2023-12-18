@@ -14,7 +14,7 @@ hero:
     elementId: null
     colors: colors-b
     title: |+
-      # Criminal Defense Attorney Phoenix 
+      # Phoenix Criminal Attorney
 
     actions:
       - type: Button
