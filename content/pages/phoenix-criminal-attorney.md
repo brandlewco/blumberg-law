@@ -1,6 +1,6 @@
 ---
 layout: PageLayout
-metaTitle: Top Criminal Defense Attorney | Blumberg & Associates
+metaTitle: Top Phoenix Criminal Attorney | Blumberg & Associates
 metaDescription: >-
   Phoenix criminal defense attorney Bruce Blumberg handles criminal law &
   federal offenses like drug crime, sex crime, white-collar crime & violent
