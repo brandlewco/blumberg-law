@@ -806,7 +806,7 @@ metaTags:
   - type: MetaTag
     property: 'og:type'
     content: website
-metaTitle: Blumberg & Associates - Phoenix Criminal Defense Attorney
+metaTitle: ' Phoenix Criminal Defense Attorney'
 metaDescription: >-
   Defending Arizona clients for over 30 years in Criminal Defense & Family law
   cases. Bruce has extensive trial experience winning felony and misdemeanor
