@@ -12,9 +12,10 @@ hero:
 
       <h1>
 
-      <span>Phoenix Criminal Defense Attorney </span>
+      <span>Criminal Defense Attorney </span>
 
-      <span>with over <strong>30 years</strong> of experience.</span>
+      <span>with over <strong>30 years</strong> of experience in Phoenix,
+      Arizona.</span>
 
       </h1>
 
