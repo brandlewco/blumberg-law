@@ -9,10 +9,12 @@ hero:
       <span style="font-size:28px;color:rgba(241,192,47,1);">Bruce
       Blumberg</span>
 
-      <h1><strong style="color:rgba(241,192,47,1);">Top Rated</strong> Criminal
-      Defense Attorney.</h1>
 
-      <span style="font-size:2.2rem;">Over <strong
+      <h1 style="dispaly: inline-block";><strong
+      style="color:rgba(241,192,47,1);">Top Rated</strong> Criminal Defense
+      Attorney.</h1>
+
+      <span style="font-size:2.2rem;">With over <strong
       style="color:rgba(241,192,47,1);">30 years</strong> of experience in
       Arizona.</span>
 
