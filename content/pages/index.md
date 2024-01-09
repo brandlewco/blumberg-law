@@ -14,7 +14,7 @@ hero:
       style="color:rgba(241,192,47,1);">Top Rated</strong> Criminal Defense
       Attorney.</h1>
 
-      <span style="font-size:2.2rem;">With over <strong
+      <span style="font-size:2rem;">With over <strong
       style="color:rgba(241,192,47,1);">30 years</strong> of experience in
       Arizona.</span>
 
