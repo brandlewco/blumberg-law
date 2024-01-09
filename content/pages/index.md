@@ -21,7 +21,7 @@ hero:
     actions:
       - type: Button
         label: |
-          Get Your Confidential Case Evaluation
+          Get A Confidential Case Evaluation
         url: /contact-us/
         style: primary
         iconPosition: right
