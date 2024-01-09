@@ -20,7 +20,8 @@ hero:
       you deserve legal representation better than that of the prosecution.
     actions:
       - type: Button
-        label: Confidential Case Evaluation
+        label: |
+          Get Your Confidential Case Evaluation
         url: /contact-us/
         style: primary
         iconPosition: right
