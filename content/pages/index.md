@@ -10,14 +10,14 @@ hero:
       Blumberg</span>
 
 
-      <h1>
+      \<h1>
 
-      <span>Criminal Defense Attorney </span>
+      \<span>Top Rated Phoenix Criminal Defense Attorney\</span>
 
-      <span>with over <strong>30 years</strong> of experience in Phoenix,
-      Arizona.</span>
+      \</h1>
 
-      </h1>
+      \<span style="font-size: 2.25rem;">With over \<strong>30 years\</strong>
+      of experience.\</span>
 
     subtitle: >-
       If you have been charged with a criminal offense in the state of Arizona,
