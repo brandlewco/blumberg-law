@@ -2,7 +2,7 @@
     "name": "small-business-nextjs-theme",
     "version": "0.1.0",
     "engines": {
-        "node": "18.x",
+        "node": "16.x",
         "npm": "~9"
     },
     "scripts": {
@@ -31,8 +31,8 @@
         "next-sitemap": "^2.5.20",
         "nextjs-jotform-embed": "^1.0.6",
         "react": "17.0.2",
-        "react-device-detect": "^2.2.2",
         "react-dom": "17.0.2",
+        "react-device-detect": "^2.2.2",
         "react-gtm-module": "^2.0.11",
         "react-parallax": "^3.5.1",
         "sharp": "^0.32.0",
