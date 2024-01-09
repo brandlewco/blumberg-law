@@ -10,7 +10,7 @@ hero:
       Blumberg</span>
 
 
-      <h1 style="dispaly: inline-block";><strong
+      <h1 style="display: inline-block";><strong
       style="color:rgba(241,192,47,1);">Top Rated</strong> Criminal Defense
       Attorney.</h1>
 
