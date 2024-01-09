@@ -9,12 +9,12 @@ hero:
       <span style="font-size:28px;color:rgba(241,192,47,1);">Bruce
       Blumberg</span>
 
-
       <h1><strong style="color:rgba(241,192,47,1);">Top Rated</strong> Criminal
       Defense Attorney.</h1>
 
-      <span>Over <strong style="color:rgba(241,192,47,1);">30 years</strong> of
-      experience in Arizona.</span>
+      <span style="font-size:2.2rem;">Over <strong
+      style="color:rgba(241,192,47,1);">30 years</strong> of experience in
+      Arizona.</span>
 
     subtitle: >-
       If you have been charged with a criminal offense in the state of Arizona,
