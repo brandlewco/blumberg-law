@@ -7,10 +7,7 @@ hero:
     colors: colors-b
     title: >+
       <span style="font-size:28px;color:rgba(241,192,47,1);">Bruce
-      Blumberg</span>
-
-
-      <h1 style="display: inline-block";><strong
+      Blumberg</span><h1 style="display: inline-block";><strong
       style="color:rgba(241,192,47,1);">Top Rated</strong> Criminal Defense
       Attorney.</h1>
 
